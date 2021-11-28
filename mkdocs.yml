@@ -14,6 +14,13 @@ theme:
   font:
     text: 'Fira Sans'
     code: 'Fira Mono'
+  icon:
+    repo: fontawesome/brands/github-alt
+
+repo_url: https://github.com/zzzhxxx/227WiKi
+repo_name: zzzhxxx/227WiKi
+edit_uri: edit/master/docs/
+
 
 extra_css:
   - '_static/css/extra.css?v=13'
