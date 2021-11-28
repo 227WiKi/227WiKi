@@ -1,19 +1,26 @@
 site_name: 22/7 WiKi
 nav:
-  - Getting start: index.md
-  - 关于: intro/about.md
-  - 参与修订: intro/commit.md
+  - 简介:
+    - Getting start: index.md
+    - 关于: intro/about.md
+    - 参与修订: intro/commit.md
+  - 成员:
+    - 西條和: member/nagomi.md
 theme:
   name: material
   palette:
     primary: white
   language: zh
-  theme:
   logo: assets/logo.svg
   custom_dir: overrides
   font:
     text: 'Fira Sans'
     code: 'Fira Mono'
+  
+  features:
+    - navigation.tabs
+    - navigation.top
+    - navigation.instant
   icon:
     repo: fontawesome/brands/github-alt
 
@@ -21,6 +28,8 @@ repo_url: https://github.com/zzzhxxx/227WiKi
 repo_name: zzzhxxx/227WiKi
 edit_uri: edit/master/docs/
 
+plugins:
+  - search
 
 extra_css:
   - '_static/css/extra.css?v=13'
