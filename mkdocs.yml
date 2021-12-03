@@ -73,5 +73,6 @@ markdown_extensions:
   - pymdownx.tilde
   - fancyboxmd:
       preview_width: 100%
+  - attr_list
 
 
