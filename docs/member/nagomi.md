@@ -1,6 +1,6 @@
 # 信息卡
 
-![Nagomi](https://pic.zzzhxxx.top/2021/12/01/8bc42440a27f0.png){ align=left loading=lazy}
+![Nagomi](https://pic.zzzhxxx.top/2021/12/01/8bc42440a27f0.png!compress){ align=left loading=lazy}
 
 姓名: 西條和
 
@@ -13,6 +13,7 @@
 出生：兵库县
 
 角色：泷川美羽
+
 
 # 时间线
 ## 2016
