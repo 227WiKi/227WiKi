@@ -1,19 +1,56 @@
 # 信息卡
 
-![Nagomi](https://pic.zzzhxxx.top/2021/12/01/8bc42440a27f0.png!compress){ align=left loading=lazy}
+=== "八单公式照"
 
-姓名: 西條和
+    ![Nagomi](https://pic.zzzhxxx.top/2021/12/01/8bc42440a27f0.png!compress){ align=left }
 
-生日：7月25日
+    姓名: 西條和
 
-血型：B
+    生日：7月25日
 
-身高：157cm
+    血型：B
 
-出生：兵库县
+    身高：157cm
 
-角色：泷川美羽
+    出生：兵库县
 
+    角色：泷川美羽
+
+=== "一专公式照"
+
+    ![Nagomi](https://pic.zzzhxxx.top/2021/12/04/7e6c2cbbbe2c0.png!compress){ align=left }
+    
+    姓名: 西條和
+
+    生日：7月25日
+
+    血型：B
+
+    身高：157cm
+
+    出生：兵库县
+
+    角色：泷川美羽
+
+=== "七单公式照"
+
+    ![Nagomi](https://pic.zzzhxxx.top/2021/12/04/f7a929bebb6e5.png!compress){ align=left }
+
+    姓名: 西條和
+
+    生日：7月25日
+
+    血型：B
+
+    身高：157cm
+
+    出生：兵库县
+
+    角色：泷川美羽
+
+
+
+--------
 
 # 时间线
 ## 2016
