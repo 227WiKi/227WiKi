@@ -4,51 +4,56 @@
 
     ![Nagomi](https://pic.zzzhxxx.top/2021/12/01/8bc42440a27f0.png!compress){ align=left }
 
-    姓名: 西條和
+    |   西條和   |                 |
+    | :--------: | :------:|
+    | 姓名    | 西條和  |
+    | 生日    |7月25日|
+    | 血型    |B|
+    |身高|157cm|
+    |出生|兵库县|
+    |角色|泷川美羽|
+    
+    <figure markdown>
+        ![Nagomi](/assets/nagomi-sig.svg){ width="100" }
+        <figcaption>签名</figcaption>
+    </figure>
 
-    生日：7月25日
-
-    血型：B
-
-    身高：157cm
-
-    出生：兵库县
-
-    角色：泷川美羽
 
 === "一专公式照"
 
     ![Nagomi](https://pic.zzzhxxx.top/2021/12/04/7e6c2cbbbe2c0.png!compress){ align=left }
     
-    姓名: 西條和
+    |   西條和   |                 |
+    | :--------: | :------:|
+    | 姓名    | 西條和  |
+    | 生日    |7月25日|
+    | 血型    |B|
+    |身高|157cm|
+    |出生|兵库县|
+    |角色|泷川美羽|
 
-    生日：7月25日
-
-    血型：B
-
-    身高：157cm
-
-    出生：兵库县
-
-    角色：泷川美羽
+    <figure markdown>
+        ![Nagomi](/assets/nagomi-sig.svg){ width="100" }
+        <figcaption>签名</figcaption>
+    </figure>
 
 === "七单公式照"
 
     ![Nagomi](https://pic.zzzhxxx.top/2021/12/04/f7a929bebb6e5.png!compress){ align=left }
 
-    姓名: 西條和
+       |   西條和   |                 |
+    | :--------: | :------:|
+    | 姓名    | 西條和  |
+    | 生日    |7月25日|
+    | 血型    |B|
+    |身高|157cm|
+    |出生|兵库县|
+    |角色|泷川美羽|
 
-    生日：7月25日
-
-    血型：B
-
-    身高：157cm
-
-    出生：兵库县
-
-    角色：泷川美羽
-
-
+    <figure markdown>
+        ![Nagomi](/assets/nagomi-sig.svg){ width="100" }
+        <figcaption>签名</figcaption>
+    </figure>
 
 --------
 

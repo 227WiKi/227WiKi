@@ -6,6 +6,17 @@ nav:
     - 参与修订: intro/commit.md
   - 成员:
     - 西條和: member/nagomi.md
+    - 天城莎莉: member/sally.md
+    - 凉花萌: member/moe.md
+    - 宫濑玲奈: member/reina.md
+    - 白泽加奈惠: member/kanae.md
+    - 河濑诗: member/uta.md
+    - 海乃琉璃: member/ruri.md
+    - 仓冈水巴: member/mizuha.md
+    - 武田爱奈: member/aina.md
+    - 高辻丽: member/urara.md
+    - 帆风千春(千春): member/chiharu.md
+    - 花川芽衣(浅仓唯): member/mei.md
 theme:
   name: material
   palette:
@@ -65,6 +76,9 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+      options:
+        custom_icons:
+          - overrides/.icons
   - pymdownx.highlight
   - pymdownx.inlinehilite
   - pymdownx.keys
