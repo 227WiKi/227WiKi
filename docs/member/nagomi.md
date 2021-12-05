@@ -14,7 +14,7 @@
     |角色|泷川美羽|
     
     <figure markdown>
-        ![Nagomi](/assets/nagomi-sig.svg){ width="100" }
+        ![Nagomi](/227WiKi/assets/nagomi-sig.svg){ width="100" }
         <figcaption>签名</figcaption>
     </figure>
 
@@ -33,7 +33,7 @@
     |角色|泷川美羽|
 
     <figure markdown>
-        ![Nagomi](/assets/nagomi-sig.svg){ width="100" }
+        ![Nagomi](/227WiKi/assets/nagomi-sig.svg){ width="100" }
         <figcaption>签名</figcaption>
     </figure>
 
@@ -51,7 +51,7 @@
     |角色|泷川美羽|
 
     <figure markdown>
-        ![Nagomi](/assets/nagomi-sig.svg){ width="100" }
+        ![Nagomi](/227WiKi/assets/nagomi-sig.svg){ width="100" }
         <figcaption>签名</figcaption>
     </figure>
 
