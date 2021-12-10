@@ -19,7 +19,7 @@
     </figure>
 
 
-=== "一专公式照"
+=== "一专"
 
     ![Nagomi](https://pic.zzzhxxx.top/2021/12/04/7e6c2cbbbe2c0.png!compress){ align=left }
     
@@ -37,9 +37,103 @@
         <figcaption>签名</figcaption>
     </figure>
 
-=== "七单公式照"
+=== "七单"
 
     ![Nagomi](https://pic.zzzhxxx.top/2021/12/04/f7a929bebb6e5.png!compress){ align=left }
+
+       |   西條和   |                 |
+    | :--------: | :------:|
+    | 姓名    | 西條和  |
+    | 生日    |7月25日|
+    | 血型    |B|
+    |身高|157cm|
+    |出生|兵库县|
+    |角色|泷川美羽|
+
+    <figure markdown>
+        ![Nagomi](/227WiKi/assets/nagomi-sig.svg){ width="100" }
+        <figcaption>签名</figcaption>
+    </figure>
+
+=== "六单"
+
+    ![Nagomi](https://pic.zzzhxxx.top/2021/12/10/22ce75e644b9f.png!compress){ align=left }
+
+       |   西條和   |                 |
+    | :--------: | :------:|
+    | 姓名    | 西條和  |
+    | 生日    |7月25日|
+    | 血型    |B|
+    |身高|157cm|
+    |出生|兵库县|
+    |角色|泷川美羽|
+
+    <figure markdown>
+        ![Nagomi](/227WiKi/assets/nagomi-sig.svg){ width="100" }
+        <figcaption>签名</figcaption>
+    </figure>
+
+
+=== "五单"
+
+    ![Nagomi](https://pic.zzzhxxx.top/2021/12/05/d0ac0c86d13d9.png!compress){ align=left }
+
+       |   西條和   |                 |
+    | :--------: | :------:|
+    | 姓名    | 西條和  |
+    | 生日    |7月25日|
+    | 血型    |B|
+    |身高|157cm|
+    |出生|兵库县|
+    |角色|泷川美羽|
+
+    <figure markdown>
+        ![Nagomi](/227WiKi/assets/nagomi-sig.svg){ width="100" }
+        <figcaption>签名</figcaption>
+    </figure>
+
+
+=== "四单"
+
+    ![Nagomi](https://pic.zzzhxxx.top/2021/12/08/30453f5e74adc.png!compress){ align=left }
+
+       |   西條和   |                 |
+    | :--------: | :------:|
+    | 姓名    | 西條和  |
+    | 生日    |7月25日|
+    | 血型    |B|
+    |身高|157cm|
+    |出生|兵库县|
+    |角色|泷川美羽|
+
+    <figure markdown>
+        ![Nagomi](/227WiKi/assets/nagomi-sig.svg){ width="100" }
+        <figcaption>签名</figcaption>
+    </figure>
+
+
+=== "三单"
+
+    ![Nagomi](https://pic.zzzhxxx.top/2021/12/08/77bc2ec3af6b7.png!compress){ align=left }
+
+       |   西條和   |                 |
+    | :--------: | :------:|
+    | 姓名    | 西條和  |
+    | 生日    |7月25日|
+    | 血型    |B|
+    |身高|157cm|
+    |出生|兵库县|
+    |角色|泷川美羽|
+
+    <figure markdown>
+        ![Nagomi](/227WiKi/assets/nagomi-sig.svg){ width="100" }
+        <figcaption>签名</figcaption>
+    </figure>
+
+
+=== "二单"
+
+    ![Nagomi](https://pic.zzzhxxx.top/2021/12/08/d9534e58a171d.png!compress){ align=left }
 
        |   西條和   |                 |
     | :--------: | :------:|
