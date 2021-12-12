@@ -17,6 +17,11 @@ nav:
     - 高辻丽: member/urara.md
     - 帆风千春(千春): member/chiharu.md
     - 花川芽衣(浅仓唯): member/mei.md
+  - Live:
+    - Anniversary Live 2020: live/Anniv20.md
+    - "11": live/11.md
+    - Mission Paradise: live/mp.md
+
 theme:
   name: material
   palette:
@@ -48,6 +53,7 @@ extra_css:
 extra_javascript:
   - https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js
   - https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js
+  - https://cdn.jsdelivr.net/npm/dplayer@1.26.0/dist/DPlayer.min.js
 extra:
   social:
     - icon: fontawesome/brands/twitter
