@@ -59,7 +59,7 @@
         ![Nagomi](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.0/assets/nagomi-sig.svg){ width="100" }
         <figcaption>签名</figcaption>
     </figure>
-    [:fontawesome-brands-twitter: Twitter](#){ .md-button .md-button--primary } [Blog](#){ .md-button .md-button--primary }
+    [:fontawesome-brands-twitter: Twitter](https://twitter.com/nagomi_saijo){ .md-button .md-button--primary } [Blog](#){ .md-button .md-button--primary }
 # 时间线
 ## 2016
 
