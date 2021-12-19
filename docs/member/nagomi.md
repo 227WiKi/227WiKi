@@ -1,191 +1,65 @@
 # 信息卡
+!!! nagomi-sig inline end "西條和"
 
-=== "八单公式照"
+    === "八单"
 
-    ![Nagomi](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.0/assets/photo/nagomi/8th.jpg){ align=left width="300"}
+        ![Nagomi](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.0/assets/photo/nagomi/8th.jpg){ width="300"}
+    === "一专"
 
-    |   西條和   |                 |
-    | :--------: | :------:|
-    | 姓名    | 西條和  |
-    | 生日    |7月25日|
-    | 血型    |B|
-    |身高|157cm|
-    |出生|兵库县|
-    |角色|泷川美羽|
-    
-    <figure markdown>
-        ![Nagomi](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.0/assets/nagomi-sig.svg){ width="100" }
-        <figcaption>签名</figcaption>
-    </figure>
+        ![Nagomi](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.0/assets/photo/nagomi/1st-album.jpg){  width="300"}
+    === "七单"
 
+        ![Nagomi](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.0/assets/photo/nagomi/7th.jpg){   width="300"}
+    === "六单"
 
-=== "一专"
+        ![Nagomi](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.0/assets/photo/nagomi/6th.jpg){   width="300"}
+    === "五单"
 
-    ![Nagomi](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.0/assets/photo/nagomi/1st-album.jpg){ align=left width="300"}
-    
-    |   西條和   |                 |
-    | :--------: | :------:|
-    | 姓名    | 西條和  |
-    | 生日    |7月25日|
-    | 血型    |B|
-    |身高|157cm|
-    |出生|兵库县|
-    |角色|泷川美羽|
+        ![Nagomi](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.0/assets/photo/nagomi/5th.jpg){   width="300"}
+    === "四单"
 
-    <figure markdown>
-        ![Nagomi](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.0/assets/nagomi-sig.svg){ width="100" }
-        <figcaption>签名</figcaption>
-    </figure>
+        ![Nagomi](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.0/assets/photo/nagomi/4th.jpg){   width="300"}
+    === "三单"
 
-=== "七单"
+        ![Nagomi](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.0/assets/photo/nagomi/3rd.jpg){   width="300"}
+    === "二单"
 
-    ![Nagomi](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.0/assets/photo/nagomi/7th.jpg){ align=left width="300"}
+        ![Nagomi](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.0/assets/photo/nagomi/2nd.jpg){   width="300"}
+    === "一单"
 
-       |   西條和   |                 |
-    | :--------: | :------:|
-    | 姓名    | 西條和  |
-    | 生日    |7月25日|
-    | 血型    |B|
-    |身高|157cm|
-    |出生|兵库县|
-    |角色|泷川美羽|
+        ![Nagomi](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.0/assets/photo/nagomi/nagomi-1st.jpg){   width="300"}
+    === "初次亮相"
 
-    <figure markdown>
-        ![Nagomi](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.0/assets/nagomi-sig.svg){ width="100" }
-        <figcaption>签名</figcaption>
-    </figure>
+        ![Nagomi](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.0/assets/photo/nagomi/WhiteDress.jpg){   width="300"}
+    --------
 
-=== "六单"
+    <b>姓名</b>   西條和 
 
-    ![Nagomi](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.0/assets/photo/nagomi/6th.jpg){ align=left width="300"}
+    --------
 
-       |   西條和   |                 |
-    | :--------: | :------:|
-    | 姓名    | 西條和  |
-    | 生日    |7月25日|
-    | 血型    |B|
-    |身高|157cm|
-    |出生|兵库县|
-    |角色|泷川美羽|
+    <b>生日</b>    7月25日
+
+    --------
+
+    <b>血型</b>    B
+
+    --------
+
+    <b>身高</b>  157cm
+
+    --------
+
+    <b>出生</b> 兵库县
+
+    --------
+
+    <b>角色</b>  泷川美羽
 
     <figure markdown>
         ![Nagomi](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.0/assets/nagomi-sig.svg){ width="100" }
         <figcaption>签名</figcaption>
     </figure>
-
-
-=== "五单"
-
-    ![Nagomi](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.0/assets/photo/nagomi/5th.jpg){ align=left width="300"}
-
-       |   西條和   |                 |
-    | :--------: | :------:|
-    | 姓名    | 西條和  |
-    | 生日    |7月25日|
-    | 血型    |B|
-    |身高|157cm|
-    |出生|兵库县|
-    |角色|泷川美羽|
-
-    <figure markdown>
-        ![Nagomi](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.0/assets/nagomi-sig.svg){ width="100" }
-        <figcaption>签名</figcaption>
-    </figure>
-
-
-=== "四单"
-
-    ![Nagomi](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.0/assets/photo/nagomi/4th.jpg){ align=left width="300"}
-
-       |   西條和   |                 |
-    | :--------: | :------:|
-    | 姓名    | 西條和  |
-    | 生日    |7月25日|
-    | 血型    |B|
-    |身高|157cm|
-    |出生|兵库县|
-    |角色|泷川美羽|
-
-    <figure markdown>
-        ![Nagomi](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.0/assets/nagomi-sig.svg){ width="100" }
-        <figcaption>签名</figcaption>
-    </figure>
-
-
-=== "三单"
-
-    ![Nagomi](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.0/assets/photo/nagomi/3rd.jpg){ align=left width="300"}
-
-       |   西條和   |                 |
-    | :--------: | :------:|
-    | 姓名    | 西條和  |
-    | 生日    |7月25日|
-    | 血型    |B|
-    |身高|157cm|
-    |出生|兵库县|
-    |角色|泷川美羽|
-
-    <figure markdown>
-        ![Nagomi](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.0/assets/nagomi-sig.svg){ width="100" }
-        <figcaption>签名</figcaption>
-    </figure>
-
-
-=== "二单"
-
-    ![Nagomi](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.0/assets/photo/nagomi/2nd.jpg){ align=left width="300"}
-
-       |   西條和   |                 |
-    | :--------: | :------:|
-    | 姓名    | 西條和  |
-    | 生日    |7月25日|
-    | 血型    |B|
-    |身高|157cm|
-    |出生|兵库县|
-    |角色|泷川美羽|
-
-    <figure markdown>
-        ![Nagomi](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.0/assets/nagomi-sig.svg){ width="100" }
-        <figcaption>签名</figcaption>
-    </figure>
-
-=== "一单"
-
-    ![Nagomi](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.0/assets/photo/nagomi/nagomi-1st.jpg){ align=left width="300"}
-
-       |   西條和   |                 |
-    | :--------: | :------:|
-    | 姓名    | 西條和  |
-    | 生日    |7月25日|
-    | 血型    |B|
-    |身高|157cm|
-    |出生|兵库县|
-    |角色|泷川美羽|
-
-    <figure markdown>
-        ![Nagomi](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.0/assets/nagomi-sig.svg){ width="100" }
-        <figcaption>签名</figcaption>
-    </figure>
-
-=== "初次亮相"
-
-    ![Nagomi](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.0/assets/photo/nagomi/WhiteDress.jpg){ align=left width="300"}
-
-       |   西條和   |                 |
-    | :--------: | :------:|
-    | 姓名    | 西條和  |
-    | 生日    |7月25日|
-    | 血型    |B|
-    |身高|157cm|
-    |出生|兵库县|
-    |角色|泷川美羽|
-
-    <figure markdown>
-        ![Nagomi](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.0/assets/nagomi-sig.svg){ width="100" }
-        <figcaption>签名</figcaption>
-    </figure>
---------
-
+    [:fontawesome-brands-twitter: Twitter](#){ .md-button .md-button--primary } [Blog](#){ .md-button .md-button--primary }
 # 时间线
 ## 2016
 

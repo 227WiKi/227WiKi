@@ -49,6 +49,7 @@ plugins:
 
 extra_css:
   - '_static/css/extra.css?v=13'
+  - stylesheets/extra.css
   - https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css
 extra_javascript:
   - https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js
