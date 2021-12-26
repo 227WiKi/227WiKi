@@ -80,7 +80,10 @@
 - 除了日本之外想住在冰岛[^5]
 - 想学中文[^6]
 - 非常喜欢桃子，甚至曾说过死前的最后一餐一定要是桃子。据爱奈表示，萌也喜欢吃栗子[^7]
-
+- 在声优方面受到了深田恭子和Wake Up, Girls!的高木美佑的影响[^8]
+- 偶像是乃木坂46的高山一实，并参加过高山的握手会。此外也是NMB48前成员市川美织的粉丝。[^9]
+- 喜欢Licca-chan娃娃，甚至有一个代表她自己甚至神木御神的娃娃。[^10]甚至会为她们制作22/7的衣服。[^11]
+- 有点害怕电影院[^9]
 
 [^1]: https://twitter.com/moepiyo_227/status/1393923302700113925
 [^2]: SHOWROOM 2017.12.02
@@ -89,3 +92,7 @@
 [^5]: https://www.bilibili.com/video/BV19k4y167GX
 [^6]: https://www.bilibili.com/video/BV1W5411W7H1
 [^7]: https://www.bilibili.com/video/BV1UJ411a7LJ?p=7
+[^8]: SHOWROOM 2018.03.09
+[^9]: SHOWROOM 2018.03.08
+[^10]: https://twitter.com/moepiyo_227/status/1179227320906899457
+[^11]: https://twitter.com/moepiyo_227/status/1070291611223912448
