@@ -37,6 +37,7 @@ theme:
     - navigation.tabs
     - navigation.top
     - navigation.instant
+    - toc.integrate
   icon:
     repo: fontawesome/brands/github-alt
 
@@ -74,6 +75,7 @@ markdown_extensions:
   - md_in_html
   - toc:
       permalink: true
+      
   - pymdownx.arithmatex:
       generic: true
   - pymdownx.betterem:

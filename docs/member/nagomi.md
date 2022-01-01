@@ -1,4 +1,3 @@
-# 信息卡
 !!! nagomi-sig inline end "西條和"
 
     === "八单"
@@ -27,7 +26,7 @@
         ![Nagomi](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.0/assets/photo/nagomi/2nd.jpg){   width="300"}
     === "一单"
 
-        ![Nagomi](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.0/assets/photo/nagomi/nagomi-1st.jpg){   width="300"}
+        ![Nagomi](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.0/assets/photo/nagomi/nagomi-1st.jpg){   width="189"}
     === "初次亮相"
 
         ![Nagomi](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.0/assets/photo/nagomi/WhiteDress.jpg){   width="300"}
