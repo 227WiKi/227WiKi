@@ -1,0 +1,12 @@
+s=input()
+mw=""
+for i in s:
+    m=ord(i)
+    b=""
+    for j in range(8):
+        r=(m+1)%2
+        print(r," ")
+        m=m//2
+        print(m," ")
+        b=str(r)+b
+        print(b," ")
