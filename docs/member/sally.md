@@ -2,34 +2,34 @@
 
     === "八单"
 
-        ![sally](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.1/assets/photo/sally/8th.jpg){ width="300"}
+        ![sally](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.1/docs/assets/photo/sally/8th.jpg){ width="300"}
     === "一专"
 
-        ![sally](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.1/assets/photo/sally/1st-album.jpg){  width="300"}
+        ![sally](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.1/docs/assets/photo/sally/1st-album.jpg){  width="300"}
     === "七单"
 
-        ![sally](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.1/assets/photo/sally/7th.jpg){   width="300"}
+        ![sally](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.1/docs/assets/photo/sally/7th.jpg){   width="300"}
     === "六单"
 
-        ![sally](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.1/assets/photo/sally/6th.jpg){   width="300"}
+        ![sally](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.1/docs/assets/photo/sally/6th.jpg){   width="300"}
     === "五单"
 
-        ![sally](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.1/assets/photo/sally/5th.jpg){   width="300"}
+        ![sally](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.1/docs/assets/photo/sally/5th.jpg){   width="300"}
     === "四单"
 
-        ![sally](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.1/assets/photo/sally/4th.jpg){   width="300"}
+        ![sally](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.1/docs/assets/photo/sally/4th.jpg){   width="300"}
     === "三单"
 
-        ![sally](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.1/assets/photo/sally/3rd.jpg){   width="300"}
+        ![sally](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.1/docs/assets/photo/sally/3rd.jpg){   width="300"}
     === "二单"
 
-        ![sally](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.1/assets/photo/sally/2nd.jpg){   width="300"}
+        ![sally](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.1/docs/assets/photo/sally/2nd.jpg){   width="300"}
     === "一单"
 
-        ![sally](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.1/assets/photo/sally/1st.jpg){   width="189"}
+        ![sally](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.1/docs/assets/photo/sally/1st.jpg){   width="189"}
     === "初次亮相"
 
-        ![sally](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.1/assets/photo/sally/WhiteDress.jpg){   width="300"}
+        ![sally](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.1/docs/assets/photo/sally/WhiteDress.jpg){   width="300"}
     --------
 
     <b>姓名</b>   天城莎莉
@@ -62,5 +62,23 @@
     [:fontawesome-brands-youtube: Youtube](https://www.youtube.com/channel/UCi4UjmN8HSi16sAhh_iEb6w){ .md-button .md-button--primary }
     [Blog]([#](http://blog.nanabunnonijyuuni.com/s/n227/diary/blog/list)){ .md-button .md-button--primary }
 
+# 时间线
+
+## 2016
+
+- 12月24日，从10,325名中通过了22/7的最终审核。报名号为11号。
+
+## 2017
+
+- 3月3日，在「私たちの名付け親になってください」 SHOWROOM，招募艺名。
+- 3月4日，在SHOWROOM中宣布了艺名天城莎莉。
+- 5月11日，确认为22/7的角色藤间樱配音，随后也公开了角色形象。
+- 9月20日，在22/7的首张单曲「僕は存在していなかった」中首次亮相。
+
+## 2020
+
+- 5月18日，开设自己的油管频道。
+
+     
 
 [^1]: https://twitter.com/sally_amaki/status/1303928957029330945
