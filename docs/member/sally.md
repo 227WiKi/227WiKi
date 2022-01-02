@@ -79,6 +79,12 @@
 
 - 5月18日，开设自己的油管频道。
 
-     
+# 相关
+
+- 在洛杉矶出生和长大。父母都是日本人，但在美国相识并结婚。[^2]有一个哥哥，在法国。[^3]
+- 精通英语、日语以及西班牙语。~~号称自己会法语，其实并不会[^4]~~
 
 [^1]: https://twitter.com/sally_amaki/status/1303928957029330945
+[^2]: https://entertainmentstation.jp/118434
+[^3]: https://www.bilibili.com/read/cv5434927
+[^4]: https://www.bilibili.com/video/BV12z411i7Sf
