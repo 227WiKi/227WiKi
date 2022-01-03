@@ -1,3 +1,6 @@
+---
+title: Live - Anniversary 2020
+---
 [若视频无法显示点我刷新]('/live/Anniv20/'){ .md-button .md-button--primary }
 <html>
 <head>

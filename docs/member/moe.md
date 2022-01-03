@@ -1,3 +1,7 @@
+---
+title: 成员 - 凉花萌
+---
+
 !!! moe-sig inline end "凉花萌"
     
     === "八单公式照"
@@ -56,7 +60,7 @@
         ![moe](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.0/assets/moe-sig.svg){ width="100" }
         <figcaption>签名</figcaption>
     </figure>
-    [:fontawesome-brands-twitter: Twitter](https://twitter.com/moepiyo_227){ .md-button .md-button--primary } [:fontawesome-brands-instagram: Instagram](https://www.instagram.com/moepiyo227/){ .md-button .md-button--primary } [Blog](#){ .md-button .md-button--primary }
+    [:fontawesome-brands-twitter: Twitter](https://twitter.com/moepiyo_227){ .md-button .md-button--primary } [:fontawesome-brands-instagram: Instagram](https://www.instagram.com/moepiyo227/){ .md-button .md-button--primary } [Blog](http://blog.nanabunnonijyuuni.com/s/n227/diary/blog/list?ima=1513&ct=09){ .md-button .md-button--primary }
 
 # 时间线
 ## 2016
