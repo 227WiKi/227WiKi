@@ -25,7 +25,7 @@ title: Live - Anniversary 2020
     });
     </script>
 
-    <script src="/_static/js/md5.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.2/docs/_static/js/md5.js"></script>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
     <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
     <div id="gitalk-container">
