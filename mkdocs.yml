@@ -35,6 +35,7 @@ theme:
   
   features:
     - navigation.tabs
+    - navigation.sections
     - navigation.top
     - navigation.instant
     - toc.integrate
@@ -52,10 +53,13 @@ extra_css:
   - '_static/css/extra.css?v=13'
   - stylesheets/extra.css
   - https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css
+  - https://unpkg.com/gitalk/dist/gitalk.css
 extra_javascript:
   - https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js
   - https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js
   - https://cdn.jsdelivr.net/npm/dplayer@1.26.0/dist/DPlayer.min.js
+  - https://unpkg.com/gitalk/dist/gitalk.min.js
+  - _static/js/md5.min.js
 extra:
   social:
     - icon: fontawesome/brands/twitter

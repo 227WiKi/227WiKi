@@ -2,6 +2,11 @@
 title: Live - Anniversary 2020
 ---
 [若视频无法显示点我刷新]('/live/Anniv20/'){ .md-button .md-button--primary }
+
+# 分流
+
+[:pack-ali: 阿里云盘](https://www.aliyundrive.com/s/ST53qeMmcpn){ .md-button .md-button--primary } 
+
 <html>
 <head>
     <meta name="referrer" content="never">
@@ -18,6 +23,24 @@ title: Live - Anniversary 2020
             url: 'https://link.zzzhxxx.top/?/227-live/%E6%98%BC%E5%85%AC%E6%BC%944200.mp4',
     },
     });
+    </script>
+
+    <script src="/_static/js/md5.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
+    <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
+    <div id="gitalk-container">
+    </div>
+    <script>
+        const gitalk = new Gitalk({
+        clientID: '7e9598e22806d98d5dee',
+        clientSecret: '37c92fedcac2fdef30afff4c089ca66509d12c58',
+        repo: '227WiKi',
+        owner: 'zzzhxxx',
+        admin: ['zzzhxxx'],
+        id: md5(location.pathname),      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+    })
+        gitalk.render('gitalk-container')
     </script>
 </body>
 </html>
