@@ -21,7 +21,14 @@ nav:
     - Anniversary Live 2020: live/Anniv20.md
     - "11": live/11.md
     - Mission Paradise: live/mp.md
-
+  - 歌曲:
+    - 单曲:
+        - 不曾存在的我: 
+          - 简介: songs/single/1st/index.md
+          - 歌曲:
+            - 不曾存在的我: songs/single/1st/song-1.md
+            - 地下铁抵抗主义: songs/single/1st/song-2.md
+            - 11人聚集的理由: songs/single/1st/song-3.md
 theme:
   name: material
   palette:
@@ -36,6 +43,7 @@ theme:
   features:
     - navigation.tabs
     - navigation.sections
+    - navigation.expand
     - navigation.top
     - navigation.instant
     - toc.integrate
