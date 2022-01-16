@@ -15,17 +15,26 @@ title: Live - Anniversary 2020
 <body>
     <div id="dplayer">
     </div>
+    <script src="https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.2/docs/_static/js/md5.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/dplayer@1.26.0/dist/DPlayer.min.js"></script>
     <script>
         const dp = new DPlayer({
         container: document.getElementById('dplayer'),
         video: {
             url: 'https://link.zzzhxxx.top/?/227-live/%E6%98%BC%E5%85%AC%E6%BC%944200.mp4',
-    },
+        },
+        danmaku: {
+            id: md5('https://link.zzzhxxx.top/?/227-live/%E6%98%BC%E5%85%AC%E6%BC%944200.mp4'),
+            api: "https://danmu.zzzhxxx.top/"
+        },
+        contextmenu: [
+        {
+            text: '227WiKi',
+            link: 'https://github.com/zzzhxxx/227WiKi',
+        },
+        ]
     });
     </script>
-
-    <script src="https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.2/docs/_static/js/md5.js"></script>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
     <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
     <div id="gitalk-container">
@@ -37,7 +46,7 @@ title: Live - Anniversary 2020
         repo: '227WiKi',
         owner: 'zzzhxxx',
         admin: ['zzzhxxx'],
-        id: md5(location.pathname),      // Ensure uniqueness and length less than 50
+        id: md5('anniversary2020-Live'),      // Ensure uniqueness and length less than 50
         distractionFreeMode: false  // Facebook-like distraction free mode
     })
         gitalk.render('gitalk-container')

@@ -115,7 +115,7 @@ title: 成员 - 西條和
         repo: '227WiKi',
         owner: 'zzzhxxx',
         admin: ['zzzhxxx'],
-        id: md5(location.pathname),      // Ensure uniqueness and length less than 50
+        id: md5('nagomi'),      // Ensure uniqueness and length less than 50
         distractionFreeMode: false  // Facebook-like distraction free mode
     })
         gitalk.render('gitalk-container')
