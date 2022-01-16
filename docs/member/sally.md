@@ -112,7 +112,8 @@ title: 成员 - 天城莎莉
         repo: '227WiKi',
         owner: 'zzzhxxx',
         admin: ['zzzhxxx'],
-        id: md5('sally'),      // Ensure uniqueness and length less than 50
+        id: md5('sally'), 
+        number: 15,     // Ensure uniqueness and length less than 50
         distractionFreeMode: false  // Facebook-like distraction free mode
     })
         gitalk.render('gitalk-container')

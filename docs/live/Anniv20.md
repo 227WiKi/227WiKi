@@ -47,6 +47,7 @@ title: Live - Anniversary 2020
         owner: 'zzzhxxx',
         admin: ['zzzhxxx'],
         id: md5('anniversary2020-Live'),      // Ensure uniqueness and length less than 50
+        number: 17,
         distractionFreeMode: false  // Facebook-like distraction free mode
     })
         gitalk.render('gitalk-container')

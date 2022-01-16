@@ -116,6 +116,7 @@ title: 成员 - 西條和
         owner: 'zzzhxxx',
         admin: ['zzzhxxx'],
         id: md5('nagomi'),      // Ensure uniqueness and length less than 50
+        number: 14
         distractionFreeMode: false  // Facebook-like distraction free mode
     })
         gitalk.render('gitalk-container')
