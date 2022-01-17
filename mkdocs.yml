@@ -33,6 +33,7 @@ theme:
   name: material
   palette:
     primary: white
+    accent: light blue
   language: zh
   logo: assets/logo.svg
   custom_dir: overrides
