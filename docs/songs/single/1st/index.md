@@ -1,7 +1,7 @@
 ---
 title: 单曲 -  不曾存在的我
 ---
-# :pack-hires: 不曾存在的我
+# :pack-hires: 不曾存在的我 [^1]
 
 !!! note inline end "歌曲信息"
 
@@ -64,12 +64,18 @@ title: 单曲 -  不曾存在的我
     <div id="dplayer1">
     </div>
 
-    [:pack-bili: 前往bilibili观看](https://www.bilibili.com/video/BV1vZ4y1g7uS){ .md-button .md-button--primary }
+    [:pack-bili: 前往bilibili观看](https://www.bilibili.com/video/BV1vZ4y1g7uS){ .md-button .md-button--primary }[:fontawesome-brands-youtube: 前往YouTube观看](https://www.youtube.com/watch?v=lKGDCoRjlCk){ .md-button .md-button--primary }
 === "Lyric Video"
     <div id="dplayer2">
     </div>
 
     [:pack-bili: 前往bilibili观看](https://www.bilibili.com/video/BV1Xx411i7Wb){ .md-button .md-button--primary }
+
+# :pack-hires: 下载 [^1]
+
+[网盘下载](https://pan.zzzhxxx.top/s/Dks8?path=%2F){ .md-button .md-button--primary }
+
+[^1]: 带有 :pack-hires: 则说明该曲目/单曲提供Hi-Res无损格式下载
 <!-- gitalk -->
 
 <html>

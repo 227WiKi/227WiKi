@@ -63,7 +63,7 @@ title: 成员 - 天城莎莉
         <figcaption>签名</figcaption>
     </figure>
     [:fontawesome-brands-twitter: Twitter](https://twitter.com/sally_amaki){ .md-button .md-button--primary }  [:fontawesome-brands-instagram: Instagram](https://www.instagram.com/sallyamaki/){ .md-button .md-button--primary } 
-    [:fontawesome-brands-youtube: Youtube](https://www.youtube.com/channel/UCi4UjmN8HSi16sAhh_iEb6w){ .md-button .md-button--primary }
+    [:fontawesome-brands-youtube: YouTube](https://www.youtube.com/channel/UCi4UjmN8HSi16sAhh_iEb6w){ .md-button .md-button--primary }
     [Blog](http://blog.nanabunnonijyuuni.com/s/n227/diary/blog/list?ima=1453&ct=01){ .md-button .md-button--primary }
 
 # 时间线
