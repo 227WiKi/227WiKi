@@ -14,4 +14,5 @@ jobs:
       - run: pip install \
           mkdocs-material \
           fancyboxmd \
+          mkdocs-blogging-plugin \
       - run: mkdocs gh-deploy --force
