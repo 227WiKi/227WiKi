@@ -46,7 +46,6 @@ theme:
     - navigation.sections
     - navigation.expand
     - navigation.top
-    - navigation.instant
     - toc.integrate
   icon:
     repo: fontawesome/brands/github-alt
@@ -57,7 +56,11 @@ edit_uri: edit/master/docs/
 
 plugins:
   - search
-
+  - blogging:
+      theme:
+        name: card
+      dirs: # The directories to be included
+        - blog
 extra_css:
   - '_static/css/extra.css?v=13'
   - stylesheets/extra.css

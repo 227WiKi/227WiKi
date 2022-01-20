@@ -1,0 +1,7 @@
+---
+tags:
+  - mkdocs
+  - blogging
+---
+
+test
