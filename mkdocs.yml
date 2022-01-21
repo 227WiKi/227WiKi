@@ -59,6 +59,12 @@ plugins:
   - blogging:
       theme:
         name: card
+        options: # Optional
+          # `true` if display the button as plain text
+          # `false` or not present if display as rectangle button
+          - plain_button: true
+          # Replacement for 'Continue Reading'
+          - label: Read
       dirs: # The directories to be included
         - blog
 extra_css:
