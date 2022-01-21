@@ -1,4 +1,5 @@
 site_name: 22/7 WiKi
+site_url: https://zzzhxxx.github.io/227WiKi/
 nav:
   - 简介:
     - Getting start: index.md
