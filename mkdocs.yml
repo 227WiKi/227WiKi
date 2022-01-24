@@ -68,6 +68,7 @@ plugins:
           - label: Read
       dirs: # The directories to be included
         - blog
+      template: overrides/custom-blog.html
 extra_css:
   - '_static/css/extra.css?v=13'
   - stylesheets/extra.css
