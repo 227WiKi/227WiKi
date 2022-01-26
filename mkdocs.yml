@@ -30,6 +30,9 @@ nav:
             - 不曾存在的我: songs/single/1st/song-1.md
             - 地下铁抵抗主义: songs/single/1st/song-2.md
             - 11人聚集的理由: songs/single/1st/song-3.md
+  - 博客:
+    - 列表: blog-content.md
+    - 索引: tags.md
 theme:
   name: material
   palette:
@@ -39,8 +42,8 @@ theme:
   logo: assets/logo.svg
   custom_dir: overrides
   font:
-    text: 'Fira Sans'
-    code: 'Fira Mono'
+    text: Fira Sans
+    code: Fira Mono
   
   features:
     - navigation.tabs
@@ -68,6 +71,13 @@ plugins:
           - label: Read
       dirs: # The directories to be included
         - blog
+      features:
+        tags: 
+          index_page: tags.md
+          insert: bottom
+      sort:
+        from: old       
+        by: revision
       template: overrides/custom-blog.html
 extra_css:
   - '_static/css/extra.css?v=13'
