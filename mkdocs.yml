@@ -13,23 +13,48 @@ nav:
     - 白泽加奈惠: member/kanae.md
     - 河濑诗: member/uta.md
     - 海乃琉璃: member/ruri.md
-    - 仓冈水巴: member/mizuha.md
+    - 仓冈水巴(仓丸莉子): member/mizuha.md
     - 武田爱奈: member/aina.md
     - 高辻丽: member/urara.md
     - 帆风千春(千春): member/chiharu.md
     - 花川芽衣(浅仓唯): member/mei.md
   - Live:
+    - 索引: live/index.md
     - Anniversary Live 2020: live/Anniv20.md
     - "11": live/11.md
     - Mission Paradise: live/mp.md
   - 歌曲:
+    - 索引: songs/index.md
     - 单曲:
+        
         - 不曾存在的我: 
           - 简介: songs/single/1st/index.md
           - 歌曲:
             - 不曾存在的我: songs/single/1st/song-1.md
             - 地下铁抵抗主义: songs/single/1st/song-2.md
             - 11人聚集的理由: songs/single/1st/song-3.md
+  - 动画:
+    - 简介: anime/index.md
+  
+  - 计算中:
+    - 简介: keisanchu/index.md
+
+  - 检算中:
+    - 简介: kensanchu/index.md
+  
+  - 除不尽广播:
+    - 简介: radio/index.md
+
+  - 个人节目/直播:
+    - 索引: personal-bangumi/index.md
+
+  - 生放送/节目:
+    - 索引: bangumi/index.md
+
+  - 游戏: 
+    - 简介: game/index.md
+    - 卡面: game/card.md
+
   - 博客:
     - 列表: blog-content.md
     - 索引: tags.md
