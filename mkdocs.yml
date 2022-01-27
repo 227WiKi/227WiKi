@@ -1,8 +1,8 @@
 site_name: 22/7 WiKi
 site_url: https://zzzhxxx.github.io/227WiKi/
 nav:
+  - 首页: index.md
   - 简介:
-    - Getting start: index.md
     - 关于: intro/about.md
     - 参与修订: intro/commit.md
   - 成员:
