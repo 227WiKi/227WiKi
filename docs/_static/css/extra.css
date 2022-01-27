@@ -308,7 +308,7 @@ a {
 		position: relative;
 		display: block;
 		border-radius: 10px;
-		background: url('../../home/line_blue.png') ;
+		background: url('https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@master/docs/assets/home/line_blue.png') ;
 		background-size: 9px 9px;
 	}
 
@@ -324,7 +324,7 @@ a {
 		outline: none;
 		border: 0;
 		-webkit-border-radius: 0;
-		background: url('../../assets/home/icon_arrow.svg') no-repeat;
+		background: url('https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@master/docs/assets/home/icon_arrow.svg') no-repeat;
 		background-size: 15px auto;
 		text-indent: -9999px;
 		cursor: pointer;
@@ -343,7 +343,7 @@ a {
 		outline: none;
 		border: 0;
 		-webkit-border-radius: 0;
-		background: url('../../assets/home/icon_arrow.svg') no-repeat;
+		background: url('https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@master/docs/assets/home/icon_arrow.svg') no-repeat;
 		background-size: 15px auto;
 		text-indent: -9999px;
 		cursor: pointer;
@@ -627,12 +627,12 @@ a {
   position: relative;
   display: block;
   border-radius: 10px;
-  background: url('../../assets/home/homeline_blue.png') ;
+  background: url('https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@master/docs/assets/home/homeline_blue.png') ;
   background-size: 9px 9px;
 }
 .index_topics {
   padding: 80px 0;
-  background: url('../../assets/home/line_blue_alpha.png') ;
+  background: url('https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@master/docs/assets/home/line_blue_alpha.png') ;
   background-size: 9px 9px;
 }
 
@@ -731,7 +731,7 @@ a {
   z-index: 1;
   width: 20px;
   height: 100%;
-  background: url('../../assets/home/topics_frame.svg') no-repeat;
+  background: url('https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@master/docs/assets/home/topics_frame.svg') no-repeat;
   background-size: auto 100%;
   content: '';
 }
@@ -743,7 +743,7 @@ a {
   z-index: 1;
   width: 20px;
   height: 100%;
-  background: url('../../assets/home/topics_frame.svg') no-repeat;
+  background: url('https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@master/docs/assets/home/topics_frame.svg') no-repeat;
   background-size: auto 100%;
   content: '';
   transform: rotate(180deg);
