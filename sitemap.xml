@@ -16,6 +16,16 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://zzzhxxx.github.io/227WiKi/anime/</loc>
+         <lastmod>2022-01-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://zzzhxxx.github.io/227WiKi/bangumi/</loc>
+         <lastmod>2022-01-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://zzzhxxx.github.io/227WiKi/blog/kanae-2017-12-25/</loc>
          <lastmod>2022-01-27</lastmod>
          <changefreq>daily</changefreq>
@@ -4326,12 +4336,27 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://zzzhxxx.github.io/227WiKi/game/</loc>
+         <lastmod>2022-01-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://zzzhxxx.github.io/227WiKi/intro/about/</loc>
          <lastmod>2022-01-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://zzzhxxx.github.io/227WiKi/intro/commit/</loc>
+         <lastmod>2022-01-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://zzzhxxx.github.io/227WiKi/keisanchu/</loc>
+         <lastmod>2022-01-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://zzzhxxx.github.io/227WiKi/kensanchu/</loc>
          <lastmod>2022-01-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -4407,6 +4432,21 @@
     </url>
     <url>
          <loc>https://zzzhxxx.github.io/227WiKi/member/uta/</loc>
+         <lastmod>2022-01-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://zzzhxxx.github.io/227WiKi/personal-bangumi/</loc>
+         <lastmod>2022-01-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://zzzhxxx.github.io/227WiKi/radio/</loc>
+         <lastmod>2022-01-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://zzzhxxx.github.io/227WiKi/songs/</loc>
          <lastmod>2022-01-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
