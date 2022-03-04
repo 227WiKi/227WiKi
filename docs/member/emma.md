@@ -6,7 +6,7 @@ title: 成员 - 月城咲舞
 
     === "九单"
 
-        ![emma](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.0/assets/photo/emma/9th.jpg){ width="300"}
+        ![emma](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@master/docs/assets/photo/emma/9th.jpg){ width="300"}
 
     --------
 

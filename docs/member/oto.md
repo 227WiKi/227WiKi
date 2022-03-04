@@ -6,7 +6,7 @@ title: 成员 - 雨夜音
 
     === "九单"
 
-        ![oto](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.0/assets/photo/oto/9th.jpg){ width="300"}
+        ![oto](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@master/docs/assets/photo/oto/9th.jpg){ width="300"}
 
     --------
 

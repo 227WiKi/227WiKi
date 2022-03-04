@@ -6,7 +6,7 @@ title: 成员 - 相川奈央
 
     === "九单"
 
-        ![nao](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.0/assets/photo/nao/9th.jpg){ width="300"}
+        ![nao](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@master/docs/assets/photo/nao/9th.jpg){ width="300"}
 
     --------
 

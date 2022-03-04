@@ -6,7 +6,7 @@ title: 成员 - 清井美那
 
     === "九单"
 
-        ![mina](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.0/assets/photo/mina/9th.jpg){ width="300"}
+        ![mina](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@master/docs/assets/photo/mina/9th.jpg){ width="300"}
 
     --------
 

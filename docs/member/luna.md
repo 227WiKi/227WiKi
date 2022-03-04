@@ -6,7 +6,7 @@ title: 成员 - 四条月
 
     === "九单"
 
-        ![luna](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.0/assets/photo/luna/9th.jpg){ width="300"}
+        ![luna](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@master/docs/assets/photo/luna/9th.jpg){ width="300"}
 
     --------
 
