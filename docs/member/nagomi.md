@@ -6,7 +6,7 @@ template: comment.html
 !!! nagomi-sig inline end "西條和"
     === "九单"
 
-        ![Nagomi](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.0/assets/photo/nagomi/9th.jpg){ width="300"}
+        ![Nagomi](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@master/docs/assets/photo/nagomi/9th.jpg){ width="300"}
     === "八单"
 
         ![Nagomi](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.0/assets/photo/nagomi/8th.jpg){ width="300"}

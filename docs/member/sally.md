@@ -5,7 +5,7 @@ template: comment.html
 
 !!! sally-sig inline end "天城莎莉"
     === "九单"
-        ![sally](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.1/docs/assets/photo/sally/9th.jpg){ width="300"}
+        ![sally](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@master/docs/assets/photo/sally/9th.jpg){ width="300"}
     === "八单"
 
         ![sally](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.1/docs/assets/photo/sally/8th.jpg){ width="300"}

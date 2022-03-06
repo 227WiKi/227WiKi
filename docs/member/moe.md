@@ -7,7 +7,7 @@ template: comment.html
 !!! moe-sig inline end "凉花萌"
     === "九单"
 
-        ![moe](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.0/assets/photo/moe/9th.jpg){ align=left width="300"}
+        ![moe](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@master/docs/assets/photo/moe/9th.jpg){ align=left width="300"}
     === "八单"
 
         ![moe](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.0/assets/photo/moe/8th.jpg){ align=left width="300"}
