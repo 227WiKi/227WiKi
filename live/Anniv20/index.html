@@ -1546,6 +1546,7 @@
           <div class="md-content" data-md-component="content">
             <article class="md-content__inner md-typeset">
               
+  
                 
 <a href="https://github.com/zzzhxxx/227WiKi/edit/master/docs/live/Anniv20.md" title="编辑此页" class="md-content__button md-icon">
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83 3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25z"/></svg>
@@ -1584,27 +1585,57 @@
         ]
     });
     </script>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
-    <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
-    <div id="gitalk-container">
-    </div>
-    <script>
-        const gitalk = new Gitalk({
-        clientID: '7e9598e22806d98d5dee',
-        clientSecret: '37c92fedcac2fdef30afff4c089ca66509d12c58',
-        repo: '227WiKi',
-        owner: 'zzzhxxx',
-        admin: ['zzzhxxx'],
-        id: md5('anniversary2020-Live'),      // Ensure uniqueness and length less than 50
-        number: 17,
-        distractionFreeMode: false  // Facebook-like distraction free mode
-    })
-        gitalk.render('gitalk-container')
-    </script>
+
 </body>
 <p></html></p>
 
               
+
+  <!-- Giscus -->
+  <h2 id="__comments">评论</h2>
+  <!-- Replace with generated snippet -->
+  <script src="https://giscus.app/client.js"
+        data-repo="zzzhxxx/227WiKi"
+        data-repo-id="R_kgDOGcmDQw"
+        data-category="Page Comments"
+        data-category-id="DIC_kwDOGcmDQ84CAsWn"
+        data-mapping="pathname"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="light"
+        data-lang="zh-CN"
+        crossorigin="anonymous"
+        async>
+</script>
+  <!-- Reload on palette change -->
+  <script>
+    var palette = __md_get("__palette")
+    if (palette && typeof palette.color === "object")
+      if (palette.color.scheme === "slate") {
+        var giscus = document.querySelector("script[src*=giscus]")
+        giscus.setAttribute("data-theme", "dark") 
+      }
+
+    /* Register event handlers after documented loaded */
+    document.addEventListener("DOMContentLoaded", function() {
+      var ref = document.querySelector("[data-md-component=palette]")
+      ref.addEventListener("change", function() {
+        var palette = __md_get("__palette")
+        if (palette && typeof palette.color === "object") {
+          var theme = palette.color.scheme === "slate" ? "dark" : "light"
+
+          /* Instruct Giscus to change theme */
+          var frame = document.querySelector(".giscus-frame")
+          frame.contentWindow.postMessage(
+            { giscus: { setConfig: { theme } } },
+            "https://giscus.app"
+          )
+        }
+      })
+    })
+  </script>
+
             </article>
           </div>
         </div>
