@@ -1,9 +1,11 @@
 ---
 title: 成员 - 天城莎莉
+template: comment.html
 ---
 
 !!! sally-sig inline end "天城莎莉"
-
+    === "九单"
+        ![sally](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.1/docs/assets/photo/sally/9th.jpg){ width="300"}
     === "八单"
 
         ![sally](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.1/docs/assets/photo/sally/8th.jpg){ width="300"}
@@ -106,31 +108,3 @@ title: 成员 - 天城莎莉
 [^4]: https://www.bilibili.com/video/BV12z411i7Sf
 [^5]: SHOWROOM 2018.03.07
 [^6]: SHOWROOM 2018.03.05
-
-<!-- gitalk -->
-
-<html>
-<head>
-    <meta name="referrer" content="never">
-</head>
-<body>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
-    <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.2/docs/_static/js/md5.js"></script>
-    <div id="gitalk-container">
-    </div>
-    <script>
-        const gitalk = new Gitalk({
-        clientID: '7e9598e22806d98d5dee',
-        clientSecret: '37c92fedcac2fdef30afff4c089ca66509d12c58',
-        repo: '227WiKi',
-        owner: 'zzzhxxx',
-        admin: ['zzzhxxx'],
-        id: md5('sally'), 
-        number: 15,     // Ensure uniqueness and length less than 50
-        distractionFreeMode: false  // Facebook-like distraction free mode
-    })
-        gitalk.render('gitalk-container')
-    </script>
-</body>
-</html>

@@ -1,8 +1,9 @@
 ---
-title: 成员 - 相川奈央
+title: 成员 - 望月りの
+template: comment.html
 ---
 
-!!! note inline end "相川奈央"
+!!! note inline end "望月りの"
 
     === "九单"
 
@@ -39,6 +40,6 @@ title: 成员 - 相川奈央
 
 ## 2022
 
-- 2月27日在ナナニジROOM中初次亮相
+- 2月27日在ナナニジ House中初次亮相
 
 # 相关

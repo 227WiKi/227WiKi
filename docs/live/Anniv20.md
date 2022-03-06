@@ -1,5 +1,6 @@
 ---
 title: Live - Anniversary 2020
+template: comment.html
 ---
 [若视频无法显示点我刷新]('/live/Anniv20/'){ .md-button .md-button--primary }
 
@@ -35,22 +36,6 @@ title: Live - Anniversary 2020
         ]
     });
     </script>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
-    <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
-    <div id="gitalk-container">
-    </div>
-    <script>
-        const gitalk = new Gitalk({
-        clientID: '7e9598e22806d98d5dee',
-        clientSecret: '37c92fedcac2fdef30afff4c089ca66509d12c58',
-        repo: '227WiKi',
-        owner: 'zzzhxxx',
-        admin: ['zzzhxxx'],
-        id: md5('anniversary2020-Live'),      // Ensure uniqueness and length less than 50
-        number: 17,
-        distractionFreeMode: false  // Facebook-like distraction free mode
-    })
-        gitalk.render('gitalk-container')
-    </script>
+    
 </body>
 </html>

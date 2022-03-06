@@ -1,5 +1,6 @@
 ---
 title: 成员 - 麻丘真央
+template: comment.html
 ---
 
 !!! note inline end "麻丘真央"
@@ -45,7 +46,7 @@ title: 成员 - 麻丘真央
 
 ## 2022
 
-- 2月27日在ナナニジROOM中初次亮相
+- 2月27日在ナナニジ House中初次亮相
 
 # 相关
 

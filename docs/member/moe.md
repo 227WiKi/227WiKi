@@ -1,11 +1,14 @@
 ---
 title: 成员 - 凉花萌
+template: comment.html
 ---
   <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
   <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
 !!! moe-sig inline end "凉花萌"
-    
-    === "八单公式照"
+    === "九单"
+
+        ![moe](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.0/assets/photo/moe/9th.jpg){ align=left width="300"}
+    === "八单"
 
         ![moe](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.0/assets/photo/moe/8th.jpg){ align=left width="300"}
     === "一专"
@@ -100,31 +103,3 @@ title: 成员 - 凉花萌
 [^9]: SHOWROOM 2018.03.08
 [^10]: https://twitter.com/moepiyo_227/status/1179227320906899457
 [^11]: https://twitter.com/moepiyo_227/status/1070291611223912448
-
-<!-- gitalk -->
-
-<html>
-<head>
-    <meta name="referrer" content="never">
-</head>
-<body>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
-    <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.2/docs/_static/js/md5.js"></script>
-    <div id="gitalk-container">
-    </div>
-    <script>
-        const gitalk = new Gitalk({
-        clientID: '7e9598e22806d98d5dee',
-        clientSecret: '37c92fedcac2fdef30afff4c089ca66509d12c58',
-        repo: '227WiKi',
-        owner: 'zzzhxxx',
-        admin: ['zzzhxxx'],
-        id: md5('moe'),   
-        number: 16,   // Ensure uniqueness and length less than 50
-        distractionFreeMode: false  // Facebook-like distraction free mode
-    })
-        gitalk.render('gitalk-container')
-    </script>
-</body>
-</html>

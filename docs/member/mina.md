@@ -1,5 +1,6 @@
 ---
 title: 成员 - 清井美那
+template: comment.html
 ---
 
 !!! note inline end "清井美那"
@@ -39,6 +40,6 @@ title: 成员 - 清井美那
 
 ## 2022
 
-- 2月27日在ナナニジROOM中初次亮相
+- 2月27日在ナナニジ House中初次亮相
 
 # 相关
