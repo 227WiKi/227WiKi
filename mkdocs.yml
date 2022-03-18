@@ -75,6 +75,7 @@ theme:
     accent: light blue
   language: zh
   logo: assets/logo.svg
+  favicon: assets/favicon.png
   custom_dir: overrides
   font:
     text: Fira Sans
@@ -89,8 +90,8 @@ theme:
   icon:
     repo: fontawesome/brands/github-alt
 
-repo_url: https://github.com/zzzhxxx/227WiKi
-repo_name: zzzhxxx/227WiKi
+repo_url: https://github.com/227WiKi/227WiKi
+repo_name: 227WiKi/227WiKi
 edit_uri: edit/master/docs/
 
 plugins:
