@@ -7,7 +7,7 @@ template: comment.html
 
     === "九单"
 
-        ![oto](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@master/docs/assets/photo/oto/9th.jpg){ width="300"}
+        ![oto](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/photo/oto/9th.jpg){ width="300"}
 
     --------
 

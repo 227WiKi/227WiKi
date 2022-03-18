@@ -3,6 +3,7 @@
 
 {# A macro to render a blog entry, required. #}
 {% macro render_blog(title, description, time, url, page) -%}
+
 <a href="{{ url }}">
     <div class="blog-override-post">
         <h3 class="blog-post-title">{{ title }}</h3>
@@ -21,6 +22,7 @@
         <p class="blog-post-description">{{ description }}</p>
     </div>
 </a>
+
 {{ caller() }}
 {%- endmacro %}
 

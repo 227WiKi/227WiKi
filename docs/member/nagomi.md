@@ -6,37 +6,37 @@ template: comment.html
 !!! nagomi-sig inline end "西條和"
     === "九单"
 
-        ![Nagomi](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@master/docs/assets/photo/nagomi/9th.jpg){ width="300"}
+        ![Nagomi](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/photo/nagomi/9th.jpg){ width="300"}
     === "八单"
 
-        ![Nagomi](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.0/assets/photo/nagomi/8th.jpg){ width="300"}
+        ![Nagomi](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@1.0/assets/photo/nagomi/8th.jpg){ width="300"}
     === "一专"
 
-        ![Nagomi](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.0/assets/photo/nagomi/1st-album.jpg){  width="300"}
+        ![Nagomi](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@1.0/assets/photo/nagomi/1st-album.jpg){  width="300"}
     === "七单"
 
-        ![Nagomi](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.0/assets/photo/nagomi/7th.jpg){   width="300"}
+        ![Nagomi](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@1.0/assets/photo/nagomi/7th.jpg){   width="300"}
     === "六单"
 
-        ![Nagomi](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.0/assets/photo/nagomi/6th.jpg){   width="300"}
+        ![Nagomi](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@1.0/assets/photo/nagomi/6th.jpg){   width="300"}
     === "五单"
 
-        ![Nagomi](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.0/assets/photo/nagomi/5th.jpg){   width="300"}
+        ![Nagomi](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@1.0/assets/photo/nagomi/5th.jpg){   width="300"}
     === "四单"
 
-        ![Nagomi](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.0/assets/photo/nagomi/4th.jpg){   width="300"}
+        ![Nagomi](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@1.0/assets/photo/nagomi/4th.jpg){   width="300"}
     === "三单"
 
-        ![Nagomi](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.0/assets/photo/nagomi/3rd.jpg){   width="300"}
+        ![Nagomi](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@1.0/assets/photo/nagomi/3rd.jpg){   width="300"}
     === "二单"
 
-        ![Nagomi](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.0/assets/photo/nagomi/2nd.jpg){   width="300"}
+        ![Nagomi](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@1.0/assets/photo/nagomi/2nd.jpg){   width="300"}
     === "一单"
 
-        ![Nagomi](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.0/assets/photo/nagomi/nagomi-1st.jpg){   width="189"}
+        ![Nagomi](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@1.0/assets/photo/nagomi/nagomi-1st.jpg){   width="189"}
     === "初次亮相"
 
-        ![Nagomi](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.0/assets/photo/nagomi/WhiteDress.jpg){   width="300"}
+        ![Nagomi](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@1.0/assets/photo/nagomi/WhiteDress.jpg){   width="300"}
     --------
 
     <b>姓名</b>   西條和 
@@ -62,7 +62,7 @@ template: comment.html
     <b>角色</b>  泷川美羽
 
     <figure markdown>
-        ![Nagomi](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.0/assets/nagomi-sig.svg){ width="100" }
+        ![Nagomi](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@1.0/assets/nagomi-sig.svg){ width="100" }
         <figcaption>签名</figcaption>
     </figure>
     [:fontawesome-brands-twitter: Twitter](https://twitter.com/nagomi_saijo){ .md-button .md-button--primary } [Blog](http://blog.nanabunnonijyuuni.com/s/n227/diary/blog/list?ima=1526&ct=04){ .md-button .md-button--primary }
