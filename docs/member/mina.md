@@ -3,11 +3,11 @@ title: 成员 - 清井美那
 template: comment.html
 ---
 
-!!! note inline end "清井美那"
+!!! general inline end "清井美那"
 
     === "九单"
 
-        ![mina](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/photo/mina/9th.jpg){ width="300"}
+        ![mina](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/photo/mina/9th.jpg){ width="300" loading=lazy}
 
     --------
 

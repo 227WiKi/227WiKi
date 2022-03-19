@@ -3,11 +3,11 @@ title: 成员 - 椎名桜月
 template: comment.html
 ---
 
-!!! note inline end "椎名桜月"
+!!! general inline end "椎名桜月"
 
     === "九单"
 
-        ![nao](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/photo/satsuki/9th.jpg){ width="300"}
+        ![nao](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/photo/satsuki/9th.jpg){ width="300" loading=lazy }
 
     --------
 

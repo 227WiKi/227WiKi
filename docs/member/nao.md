@@ -3,11 +3,11 @@ title: 成员 - 相川奈央
 template: comment.html
 ---
 
-!!! note inline end "相川奈央"
+!!! general inline end "相川奈央"
 
     === "九单"
 
-        ![nao](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/photo/nao/9th.jpg){ width="300"}
+        ![nao](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/photo/nao/9th.jpg){ width="300" loading=lazy }
 
     --------
 

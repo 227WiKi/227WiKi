@@ -3,11 +3,11 @@ title: 成员 - 月城咲舞
 template: comment.html
 ---
 
-!!! note inline end "月城咲舞"
+!!! general inline end "月城咲舞"
 
     === "九单"
 
-        ![emma](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/photo/emma/9th.jpg){ width="300"}
+        ![emma](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/photo/emma/9th.jpg){ width="300" loading=lazy }
 
     --------
 

@@ -2,39 +2,38 @@
 title: 成员 - 凉花萌
 template: comment.html
 ---
-  <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
-  <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+
 !!! moe-sig inline end "凉花萌"
     === "九单"
 
-        ![moe](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/photo/moe/9th.jpg){ align=left width="300"}
+        ![moe](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/photo/moe/9th.jpg){ align=left width="300" loading=lazy}
     === "八单"
 
-        ![moe](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@1.0/assets/photo/moe/8th.jpg){ align=left width="300"}
+        ![moe](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@1.0/assets/photo/moe/8th.jpg){ align=left width="300" loading=lazy }
     === "一专"
 
-        ![moe](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@1.0/assets/photo/moe/1st-album.jpg){ align=left width="300"}
+        ![moe](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@1.0/assets/photo/moe/1st-album.jpg){ align=left width="300" loading=lazy}
     === "七单"
 
-        ![moe](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@1.0/assets/photo/moe/7th.jpg){ align=left width="300"}
+        ![moe](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@1.0/assets/photo/moe/7th.jpg){ align=left width="300" loading=lazy}
     === "六单"
 
-        ![moe](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@1.0/assets/photo/moe/6th.jpg){ align=left width="300"}
+        ![moe](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@1.0/assets/photo/moe/6th.jpg){ align=left width="300" loading=lazy}
     === "五单"
 
-        ![moe](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@1.0/assets/photo/moe/5th.jpg){ align=left width="300"}
+        ![moe](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@1.0/assets/photo/moe/5th.jpg){ align=left width="300" loading=lazy}
     === "四单"
 
-        ![moe](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@1.0/assets/photo/moe/4th.jpg){ align=left width="300"}
+        ![moe](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@1.0/assets/photo/moe/4th.jpg){ align=left width="300" loading=lazy}
     === "三单"
 
-        ![moe](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@1.0/assets/photo/moe/3rd.jpg){ align=left width="300"}
+        ![moe](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@1.0/assets/photo/moe/3rd.jpg){ align=left width="300" loading=lazy }
     === "二单"
 
-        ![moe](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@1.0/assets/photo/moe/2nd.jpg){ align=left width="300"}
+        ![moe](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@1.0/assets/photo/moe/2nd.jpg){ align=left width="300" loading=lazy }
     === "一单"
 
-        ![moe](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@1.0/assets/photo/moe/1st.jpg){ align=left width="300"}
+        ![moe](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@1.0/assets/photo/moe/1st.jpg){ align=left width="300" loading=lazy }
     --------
 
     <b>姓名</b>  凉花萌 

@@ -3,11 +3,11 @@ title: 成员 - 麻丘真央
 template: comment.html
 ---
 
-!!! note inline end "麻丘真央"
+!!! general inline end "麻丘真央"
 
     === "九单"
 
-        ![mao](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/photo/mao/9th.jpg){ width="300"}
+        ![mao](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/photo/mao/9th.jpg){ width="300" loading=lazy}
 
     --------
 

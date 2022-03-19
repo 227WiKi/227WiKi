@@ -3,11 +3,11 @@ title: 成员 - 四条月
 template: comment.html
 ---
 
-!!! note inline end "四条月"
+!!! general inline end "四条月"
 
     === "九单"
 
-        ![luna](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/photo/luna/9th.jpg){ width="300"}
+        ![luna](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/photo/luna/9th.jpg){ width="300" loading=lazy }
 
     --------
 

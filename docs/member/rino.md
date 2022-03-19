@@ -3,11 +3,11 @@ title: 成员 - 望月りの
 template: comment.html
 ---
 
-!!! note inline end "望月りの"
+!!! general inline end "望月りの"
 
     === "九单"
 
-        ![rino](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/photo/rino/9th.jpg){ width="300"}
+        ![rino](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/photo/rino/9th.jpg){ width="300" loading=lazy }
 
     --------
 
