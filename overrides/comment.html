@@ -47,4 +47,63 @@
       })
     })
   </script>
+  <ul class="metadata page-metadata" data-bi-name="page info" lang="zh-cn" dir="ltr">
+    <li class="contributors-holder">
+      <span class="contributors-text">本页面贡献者</span>
+      <ul class="contributors" data-bi-name="contributors">
+        {%- for user in committers -%}
+        <a href="{{ user.repos }}" title="{{ user.name }}" data-bi-name="contributorprofile"><img src="{{ user.avatar }}" style="width:35px; height:35px; border-radius:50%;margin-right: 0.5rem;" data-src="{{ user.avatar }}" alt="{{ user.name }}">{{ user.name }}</a>
+        {%- endfor -%}
+      </ul>
+    </li>
+  </ul>
+  <style>
+  .metadata{
+    list-style:none;
+    padding:0;
+    margin:0;
+    margin-bottom: 15px;
+    color: #999;
+    font-size:0.85em;
+    }
+    .metadata.page-metadata .contributors-text{
+        margin-right:5px
+    }
+    body[dir=rtl] .metadata.page-metadata .contributors-text{
+        margin-right:0;
+        margin-left:5px
+    }
+    .page-metadata .contributors{
+        display:inline-block;
+        list-style:none;
+        margin:0!important;
+        padding:0!important
+    }
+    .page-metadata .contributors li{
+        display:inline-block;
+        vertical-align:top;
+        margin:0;
+        padding:0
+    }
+    .md-typeset .blog-post-description {
+        margin-bottom: 0;
+    }
+    .contributors *{
+        display: inline-block;
+        vertical-align: middle;
+        margin-right: 0.5rem;
+    }
+    </style>
+      <script>    
+        $( '.contributors img[data-src]' ).each( function() {
+        src = $(this).attr("data-src");
+        $(this).attr('src',src);
+      });
+  </script>
+  <ul class="metadata page-metadata" data-bi-name="page info" lang="zh-cn" dir="ltr">
+    <li class="last-updated-holder displayDate loading">
+      <span class="last-updated-text">最后更新时间:</span>
+      <time role="presentation" datetime="2018-10-25T00:00:00.000Z" data-article-date-source="ms.date">{% if last_commit_date %}{{ last_commit_date }}{% endif %}</time>
+    </li>
+  </ul>
 {% endblock %}

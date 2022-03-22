@@ -18,4 +18,5 @@ jobs:
           mkdocs-material \
           fancyboxmd \
           mkdocs-blogging-plugin \
+          mkdocs-git-committers-plugin-2 \
       - run: mkdocs gh-deploy --force

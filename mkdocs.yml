@@ -96,6 +96,10 @@ edit_uri: edit/master/docs/
 
 plugins:
   - search
+  - git-committers:
+      repository: 227WiKi/227WiKi
+      branch: master
+      token: !!python/object/apply:os.getenv ["MKDOCS_GIT_COMMITTERS_APIKEY"]
   - blogging:
       theme:
         name: card
@@ -112,7 +116,7 @@ plugins:
           index_page: tags.md
           insert: bottom
       sort:
-        from: old       
+        from: new       
         by: revision
       template: overrides/custom-blog.html
 extra_css:
@@ -121,10 +125,9 @@ extra_css:
   - https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css
   - https://unpkg.com/gitalk/dist/gitalk.css
 extra_javascript:
-  - https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js
+  - https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js
   - https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js
   - https://cdn.jsdelivr.net/npm/dplayer@1.26.0/dist/DPlayer.min.js
-  - https://unpkg.com/gitalk/dist/gitalk.min.js
   - https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.2/docs/_static/js/md5.js
 extra:
   social:
