@@ -52,7 +52,7 @@
       <span class="contributors-text">本页面贡献者</span>
       <ul class="contributors" data-bi-name="contributors">
         {%- for user in committers -%}
-        <a href="{{ user.repos }}" title="{{ user.name }}" data-bi-name="contributorprofile"><img src="{{ user.avatar }}" style="width:35px; height:35px; border-radius:50%;margin-right: 0.5rem;" data-src="{{ user.avatar }}" alt="{{ user.name }}">{{ user.name }}</a>
+        <a href="https://github.com/{{ user.name }}" title="{{ user.name }}" data-bi-name="contributorprofile"><img src="{{ user.avatar }}" style="width:35px; height:35px; border-radius:50%;margin-right: 0.5rem;" data-src="{{ user.avatar }}" alt="{{ user.name }}">{{ user.name }}</a>
         {%- endfor -%}
       </ul>
     </li>

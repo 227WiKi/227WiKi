@@ -1,9 +1,10 @@
 ---
 title: 歌曲 -  不曾存在的我
+template: comment.html
 ---
 # :pack-hires: 不曾存在的我
 
-!!! note inline end "歌曲信息"
+!!! general inline end "歌曲信息"
 
     === "完全生产限定版Type-A"
         !![](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@master/docs/assets/photo/songs/single/1st-1.jpg)
@@ -55,7 +56,7 @@ title: 歌曲 -  不曾存在的我
 
 # 简介
 
-《不曾存在的我》是收录在22/7首张单曲《不曾存在的我》的同名主打曲，作曲由目黑凉子负责，作词由秋元康负责，于2017年9月20日正式发售，总时长4分15秒，首周取得了Oricon周榜第十名的位置，MV采用动作捕捉技术录制。
+《不曾存在的我》是收录在22/7首张单曲《不曾存在的我》的同名主打曲，作曲由目黑凉子负责，作词由秋元康负责，单曲于2017年9月20日正式发售，总时长4分15秒，首周取得了Oricon周榜第十名的位置，MV采用动作捕捉技术录制。
 
 # MV
 
@@ -196,20 +197,6 @@ title: 歌曲 -  不曾存在的我
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
     <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
     <script src="https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.2/docs/_static/js/md5.js"></script>
-    <div id="gitalk-container">
-    </div>
-    <script>
-        const gitalk = new Gitalk({
-        clientID: '7e9598e22806d98d5dee',
-        clientSecret: '37c92fedcac2fdef30afff4c089ca66509d12c58',
-        repo: '227WiKi',
-        owner: 'zzzhxxx',
-        admin: ['zzzhxxx'],
-        id: md5('1st-single-song-1'),      // Ensure uniqueness and length less than 50
-        distractionFreeMode: false  // Facebook-like distraction free mode
-    })
-        gitalk.render('gitalk-container')
-    </script>
     <script src="https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.2/docs/_static/js/md5.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/dplayer@1.26.0/dist/DPlayer.min.js"></script>
     <script>

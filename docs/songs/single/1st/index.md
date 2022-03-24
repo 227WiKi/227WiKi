@@ -1,9 +1,10 @@
 ---
 title: 单曲 -  不曾存在的我
+template: comment.html
 ---
 # :pack-hires: 不曾存在的我 [^1]
 
-!!! note inline end "歌曲信息"
+!!! general inline end "歌曲信息"
 
     === "完全生产限定版Type-A"
         !![](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@master/docs/assets/photo/songs/single/1st-1.jpg)
@@ -84,22 +85,7 @@ title: 单曲 -  不曾存在的我
 </head>
 <body>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
-    <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
     <script src="https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.2/docs/_static/js/md5.js"></script>
-    <div id="gitalk-container">
-    </div>
-    <script>
-        const gitalk = new Gitalk({
-        clientID: '7e9598e22806d98d5dee',
-        clientSecret: '37c92fedcac2fdef30afff4c089ca66509d12c58',
-        repo: '227WiKi',
-        owner: 'zzzhxxx',
-        admin: ['zzzhxxx'],
-        id: md5('1st-single'),      // Ensure uniqueness and length less than 50
-        distractionFreeMode: false  // Facebook-like distraction free mode
-    })
-        gitalk.render('gitalk-container')
-    </script>
     <script src="https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.2/docs/_static/js/md5.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/dplayer@1.26.0/dist/DPlayer.min.js"></script>
     <script>
