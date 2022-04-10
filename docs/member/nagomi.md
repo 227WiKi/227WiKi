@@ -93,7 +93,39 @@ template: comment.html
 - 声优方面受到了高山南的影响
 - 喜欢跳舞，但由于担心自己跳得不像偶像，在跳舞时很难保持微笑。小时候曾模仿过Fairies团体跳舞，并掌握了一些跳舞的方法。
 
+# 个人采访
 
+<html>
+<head>
+    <meta name="referrer" content="never">
+</head>
+
+<body>
+    <div id="dplayer">
+    </div>
+    <script src="https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.2/docs/_static/js/md5.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/dplayer@1.26.0/dist/DPlayer.min.js"></script>
+    <script>
+        const dp = new DPlayer({
+        container: document.getElementById('dplayer'),
+        video: {
+            url: 'https://link.zzzhxxx.top/?/227-mv/nagomi_interview.mp4',
+        },
+        danmaku: {
+            id: md5('https://link.zzzhxxx.top/?/227-mv/nagomi_interview.mp4'),
+            api: "https://danmu.zzzhxxx.top/"
+        },
+        contextmenu: [
+        {
+            text: '227WiKi',
+            link: 'https://github.com/zzzhxxx/227WiKi',
+        },
+        ]
+    });
+    </script>
+    
+</body>
+</html>
 
 [^1]: https://www.bilibili.com/video/BV1nk4y1k7nd
 [^2]: https://www.bilibili.com/video/BV1L7411U7dh
