@@ -22,10 +22,10 @@ nav:
       - 月城咲舞: member/emma.md
       - 望月りの: member/rino.md
     - 毕业成员:
-      - 海乃琉璃: member/ruri.md
+      - 海乃琉璃(吉宫瑠织): member/ruri.md
       - 仓冈水巴(仓丸莉子): member/mizuha.md
       - 武田爱奈: member/aina.md
-      - 高辻丽: member/urara.md
+      - 高辻丽(日永丽): member/urara.md
       - 帆风千春(千春): member/chiharu.md
       - 花川芽衣(浅仓唯): member/mei.md
   - Live:
@@ -43,6 +43,89 @@ nav:
             - 不曾存在的我: songs/single/1st/song-1.md
             - 地下铁抵抗主义: songs/single/1st/song-2.md
             - 11人聚集的理由: songs/single/1st/song-3.md
+        - 散发出了香波的气息: 
+          - 简介: songs/single/2nd/index.md
+          - 歌曲:
+            - 散发出了香波的气息: songs/single/2nd/song-1.md
+            - 人格崩坏: songs/single/2nd/song-2.md
+            - 温柔的记忆: songs/single/2nd/song-3.md
+            - 只能呐喊的青春: songs/single/2nd/song-4.md
+            - 循环巴士: songs/single/2nd/song-5.md
+        - 理解者: 
+          - 简介: songs/single/3rd/index.md
+          - 歌曲:
+            - 理解者: songs/single/3rd/song-1.md
+            - 绝望之花: songs/single/3rd/song-2.md
+            - 韦驮天娘: songs/single/3rd/song-3.md
+            - 不确定的青春: songs/single/3rd/song-4.md
+            - 因为还有未来: songs/single/3rd/song-5.md
+        - 什么都无法为你做到: 
+          - 简介: songs/single/4th/index.md
+          - 歌曲:
+            - 什么都无法为你做到: songs/single/4th/song-1.md
+            - 你是月亮: songs/single/4th/song-2.md
+            - 蜻蜓的心情: songs/single/4th/song-3.md
+            - 浪漫积木: songs/single/4th/song-4.md
+            - 谎言之雨: songs/single/4th/song-5.md 
+        - 太难了: 
+          - 简介: songs/single/5th/index.md
+          - 歌曲:
+            - 太难了: songs/single/5th/song-1.md
+            - 天空的祖母绿: songs/single/5th/song-2.md
+            - 我们的环境: songs/single/5th/song-3.md
+            - 洗脚吧!: songs/single/5th/song-4.md
+            - 愿望的视线: songs/single/5th/song-5.md
+        - 风在吹吗?: 
+          - 简介: songs/single/6th/index.md
+          - 歌曲:
+            - 风在吹吗?: songs/single/6th/song-1.md
+            - 马尾别转身: songs/single/6th/song-2.md
+            - 半炒饭: songs/single/6th/song-3.md
+            - 纹身·爱: songs/single/6th/song-4.md
+            - 冰激凌掉地上: songs/single/6th/song-5.md
+        - 若是我的所有之物: 
+          - 简介: songs/single/7th/index.md
+          - 歌曲:
+            - 若是我的所有之物: songs/single/7th/song-1.md
+            - タチツテト力量: songs/single/7th/song-2.md
+            - 说喜欢是骗人的: songs/single/7th/song-3.md
+            - 猕猴桃主张(白组): songs/single/7th/song-4.md
+            - 雷鸣的Delay(红组): songs/single/7th/song-5.md
+        - 觉醒: 
+          - 简介: songs/single/8th/index.md
+          - 歌曲:
+            - 觉醒: songs/single/8th/song-1.md
+            - Just here and now: songs/single/8th/song-2.md
+            - 不知何时的日出: songs/single/8th/song-3.md
+            - 今年的 第一场雪(红组): songs/single/8th/song-4.md
+            - 摘下耳机!(白组): songs/single/8th/song-5.md
+    - 专辑:
+      - 名为11的永远的素数: 
+        - 简介: songs/album/1st/index-disc.md
+        - Disc1:
+          - 不曾存在的我: songs/single/1st/song-1.md
+          - 散发出了香波的气息: songs/single/2nd/song-1.md
+          - 理解者: songs/single/3rd/song-1.md
+          - 什么都无法为你做到: songs/single/4th/song-1.md
+          - 太难了: songs/single/5th/song-1.md
+          - 风在吹吗?: songs/single/6th/song-1.md
+          - 若是我的所有之物: songs/single/7th/song-1.md
+          - 风信子: songs/album/1st/song-1.md
+          - 试着在空中飞翔吧: songs/album/1st/song-2.md
+          - 11人聚集的理由: songs/single/1st/song-3.md
+        - Disc2(角色歌):
+          - 简介: songs/album/1st/index-disc2.md 
+        - Disc3(组合歌):
+          - 半炒饭: songs/single/6th/song-3.md
+          - To go请多关照: songs/album/1st/song-3.md
+          - 纹身·爱: songs/single/6th/song-4.md
+          - 交换条件: songs/album/1st/song-4.md
+          - 冰激凌掉地上: songs/single/6th/song-5.md
+          - 喜欢上你是我的自由: songs/album/1st/song-5.md
+          - 猕猴桃主张(白组): songs/single/7th/song-4.md
+          - 雷鸣的Delay(红组): songs/single/7th/song-5.md
+        - BD:
+          - 简介: songs/album/1st/index-bd.md
   - 动画:
     - 简介: anime/index.md
   
