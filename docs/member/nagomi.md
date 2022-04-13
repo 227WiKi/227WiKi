@@ -2,7 +2,7 @@
 title: 成员 - 西條和
 template: comment.html
 ---
-
+# :pack-sig-member-nagomi-sig: 西條和
 !!! nagomi-sig inline end "西條和"
     === "九单"
 
@@ -66,18 +66,18 @@ template: comment.html
         <figcaption>签名</figcaption>
     </figure>
     [:fontawesome-brands-twitter: Twitter](https://twitter.com/nagomi_saijo){ .md-button .md-button--primary } [Blog](http://blog.nanabunnonijyuuni.com/s/n227/diary/blog/list?ima=1526&ct=04){ .md-button .md-button--primary }
-# 时间线
-## 2016
+## 时间线
+### 2016
 
 - 12月24日，从10,325名中通过了22/7的最终审核。报名号为22号。
 
-## 2017
+### 2017
 
 - 3月，在「私たちの名付け親になってください」 SHOWROOM，招募艺名。并在之后的SHOWROOM中宣布了艺名西條和
 - 5月，确认为角色泷川美羽配音
 - 9月20日，一单「僕は存在していなかった」发布，正式亮相
 
-# 相关
+## 相关
 
 - 非常喜欢看《相棒》
 - 喜欢的偶像是fairies[^1]
@@ -93,7 +93,17 @@ template: comment.html
 - 声优方面受到了高山南的影响
 - 喜欢跳舞，但由于担心自己跳得不像偶像，在跳舞时很难保持微笑。小时候曾模仿过Fairies团体跳舞，并掌握了一些跳舞的方法。
 
-# 个人采访
+## 个人采访
+
+<div id="dplayer"></div>
+
+[:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV1n741147yh){ .md-button .md-button--primary }
+
+
+[^1]: https://www.bilibili.com/video/BV1nk4y1k7nd
+[^2]: https://www.bilibili.com/video/BV1L7411U7dh
+[^3]: https://www.bilibili.com/video/BV1n741147yh
+[^4]: https://www.bilibili.com/read/cv4313541
 
 <html>
 <head>
@@ -101,8 +111,7 @@ template: comment.html
 </head>
 
 <body>
-    <div id="dplayer">
-    </div>
+    
     <script src="https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.2/docs/_static/js/md5.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/dplayer@1.26.0/dist/DPlayer.min.js"></script>
     <script>
@@ -126,8 +135,3 @@ template: comment.html
     
 </body>
 </html>
-
-[^1]: https://www.bilibili.com/video/BV1nk4y1k7nd
-[^2]: https://www.bilibili.com/video/BV1L7411U7dh
-[^3]: https://www.bilibili.com/video/BV1n741147yh
-[^4]: https://www.bilibili.com/read/cv4313541

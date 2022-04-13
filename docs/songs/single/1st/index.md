@@ -58,6 +58,21 @@ template: comment.html
 | 1.      | 不曾存在的我(僕は存在していなかった)(music video)| 5:24|
 
 总时长： 5:24
+#  试听
+
+<meting-js
+        id="36224294"
+        lrc-type="1"
+        server="netease"
+        order="list"
+        type="album"
+        list-olded="true"
+        autoplay="false"
+        mutex="true"
+        volume=0.5
+        theme="#0091eb"
+        >
+</meting-js>
 
 # 视频
 
@@ -124,5 +139,6 @@ template: comment.html
         ]
     });
     </script>
+    
 </body>
 </html>

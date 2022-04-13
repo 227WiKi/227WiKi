@@ -33,15 +33,15 @@ template: comment.html
 
     [:fontawesome-brands-twitter: Twitter](https://twitter.com/nao_aikawa227){ .md-button .md-button--primary }
 
-# 时间线
-## 2021 
+## 时间线
+### 2021 
 
 - 报名参加22/7二期生甄选并合格
 
-## 2022
+### 2022
 
 - 2月27日在ナナニジ House中初次亮相
 
-# 相关
+## 相关
 
 - 在六单时期成为了22/7的粉丝

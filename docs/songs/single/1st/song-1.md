@@ -54,19 +54,36 @@ template: comment.html
 
     <b>发行公司:</b> Sony Music Records
 
-# 简介
+## 简介
 
 《不曾存在的我》是收录在22/7首张单曲《不曾存在的我》的同名主打曲，作曲由目黑凉子负责，作词由秋元康负责，单曲于2017年9月20日正式发售，总时长4分15秒，首周取得了Oricon周榜第十名的位置，MV采用动作捕捉技术录制。
 
-# MV
+## 试听
+
+<meting-js
+        id="507116569"
+        lrc-type="1"
+        server="netease"
+        order="list"
+        type="song"
+        list-olded="true"
+        autoplay="false"
+        mutex="true"
+        volume=0.5
+        theme="#0091eb"
+        >
+</meting-js>
+
+## MV
 
 <div id="dplayer1">
     </div>
 
-# 歌词
+## 歌词
 
 === "日语" 
-    <center>僕は自分を信じていない
+    <center>
+    僕は自分を信じていない
 
     自分の存在　知られたくなかった
 

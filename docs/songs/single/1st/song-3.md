@@ -60,10 +60,26 @@ template: comment.html
 
     <b>发行公司:</b> Sony Music Records
 
-# 简介
+## 简介
 
 《11人聚集的理由》是收录在22/7首张单曲《不曾存在的我》的曲目，作曲由キタムラタケシ和田上阳一负责，作词由秋元康负责，于2017年9月20日正式发售，总时长4分00秒，首周取得了Oricon周榜第十名的位置，是全单唯一一首由11个人一起演唱的歌曲。
 
+## 试听
+<meting-js
+        id="507116571"
+        lrc-type="1"
+        server="netease"
+        order="list"
+        type="song"
+        list-olded="true"
+        autoplay="false"
+        mutex="true"
+        volume=0.5
+        theme="#0091eb"
+        >
+</meting-js>
+
+##  歌词
 === "日语"
 
     <center>

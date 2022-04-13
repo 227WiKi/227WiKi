@@ -2,6 +2,7 @@
 title: 成员 - 天城莎莉
 template: comment.html
 ---
+# :pack-sig-member-sally-sig: 天城莎莉
 
 !!! sally-sig inline end "天城莎莉"
     === "九单"
@@ -68,29 +69,29 @@ template: comment.html
     [:fontawesome-brands-youtube: YouTube](https://www.youtube.com/channel/UCi4UjmN8HSi16sAhh_iEb6w){ .md-button .md-button--primary }
     [Blog](http://blog.nanabunnonijyuuni.com/s/n227/diary/blog/list?ima=1453&ct=01){ .md-button .md-button--primary }
 
-# 时间线
+## 时间线
 
-## 2016
+### 2016
 
 - 12月24日，从10,325名中通过了22/7的最终审核。报名号为11号。
 
-## 2017
+### 2017
 
 - 3月3日，在「私たちの名付け親になってください」 SHOWROOM，招募艺名。
 - 3月4日，在SHOWROOM中宣布了艺名天城莎莉。
 - 5月11日，确认为22/7的角色藤间樱配音，随后也公开了角色形象。
 - 9月20日，在22/7的首张单曲「僕は存在していなかった」中首次亮相。
 
-## 2020
+### 2020
 
 - 5月18日，开设自己的油管频道。
 
-# 相关
+## 相关
 
 - 在洛杉矶出生和长大。父母都是日本人，但在美国相识并结婚。[^2]有一个哥哥，在法国。[^3]
 - 精通英语、日语以及西班牙语。~~号称自己会法语，其实并不会[^4]~~
 - 会花样滑冰
-- 私下喜欢写关于各种动漫人物的同人小说~~(怪不得能写出计算中里各种鬼故事)~~
+- 私下喜欢写关于各种动漫人物的同人小说 ~~(怪不得能写出计算中里各种鬼故事)~~
 - 有一台switch [^5]
 - 与 JKT48 成员Puti Nadhira Azalia是好友
 - 喜欢听K-Pop和Vocaloid

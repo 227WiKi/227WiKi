@@ -206,20 +206,22 @@ extra_css:
   - '_static/css/extra.css?v=13'
   - stylesheets/extra.css
   - https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css
-  - https://unpkg.com/gitalk/dist/gitalk.css
+  - https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css
 extra_javascript:
   - https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js
   - https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js
   - https://cdn.jsdelivr.net/npm/dplayer@1.26.0/dist/DPlayer.min.js
   - https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.2/docs/_static/js/md5.js
-extra:
-  social:
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/FiberBell
-    - icon: pack/bili
-      link: https://space.bilibili.com/40127239
-    - icon: pack/227
-      link: https://nanabunnonijyuuni.com/
+  - https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js
+  - https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js
+
+social:
+  - icon: fontawesome/brands/twitter
+    link: https://twitter.com/FiberBell
+  - icon: pack/bili
+    link: https://space.bilibili.com/40127239
+  - icon: pack/227
+    link: https://nanabunnonijyuuni.com/
 
 markdown_extensions:
   - admonition

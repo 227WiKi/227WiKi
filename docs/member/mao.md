@@ -37,18 +37,18 @@ template: comment.html
 
     [:fontawesome-brands-twitter: Twitter](https://twitter.com/mao_asaoka227){ .md-button .md-button--primary }
 
-# 时间线
-## 2021 
+## 时间线
+### 2021 
 
 - 获得JOC女子佩剑cadet组冠军[^1]
 
 - 报名参加22/7二期生甄选并合格
 
-## 2022
+### 2022
 
 - 2月27日在ナナニジ House中初次亮相
 
-# 相关
+## 相关
 
 - 就读高中的偏差值为76，全日本排名第十位[^2]
 
