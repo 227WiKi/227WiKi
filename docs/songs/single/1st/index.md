@@ -87,7 +87,9 @@ template: comment.html
 
     [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV1Xx411i7Wb){ .md-button .md-button--primary }
 
-## :pack-hires: 下载 [^1]
+## 下载 
+
+:pack-hires:[^1]
 
 [网盘下载](https://pan.zzzhxxx.top/s/Dks8?path=%2F){ .md-button .md-button--primary }
 
