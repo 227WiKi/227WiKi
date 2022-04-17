@@ -91,7 +91,7 @@ template: comment.html
 
 
 
-[:pack-hires:[^1]网盘下载](https://pan.zzzhxxx.top/s/Dks8?path=%2F){ .md-button .md-button--primary }
+[:pack-hires: 网盘下载](https://pan.zzzhxxx.top/s/Dks8?path=%2F){ .md-button .md-button--primary }
 
 [^1]: 带有 :pack-hires: 则说明该曲目/单曲提供Hi-Res无损格式下载
 <!-- gitalk -->
