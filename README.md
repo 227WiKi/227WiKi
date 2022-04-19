@@ -1,9 +1,21 @@
-# 欢迎来到 **22/7 WiKi**!
+<div align="center"> 
 
-![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
-[![forthebadge](https://forthebadge.com/images/badges/cc-sa.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com)
-![](https://badgen.net/github/release/227WiKi/227WiKi)
+  <img src="https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/logo.svg"  width= 224 height=153>
+  
+  ![](https://img.shields.io/badge/mkdocs-1.3.0-blue?style=for-the-badge)
+  
+  ![](https://img.shields.io/github/workflow/status/227WiKi/227WiKi/227?style=for-the-badge)
+  ![GitHub contributors](https://img.shields.io/github/contributors/227WiKi/227WiKi?style=for-the-badge)
+  ![GitHub issues](https://img.shields.io/github/issues-raw/227WiKi/227WiKi?style=for-the-badge)
+  ![GitHub release (latest by date)](https://img.shields.io/github/v/release/227WiKi/227WiKi?style=for-the-badge)
+  ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/227WiKi/227WiKi?style=for-the-badge)
+  ![GitHub last commit](https://img.shields.io/github/last-commit/227WiKi/227WiKi?style=for-the-badge)
+  
+  ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
+  [![forthebadge](https://forthebadge.com/images/badges/cc-sa.svg)](https://forthebadge.com)
+  [![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com)
+
+
 
 ## 简介
 
