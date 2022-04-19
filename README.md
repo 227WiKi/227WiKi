@@ -1,5 +1,13 @@
 # 欢迎来到 **22/7 WiKi**!
 
+![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
+
+[![forthebadge](https://forthebadge.com/images/badges/cc-sa.svg)](https://forthebadge.com)
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com)
+
+![](https://badgen.net/github/release/227WiKi/227WiKi)
+
 ## 简介
 
 **22/7** 是由 **秋元康** 与 **ANIPLEX** 、 **SonyMusic** 联手组成的虚拟偶像组合
