@@ -357,7 +357,7 @@ article {
 
 	.index_mv {
 		height: 560px;
-		background: url('../img/mv.jpg') no-repeat top center;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/mv.jpg') no-repeat top center;
 		background-size: auto 100%;
 	}
 
@@ -388,7 +388,7 @@ article {
 		position: relative;
 		display: block;
 		border-radius: 10px;
-		background: url('../img/line_blue.png') ;
+		background: url('https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@master/docs/assets/home/line_blue.png') ;
 		background-size: 9px 9px;
 	}
 
@@ -404,7 +404,7 @@ article {
 		outline: none;
 		border: 0;
 		-webkit-border-radius: 0;
-		background: url('../img/icon_arrow.svg') no-repeat;
+		background: url('https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@master/docs/assets/home/icon_arrow.svg') no-repeat;
 		text-indent: -9999px;
 		cursor: pointer;
 		-webkit-appearance: none;
@@ -422,7 +422,7 @@ article {
 		outline: none;
 		border: 0;
 		-webkit-border-radius: 0;
-		background: url('../img/icon_arrow.svg') no-repeat;
+		background: url('https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@master/docs/assets/home/icon_arrow.svg') no-repeat;
 		text-indent: -9999px;
 		cursor: pointer;
 		-webkit-appearance: none;
@@ -487,7 +487,7 @@ article {
 
 	.index_topics {
 		padding: 80px 0;
-		background: url('../img/line_blue_alpha.png') ;
+		background: url('https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@master/docs/assets/home/line_blue_alpha.png') ;
 		background-size: 9px 9px;
 	}
 
@@ -528,7 +528,7 @@ article {
 		z-index: 1;
 		width: 20px;
 		height: 100%;
-		background: url('../img/topics_frame.svg') no-repeat;
+		background: url('https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@master/docs/assets/home/topics_frame.svg') no-repeat;
 		background-size: auto 100%;
 		content: '';
 	}
@@ -540,7 +540,7 @@ article {
 		z-index: 1;
 		width: 20px;
 		height: 100%;
-		background: url('../img/topics_frame.svg') no-repeat;
+		background: url('https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@master/docs/assets/home/topics_frame.svg') no-repeat;
 		background-size: auto 100%;
 		content: '';
 		transform: rotate(180deg);
@@ -610,7 +610,7 @@ article {
 		padding: 10px 0 0 25px;
 		width: 145px;
 		height: 38px;
-		background: url('../img/viewmore_back.svg') no-repeat;
+		background: url('https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@master/docs/assets/home/viewmore_back.svg') no-repeat;
 		background-size: 145px auto;
 		color: #009ad4;
 		font-weight: bold;
@@ -619,7 +619,7 @@ article {
 
 	.viewmore a:hover {
 		padding: 10px 0 0 25px;
-		background: url('../img/viewmore_back_hover.svg') no-repeat;
+		background: url('https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@master/docs/assets/home/viewmore_back_hover.svg') no-repeat;
 		background-size: 145px auto;
 		color: #fff;
 	}
@@ -684,7 +684,7 @@ article {
 		position: relative;
 		display: inline-block;
 		padding: 12px 30px 30px 90px;
-		background: url('../img/icon_youtube_movie.svg') no-repeat 15px 0;
+		background: url('https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@master/docs/assets/home/icon_youtube_movie.svg') no-repeat 15px 0;
 		background-size: 55px auto;
 		letter-spacing: 2px;
 		font-weight: 700;
@@ -865,7 +865,7 @@ article {
 
 	.index_event_date_next {
 		padding-right: 60px;
-		background: url('../img/icon_next.svg') no-repeat 90px 12px;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/icon_next.svg') no-repeat 90px 12px;
 		background-size: 17px auto;
 		letter-spacing: 3px;
 		font-size: 24px;
@@ -958,7 +958,7 @@ article {
 
 	.about_main {
 		padding: 60px 0;
-		background: url('../img/line_blue_alpha.png') ;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/line_blue_alpha.png') ;
 		background-size: 9px 9px;
 	}
 
@@ -1005,7 +1005,7 @@ article {
 		z-index: 1;
 		width: 100%;
 		height: 8px;
-		background: url('../img/line_blue_alpha.png') ;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/line_blue_alpha.png') ;
 		background-size: 9px 9px;
 		content: '';
 	}
@@ -1017,7 +1017,7 @@ article {
 		z-index: 1;
 		width: 100%;
 		height: 8px;
-		background: url('../img/line_blue_alpha.png') ;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/line_blue_alpha.png') ;
 		background-size: 9px 9px;
 		content: '';
 	}
@@ -1102,7 +1102,7 @@ article {
 		z-index: 1;
 		width: 100%;
 		height: 8px;
-		background: url('../img/line_blue_alpha.png') ;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/line_blue_alpha.png') ;
 		background-size: 9px 9px;
 		content: '';
 	}
@@ -1159,7 +1159,7 @@ article {
 	.news_more a {
 		display: inline-block;
 		padding: 0 0 45px 0;
-		background: url('../img/news_more.svg') no-repeat bottom center;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/news_more.svg') no-repeat bottom center;
 		background-size: 36px auto;
 		color: #009ad4;
 	}
@@ -1203,7 +1203,7 @@ article {
 		z-index: 1;
 		width: 100%;
 		height: 8px;
-		background: url('../img/line_blue_alpha.png') ;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/line_blue_alpha.png') ;
 		background-size: 9px 9px;
 		content: '';
 	}
@@ -1398,7 +1398,7 @@ article {
 		z-index: 1;
 		width: 10px;
 		height: 100%;
-		background: url('../img/line_vertical.png') repeat-y;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/line_vertical.png') repeat-y;
 		background-size: 10px auto;
 		content: '';
 	}
@@ -1410,7 +1410,7 @@ article {
 		z-index: 1;
 		width: 10px;
 		height: 100%;
-		background: url('../img/line_vertical.png') repeat-y;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/line_vertical.png') repeat-y;
 		background-size: 10px auto;
 		content: '';
 	}
@@ -1480,7 +1480,7 @@ article {
 		z-index: 1;
 		width: 100%;
 		height: 8px;
-		background: url('../img/line_blue_alpha.png') ;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/line_blue_alpha.png') ;
 		background-size: 9px 9px;
 		content: '';
 	}
@@ -1567,7 +1567,7 @@ article {
 
 	.tv_main {
 		padding: 60px 0;
-		background: url('../img/line_blue_alpha.png') ;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/line_blue_alpha.png') ;
 		background-size: 9px 9px;
 	}
 
@@ -1642,7 +1642,7 @@ article {
 		margin-top: -7px;
 		width: 17px;
 		height: 14px;
-		background: url('../img/tv_live_arrow.svg') no-repeat;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/tv_live_arrow.svg') no-repeat;
 		content: '';
 	}
 
@@ -1662,7 +1662,7 @@ article {
 	.tv_next {
 		margin-bottom: 60px;
 		padding: 60px 0;
-		background: url('../img/line_blue2.png') ;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/line_blue2.png') ;
 		background-size: 8px 8px;
 	}
 
@@ -1702,7 +1702,7 @@ article {
 
 	.tv_history {
 		padding: 60px 0;
-		background: url('../img/line_green.png') ;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/line_green.png') ;
 		background-size: 8px 8px;
 	}
 
@@ -1774,7 +1774,7 @@ article {
 		z-index: 1;
 		width: 100%;
 		height: 10px;
-		background: url('../img/line_blue2.png') ;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/line_blue2.png') ;
 		background-size: 9px 9px;
 		content: '';
 	}
@@ -1843,7 +1843,7 @@ article {
 	.mailmagazine_link ul li a {
 		display: inline-block;
 		padding: 0 30px 0 0;
-		background: url('../img/tv_live_arrow.svg') no-repeat center right;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/tv_live_arrow.svg') no-repeat center right;
 		background-size: 17px auto;
 		color: #000;
 		font-size: 16px;
@@ -1928,7 +1928,7 @@ article {
 
 	.event_date_next {
 		padding-right: 60px;
-		background: url('../img/icon_next.svg') no-repeat 90px 12px;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/icon_next.svg') no-repeat 90px 12px;
 		background-size: 17px auto;
 		letter-spacing: 3px;
 		font-size: 24px;
@@ -2007,7 +2007,7 @@ article {
 		z-index: 1;
 		width: 100%;
 		height: 10px;
-		background: url('../img/line_blue2.png') ;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/line_blue2.png') ;
 		background-size: 9px 9px;
 		content: '';
 	}
@@ -2151,7 +2151,7 @@ article {
 		padding: 10px 0 0 25px;
 		width: 145px;
 		height: 38px;
-		background: url('../img/viewmore_back.svg') no-repeat;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/viewmore_back.svg') no-repeat;
 		background-size: 145px auto;
 		color: #009ad4;
 		font-weight: bold;
@@ -2160,7 +2160,7 @@ article {
 
 	.artist_detail_sns li a:hover {
 		padding: 8px 0 0 25px;
-		background: url('../img/viewmore_back_hover.svg') no-repeat;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/viewmore_back_hover.svg') no-repeat;
 		background-size: 145px auto;
 		color: #fff;
 	}
@@ -2282,7 +2282,7 @@ article {
 		padding: 10px 0 0 25px;
 		width: 145px;
 		height: 38px;
-		background: url('../img/viewmore_back.svg') no-repeat;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/viewmore_back.svg') no-repeat;
 		background-size: 145px auto;
 		color: #009ad4;
 		font-weight: bold;
@@ -2292,7 +2292,7 @@ article {
 	.sample-voice-list li a:hover,
 	.sample-voice-list li.active a {
 		padding: 8px 0 0 25px;
-		background: url('../img/viewmore_back_hover.svg') no-repeat;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/viewmore_back_hover.svg') no-repeat;
 		background-size: 145px auto;
 		color: #fff;
 	}
@@ -2377,7 +2377,7 @@ article {
 		z-index: -2;
 		width: 100%;
 		height: calc(100% - 450px);
-		background: url('../img/line_blue2.png') ;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/line_blue2.png') ;
 		background-size: 9px 9px;
 		content: '';
 	}
@@ -2750,7 +2750,7 @@ article {
 		padding: 10px 0 0 25px;
 		width: 145px;
 		height: 38px;
-		background: url('../img/viewmore_back.svg') no-repeat;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/viewmore_back.svg') no-repeat;
 		background-size: 145px auto;
 		color: #009ad4;
 		font-weight: bold;
@@ -2759,7 +2759,7 @@ article {
 
 	.character_detail_actor_text a:hover {
 		padding: 8px 0 0 25px;
-		background: url('../img/viewmore_back_hover.svg') no-repeat;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/viewmore_back_hover.svg') no-repeat;
 		background-size: 145px auto;
 		color: #fff;
 	}
@@ -2839,7 +2839,7 @@ article {
 		padding: 10px 0 0 10px;
 		width: 145px;
 		height: 38px;
-		background: url('../img/viewmore_back.svg') no-repeat;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/viewmore_back.svg') no-repeat;
 		background-size: 145px auto;
 		color: #009ad4;
 		text-align: left;
@@ -2849,7 +2849,7 @@ article {
 
 	.character_detail_movie_inner a:hover {
 		padding: 10px 0 0 10px;
-		background: url('../img/viewmore_back_hover.svg') no-repeat;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/viewmore_back_hover.svg') no-repeat;
 		background-size: 145px auto;
 		color: #fff;
 	}
@@ -2873,7 +2873,7 @@ article {
 		padding: 10px 0 0 25px;
 		width: 145px;
 		height: 38px;
-		background: url('../img/viewmore_back.svg') no-repeat;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/viewmore_back.svg') no-repeat;
 		background-size: 145px auto;
 		color: #009ad4;
 		text-align: left;
@@ -2883,7 +2883,7 @@ article {
 
 	.character_detail_twitter a:hover {
 		padding: 8px 0 0 25px;
-		background: url('../img/viewmore_back_hover.svg') no-repeat;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/viewmore_back_hover.svg') no-repeat;
 		background-size: 145px auto;
 		color: #fff;
 	}
@@ -3013,7 +3013,7 @@ article {
 		padding: 13px 0 0 25px;
 		width: 180px;
 		height: 47px;
-		background: url('../img/viewmore_back.svg') no-repeat;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/viewmore_back.svg') no-repeat;
 		background-size: 180px auto;
 		color: #009ad4;
 		font-weight: bold;
@@ -3022,7 +3022,7 @@ article {
 
 	.discography_detail_link li a:hover {
 		padding: 8px 0 0 25px;
-		background: url('../img/viewmore_back_hover.svg') no-repeat;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/viewmore_back_hover.svg') no-repeat;
 		background-size: 180px auto;
 		color: #fff;
 	}
@@ -3109,7 +3109,7 @@ article {
 		padding: 10px 0 0 25px;
 		width: 145px;
 		height: 38px;
-		background: url('../img/viewmore_back.svg') no-repeat;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/viewmore_back.svg') no-repeat;
 		background-size: 145px auto;
 		color: #009ad4;
 		text-align: left;
@@ -3119,7 +3119,7 @@ article {
 
 	.blog-list__more .more a:hover {
 		padding: 8px 0 0 25px;
-		background: url('../img/viewmore_back_hover.svg') no-repeat;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/viewmore_back_hover.svg') no-repeat;
 		background-size: 145px auto;
 		color: #fff;
 	}
@@ -3951,7 +3951,7 @@ article {
 	/* @group index */
 
 	.index_mv {
-		background: url('../img/mv.jpg') no-repeat top center;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/mv.jpg') no-repeat top center;
 		background-size: 100% auto;
 	}
 
@@ -3982,7 +3982,7 @@ article {
 		position: relative;
 		display: block;
 		border-radius: 10px;
-		background: url('../img/line_blue.png') ;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/line_blue.png') ;
 		background-size: 9px 9px;
 	}
 
@@ -3998,7 +3998,7 @@ article {
 		outline: none;
 		border: 0;
 		-webkit-border-radius: 0;
-		background: url('../img/icon_arrow.svg') no-repeat;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/icon_arrow.svg') no-repeat;
 		background-size: 15px auto;
 		text-indent: -9999px;
 		cursor: pointer;
@@ -4017,7 +4017,7 @@ article {
 		outline: none;
 		border: 0;
 		-webkit-border-radius: 0;
-		background: url('../img/icon_arrow.svg') no-repeat;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/icon_arrow.svg') no-repeat;
 		background-size: 15px auto;
 		text-indent: -9999px;
 		cursor: pointer;
@@ -4095,7 +4095,7 @@ article {
 
 	.index_topics {
 		padding: 40px 0 20px;
-		background: url('../img/line_blue_alpha.png') ;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/line_blue_alpha.png') ;
 		background-size: 9px 9px;
 	}
 
@@ -4144,7 +4144,7 @@ article {
 		z-index: 1;
 		width: 20px;
 		height: 100%;
-		background: url('../img/topics_frame.svg') no-repeat;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/topics_frame.svg') no-repeat;
 		background-size: auto 100%;
 		content: '';
 	}
@@ -4156,7 +4156,7 @@ article {
 		z-index: 1;
 		width: 20px;
 		height: 100%;
-		background: url('../img/topics_frame.svg') no-repeat;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/topics_frame.svg') no-repeat;
 		background-size: auto 100%;
 		content: '';
 		transform: rotate(180deg);
@@ -4219,7 +4219,7 @@ article {
 		padding: 8px 0 0 20px;
 		width: 100px;
 		height: 26px;
-		background: url('../img/viewmore_back.svg') no-repeat;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/viewmore_back.svg') no-repeat;
 		background-size: 100px auto;
 		color: #009ad4;
 		font-weight: bold;
@@ -4321,7 +4321,7 @@ article {
 		position: relative;
 		display: inline-block;
 		padding: 12px 15px 10px 35px;
-		background: url('../img/icon_youtube_movie.svg') no-repeat 5px 10px;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/icon_youtube_movie.svg') no-repeat 5px 10px;
 		background-size: 23px auto;
 		letter-spacing: 2px;
 		font-weight: 700;
@@ -4514,7 +4514,7 @@ article {
 
 	.index_event_date_next {
 		padding: 1px 20px 0 0;
-		background: url('../img/icon_next.svg') no-repeat 37px 8px;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/icon_next.svg') no-repeat 37px 8px;
 		background-size: 10px auto;
 		letter-spacing: 1px;
 		font-size: 12px;
@@ -4609,7 +4609,7 @@ article {
 
 	.about_main {
 		padding: 30px 0;
-		background: url('../img/line_blue_alpha.png') ;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/line_blue_alpha.png') ;
 		background-size: 9px 9px;
 	}
 
@@ -4655,7 +4655,7 @@ article {
 		z-index: 1;
 		width: 100%;
 		height: 8px;
-		background: url('../img/line_blue_alpha.png') ;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/line_blue_alpha.png') ;
 		background-size: 9px 9px;
 		content: '';
 	}
@@ -4667,7 +4667,7 @@ article {
 		z-index: 1;
 		width: 100%;
 		height: 8px;
-		background: url('../img/line_blue_alpha.png') ;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/line_blue_alpha.png') ;
 		background-size: 9px 9px;
 		content: '';
 	}
@@ -4740,7 +4740,7 @@ article {
 		z-index: 1;
 		width: 100%;
 		height: 8px;
-		background: url('../img/line_blue_alpha.png') ;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/line_blue_alpha.png') ;
 		background-size: 9px 9px;
 		content: '';
 	}
@@ -4798,7 +4798,7 @@ article {
 	.news_more a {
 		display: inline-block;
 		padding: 0 0 25px 0;
-		background: url('../img/news_more.svg') no-repeat bottom center;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/news_more.svg') no-repeat bottom center;
 		background-size: 20px auto;
 		color: #009ad4;
 		font-size: 12px;
@@ -4848,7 +4848,7 @@ article {
 		z-index: 1;
 		width: 100%;
 		height: 8px;
-		background: url('../img/line_blue_alpha.png') ;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/line_blue_alpha.png') ;
 		background-size: 9px 9px;
 		content: '';
 	}
@@ -5046,7 +5046,7 @@ article {
 		z-index: 1;
 		width: 5px;
 		height: 100%;
-		background: url('../img/line_vertical.png') repeat-y;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/line_vertical.png') repeat-y;
 		background-size: 5px auto;
 		content: '';
 	}
@@ -5058,7 +5058,7 @@ article {
 		z-index: 1;
 		width: 5px;
 		height: 100%;
-		background: url('../img/line_vertical.png') repeat-y;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/line_vertical.png') repeat-y;
 		background-size: 5px auto;
 		content: '';
 	}
@@ -5130,7 +5130,7 @@ article {
 		z-index: 1;
 		width: 100%;
 		height: 8px;
-		background: url('../img/line_blue_alpha.png') ;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/line_blue_alpha.png') ;
 		background-size: 9px 9px;
 		content: '';
 	}
@@ -5218,7 +5218,7 @@ article {
 
 	.tv_main {
 		padding: 30px 0;
-		background: url('../img/line_blue_alpha.png') ;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/line_blue_alpha.png') ;
 		background-size: 9px 9px;
 	}
 
@@ -5285,7 +5285,7 @@ article {
 		margin-top: -3px;
 		width: 8px;
 		height: 7px;
-		background: url('../img/tv_live_arrow.svg') no-repeat;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/tv_live_arrow.svg') no-repeat;
 		background-size: 8px auto;
 		content: '';
 	}
@@ -5306,7 +5306,7 @@ article {
 	.tv_next {
 		margin-bottom: 30px;
 		padding: 30px 0;
-		background: url('../img/line_blue2.png') ;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/line_blue2.png') ;
 		background-size: 8px 8px;
 	}
 
@@ -5339,7 +5339,7 @@ article {
 
 	.tv_history {
 		padding: 30px 0;
-		background: url('../img/line_green.png') ;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/line_green.png') ;
 		background-size: 8px 8px;
 	}
 
@@ -5400,7 +5400,7 @@ article {
 		z-index: 1;
 		width: 100%;
 		height: 5px;
-		background: url('../img/line_blue2.png') ;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/line_blue2.png') ;
 		background-size: 9px 9px;
 		content: '';
 	}
@@ -5479,7 +5479,7 @@ article {
 		margin-left: -8px;
 		width: 17px;
 		height: 17px;
-		background: url('../img/tv_live_arrow.svg') no-repeat center right;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/tv_live_arrow.svg') no-repeat center right;
 		background-size: 17px auto;
 		content: '';
 		transform: rotate(90deg);
@@ -5567,7 +5567,7 @@ article {
 
 	.event_date_next {
 		padding: 1px 20px 0 0;
-		background: url('../img/icon_next.svg') no-repeat 37px 8px;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/icon_next.svg') no-repeat 37px 8px;
 		background-size: 10px auto;
 		letter-spacing: 1px;
 		font-size: 12px;
@@ -5638,7 +5638,7 @@ article {
 		z-index: 1;
 		width: 100%;
 		height: 5px;
-		background: url('../img/line_blue2.png') ;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/line_blue2.png') ;
 		background-size: 9px 9px;
 		content: '';
 	}
@@ -5786,7 +5786,7 @@ article {
 		padding: 10px 0 0 25px;
 		width: 145px;
 		height: 38px;
-		background: url('../img/viewmore_back.svg') no-repeat;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/viewmore_back.svg') no-repeat;
 		background-size: 145px auto;
 		color: #009ad4;
 		font-weight: bold;
@@ -5848,7 +5848,7 @@ article {
 		padding: 10px 0 0 25px;
 		width: 145px;
 		height: 38px;
-		background: url('../img/viewmore_back.svg') no-repeat;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/viewmore_back.svg') no-repeat;
 		background-size: 145px auto;
 		color: #009ad4;
 		font-weight: bold;
@@ -5857,7 +5857,7 @@ article {
 
 	.sample-voice-list li.active a {
 		padding: 8px 0 0 25px;
-		background: url('../img/viewmore_back_hover.svg') no-repeat;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/viewmore_back_hover.svg') no-repeat;
 		background-size: 145px auto;
 		color: #fff;
 	}
@@ -6294,7 +6294,7 @@ article {
 		margin-bottom: 20px;
 		padding: 20px 0;
 		padding-right: 10px;
-		background: url('../img/line_blue2.png') ;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/line_blue2.png') ;
 		background-size: 9px 9px;
 		text-align: right;
 	}
@@ -6380,7 +6380,7 @@ article {
 		padding: 10px 0 0 25px;
 		width: 145px;
 		height: 38px;
-		background: url('../img/viewmore_back.svg') no-repeat;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/viewmore_back.svg') no-repeat;
 		background-size: 145px auto;
 		color: #009ad4;
 		font-weight: bold;
@@ -6478,7 +6478,7 @@ article {
 		padding: 10px 0 0 10px;
 		width: 145px;
 		height: 38px;
-		background: url('../img/viewmore_back.svg') no-repeat;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/viewmore_back.svg') no-repeat;
 		background-size: 145px auto;
 		color: #009ad4;
 		text-align: left;
@@ -6491,7 +6491,7 @@ article {
 		padding: 10px 0 0 25px;
 		width: 145px;
 		height: 38px;
-		background: url('../img/viewmore_back.svg') no-repeat;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/viewmore_back.svg') no-repeat;
 		background-size: 145px auto;
 		color: #009ad4;
 		text-align: left;
@@ -6614,7 +6614,7 @@ article {
 		padding: 10px 0 0 20px;
 		width: 145px;
 		height: 38px;
-		background: url('../img/viewmore_back.svg') no-repeat;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/viewmore_back.svg') no-repeat;
 		background-size: 145px auto;
 		color: #009ad4;
 		font-weight: bold;
@@ -6694,7 +6694,7 @@ article {
 		padding: 8px 0 0 20px;
 		width: 100px;
 		height: 26px;
-		background: url('../img/viewmore_back.svg') no-repeat;
+		background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/viewmore_back.svg') no-repeat;
 		background-size: 100px auto;
 		color: #009ad4;
 		text-align: left;
@@ -7279,7 +7279,7 @@ article {
 }
 
 .fc__sitesupport {
-	background: url(../img/bg_circle.png) no-repeat top center, linear-gradient(90deg, #3c9ab9 55%, #66bedb 99%);
+	background: url(https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/bg_circle.png) no-repeat top center, linear-gradient(90deg, #3c9ab9 55%, #66bedb 99%);
     color: #fff;
     padding: 2em 0 0;
     margin: 0 0 4px;
@@ -7320,7 +7320,7 @@ article {
 }
 .fc__sitesupport_wrap ul li {
 	width: 46%;
-	background: url('../img/arrow.svg') no-repeat right center;
+	background: url('https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/arrow.svg') no-repeat right center;
 	background-size: 13px auto;
 }
 .fc__sitesupport_wrap ul li:first-child {
@@ -7348,7 +7348,7 @@ article {
   height: 10px;
   position: absolute;
   right: 28px;
-  background-image: url(../img/common/icn_plus.svg);
+  background-image: url(https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/common/icn_plus.svg);
   top: 50%;
   background-repeat: no-repeat;
   background-size: 10px auto;
@@ -7478,7 +7478,7 @@ article {
 .index_media_entry_item a {
   display: flex;
   align-items: flex-start;
-  background-image: url(../img/top/icon-media_arrow.svg);
+  background-image: url(https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/home/top/icon-media_arrow.svg);
   background-position: right center;
   background-repeat: no-repeat;
   transition: 300ms;
