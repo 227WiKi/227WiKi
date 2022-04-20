@@ -5,6 +5,7 @@ nav:
   - 简介:
     - 关于: intro/about.md
     - 参与修订: intro/commit.md
+    - Markdown特别用法: intro/markdown.md
   - 成员:
     - 现役成员:
       - 西條和: member/nagomi.md
