@@ -6,6 +6,7 @@ nav:
     - 关于: intro/about.md
     - 参与修订: intro/commit.md
     - Markdown特别用法: intro/markdown.md
+    - 版权协议: license.md
   - 成员:
     - 现役成员:
       - 西條和: member/nagomi.md
@@ -215,14 +216,20 @@ extra_javascript:
   - https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.2/docs/_static/js/md5.js
   - https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js
   - https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js
-
-social:
-  - icon: fontawesome/brands/twitter
-    link: https://twitter.com/FiberBell
-  - icon: pack/bili
-    link: https://space.bilibili.com/40127239
-  - icon: pack/227
-    link: https://nanabunnonijyuuni.com/
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/FiberBell
+      name: zzzhxxx on Twitter
+    - icon: pack/bili
+      link: https://space.bilibili.com/40127239
+      name: zzzhxxx on BilBili
+    - icon: pack/227
+      link: https://nanabunnonijyuuni.com/
+      name: 22/7 Official Website
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:<fiberbell@163.com>
+copyright: Copyright &copy; 2021 - 2022 22/7 WiKi
 
 markdown_extensions:
   - admonition
