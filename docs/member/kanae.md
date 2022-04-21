@@ -6,7 +6,7 @@ template: comment.html
 !!! kanae-sig inline end "白泽加奈惠"
     === "九单(v2)"
 
-        ![kanae](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/photo/nagomi/9th-2.jpg){ width="300" loading=lazy}
+        ![kanae](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/photo/kanae/9th-2.jpg){ width="300" loading=lazy}
     === "九单(v1)"
 
         ![kanae](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/photo/kanae/9th.jpg){ width="300" loading=lazy}
