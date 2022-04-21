@@ -4,8 +4,11 @@ template: comment.html
 ---
 
 !!! general inline end "椎名桜月"
+    === "九单(v2)"
 
-    === "九单"
+        ![satsuki](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/photo/satsuki/9th-2.jpg){ width="300" loading=lazy}
+
+    === "九单(v1)"
 
         ![nao](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/photo/satsuki/9th.jpg){ width="300" loading=lazy }
 
@@ -29,6 +32,9 @@ template: comment.html
 
     <b>出生</b> 山梨県
 
+    --------
+
+    <b>角色</b> 织原纯佳
   
 
     [:fontawesome-brands-twitter: Twitter](https://twitter.com/satsuki_shiina){ .md-button .md-button--primary }
@@ -41,5 +47,6 @@ template: comment.html
 ## 2022
 
 - 2月27日在ナナニジ House中初次亮相
+- 4月20日在“14”东京追加公演上宣布为织原纯佳配音
 
 # 相关

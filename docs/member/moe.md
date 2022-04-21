@@ -5,7 +5,10 @@ template: comment.html
 # :pack-sig-member-moe-sig: 凉花萌
 
 !!! moe-sig inline end "凉花萌"
-    === "九单"
+    === "九单(v2)"
+
+        ![moe](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/photo/moe/9th-2.jpg){ align=left width="300" loading=lazy}
+    === "九单(v1)"
 
         ![moe](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/photo/moe/9th.jpg){ align=left width="300" loading=lazy}
     === "八单"

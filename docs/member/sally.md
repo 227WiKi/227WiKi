@@ -5,7 +5,10 @@ template: comment.html
 # :pack-sig-member-sally-sig: 天城莎莉
 
 !!! sally-sig inline end "天城莎莉"
-    === "九单"
+    === "九单(v2)"
+
+        ![sally](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/photo/nagomi/9th-2.jpg){ width="300" loading=lazy}
+    === "九单(v1)"
         ![sally](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/photo/sally/9th.jpg){ width="300" loading=lazy }
     === "八单"
 

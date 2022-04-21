@@ -4,7 +4,10 @@ template: comment.html
 ---
 
 !!! kanae-sig inline end "白泽加奈惠"
-    === "九单"
+    === "九单(v2)"
+
+        ![kanae](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/photo/nagomi/9th-2.jpg){ width="300" loading=lazy}
+    === "九单(v1)"
 
         ![kanae](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/photo/kanae/9th.jpg){ width="300" loading=lazy}
     === "八单"
@@ -62,7 +65,7 @@ template: comment.html
     <b>角色</b>  丸山茜
 
     <figure markdown>
-        ![Nagomi](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@1.0/assets/kanae-sig.svg){ width="100" loading=lazy }
+        ![kanae](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@1.0/assets/kanae-sig.svg){ width="100" loading=lazy }
         <figcaption>签名</figcaption>
     </figure>
     [:fontawesome-brands-twitter: Twitter](https://twitter.com/kanae_shirosawa){ .md-button .md-button--primary }

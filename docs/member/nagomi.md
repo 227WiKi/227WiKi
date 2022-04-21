@@ -4,7 +4,10 @@ template: comment.html
 ---
 # :pack-sig-member-nagomi-sig: 西條和
 !!! nagomi-sig inline end "西條和"
-    === "九单"
+    === "九单(v2)"
+
+        ![Nagomi](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/photo/nagomi/9th-2.jpg){ width="300" loading=lazy}
+    === "九单(v1)"
 
         ![Nagomi](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/photo/nagomi/9th.jpg){ width="300" loading=lazy}
     === "八单"

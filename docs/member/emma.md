@@ -4,8 +4,10 @@ template: comment.html
 ---
 
 !!! general inline end "月城咲舞"
+    === "九单(v2)"
 
-    === "九单"
+        ![emma](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/photo/emma/9th-2.jpg){ width="300" loading=lazy}
+    === "九单(v1)"
 
         ![emma](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/photo/emma/9th.jpg){ width="300" loading=lazy }
 
@@ -28,6 +30,10 @@ template: comment.html
     --------
 
     <b>出生</b> 福岡県
+    
+    --------
+
+    <b>角色</b> 氷室みず姫
 
   
 
@@ -41,5 +47,6 @@ template: comment.html
 ### 2022
 
 - 2月27日在ナナニジ House中初次亮相
+- 4月20日在“14”东京追加公演上宣布为氷室みず姫配音
 
 ## 相关
