@@ -7,39 +7,39 @@ template: comment.html
 !!! sally-sig inline end "天城莎莉"
     === "九单(v2)"
 
-        ![sally](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/photo/nagomi/9th-2.jpg){ width="300" loading=lazy}
+        ![sally](https://nananiji.zzzhxxx.top/assets/photo/sally/9th-2.jpg){ width="300" loading=lazy}
     === "九单(v1)"
-        ![sally](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/photo/sally/9th.jpg){ width="300" loading=lazy }
+        ![sally](https://nananiji.zzzhxxx.top/assets/photo/sally/9th.jpg){ width="300" loading=lazy }
     === "八单"
 
-        ![sally](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@1.1/docs/assets/photo/sally/8th.jpg){ width="300" loading=lazy }
+        ![sally](https://nananiji.zzzhxxx.top/assets/photo/sally/8th.jpg){ width="300" loading=lazy }
     === "一专"
 
-        ![sally](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@1.1/docs/assets/photo/sally/1st-album.jpg){  width="300" loading=lazy}
+        ![sally](https://nananiji.zzzhxxx.top/assets/photo/sally/1st-album.jpg){  width="300" loading=lazy}
     === "七单"
 
-        ![sally](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@1.1/docs/assets/photo/sally/7th.jpg){   width="300" loading=lazy }
+        ![sally](https://nananiji.zzzhxxx.top/assets/photo/sally/7th.jpg){   width="300" loading=lazy }
     === "六单"
 
-        ![sally](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@1.1/docs/assets/photo/sally/6th.jpg){   width="300" loading=lazy }
+        ![sally](https://nananiji.zzzhxxx.top/assets/photo/sally/6th.jpg){   width="300" loading=lazy }
     === "五单"
 
-        ![sally](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@1.1/docs/assets/photo/sally/5th.jpg){   width="300" loading=lazy}
+        ![sally](https://nananiji.zzzhxxx.top/assets/photo/sally/5th.jpg){   width="300" loading=lazy}
     === "四单"
 
-        ![sally](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@1.1/docs/assets/photo/sally/4th.jpg){   width="300" loading=lazy}
+        ![sally](https://nananiji.zzzhxxx.top/assets/photo/sally/4th.jpg){   width="300" loading=lazy}
     === "三单"
 
-        ![sally](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@1.1/docs/assets/photo/sally/3rd.jpg){   width="300" loading=lazy}
+        ![sally](https://nananiji.zzzhxxx.top/assets/photo/sally/3rd.jpg){   width="300" loading=lazy}
     === "二单"
 
-        ![sally](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@1.1/docs/assets/photo/sally/2nd.jpg){   width="300" loading=lazy}
+        ![sally](https://nananiji.zzzhxxx.top/assets/photo/sally/2nd.jpg){   width="300" loading=lazy}
     === "一单"
 
-        ![sally](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@1.1/docs/assets/photo/sally/1st.jpg){   width="189" loading=lazy}
+        ![sally](https://nananiji.zzzhxxx.top/assets/photo/sally/1st.jpg){   width="189" loading=lazy}
     === "初次亮相"
 
-        ![sally](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@1.1/docs/assets/photo/sally/WhiteDress.jpg){   width="300" loading=lazy}
+        ![sally](https://nananiji.zzzhxxx.top/assets/photo/sally/WhiteDress.jpg){   width="300" loading=lazy}
     --------
 
     <b>姓名</b>   天城莎莉
@@ -65,7 +65,7 @@ template: comment.html
     <b>角色</b>  藤间樱
 
     <figure markdown>
-        ![sally](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@1.0/assets/sally-sig.svg){ width="100" }
+        ![sally](https://nananiji.zzzhxxx.top/assets/sally-sig.svg){ width="100" }
         <figcaption>签名</figcaption>
     </figure>
     [:fontawesome-brands-twitter: Twitter](https://twitter.com/sally_amaki){ .md-button .md-button--primary }  [:fontawesome-brands-instagram: Instagram](https://www.instagram.com/sallyamaki/){ .md-button .md-button--primary } 

@@ -6,10 +6,10 @@ template: comment.html
 !!! general inline end "望月りの"
     === "九单(v2)"
 
-        ![rino](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/photo/rino/9th-2.jpg){ width="300" loading=lazy}
+        ![rino](https://nananiji.zzzhxxx.top/assets/photo/rino/9th-2.jpg){ width="300" loading=lazy}
     === "九单(v1)"
 
-        ![rino](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/photo/rino/9th.jpg){ width="300" loading=lazy }
+        ![rino](https://nananiji.zzzhxxx.top/assets/photo/rino/9th.jpg){ width="300" loading=lazy }
 
     --------
 

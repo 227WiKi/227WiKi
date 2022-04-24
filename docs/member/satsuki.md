@@ -6,11 +6,11 @@ template: comment.html
 !!! general inline end "椎名桜月"
     === "九单(v2)"
 
-        ![satsuki](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/photo/satsuki/9th-2.jpg){ width="300" loading=lazy}
+        ![satsuki](https://nananiji.zzzhxxx.top/assets/photo/satsuki/9th-2.jpg){ width="300" loading=lazy}
 
     === "九单(v1)"
 
-        ![nao](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/photo/satsuki/9th.jpg){ width="300" loading=lazy }
+        ![nao](https://nananiji.zzzhxxx.top/assets/photo/satsuki/9th.jpg){ width="300" loading=lazy }
 
     --------
 

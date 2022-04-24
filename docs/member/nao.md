@@ -6,10 +6,10 @@ template: comment.html
 !!! general inline end "相川奈央"
     === "九单(v2)"
 
-        ![nao](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/photo/nao/9th-2.jpg){ width="300" loading=lazy}
+        ![nao](https://nananiji.zzzhxxx.top//assets/photo/nao/9th-2.jpg){ width="300" loading=lazy}
     === "九单(v1)"
 
-        ![nao](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/photo/nao/9th.jpg){ width="300" loading=lazy }
+        ![nao](https://nananiji.zzzhxxx.top//assets/photo/nao/9th.jpg){ width="300" loading=lazy }
 
     --------
 

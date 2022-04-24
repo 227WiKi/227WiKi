@@ -7,37 +7,37 @@ template: comment.html
 !!! moe-sig inline end "凉花萌"
     === "九单(v2)"
 
-        ![moe](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/photo/moe/9th-2.jpg){ align=left width="300" loading=lazy}
+        ![moe](https://nananiji.zzzhxxx.top/assets/photo/moe/9th-2.jpg){ align=left width="300" loading=lazy}
     === "九单(v1)"
 
-        ![moe](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/photo/moe/9th.jpg){ align=left width="300" loading=lazy}
+        ![moe](https://nananiji.zzzhxxx.top/assets/photo/moe/9th.jpg){ align=left width="300" loading=lazy}
     === "八单"
 
-        ![moe](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@1.0/assets/photo/moe/8th.jpg){ align=left width="300" loading=lazy }
+        ![moe](https://nananiji.zzzhxxx.top/assets/photo/moe/8th.jpg){ align=left width="300" loading=lazy }
     === "一专"
 
-        ![moe](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@1.0/assets/photo/moe/1st-album.jpg){ align=left width="300" loading=lazy}
+        ![moe](https://nananiji.zzzhxxx.top/assets/photo/moe/1st-album.jpg){ align=left width="300" loading=lazy}
     === "七单"
 
-        ![moe](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@1.0/assets/photo/moe/7th.jpg){ align=left width="300" loading=lazy}
+        ![moe](https://nananiji.zzzhxxx.top/assets/photo/moe/7th.jpg){ align=left width="300" loading=lazy}
     === "六单"
 
-        ![moe](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@1.0/assets/photo/moe/6th.jpg){ align=left width="300" loading=lazy}
+        ![moe](https://nananiji.zzzhxxx.top/assets/photo/moe/6th.jpg){ align=left width="300" loading=lazy}
     === "五单"
 
-        ![moe](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@1.0/assets/photo/moe/5th.jpg){ align=left width="300" loading=lazy}
+        ![moe](https://nananiji.zzzhxxx.top/assets/photo/moe/5th.jpg){ align=left width="300" loading=lazy}
     === "四单"
 
-        ![moe](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@1.0/assets/photo/moe/4th.jpg){ align=left width="300" loading=lazy}
+        ![moe](https://nananiji.zzzhxxx.top/assets/photo/moe/4th.jpg){ align=left width="300" loading=lazy}
     === "三单"
 
-        ![moe](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@1.0/assets/photo/moe/3rd.jpg){ align=left width="300" loading=lazy }
+        ![moe](https://nananiji.zzzhxxx.top/assets/photo/moe/3rd.jpg){ align=left width="300" loading=lazy }
     === "二单"
 
-        ![moe](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@1.0/assets/photo/moe/2nd.jpg){ align=left width="300" loading=lazy }
+        ![moe](https://nananiji.zzzhxxx.top/assets/photo/moe/2nd.jpg){ align=left width="300" loading=lazy }
     === "一单"
 
-        ![moe](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@1.0/assets/photo/moe/1st.jpg){ align=left width="300" loading=lazy }
+        ![moe](https://nananiji.zzzhxxx.top/assets/photo/moe/1st.jpg){ align=left width="300" loading=lazy }
     --------
 
     <b>姓名</b>  凉花萌 
@@ -64,7 +64,7 @@ template: comment.html
 
     
     <figure markdown>
-        ![moe](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@1.0/assets/moe-sig.svg){ width="100" }
+        ![moe](https://nananiji.zzzhxxx.top/assets/moe-sig.svg){ width="100" }
         <figcaption>签名</figcaption>
     </figure>
     [:fontawesome-brands-twitter: Twitter](https://twitter.com/moepiyo_227){ .md-button .md-button--primary } [:fontawesome-brands-instagram: Instagram](https://www.instagram.com/moepiyo227/){ .md-button .md-button--primary } [Blog](http://blog.nanabunnonijyuuni.com/s/n227/diary/blog/list?ima=1513&ct=09){ .md-button .md-button--primary }

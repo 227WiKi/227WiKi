@@ -6,10 +6,10 @@ template: comment.html
 !!! general inline end "雨夜音"
     === "九单(v2)"
 
-        ![Nagomi](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/photo/oto/9th-2.jpg){ width="300" loading=lazy}
+        ![Nagomi](https://nananiji.zzzhxxx.top/assets/photo/oto/9th-2.jpg){ width="300" loading=lazy}
     === "九单(v1)"
 
-        ![oto](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/photo/oto/9th.jpg){ width="300" loading=lazy }
+        ![oto](https://nananiji.zzzhxxx.top/assets/photo/oto/9th.jpg){ width="300" loading=lazy }
 
     --------
 

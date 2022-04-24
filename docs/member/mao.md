@@ -6,10 +6,10 @@ template: comment.html
 !!! general inline end "麻丘真央"
     === "九单(v2)"
 
-        ![mao](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/photo/mao/9th-2.jpg){ width="300" loading=lazy}
+        ![mao](https://nananiji.zzzhxxx.top/assets/photo/mao/9th-2.jpg){ width="300" loading=lazy}
     === "九单(v1)"
 
-        ![mao](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/photo/mao/9th.jpg){ width="300" loading=lazy}
+        ![mao](https://nananiji.zzzhxxx.top/assets/photo/mao/9th.jpg){ width="300" loading=lazy}
 
     --------
 

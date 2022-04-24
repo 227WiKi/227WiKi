@@ -7,9 +7,9 @@ template: comment.html
 !!! general inline end "歌曲信息"
 
     === "完全生产限定版Type-A"
-        !![](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@master/docs/assets/photo/songs/single/1st-1.jpg)
+        !![](https://nananiji.zzzhxxx.top/assets/photo/songs/single/1st-1.jpg)
     === "完全生产限定版Type-B"
-        !![](https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@master/docs/assets/photo/songs/single/1st-2.jpg)
+        !![](https://nananiji.zzzhxxx.top/assets/photo/songs/single/1st-2.jpg)
     --------
     
     <b>专辑名称:</b> 不曾存在的我

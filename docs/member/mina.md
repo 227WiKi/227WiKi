@@ -6,10 +6,10 @@ template: comment.html
 !!! general inline end "清井美那"
     === "九单(v2)"
 
-        ![mina](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/photo/mina/9th-2.jpg){ width="300" loading=lazy}
+        ![mina](https://nananiji.zzzhxxx.top/assets/photo/mina/9th-2.jpg){ width="300" loading=lazy}
     === "九单(v1)"
 
-        ![mina](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/photo/mina/9th.jpg){ width="300" loading=lazy}
+        ![mina](https://nananiji.zzzhxxx.top/assets/photo/mina/9th.jpg){ width="300" loading=lazy}
 
     --------
 

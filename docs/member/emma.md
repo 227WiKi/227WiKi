@@ -6,10 +6,10 @@ template: comment.html
 !!! general inline end "月城咲舞"
     === "九单(v2)"
 
-        ![emma](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/photo/emma/9th-2.jpg){ width="300" loading=lazy}
+        ![emma](https://nananiji.zzzhxxx.top/assets/photo/emma/9th-2.jpg){ width="300" loading=lazy}
     === "九单(v1)"
 
-        ![emma](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/photo/emma/9th.jpg){ width="300" loading=lazy }
+        ![emma](https://nananiji.zzzhxxx.top/assets/photo/emma/9th.jpg){ width="300" loading=lazy }
 
     --------
 
