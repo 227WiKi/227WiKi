@@ -71,3 +71,29 @@ template: comment.html
     [:fontawesome-brands-twitter: Twitter](https://twitter.com/kanae_shirosawa){ .md-button .md-button--primary }
     [:fontawesome-brands-instagram: Instagram](https://www.instagram.com/__shiro227/){ .md-button .md-button--primary }
     [Blog](http://blog.nanabunnonijyuuni.com/s/n227/diary/blog/list?ct=05){ .md-button .md-button--primary }
+
+## 时间线
+### 2016
+
+- 12月24日，从10,325名中通过了22/7的最终审核。报名号为18号。
+
+### 2017
+
+- 3月，在「私たちの名付け親になってください」 SHOWROOM，招募艺名。并在之后的SHOWROOM中宣布了艺名白泽加奈惠
+- 5月，确认为角色丸山茜配音
+- 9月20日，一单「僕は存在していなかった」发布，正式亮相
+
+### 2021
+
+- 3月14日，开通Twitter
+
+## 相关
+
+- 喜欢樱坂46[^1]
+- 在渡边麻友从AKB毕业时很伤心[^1]
+- 有密集恐惧症
+- 曾经让Sally教过英语
+- 经常拜访在长崎的祖父母[^2]
+
+[^1]: SHOWROOM 2017.10.31
+[^2]: https://blog.nanabunnonijyuuni.com/s/n227/diary/detail/179
