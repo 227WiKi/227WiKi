@@ -101,10 +101,10 @@ template: comment.html
 ## 活动
 | 序号 | 活动图像 |活动名称 | 活动歌曲 | 活动卡牌 | 备注 | 
 |:----:|:-------:|:------:|:--------:|:--------:|:----:| 
-|  1   | ![1](https://nananiji.zzzhxxx.top/assets/game/event_banner/event_banner%20%23946965.png){ loading=lazy } | 芽吹き奏でるはじまりのメロディー <br> 萌芽奏响开场的旋律 |    无    |    无    | 剧情 |   
-|  2   | ![2](https://nananiji.zzzhxxx.top/assets/game/event_banner/event_banner%231022238.png){ loading=lazy } | 〈物語〉シリーズコラボイベント〈前編〉<br> 《物语》系列合作活动(前篇) |    君の知らない物語 staple stable <br> 帰り道marshmallow justice    |    户田纯 <br> 失礼、作りすぎました    | 剧情 |  
+|  1   | ![1](https://nananiji.zzzhxxx.top/assets/game/event_banner/event_banner%20%23946965.png){ loading=lazy } | 芽吹き奏でるはじまりのメロディー <br> 萌芽奏响开场的旋律 |    无    |    无    | [剧情](https://space.bilibili.com/289996095/video) |   
+|  2   | ![2](https://nananiji.zzzhxxx.top/assets/game/event_banner/event_banner%231022238.png){ loading=lazy } | 〈物語〉シリーズコラボイベント〈前編〉<br> 《物语》系列合作活动(前篇) |    君の知らない物語 staple stable <br> 帰り道marshmallow justice    |    户田纯 <br> 失礼、作りすぎました    | [剧情](https://www.bilibili.com/video/BV1Az411i71b) |  
 |  3   | ![3](https://nananiji.zzzhxxx.top/assets/game/event_banner/event_banner%20%23587969.png){ loading=lazy } | 迷える花嫁に導きのファンファーレ<br> 引导迷途新娘的乐声 |    无    |    无    | 剧情 | 
-|  4   | ![4](https://nananiji.zzzhxxx.top/assets/game/event_banner/event_banner%20%23771922.png){ loading=lazy } | 〈物語〉シリーズコラボイベント〈後編〉<br> 《物语》系列合作活动(后篇) |    ambivalent worldwicked prince<br>sugar sweet nightmare <br> 白金ディスコ 恋愛サーキュレーション   |    立川绚香 <br> 真摯な令嬢    | 剧情 |
+|  4   | ![4](https://nananiji.zzzhxxx.top/assets/game/event_banner/event_banner%20%23771922.png){ loading=lazy } | 〈物語〉シリーズコラボイベント〈後編〉<br> 《物语》系列合作活动(后篇) |    ambivalent worldwicked prince<br>sugar sweet nightmare <br> 白金ディスコ 恋愛サーキュレーション   |    立川绚香 <br> 真摯な令嬢    | [剧情](https://www.bilibili.com/video/BV17A411e7k1) |
 |  5   | ![5](https://nananiji.zzzhxxx.top/assets/game/event_banner/event_banner%20%23598994.png){ loading=lazy } | 追憶のプリクエル case:斎藤ニコル/神木みかみ 前編<br> 追忆的序章 case:斋藤妮可露/神木御神 前篇 |    无    |    无    | 剧情 |   
 |  6   | ![6](https://nananiji.zzzhxxx.top/assets/game/event_banner/event_banner%20%231096522.png){ loading=lazy } | 追憶のプリクエル case:斎藤ニコル/神木みかみ 前編<br> 追忆的序章 case:斋藤妮可露/神木御神 前篇 |    无    |    无    | 剧情 |  
 |  7   | ![7](https://nananiji.zzzhxxx.top/assets/game/event_banner/event_banner%20%23378647.png){ loading=lazy } | 22/7×SUMMER×SUMMER×SUMMER! 前編 |    Everyday、カチューシャ;ナギイチ;パレオはエメラルド    |    无    | 剧情 |
