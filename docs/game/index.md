@@ -4,9 +4,9 @@ template: comment.html
 ---
 # <center><div class="header_logo"><img src="https://nananiji.zzzhxxx.top/assets/game/227-game-logo.svg" width="224" height="253" alt="22/7 game logo"></div></center>
 
-!!! game inline end "游戏图标"
+!!! game inline end "游戏"
 
-    === "游戏logo"
+    === "游戏图标"
         !![](https://nananiji.zzzhxxx.top/assets/game/icon.png)
 
     --------
