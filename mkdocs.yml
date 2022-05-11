@@ -162,9 +162,9 @@ theme:
   logo: assets/logo.svg
   favicon: assets/favicon.png
   custom_dir: overrides
-  font:
-    text: Fira Sans
-    code: Fira Mono
+  font: 
+    text: YSHaoShenTi
+    code: qingyuan
   
   features:
     - navigation.tabs
@@ -205,7 +205,7 @@ plugins:
         by: revision
       template: overrides/custom-blog.html
 extra_css:
-  - '_static/css/extra.css?v=13'
+  - '_static/css/extra.css'
   - stylesheets/extra.css
   - https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css
   - https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css
