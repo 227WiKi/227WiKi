@@ -48,7 +48,7 @@ template: comment.html
 	}
 
 	.header_logo img {
-		width: 224px;
+		width: 336px;
 		height: auto;
         border-radius: 0px;
         box-shadow: 0 0px 0px rgb(0 0 0 / 0%);
@@ -65,7 +65,6 @@ template: comment.html
     .header_logo img:hover {
         box-shadow: 0 0px 0px 0 rgba(0,0,0,0), 0 0px 0px 0 rgba(0,0,0,0);
         }
-    .
 </style>
 
 ## 简介
