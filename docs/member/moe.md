@@ -7,37 +7,46 @@ template: comment.html
 !!! moe-sig inline end "凉花萌"
     === "九单(v2)"
 
-        ![moe](https://nananiji.zzzhxxx.top/assets/photo/moe/9th-2.jpg){ align=left width="300" loading=lazy}
+        !![九单公式照(第二版)](https://nananiji.zzzhxxx.top/assets/photo/moe/9th-2.jpg)
     === "九单(v1)"
 
-        ![moe](https://nananiji.zzzhxxx.top/assets/photo/moe/9th.jpg){ align=left width="300" loading=lazy}
+        <a data-caption="九单公式照(第一版)" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/moe/9th.jpg"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/moe/9th.jpg" title="" width="100%" /></a>
+
     === "八单"
 
-        ![moe](https://nananiji.zzzhxxx.top/assets/photo/moe/8th.jpg){ align=left width="300" loading=lazy }
+        <a data-caption="八单公式照" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/moe/8th.jpg"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/moe/8th.jpg" title="" width="100%" /></a>
+
     === "一专"
 
-        ![moe](https://nananiji.zzzhxxx.top/assets/photo/moe/1st-album.jpg){ align=left width="300" loading=lazy}
+        <a data-caption="一专公式照" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/moe/1st-album.jpg"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/moe/1st-album.jpg" title="" width="100%" /></a>
+
     === "七单"
 
-        ![moe](https://nananiji.zzzhxxx.top/assets/photo/moe/7th.jpg){ align=left width="300" loading=lazy}
+        <a data-caption="七单公式照" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/moe/7th.jpg"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/moe/7th.jpg" title="" width="100%" /></a>
     === "六单"
 
-        ![moe](https://nananiji.zzzhxxx.top/assets/photo/moe/6th.jpg){ align=left width="300" loading=lazy}
+        <a data-caption="六单公式照" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/moe/6th.jpg"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/moe/6th.jpg" title="" width="100%" /></a>
+
     === "五单"
 
-        ![moe](https://nananiji.zzzhxxx.top/assets/photo/moe/5th.jpg){ align=left width="300" loading=lazy}
+        <a data-caption="五单公式照" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/moe/5th.jpg"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/moe/5th.jpg" title="" width="100%" /></a>
+
     === "四单"
 
-        ![moe](https://nananiji.zzzhxxx.top/assets/photo/moe/4th.jpg){ align=left width="300" loading=lazy}
+        <a data-caption="四单公式照" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/moe/4th.jpg"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/moe/4th.jpg" title="" width="100%" /></a>
+
     === "三单"
 
-        ![moe](https://nananiji.zzzhxxx.top/assets/photo/moe/3rd.jpg){ align=left width="300" loading=lazy }
+        <a data-caption="三单公式照" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/moe/3rd.jpg"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/moe/3rd.jpg" title="" width="100%" /></a>
+
     === "二单"
 
-        ![moe](https://nananiji.zzzhxxx.top/assets/photo/moe/2nd.jpg){ align=left width="300" loading=lazy }
+        <a data-caption="二单公式照" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/moe/2nd.jpg"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/moe/2nd.jpg" title="" width="100%" /></a>
+
     === "一单"
 
-        ![moe](https://nananiji.zzzhxxx.top/assets/photo/moe/1st.jpg){ align=left width="300" loading=lazy }
+        <a data-caption="一单公式照" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/moe/1st.jpg"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/moe/1st.jpg" title="" width="100%" /></a>
+
     --------
 
     <b>姓名</b>  凉花萌 

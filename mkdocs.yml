@@ -273,7 +273,6 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
-  - fancyboxmd:
-      preview_width: 100%
+  - fancyboxmd
 
 

@@ -7,7 +7,9 @@ template: comment.html
 !!! general inline end "歌曲信息"
 
     === "完全生产限定版Type-A"
-        !![](https://nananiji.zzzhxxx.top/assets/photo/songs/single/1st-1.jpg)
+        <a data-caption="Description" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/songs/single/1st-1.jpg">
+            <img loading="lazy" alt="1st-1" src="https://nananiji.zzzhxxx.top/assets/photo/songs/single/1st-1.jpg" title="Title" width="100%" />
+        </a>
     === "完全生产限定版Type-B"
         !![](https://nananiji.zzzhxxx.top/assets/photo/songs/single/1st-2.jpg)
     --------
@@ -62,7 +64,6 @@ template: comment.html
 
 <meting-js
         id="36224294"
-        lrc-type="1"
         server="netease"
         order="list"
         type="album"
@@ -75,7 +76,9 @@ template: comment.html
 </meting-js>
 
 ## 视频
+!!! success "提示"
 
+    B站弹幕已嵌入
 === "Music Video"
     <div id="dplayer1">
     </div>
@@ -113,6 +116,7 @@ template: comment.html
         },
         danmaku: {
             id: md5('https://link.zzzhxxx.top/?/227-mv/1%2022%207%20-%20Bokuwa%20Sonzai%20Shiteinakatta.mp4'),
+            addition: ['https://danmu.zzzhxxx.top/v3/bilibili?aid=373098921&bvid=BV1vZ4y1g7uS&cid=369475374'],
             api: "https://danmu.zzzhxxx.top/"
         },
         contextmenu: [
@@ -131,6 +135,7 @@ template: comment.html
         },
         danmaku: {
             id: md5('https://link.zzzhxxx.top/?/227-mv/22%207%20%E3%80%8E%E4%B8%8D%E6%9B%BE%E5%AD%98%E5%9C%A8%E7%9A%84%E6%88%91%E3%80%8F%E3%80%8E%E5%83%95%E3%81%AF%E5%AD%98%E5%9C%A8%E3%81%97%E3%81%A6%E3%81%84%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F%E3%80%8FLyric%20Video%E3%80%8E%E4%B8%AD%E6%96%87%E5%AD%97%E5%B9%95%E3%80%8F.mp4'),
+            addition: ['https://danmu.zzzhxxx.top/v3/bilibili?aid=12491357&bvid=BV1Xx411i7Wb&cid=20556630'],
             api: "https://danmu.zzzhxxx.top/"
         },
         contextmenu: [

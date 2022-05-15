@@ -7,39 +7,50 @@ template: comment.html
 !!! sally-sig inline end "天城莎莉"
     === "九单(v2)"
 
-        ![sally](https://nananiji.zzzhxxx.top/assets/photo/sally/9th-2.jpg){ width="300" loading=lazy}
+        !![九单公式照(第二版)](https://nananiji.zzzhxxx.top/assets/photo/sally/9th-2.jpg)
     === "九单(v1)"
-        ![sally](https://nananiji.zzzhxxx.top/assets/photo/sally/9th.jpg){ width="300" loading=lazy }
+
+        <a data-caption="九单公式照(第一版)" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/sally/9th.jpg"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/sally/9th.jpg" title="" width="100%" /></a>
+
     === "八单"
 
-        ![sally](https://nananiji.zzzhxxx.top/assets/photo/sally/8th.jpg){ width="300" loading=lazy }
+        <a data-caption="八单公式照" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/sally/8th.jpg"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/sally/8th.jpg" title="" width="100%" /></a>
+
     === "一专"
 
-        ![sally](https://nananiji.zzzhxxx.top/assets/photo/sally/1st-album.jpg){  width="300" loading=lazy}
+        <a data-caption="一专公式照" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/sally/1st-album.jpg"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/sally/1st-album.jpg" title="" width="100%" /></a>
+
     === "七单"
 
-        ![sally](https://nananiji.zzzhxxx.top/assets/photo/sally/7th.jpg){   width="300" loading=lazy }
+        <a data-caption="七单公式照" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/sally/7th.jpg"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/sally/7th.jpg" title="" width="100%" /></a>
     === "六单"
 
-        ![sally](https://nananiji.zzzhxxx.top/assets/photo/sally/6th.jpg){   width="300" loading=lazy }
+        <a data-caption="六单公式照" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/sally/6th.jpg"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/sally/6th.jpg" title="" width="100%" /></a>
+
     === "五单"
 
-        ![sally](https://nananiji.zzzhxxx.top/assets/photo/sally/5th.jpg){   width="300" loading=lazy}
+        <a data-caption="五单公式照" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/sally/5th.jpg"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/sally/5th.jpg" title="" width="100%" /></a>
+
     === "四单"
 
-        ![sally](https://nananiji.zzzhxxx.top/assets/photo/sally/4th.jpg){   width="300" loading=lazy}
+        <a data-caption="四单公式照" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/sally/4th.jpg"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/sally/4th.jpg" title="" width="100%" /></a>
+
     === "三单"
 
-        ![sally](https://nananiji.zzzhxxx.top/assets/photo/sally/3rd.jpg){   width="300" loading=lazy}
+        <a data-caption="三单公式照" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/sally/3rd.jpg"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/sally/3rd.jpg" title="" width="100%" /></a>
+
     === "二单"
 
-        ![sally](https://nananiji.zzzhxxx.top/assets/photo/sally/2nd.jpg){   width="300" loading=lazy}
+        <a data-caption="二单公式照" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/sally/2nd.jpg"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/sally/2nd.jpg" title="" width="100%" /></a>
+
     === "一单"
 
-        ![sally](https://nananiji.zzzhxxx.top/assets/photo/sally/1st.jpg){   width="189" loading=lazy}
+        <a data-caption="一单公式照" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/sally/1st.jpg"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/sally/1st.jpg" title="" width="100%" /></a>
+
     === "初次亮相"
 
-        ![sally](https://nananiji.zzzhxxx.top/assets/photo/sally/WhiteDress.jpg){   width="300" loading=lazy}
+        <a data-caption="初次亮相白裙" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/sally/WhiteDress.jpg"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/sally/WhiteDress.jpg" title="" width="100%" /></a>
+
     --------
 
     <b>姓名</b>   天城莎莉
@@ -104,6 +115,10 @@ template: comment.html
 - 相信动漫对她的生活产生了积极的影响，并希望回馈粉丝
 - 想在成为一名声优后以嘉宾身份重返漫展
 - 对鸡蛋有一种奇怪的兴趣[^6]
+
+## 采访
+
+<iframe src="//player.bilibili.com/blackboard/newplayer.html?aid=24916894&bvid=BV1qW411F7AW&cid=42051306&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 
 [^1]: https://twitter.com/sally_amaki/status/1303928957029330945

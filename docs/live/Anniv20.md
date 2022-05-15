@@ -76,14 +76,14 @@ template: comment.html
 
 ## 观看
 
-视频来源:[227中文应援站](https://space.bilibili.com/118938280) 
-
 === "昼场"
+    视频来源:[227中文应援站](https://space.bilibili.com/118938280) 
     <div id="dplayer1">
     </div>
 
     [:pack-bili-tv: B站观看 BD 4K](https://www.bilibili.com/video/BV1N5411P7TB){ .md-button .md-button--primary }
 === "夜场 + FC 限定Talk"
+    视频来源:[227中文应援站](https://space.bilibili.com/118938280) 
     <div id="dplayer2">
     </div>
 
@@ -91,7 +91,16 @@ template: comment.html
 === "Making"
     [:pack-bili-tv: B站观看 中字](https://www.bilibili.com/video/BV1gB4y1F7v2){ .md-button .md-button--primary }
     
+=== "昼场BD"
+    <div id="dplayer3">
+    </div>
 
+    [:pack-bili-tv: B站观看 BD 4K](https://www.bilibili.com/video/BV1N5411P7TB){ .md-button .md-button--primary }
+=== "夜场BD"
+    <div id="dplayer4">
+    </div>
+
+    [:pack-bili-tv: B站观看 BD 4K](https://www.bilibili.com/video/BV1sp4y1h7Uk){ .md-button .md-button--primary }
 ## 下载
 
 [:pack-ali: 阿里云盘](https://www.aliyundrive.com/s/ST53qeMmcpn){ .md-button .md-button--primary }  [OneDrive](https://pan.zzzhxxx.top/s/27tB){ .md-button .md-button--primary } [应援站-昼场](https://cloud.tsinghua.edu.cn/f/3aad5435818b47f39955/){ .md-button .md-button--primary } [应援站-夜场](https://cloud.tsinghua.edu.cn/f/c9ccbac371ba436fb78a/){ .md-button .md-button--primary }
@@ -149,6 +158,41 @@ template: comment.html
         },]
     });
     </script>
-    
+    <script>
+        const dp3 = new DPlayer({
+        container: document.getElementById('dplayer3'),
+        video: {
+            url: 'https://pan.zzzhxxx.top/api/v3/file/source/376/22%EF%BC%8F7%20Anniversary%20Live%202020%20-%2001%20%5BBDRip%201080p%20AVC-10bit%20FLAC%5D.mkv?sign=6K5wZy7h8GmsYxkvdKTW-qvjw_GFWkjHsmpMyk_QvnU%3D%3A0',
+        },
+        danmaku: {
+            id: md5('https://pan.zzzhxxx.top/api/v3/file/source/376/22%EF%BC%8F7%20Anniversary%20Live%202020%20-%2001%20%5BBDRip%201080p%20AVC-10bit%20FLAC%5D.mkv?sign=6K5wZy7h8GmsYxkvdKTW-qvjw_GFWkjHsmpMyk_QvnU%3D%3A0'),
+            api: "https://danmu.zzzhxxx.top/"
+        },
+        contextmenu: [
+        {
+            text: '227WiKi',
+            link: 'https://github.com/zzzhxxx/227WiKi',
+        },
+        ]
+    });
+    </script>
+    <script>
+        const dp4 = new DPlayer({
+        container: document.getElementById('dplayer4'),
+        video: {
+            url: 'https://pan.zzzhxxx.top/api/v3/file/source/378/22%EF%BC%8F7%20Anniversary%20Live%202020%20-%2002%20%5BBDRip%201080p%20AVC-10bit%20FLAC%5D.mkv?sign=XK3p--mFb1thgNCRGuX7oHqGUFm1l3donF5T4NpgfwA%3D%3A0',
+        },
+        danmaku: {
+            id: md5('https://pan.zzzhxxx.top/api/v3/file/source/378/22%EF%BC%8F7%20Anniversary%20Live%202020%20-%2002%20%5BBDRip%201080p%20AVC-10bit%20FLAC%5D.mkv?sign=XK3p--mFb1thgNCRGuX7oHqGUFm1l3donF5T4NpgfwA%3D%3A0'),
+            api: "https://danmu.zzzhxxx.top/"
+        },
+        contextmenu: [
+        {
+            text: '227WiKi',
+            link: 'https://github.com/zzzhxxx/227WiKi',
+        },
+        ]
+    });
+    </script>
 </body>
 </html>

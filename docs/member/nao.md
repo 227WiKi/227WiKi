@@ -6,10 +6,10 @@ template: comment.html
 !!! general inline end "相川奈央"
     === "九单(v2)"
 
-        ![nao](https://nananiji.zzzhxxx.top//assets/photo/nao/9th-2.jpg){ width="300" loading=lazy}
+        !![九单公式照(第二版)](https://nananiji.zzzhxxx.top/assets/photo/nao/9th-2.jpg)
     === "九单(v1)"
 
-        ![nao](https://nananiji.zzzhxxx.top//assets/photo/nao/9th.jpg){ width="300" loading=lazy }
+        <a data-caption="九单公式照(第一版)" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/nao/9th.jpg"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/nao/9th.jpg" title="" width="100%" /></a>
 
     --------
 

@@ -6,40 +6,50 @@ template: comment.html
 !!! nagomi-sig inline end "西條和"
     === "九单(v2)"
 
-        ![Nagomi](https://nananiji.zzzhxxx.top/assets/photo/nagomi/9th-2.jpg){ width="300" loading=lazy}
+        !![九单公式照(第二版)](https://nananiji.zzzhxxx.top/assets/photo/nagomi/9th-2.jpg)
     === "九单(v1)"
 
-        ![Nagomi](https://nananiji.zzzhxxx.top/assets/photo/nagomi/9th.jpg){ width="300" loading=lazy}
+        <a data-caption="九单公式照(第一版)" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/nagomi/9th.jpg"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/nagomi/9th.jpg" title="" width="100%" /></a>
+
     === "八单"
 
-        ![Nagomi](https://nananiji.zzzhxxx.top/assets/photo/nagomi/8th.jpg){ width="300" loading=lazy}
+        <a data-caption="八单公式照" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/nagomi/8th.jpg"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/nagomi/8th.jpg" title="" width="100%" /></a>
+
     === "一专"
 
-        ![Nagomi](https://nananiji.zzzhxxx.top/assets/photo/nagomi/1st-album.jpg){  width="300" loading=lazy}
+        <a data-caption="一专公式照" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/nagomi/1st-album.jpg"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/nagomi/1st-album.jpg" title="" width="100%" /></a>
+
     === "七单"
 
-        ![Nagomi](https://nananiji.zzzhxxx.top/assets/photo/nagomi/7th.jpg){   width="300" loading=lazy}
+        <a data-caption="七单公式照" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/nagomi/7th.jpg"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/nagomi/7th.jpg" title="" width="100%" /></a>
     === "六单"
 
-        ![Nagomi](https://nananiji.zzzhxxx.top/assets/photo/nagomi/6th.jpg){   width="300" loading=lazy}
+        <a data-caption="六单公式照" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/nagomi/6th.jpg"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/nagomi/6th.jpg" title="" width="100%" /></a>
+
     === "五单"
 
-        ![Nagomi](https://nananiji.zzzhxxx.top/assets/photo/nagomi/5th.jpg){   width="300" loading=lazy}
+        <a data-caption="五单公式照" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/nagomi/5th.jpg"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/nagomi/5th.jpg" title="" width="100%" /></a>
+
     === "四单"
 
-        ![Nagomi](https://nananiji.zzzhxxx.top/assets/photo/nagomi/4th.jpg){   width="300" loading=lazy}
+        <a data-caption="四单公式照" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/nagomi/4th.jpg"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/nagomi/4th.jpg" title="" width="100%" /></a>
+
     === "三单"
 
-        ![Nagomi](https://nananiji.zzzhxxx.top/assets/photo/nagomi/3rd.jpg){   width="300" loading=lazy}
+        <a data-caption="三单公式照" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/nagomi/3rd.jpg"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/nagomi/3rd.jpg" title="" width="100%" /></a>
+
     === "二单"
 
-        ![Nagomi](https://nananiji.zzzhxxx.top/assets/photo/nagomi/2nd.jpg){   width="300" loading=lazy}
+        <a data-caption="二单公式照" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/nagomi/2nd.jpg"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/nagomi/2nd.jpg" title="" width="100%" /></a>
+
     === "一单"
 
-        ![Nagomi](https://nananiji.zzzhxxx.top/assets/photo/nagomi/nagomi-1st.jpg){   width="189" loading=lazy}
+        <a data-caption="一单公式照" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/nagomi/nagomi-1st.jpg"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/nagomi/nagomi-1st.jpg" title="" width="100%" /></a>
+
     === "初次亮相"
 
-        ![Nagomi](https://nananiji.zzzhxxx.top/assets/photo/nagomi/WhiteDress.jpg){   width="300" loading=lazy}
+        <a data-caption="初次亮相白裙" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/nagomi/WhiteDress.jpg"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/nagomi/WhiteDress.jpg" title="" width="100%" /></a>
+        
     --------
 
     <b>姓名</b>   西條和 
@@ -98,6 +108,12 @@ template: comment.html
 
 ## 个人采访
 
+视频来自:[22/7 中文应援站](https://space.bilibili.com/118938280)
+ 
+!!! success "提示"
+
+    B站弹幕已嵌入
+
 <div id="dplayer"></div>
 
 [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV1n741147yh){ .md-button .md-button--primary }
@@ -125,6 +141,7 @@ template: comment.html
         },
         danmaku: {
             id: md5('https://link.zzzhxxx.top/?/227-mv/nagomi_interview.mp4'),
+            addition: ['https://danmu.zzzhxxx.top/v3/bilibili?aid=87900951&bvid=BV1n741147yh&cid=150175780'],
             api: "https://danmu.zzzhxxx.top/"
         },
         contextmenu: [

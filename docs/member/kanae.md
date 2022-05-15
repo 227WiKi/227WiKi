@@ -6,40 +6,48 @@ template: comment.html
 !!! kanae-sig inline end "白泽加奈惠"
     === "九单(v2)"
 
-        ![kanae](https://nananiji.zzzhxxx.top/assets/photo/kanae/9th-2.jpg){ width="300" loading=lazy}
+        !![九单公式照(第二版)](https://nananiji.zzzhxxx.top/assets/photo/kanae/9th-2.jpg)
     === "九单(v1)"
 
-        ![kanae](https://nananiji.zzzhxxx.top/assets/photo/kanae/9th.jpg){ width="300" loading=lazy}
+        <a data-caption="九单公式照(第一版)" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/kanae/9th.jpg"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/kanae/9th.jpg" title="" width="100%" /></a>
+
     === "八单"
 
-        ![kanae](https://nananiji.zzzhxxx.top/assets/photo/kanae/8th.webp){ width="300" loading=lazy}
+        <a data-caption="八单公式照" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/kanae/8th.webp"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/kanae/8th.webp" title="" width="100%" /></a>
+
     === "一专"
 
-        ![kanae](https://nananiji.zzzhxxx.top/assets/photo/kanae/1st-album.webp){  width="300" loading=lazy}
+        <a data-caption="一专公式照" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/kanae/1st-album.webp"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/kanae/1st-album.webp" title="" width="100%" /></a>
+
     === "七单"
 
-        ![kanae](https://nananiji.zzzhxxx.top/assets/photo/kanae/7th.webp){   width="300" loading=lazy}
+        <a data-caption="七单公式照" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/kanae/7th.webp"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/kanae/7th.webp" title="" width="100%" /></a>
     === "六单"
 
-        ![kanae](https://nananiji.zzzhxxx.top/assets/photo/kanae/6th.webp){   width="300" loading=lazy}
-    === "五单"
+        <a data-caption="六单公式照" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/kanae/6th.webp"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/kanae/6th.webp" title="" width="100%" /></a>
 
-        ![kanae](https://nananiji.zzzhxxx.top/assets/photo/kanae/5th.webp){   width="300" loading=lazy}
+    === "五单"
+        <a data-caption="五单公式照" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/kanae/5th.webp"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/kanae/5th.webp" title="" width="100%" /></a>
+
     === "四单"
 
-        ![kanae](https://nananiji.zzzhxxx.top/assets/photo/kanae/4th.webp){   width="300" loading=lazy}
+        <a data-caption="四单公式照" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/kanae/4th.webp"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/kanae/4th.webp" title="" width="100%" /></a>
+
     === "三单"
 
-        ![kanae](https://nananiji.zzzhxxx.top/assets/photo/kanae/3rd.webp){   width="300" loading=lazy}
+        <a data-caption="三单公式照" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/kanae/3rd.webp"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/kanae/3rd.webp" title="" width="100%" /></a>
+
     === "二单"
 
-        ![kanae](https://nananiji.zzzhxxx.top/assets/photo/kanae/2nd.webp){   width="300" loading=lazy}
+        <a data-caption="二单公式照" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/kanae/2nd.webp"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/kanae/2nd.webp" title="" width="100%" /></a>
+
     === "一单"
 
-        ![kanae](https://nananiji.zzzhxxx.top/assets/photo/kanae/kanae-1st.webp){   width="189" loading=lazy}
+        <a data-caption="一单公式照" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/kanae/kanae-1st.webp"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/kanae/kanae-1st.webp" title="" width="100%" /></a>
+
     === "初次亮相"
 
-        ![kanae](https://nananiji.zzzhxxx.top/assets/photo/kanae/WhiteDress.webp){   width="300" loading=lazy}
+        <a data-caption="初次亮相白裙" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/kanae/WhiteDress.webp"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/kanae/WhiteDress.webp" title="" width="100%" /></a>
     --------
 
     <b>姓名</b>   白泽加奈惠 
@@ -92,7 +100,7 @@ template: comment.html
 - 喜欢樱坂46[^1]
 - 在渡边麻友从AKB毕业时很伤心[^1]
 - 有密集恐惧症
-- 曾经让Sally教过英语
+- 曾经让kanae教过英语
 - 经常拜访在长崎的祖父母[^2]
 
 [^1]: SHOWROOM 2017.10.31

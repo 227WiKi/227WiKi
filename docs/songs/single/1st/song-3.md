@@ -67,7 +67,6 @@ template: comment.html
 ## 试听
 <meting-js
         id="507116571"
-        lrc-type="1"
         server="netease"
         order="list"
         type="song"

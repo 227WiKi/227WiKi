@@ -62,7 +62,6 @@ template: comment.html
 
 <meting-js
         id="507116569"
-        lrc-type="1"
         server="netease"
         order="list"
         type="song"
@@ -75,7 +74,9 @@ template: comment.html
 </meting-js>
 
 ## MV
+!!! success "提示"
 
+    B站弹幕已嵌入
 <div id="dplayer1">
     </div>
 
@@ -224,6 +225,7 @@ template: comment.html
         },
         danmaku: {
             id: md5('https://link.zzzhxxx.top/?/227-mv/1%2022%207%20-%20Bokuwa%20Sonzai%20Shiteinakatta.mp4'),
+            addition: ['https://danmu.zzzhxxx.top/v3/bilibili?aid=373098921&bvid=BV1vZ4y1g7uS&cid=369475374'],
             api: "https://danmu.zzzhxxx.top/"
         },
         contextmenu: [
