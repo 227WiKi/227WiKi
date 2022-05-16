@@ -162,7 +162,20 @@ template: comment.html
         const dp3 = new DPlayer({
         container: document.getElementById('dplayer3'),
         video: {
-            url: 'https://pan.zzzhxxx.top/api/v3/file/source/376/22%EF%BC%8F7%20Anniversary%20Live%202020%20-%2001%20%5BBDRip%201080p%20AVC-10bit%20FLAC%5D.mkv?sign=6K5wZy7h8GmsYxkvdKTW-qvjw_GFWkjHsmpMyk_QvnU%3D%3A0',
+            quality: [
+                {
+                    name: '8bit 320k',
+                    url: 'https://link.zzzhxxx.top/?/227-live/webstorage/8bit/22%EF%BC%8F7%20Anniversary%20Live%202020%20-%2001%20%5B8bit%5D.mp4',
+                    type: 'normal',
+                },
+                {
+                    name: '10bit FLAC',
+                    url: 'https://pan.zzzhxxx.top/api/v3/file/source/376/22%EF%BC%8F7%20Anniversary%20Live%202020%20-%2001%20%5BBDRip%201080p%20AVC-10bit%20FLAC%5D.mkv?sign=6K5wZy7h8GmsYxkvdKTW-qvjw_GFWkjHsmpMyk_QvnU%3D%3A0',
+                    type: 'normal',
+                },
+            ],
+            defaultQuality: 0,
+            pic: 'https://link.zzzhxxx.top/?/227-live/webstorage/pic/22%EF%BC%8F7%20Anniversary%20Live%202020%20-%20Menu01.png',
         },
         danmaku: {
             id: md5('https://pan.zzzhxxx.top/api/v3/file/source/376/22%EF%BC%8F7%20Anniversary%20Live%202020%20-%2001%20%5BBDRip%201080p%20AVC-10bit%20FLAC%5D.mkv?sign=6K5wZy7h8GmsYxkvdKTW-qvjw_GFWkjHsmpMyk_QvnU%3D%3A0'),
@@ -180,7 +193,20 @@ template: comment.html
         const dp4 = new DPlayer({
         container: document.getElementById('dplayer4'),
         video: {
-            url: 'https://pan.zzzhxxx.top/api/v3/file/source/378/22%EF%BC%8F7%20Anniversary%20Live%202020%20-%2002%20%5BBDRip%201080p%20AVC-10bit%20FLAC%5D.mkv?sign=XK3p--mFb1thgNCRGuX7oHqGUFm1l3donF5T4NpgfwA%3D%3A0',
+            quality: [
+                {
+                    name: '8bit 320k',
+                    url: 'https://link.zzzhxxx.top/?/227-live/webstorage/8bit/22%EF%BC%8F7%20Anniversary%20Live%202020%20-%2002%20%5B8bit%5D.mp4',
+                    type: 'normal',
+                },
+                {
+                    name: '10bit FLAC',
+                    url: 'https://pan.zzzhxxx.top/api/v3/file/source/378/22%EF%BC%8F7%20Anniversary%20Live%202020%20-%2002%20%5BBDRip%201080p%20AVC-10bit%20FLAC%5D.mkv?sign=XK3p--mFb1thgNCRGuX7oHqGUFm1l3donF5T4NpgfwA%3D%3A0',
+                    type: 'normal',
+                },
+            ],
+            defaultQuality: 0,
+            pic: 'https://link.zzzhxxx.top/?/227-live/webstorage/pic/22%EF%BC%8F7%20Anniversary%20Live%202020%20-%20Menu02.png',
         },
         danmaku: {
             id: md5('https://pan.zzzhxxx.top/api/v3/file/source/378/22%EF%BC%8F7%20Anniversary%20Live%202020%20-%2002%20%5BBDRip%201080p%20AVC-10bit%20FLAC%5D.mkv?sign=XK3p--mFb1thgNCRGuX7oHqGUFm1l3donF5T4NpgfwA%3D%3A0'),
