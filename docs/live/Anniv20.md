@@ -76,6 +76,9 @@ template: comment.html
 
 ## 观看
 
+!!! info
+    10bit Flac只可在电脑上播放，若有移动设备无法加载的视频，请尝试使用电脑观看
+    
 === "昼场"
     视频来源:[227中文应援站](https://space.bilibili.com/118938280) 
     <div id="dplayer1">
