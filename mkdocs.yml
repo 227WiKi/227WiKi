@@ -207,15 +207,15 @@ plugins:
 extra_css:
   - '_static/css/extra.css'
   - stylesheets/extra.css
-  - https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css
-  - https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css
+  - https://nananiji.zzzhxxx.top/css/jquery.fancybox.min.css
+  - https://nananiji.zzzhxxx.top/css/APlayer.min.css
 extra_javascript:
-  - https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js
-  - https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js
-  - https://cdn.jsdelivr.net/npm/dplayer@1.26.0/dist/DPlayer.min.js
-  - https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.2/docs/_static/js/md5.js
-  - https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js
-  - https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js
+  - https://nananiji.zzzhxxx.top/js/jquery.min.js
+  - https://nananiji.zzzhxxx.top/js/jquery.fancybox.min.js
+  - https://nananiji.zzzhxxx.top/js/DPlayer.min.js
+  - https://nananiji.zzzhxxx.top/js/md5.js
+  - https://nananiji.zzzhxxx.top/js/APlayer.min.js
+  - https://nananiji.zzzhxxx.top/js/Meting.min.js
 extra:
   social:
     - icon: fontawesome/brands/twitter

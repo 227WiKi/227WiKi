@@ -1,0 +1,8 @@
+from cv2 import sort
+
+
+a=[]
+for i in range (5):
+    a[i]=input()
+sort(a)
+print(a)
