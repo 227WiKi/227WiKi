@@ -20,8 +20,8 @@ template: comment.html
     <meta name="referrer" content="never">
 </head>
 <body>
-<script src="https://cdn.jsdelivr.net/gh/zzzhxxx/227WiKi@1.2/docs/_static/js/md5.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/dplayer@1.26.0/dist/DPlayer.min.js"></script>
+<script src="https://nananiji.zzzhxxx.top/js/md5.js"></script>
+    <script src="https://nananiji.zzzhxxx.top/js/DPlayer.min.js"></script>
 
 <script>
         const dp2 = new DPlayer({
