@@ -34,9 +34,13 @@ template: comment.html
     --------
 
     <b>角色</b> 一之濑莹
-  
+    
+    <figure markdown>
+        ![Nagomi](https://nananiji.zzzhxxx.top/assets/luna-sig.svg){ width="100" loading=lazy }
+        <figcaption>签名</figcaption>
+    </figure>
 
-    [:fontawesome-brands-twitter: Twitter](https://twitter.com/luna_shijo227){ .md-button .md-button--primary }
+    [:fontawesome-brands-twitter: Twitter](https://twitter.com/luna_shijo227){ .md-button .md-button--primary } [Blog](https://blog.nanabunnonijyuuni.com/s/n227/diary/blog/list?ima=5436&ct=18){ .md-button .md-button--primary }
 
 ## 时间线
 ### 2021 
