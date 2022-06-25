@@ -44,7 +44,7 @@ template: comment.html
         <figcaption>签名</figcaption>
     </figure>
 
-    [:fontawesome-brands-twitter: Twitter](https://twitter.com/mao_asaoka227){ .md-button .md-button--primary }
+    [:fontawesome-brands-twitter: Twitter](https://twitter.com/mao_asaoka227){ .md-button .md-button--primary } [Blog](https://blog.nanabunnonijyuuni.com/s/n227/diary/blog/list?ima=0912&ct=14){ .md-button .md-button--primary }
 
 ## 时间线
 ### 2021 
