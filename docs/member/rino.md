@@ -35,7 +35,10 @@ template: comment.html
 
     <b>角色</b> 濑良穂乃花
   
-
+    <figure markdown>
+        ![Nagomi](https://nananiji.zzzhxxx.top/assets/rino-sig.svg){ width="100" loading=lazy }
+        <figcaption>签名</figcaption>
+    </figure>
     [:fontawesome-brands-twitter: Twitter](https://twitter.com/rino_mochizuki){ .md-button .md-button--primary }
 
 ## 时间线
