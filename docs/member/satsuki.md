@@ -34,7 +34,11 @@ template: comment.html
     --------
 
     <b>角色</b> 织原纯佳
-  
+    
+    <figure markdown>
+        ![Nagomi](https://nananiji.zzzhxxx.top/assets/satsuki-sig.svg){ width="100" loading=lazy }
+        <figcaption>签名</figcaption>
+    </figure>
 
     [:fontawesome-brands-twitter: Twitter](https://twitter.com/satsuki_shiina){ .md-button .md-button--primary }
 
