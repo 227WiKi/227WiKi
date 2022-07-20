@@ -178,6 +178,9 @@ theme:
     code: qingyuan
   
   features:
+    - search.suggest
+    - search.highlight
+    - search.share
     - navigation.tabs
     - navigation.sections
     - navigation.expand
