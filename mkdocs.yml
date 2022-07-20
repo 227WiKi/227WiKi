@@ -147,7 +147,7 @@ nav:
   
   - 广播:
     - 除不尽广播:
-      - 简介: radio/warikirenai/index.mdradio
+      - 简介: radio/warikirenai/index.md
     - ナナニジ RADIO:
       - 简介: radio/fcradio/index.md
 
@@ -192,8 +192,8 @@ edit_uri: edit/master/docs/
 
 plugins:
   - search:
-    lang: 
-        - jp
+      lang: 
+        - ja
         - en
   - git-committers:
       repository: 227WiKi/227WiKi
