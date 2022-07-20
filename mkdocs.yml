@@ -202,13 +202,10 @@ plugins:
   - blogging:
       theme:
         name: button
-        options: # Optional
-          # `true` if display the button as plain text
-          # `false` or not present if display as rectangle button
+        options: 
           - plain_button: false
           # Replacement for 'Continue Reading'
-          - label: Continue Reading
-        locale: zh-CN
+          - label: 继续阅读
       dirs: # The directories to be included
         - blog
       features:
