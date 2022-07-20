@@ -101,6 +101,14 @@ nav:
             - 不知何时的日出: songs/single/8th/song-3.md
             - 今年的 第一场雪(红组): songs/single/8th/song-4.md
             - 摘下耳机!(白组): songs/single/8th/song-5.md
+        - 曇り空の向こうは晴れている:
+          - 简介: songs/single/9th/index.md
+          - 歌曲:
+            - 曇り空の向こうは晴れている: songs/single/9th/song-1.md
+            - 打ち上げ花火の拒否権: songs/single/9th/song-2.md
+            - 君は誰だ？: songs/single/9th/song-3.md
+            - カントリーガール: songs/single/9th/song-4.md
+            - 読みかけの漫画: songs/single/9th/song-5.md
     - 专辑:
       - 名为11的永远的素数: 
         - 简介: songs/album/1st/index-disc.md
@@ -137,8 +145,11 @@ nav:
   - 检算中:
     - 简介: kensanchu/index.md
   
-  - 除不尽广播:
-    - 简介: radio/index.md
+  - 广播:
+    - 除不尽广播:
+      - 简介: radio/index.md
+    - 22/7 RADIO:
+      - 简介: radio/index.md
 
   - 个人节目/直播:
     - 索引: personal-bangumi/index.md
@@ -180,20 +191,24 @@ repo_name: 227WiKi/227WiKi
 edit_uri: edit/master/docs/
 
 plugins:
-  - search
+  - search:
+    lang: 
+        - jp
+        - en
   - git-committers:
       repository: 227WiKi/227WiKi
       branch: master
       token: !!python/object/apply:os.getenv ["MKDOCS_GIT_COMMITTERS_APIKEY"]
   - blogging:
       theme:
-        name: card
+        name: button
         options: # Optional
           # `true` if display the button as plain text
           # `false` or not present if display as rectangle button
-          - plain_button: true
+          - plain_button: false
           # Replacement for 'Continue Reading'
-          - label: Read
+          - label: Continue Reading
+        locale: zh-CN
       dirs: # The directories to be included
         - blog
       features:
