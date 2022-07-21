@@ -1,5 +1,5 @@
 site_name: 22/7 WiKi
-site_url: https://227WiKi.github.io/227WiKi/
+site_url: https://wiki.zzzhxxx.top/227WiKi/
 nav:
   - 首页: index.md
   - 简介:
@@ -198,6 +198,7 @@ plugins:
       lang: 
         - ja
         - en
+      separator: '[\s\-\.]+'
   - git-committers:
       repository: 227WiKi/227WiKi
       branch: master

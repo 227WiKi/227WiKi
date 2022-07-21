@@ -104,6 +104,10 @@ template: comment.html
 - 喜欢Licca-chan娃娃，甚至有一个代表她自己甚至神木御神的娃娃。[^10]甚至会为她们制作22/7的衣服。[^11]
 - 有点害怕电影院[^9]
 
+## FREE TALK
+
+<div id="dplayer"></div>
+
 [^1]: https://twitter.com/moepiyo_227/status/1393923302700113925
 [^2]: SHOWROOM 2017.12.02
 [^3]: https://www.bilibili.com/read/cv9980407
@@ -115,3 +119,35 @@ template: comment.html
 [^9]: SHOWROOM 2018.03.08
 [^10]: https://twitter.com/moepiyo_227/status/1179227320906899457
 [^11]: https://twitter.com/moepiyo_227/status/1070291611223912448
+<html>
+<head>
+    <meta name="referrer" content="never">
+</head>
+
+<body>
+    <script src="https://nananiji.zzzhxxx.top/js/md5.js"></script>
+    <script src="https://nananiji.zzzhxxx.top/js/hls.min.js"></script>
+    <script src="https://nananiji.zzzhxxx.top/js/DPlayer.min.js"></script>
+    <script>
+        const dp = new DPlayer({
+        container: document.getElementById('dplayer'),
+        video: {
+            url: 'https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/4504957038001/081bc17b-0547-4ff9-a713-14846e7dc21f/10s/master.m3u8?fastly_token=NjJkOWNjOTVfZDVlN2M4ODdmNDhiMWU4ZWIzZWNhZWU3NDAwY2E2YzQ4MDMxZjI0NjM1YzBhNTU5MGExNzQ2MDFiMTU2ZWIzMw%3D%3D',
+            type: 'hls',
+        },
+        danmaku: {
+            id: md5('moe-intro'),
+            api: "https://danmu.zzzhxxx.top/"
+        },
+        contextmenu: [
+        {
+            text: '227WiKi',
+            link: 'https://github.com/zzzhxxx/227WiKi',
+        },
+        ]
+    });
+    console.log(dp.plugins.hls);
+    </script>
+    
+</body>
+</html>
