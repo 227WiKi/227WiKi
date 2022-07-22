@@ -691,6 +691,13 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#free-talk" class="md-nav__link">
+    FREE TALK
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -3618,12 +3625,16 @@
 <div id="dplayer"></div>
 
 <p><a class="md-button md-button--primary" href="https://www.bilibili.com/video/BV1n741147yh"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200" class="icon" p-id="2920" t="1642668483949" version="1.1" viewBox="0 0 1024 1024"><defs><style type="text/css">:not(pre){-webkit-text-stroke:0!important}</style></defs><path d="M306.005333 117.632L444.330667 256h135.296l138.368-138.325333a42.666667 42.666667 0 0 1 60.373333 60.373333L700.330667 256H789.333333A149.333333 149.333333 0 0 1 938.666667 405.333333v341.333334a149.333333 149.333333 0 0 1-149.333334 149.333333h-554.666666A149.333333 149.333333 0 0 1 85.333333 746.666667v-341.333334A149.333333 149.333333 0 0 1 234.666667 256h88.96L245.632 177.962667a42.666667 42.666667 0 0 1 60.373333-60.373334zM789.333333 341.333333h-554.666666a64 64 0 0 0-63.701334 57.856L170.666667 405.333333v341.333334a64 64 0 0 0 57.856 63.701333L234.666667 810.666667h554.666666a64 64 0 0 0 63.701334-57.856L853.333333 746.666667v-341.333334A64 64 0 0 0 789.333333 341.333333zM341.333333 469.333333a42.666667 42.666667 0 0 1 42.666667 42.666667v85.333333a42.666667 42.666667 0 0 1-85.333333 0v-85.333333a42.666667 42.666667 0 0 1 42.666666-42.666667z m341.333334 0a42.666667 42.666667 0 0 1 42.666666 42.666667v85.333333a42.666667 42.666667 0 0 1-85.333333 0v-85.333333a42.666667 42.666667 0 0 1 42.666667-42.666667z" p-id="2921"/></svg></span> 前往bilibili观看</a></p>
+<h2 id="free-talk">FREE TALK<a class="headerlink" href="#free-talk" title="Permanent link">&para;</a></h2>
+<div id="dplayer2"></div>
+
 <p><html>
 <head>
     <meta name="referrer" content="never">
 </head></p>
 <body>
     <script src="https://nananiji.zzzhxxx.top/js/md5.js"></script>
+    <script src="https://nananiji.zzzhxxx.top/js/hls.min.js"></script>
     <script src="https://nananiji.zzzhxxx.top/js/DPlayer.min.js"></script>
     <script>
         const dp = new DPlayer({
@@ -3644,7 +3655,26 @@
         ]
     });
     </script>
-
+    <script>
+        const dp2 = new DPlayer({
+        container: document.getElementById('dplayer2'),
+        video: {
+            url: 'https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/4504957038001/18b69659-d2d4-4ccd-98cb-77e93298b3f5/10s/master.m3u8?fastly_token=NjJkYTQ3MTdfNmU3ZWVmNWU0NmYxYzExOTA3NGNlMTIyZTcxMTQzMzU4MGIwN2IwOTBjMmIwNGQ1MWUwN2QyMTYyN2IyZDI0OQ%3D%3D',
+            type: 'hls',
+        },
+        danmaku: {
+            id: md5('nagomi-intro'),
+            api: "https://danmu.zzzhxxx.top/"
+        },
+        contextmenu: [
+        {
+            text: '227WiKi',
+            link: 'https://github.com/zzzhxxx/227WiKi',
+        },
+        ]
+    });
+    console.log(dp.plugins.hls);
+    </script>
 </body>
 <p></html></p>
 <div class="footnote">
@@ -4151,7 +4181,7 @@
   <ul class="metadata page-metadata" data-bi-name="page info" lang="zh-cn" dir="ltr">
     <li class="last-updated-holder displayDate loading">
       <span class="last-updated-text">最后更新时间:</span>
-      <time role="presentation" datetime="2018-10-25T00:00:00.000Z" data-article-date-source="ms.date">2022-05-29</time>
+      <time role="presentation" datetime="2018-10-25T00:00:00.000Z" data-article-date-source="ms.date">2022-07-22</time>
     </li>
   </ul>
 
