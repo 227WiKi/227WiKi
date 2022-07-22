@@ -63,6 +63,44 @@ template: comment.html
 - 就读高中的偏差值为76，全日本排名第十位[^2]
 - 特别喜欢tirol巧克力(チロルチョコ)[^3]
 
+## FREE TALK
+
+<div id="dplayer"></div>
+
+<html>
+<head>
+    <meta name="referrer" content="never">
+</head>
+
+<body>
+    <script src="https://nananiji.zzzhxxx.top/js/md5.js"></script>
+    <script src="https://nananiji.zzzhxxx.top/js/hls.min.js"></script>
+    <script src="https://nananiji.zzzhxxx.top/js/DPlayer.min.js"></script>
+    <script>
+        const dp = new DPlayer({
+        container: document.getElementById('dplayer'),
+        video: {
+            url: 'https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/4504957038001/316cb35b-a174-42c7-b517-fa3da69997a1/10s/master.m3u8?fastly_token=NjJkYTRmYWZfNzIyNDU3MDU3NzA0MWFhNjY1MjZhMDNmYWIwMTI5NjA1ZjAxOGFhMWY5ZWY2NzU3ZDU5MDE1ZjY4NjQ3ZWE3NQ%3D%3D',
+            type: 'hls',
+        },
+        danmaku: {
+            id: md5('mao-intro'),
+            api: "https://danmu.zzzhxxx.top/"
+        },
+        contextmenu: [
+        {
+            text: '227WiKi',
+            link: 'https://github.com/zzzhxxx/227WiKi',
+        },
+        ]
+    });
+    console.log(dp.plugins.hls);
+    </script>
+    
+</body>
+</html>
+
 [^1]: https://prtimes.jp/main/html/rd/p/000000049.000026524.html
 [^2]: https://www.minkou.jp/hischool/school/1721/
 [^3]: https://twitter.com/mao_asaoka227
+

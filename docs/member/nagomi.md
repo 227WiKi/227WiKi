@@ -118,6 +118,11 @@ template: comment.html
 
 [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV1n741147yh){ .md-button .md-button--primary }
 
+## FREE TALK
+
+<div id="dplayer2"></div>
+
+
 
 [^1]: https://www.bilibili.com/video/BV1nk4y1k7nd
 [^2]: https://www.bilibili.com/video/BV1L7411U7dh
@@ -131,6 +136,7 @@ template: comment.html
 
 <body>
     <script src="https://nananiji.zzzhxxx.top/js/md5.js"></script>
+    <script src="https://nananiji.zzzhxxx.top/js/hls.min.js"></script>
     <script src="https://nananiji.zzzhxxx.top/js/DPlayer.min.js"></script>
     <script>
         const dp = new DPlayer({
@@ -151,6 +157,26 @@ template: comment.html
         ]
     });
     </script>
-    
+    <script>
+        const dp2 = new DPlayer({
+        container: document.getElementById('dplayer2'),
+        video: {
+            url: 'https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/4504957038001/18b69659-d2d4-4ccd-98cb-77e93298b3f5/10s/master.m3u8?fastly_token=NjJkYTQ3MTdfNmU3ZWVmNWU0NmYxYzExOTA3NGNlMTIyZTcxMTQzMzU4MGIwN2IwOTBjMmIwNGQ1MWUwN2QyMTYyN2IyZDI0OQ%3D%3D',
+            type: 'hls',
+        },
+        danmaku: {
+            id: md5('nagomi-intro'),
+            api: "https://danmu.zzzhxxx.top/"
+        },
+        contextmenu: [
+        {
+            text: '227WiKi',
+            link: 'https://github.com/zzzhxxx/227WiKi',
+        },
+        ]
+    });
+    console.log(dp.plugins.hls);
+    </script>
 </body>
 </html>
+

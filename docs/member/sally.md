@@ -120,6 +120,9 @@ template: comment.html
 
 <iframe src="//player.bilibili.com/blackboard/newplayer.html?aid=24916894&bvid=BV1qW411F7AW&cid=42051306&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
+## FREE TALK
+
+<div id="dplayer"></div>
 
 [^1]: https://twitter.com/sally_amaki/status/1303928957029330945
 [^2]: https://entertainmentstation.jp/118434
@@ -127,3 +130,35 @@ template: comment.html
 [^4]: https://www.bilibili.com/video/BV12z411i7Sf
 [^5]: SHOWROOM 2018.03.07
 [^6]: SHOWROOM 2018.03.05
+<html>
+<head>
+    <meta name="referrer" content="never">
+</head>
+
+<body>
+    <script src="https://nananiji.zzzhxxx.top/js/md5.js"></script>
+    <script src="https://nananiji.zzzhxxx.top/js/hls.min.js"></script>
+    <script src="https://nananiji.zzzhxxx.top/js/DPlayer.min.js"></script>
+    <script>
+        const dp = new DPlayer({
+        container: document.getElementById('dplayer'),
+        video: {
+            url: 'https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/4504957038001/e543e4bf-0d45-4461-8087-a76132b669aa/10s/master.m3u8?fastly_token=NjJkYTQ4ODlfMTQ4NmJkZDU0ZWNlMTk2YWI5M2Y0Njg2MGYyNjA2N2FkMDQzODgyMDQwNDNlOWE3NDkyYTk1NTYzMGM3YTcwZg%3D%3D',
+            type: 'hls',
+        },
+        danmaku: {
+            id: md5('sally-intro'),
+            api: "https://danmu.zzzhxxx.top/"
+        },
+        contextmenu: [
+        {
+            text: '227WiKi',
+            link: 'https://github.com/zzzhxxx/227WiKi',
+        },
+        ]
+    });
+    console.log(dp.plugins.hls);
+    </script>
+    
+</body>
+</html>

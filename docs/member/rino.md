@@ -51,3 +51,40 @@ template: comment.html
 - 2月27日在ナナニジ House中初次亮相
 - 4月20日在“14”东京追加公演上宣布为濑良穂乃花配音
 ## 相关
+
+## FREE TALK
+
+<div id="dplayer"></div>
+
+<html>
+<head>
+    <meta name="referrer" content="never">
+</head>
+
+<body>
+    <script src="https://nananiji.zzzhxxx.top/js/md5.js"></script>
+    <script src="https://nananiji.zzzhxxx.top/js/hls.min.js"></script>
+    <script src="https://nananiji.zzzhxxx.top/js/DPlayer.min.js"></script>
+    <script>
+        const dp = new DPlayer({
+        container: document.getElementById('dplayer'),
+        video: {
+            url: 'https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/4504957038001/3c6bbf28-1eed-4ef9-bb8d-ab4cf43904d8/10s/master.m3u8?fastly_token=NjJkYTUwYWRfNTcwYmYwNmQ3NmUxZTk3ODU1ODZmN2I4MjlkNWY4OGYwNWQ4NDQ5OGYzZDBlMDI4MTFmOTFhMjI1ZWRhMjY1Yw%3D%3D',
+            type: 'hls',
+        },
+        danmaku: {
+            id: md5('rino-intro'),
+            api: "https://danmu.zzzhxxx.top/"
+        },
+        contextmenu: [
+        {
+            text: '227WiKi',
+            link: 'https://github.com/zzzhxxx/227WiKi',
+        },
+        ]
+    });
+    console.log(dp.plugins.hls);
+    </script>
+    
+</body>
+</html>
