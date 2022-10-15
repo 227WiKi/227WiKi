@@ -137,9 +137,9 @@ template: comment.html
 |  36   | <a data-caption="ジャー！トレジャー！！プールサイドハンティング！！！-闲暇！财宝！！泳池边的狩猎！！！" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/game/event_banner/event_banner%20%23290787.png"><img loading="lazy" alt="1st-1" src="https://nananiji.zzzhxxx.top/assets/game/event_banner/event_banner%20%23290787.png" title="Title" width="100%" /></a>|レジャー！トレジャー！！プールサイドハンティング！！！<br>闲暇！财宝！！泳池边的狩猎！！！| glory days<br>オレンジ|[海の風物詩] 4★斎藤ニコル<br>[風と波を味方に] 4★東条悠希<br>[海上の熱き闘い] 4★丸山あかね<br>[とっておきのスリル] 4★柊つぼみ		| 剧情 | 
 
 
-## 停服后如何游玩铺面
+## 停服后如何游玩谱面
 
-通过使用模拟器软件[Sonolus](https://www.sonolus.com/),我们依旧可以游玩到七音的铺面，Sonolus的七音服务器在还未停服前已开始运作 ~~（虽然很长一段时间只有一首歌）~~
+通过使用模拟器软件[Sonolus](https://www.sonolus.com/),我们依旧可以游玩到七音的谱面，Sonolus的七音服务器在还未停服前已开始运作 ~~（虽然很长一段时间只有一首歌）~~
 
 ### 步骤
 
@@ -186,7 +186,7 @@ https://servers.sonolus.cn/nanaon
 
 #### 3.游玩
 
-服务器添加完毕后会回到选择服务器界面，选择您添加的服务器，进入后选择或搜索您想要游玩的铺面即可
+服务器添加完毕后会回到选择服务器界面，选择您添加的服务器，进入后选择或搜索您想要游玩的谱面即可
 
 ![](https://nananiji.zzzhxxx.top/assets/game/tutorial/4.jpg){ loading=lazy }
 
