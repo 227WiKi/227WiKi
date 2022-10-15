@@ -160,8 +160,11 @@ template: comment.html
     <script>
         const dp2 = new DPlayer({
         container: document.getElementById('dplayer2'),
+        live: true,
+        danmaku: true,
+        
         video: {
-            url: 'https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/4504957038001/18b69659-d2d4-4ccd-98cb-77e93298b3f5/10s/master.m3u8?fastly_token=NjJkYTQ3MTdfNmU3ZWVmNWU0NmYxYzExOTA3NGNlMTIyZTcxMTQzMzU4MGIwN2IwOTBjMmIwNGQ1MWUwN2QyMTYyN2IyZDI0OQ%3D%3D',
+            url: 'https://bcovlive-a.akamaihd.net/653eddba1a7247b0ac7b6bc42c6d7453/ap-northeast-1/6160987587001/profile_0/chunklist.m3u8',
             type: 'hls',
         },
         danmaku: {
