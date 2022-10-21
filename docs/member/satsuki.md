@@ -81,7 +81,7 @@ template: comment.html
         contextmenu: [
         {
             text: '227WiKi',
-            link: 'https://github.com/zzzhxxx/227WiKi',
+            link: 'https://github.com/227WiKi/227WiKi',
         },
         ]
     });

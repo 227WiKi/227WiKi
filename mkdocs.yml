@@ -164,6 +164,9 @@ nav:
   - 博客:
     - 列表: blog-content.md
     - 索引: tags.md
+    
+  - 直播: watch.md
+
 theme:
   name: material
   palette:
