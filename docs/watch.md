@@ -18,7 +18,6 @@
         container: document.getElementById('dplayer'),
         live: true,
         danmaku: true,
-        
         video: {
             url: 'https://bcovlive-a.akamaihd.net/9eed6cee69614bbdb584a2b2ba1fe72f/ap-northeast-1/6160987587001/profile_0/chunklist.m3u8',
             type: 'hls',
