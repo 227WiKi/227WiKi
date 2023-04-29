@@ -12,8 +12,11 @@ template: comment.html
         </a>
     === "完全生产限定版Type-B"
         !![](https://nananiji.zzzhxxx.top/assets/photo/songs/single/1st-2.jpg)
-    --------
     
+    <center>:pack-hires: Hi-Res Lossless</center>
+    
+    --------
+
     <b>专辑名称:</b> 不曾存在的我
 
     --------
@@ -35,6 +38,8 @@ template: comment.html
     --------
 
     <b>发行公司:</b> Sony Music Records
+
+
 
 不曾存在的我(僕は存在していなかった)是22/7的首张Single也是Single中主打歌的歌名，在2017年9月20日发布.
 
@@ -62,6 +67,8 @@ template: comment.html
 总时长： 5:24
 ##  试听
 
+### 网易云音乐
+
 <meting-js
         id="36224294"
         server="netease"
@@ -75,6 +82,9 @@ template: comment.html
         >
 </meting-js>
 
+### Apple Music
+<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="450" style="width:100%;max-width:1230px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/cn/album/%E5%83%95%E3%81%AF%E5%AD%98%E5%9C%A8%E3%81%97%E3%81%A6%E3%81%84%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F-ep/1537751447"></iframe>
+
 ## 视频
 !!! success "提示"
 
@@ -83,7 +93,7 @@ template: comment.html
     <div id="dplayer1">
     </div>
 
-    [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV1vZ4y1g7uS){ .md-button .md-button--primary }[:fontawesome-brands-youtube: 前往YouTube观看](https://www.youtube.com/watch?v=lKGDCoRjlCk){ .md-button .md-button--primary }
+    [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV1vZ4y1g7uS){ .md-button .md-button--primary }      [:fontawesome-brands-youtube: 前往YouTube观看](https://www.youtube.com/watch?v=lKGDCoRjlCk){ .md-button .md-button--primary }
 === "Lyric Video"
     <div id="dplayer2">
     </div>
