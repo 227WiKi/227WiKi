@@ -13,7 +13,7 @@ jobs:
           fetch-depth: 0
       - uses: actions/setup-python@v2
         with:
-          python-version: 3.8.2
+          python-version: 3.8.12
       - run: pip install \
           mkdocs-material \
           fancyboxmd \
