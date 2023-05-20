@@ -30,7 +30,7 @@ template: comment.html
             quality: [
                 {
                     name: '8bit',
-                    url: 'https://link.zzzhxxx.top/?/227-live/Anniversary%202021/8bit/%5BSHANA%5D22%EF%BC%8F7%20ANNIVERSARY%20LIVE%202021%20-%20Night%20.mp4',
+                    url: 'http://yun.zzzhxxx.top/d/LIVES/22%EF%BC%8F7%20LIVE%20at%20%E6%9D%B1%E4%BA%AC%E5%9B%BD%E9%9A%9B%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A0%20ANNIVERSARY%20LIVE%202021%20-%20Day%20(BDrip%20FHD%20ALACx2%20with%20Commentary).mp4',
                     type: 'normal',
                 },
                 {

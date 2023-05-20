@@ -86,17 +86,11 @@ template: comment.html
 <iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="450" style="width:100%;max-width:1230px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/cn/album/%E5%83%95%E3%81%AF%E5%AD%98%E5%9C%A8%E3%81%97%E3%81%A6%E3%81%84%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F-ep/1537751447"></iframe>
 
 ## 视频
-!!! success "提示"
 
-    B站弹幕已嵌入
 === "Music Video"
-    <div id="dplayer1">
-    </div>
-
-    [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV1vZ4y1g7uS){ .md-button .md-button--primary }      [:fontawesome-brands-youtube: 前往YouTube观看](https://www.youtube.com/watch?v=lKGDCoRjlCk){ .md-button .md-button--primary }
+    [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV1vZ4y1g7uS){ .md-button .md-button--primary }
+    [:fontawesome-brands-youtube: 前往YouTube观看](https://www.youtube.com/watch?v=lKGDCoRjlCk){ .md-button .md-button--primary }
 === "Lyric Video"
-    <div id="dplayer2">
-    </div>
 
     [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV1Xx411i7Wb){ .md-button .md-button--primary }
 
@@ -108,52 +102,3 @@ template: comment.html
 
 [^1]: 带有 :pack-hires: 则说明该曲目/单曲提供Hi-Res无损格式下载
 <!-- gitalk -->
-
-<html>
-<head>
-    <meta name="referrer" content="never">
-</head>
-<body>
-    <script src="https://nananiji.zzzhxxx.top/js/md5.js"></script>
-    <script src="https://nananiji.zzzhxxx.top/js/DPlayer.min.js"></script>
-    <script>
-        const dp1 = new DPlayer({
-        container: document.getElementById('dplayer1'),
-        video: {
-            url: 'https://link.zzzhxxx.top/?/227-mv/1%2022%207%20-%20Bokuwa%20Sonzai%20Shiteinakatta.mp4',
-        },
-        danmaku: {
-            id: md5('https://link.zzzhxxx.top/?/227-mv/1%2022%207%20-%20Bokuwa%20Sonzai%20Shiteinakatta.mp4'),
-            addition: ['https://danmu.zzzhxxx.top/v3/bilibili?aid=373098921&bvid=BV1vZ4y1g7uS&cid=369475374'],
-            api: "https://danmu.zzzhxxx.top/"
-        },
-        contextmenu: [
-        {
-            text: '227WiKi',
-            link: 'https://github.com/zzzhxxx/227WiKi',
-        },
-        ]
-    });
-    </script>
-    <script>
-        const dp2 = new DPlayer({
-        container: document.getElementById('dplayer2'),
-        video: {
-            url: 'https://link.zzzhxxx.top/?/227-mv/22%207%20%E3%80%8E%E4%B8%8D%E6%9B%BE%E5%AD%98%E5%9C%A8%E7%9A%84%E6%88%91%E3%80%8F%E3%80%8E%E5%83%95%E3%81%AF%E5%AD%98%E5%9C%A8%E3%81%97%E3%81%A6%E3%81%84%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F%E3%80%8FLyric%20Video%E3%80%8E%E4%B8%AD%E6%96%87%E5%AD%97%E5%B9%95%E3%80%8F.mp4',
-        },
-        danmaku: {
-            id: md5('https://link.zzzhxxx.top/?/227-mv/22%207%20%E3%80%8E%E4%B8%8D%E6%9B%BE%E5%AD%98%E5%9C%A8%E7%9A%84%E6%88%91%E3%80%8F%E3%80%8E%E5%83%95%E3%81%AF%E5%AD%98%E5%9C%A8%E3%81%97%E3%81%A6%E3%81%84%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F%E3%80%8FLyric%20Video%E3%80%8E%E4%B8%AD%E6%96%87%E5%AD%97%E5%B9%95%E3%80%8F.mp4'),
-            addition: ['https://danmu.zzzhxxx.top/v3/bilibili?aid=12491357&bvid=BV1Xx411i7Wb&cid=20556630'],
-            api: "https://danmu.zzzhxxx.top/"
-        },
-        contextmenu: [
-        {
-            text: '227WiKi',
-            link: 'https://github.com/zzzhxxx/227WiKi',
-        },
-        ]
-    });
-    </script>
-    
-</body>
-</html>
