@@ -145,6 +145,10 @@
           mask-image: var(--md-admonition-icon--game);
     
 }
+.md-grid {
+  max-width: 1920px;
+}
+
 @font-face {
   font-family: "font";
   src: 

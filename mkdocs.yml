@@ -1,5 +1,5 @@
 site_name: 22/7 WiKi
-site_url: https://wiki.zzzhxxx.top/227WiKi/
+site_url: https://227wiki.eu.org
 nav:
   - 首页: index.md
   - 简介:
@@ -12,7 +12,6 @@ nav:
       - 西條和: member/nagomi.md
       - 天城莎莉: member/sally.md
       - 凉花萌: member/moe.md
-      - 宫濑玲奈: member/reina.md
       - 白泽加奈惠: member/kanae.md
       - 河濑诗: member/uta.md
       - 相川奈央: member/nao.md
@@ -24,6 +23,7 @@ nav:
       - 月城咲舞: member/emma.md
       - 望月りの: member/rino.md
     - 毕业成员:
+      - 宫濑玲奈(佐仓初): member/reina.md
       - 海乃琉璃(吉宫瑠织): member/ruri.md
       - 仓冈水巴(仓丸莉子): member/mizuha.md
       - 武田爱奈: member/aina.md
@@ -161,9 +161,7 @@ nav:
     - 简介: game/index.md
     - 卡面: game/card.md
 
-  - 博客:
-    - 列表: blog-content.md
-    - 索引: tags.md
+  - 博客: https://blog.227wiki.eu.org
     
   - 直播: watch.md
 
@@ -181,6 +179,8 @@ theme:
     code: qingyuan
   
   features:
+    - content.action.edit
+    - content.action.view
     - search.suggest
     - search.highlight
     - search.share
@@ -188,7 +188,7 @@ theme:
     - navigation.sections
     - navigation.expand
     - navigation.top
-    - toc.integrate
+    - navigation.indexes
   icon:
     repo: fontawesome/brands/github-alt
 
@@ -248,7 +248,7 @@ extra:
       name: 22/7 Official Website
     - icon: fontawesome/solid/paper-plane
       link: mailto:<feedback@zzzhxxx.top>
-copyright: Copyright &copy; 2021 - 2022 22/7 WiKi
+copyright: Copyright &copy; 2021 - 2023 22/7 WiKi
 
 markdown_extensions:
   - admonition
