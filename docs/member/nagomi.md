@@ -4,6 +4,14 @@ template: comment.html
 ---
 # :pack-sig-member-nagomi-sig: 西條和
 !!! nagomi-sig inline end "西條和"
+    === "十一单"
+
+        !![十一单公式照](https://nananiji.zzzhxxx.top/assets/photo/nagomi/11th.jpg)
+
+    === "十单"
+
+        !![十单公式照](https://nananiji.zzzhxxx.top/assets/photo/nagomi/10th.jpg)
+
     === "九单(v2)"
 
         !![九单公式照(第二版)](https://nananiji.zzzhxxx.top/assets/photo/nagomi/9th-2.jpg)
@@ -79,7 +87,9 @@ template: comment.html
         <figcaption>签名</figcaption>
     </figure>
     [:fontawesome-brands-twitter: Twitter](https://twitter.com/nagomi_saijo){ .md-button .md-button--primary } [Blog](http://blog.nanabunnonijyuuni.com/s/n227/diary/blog/list?ima=1526&ct=04){ .md-button .md-button--primary }
+
 ## 时间线
+
 ### 2016
 
 - 12月24日，从10,325名中通过了22/7的最终审核。报名号为22号。
@@ -106,15 +116,13 @@ template: comment.html
 - 声优方面受到了高山南的影响
 - 喜欢跳舞，但由于担心自己跳得不像偶像，在跳舞时很难保持微笑。小时候曾模仿过Fairies团体跳舞，并掌握了一些跳舞的方法。
 
+## 声音样本
+
+<div id="aplayer"></div>
+
 ## 个人采访
 
-视频来自:[22/7 中文应援站](https://space.bilibili.com/118938280)
- 
-!!! success "提示"
-
-    B站弹幕已嵌入
-
-<div id="dplayer"></div>
+<iframe src="https://player.bilibili.com/player.html?aid=87900951&bvid=BV1n741147yh&cid=150175780&page=1" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
 
 [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV1n741147yh){ .md-button .md-button--primary }
 
@@ -135,17 +143,19 @@ template: comment.html
 </head>
 
 <body>
+    <link rel="stylesheet" href="https://nananiji.zzzhxxx.top/css/aplayer.min.css">
     <script src="https://nananiji.zzzhxxx.top/js/md5.js"></script>
     <script src="https://nananiji.zzzhxxx.top/js/hls.min.js"></script>
     <script src="https://nananiji.zzzhxxx.top/js/DPlayer.min.js"></script>
+    <script src="https://nananiji.zzzhxxx.top/js/aplayer.min.js"></script>
     <script>
         const dp = new DPlayer({
         container: document.getElementById('dplayer'),
         video: {
-            url: 'https://link.zzzhxxx.top/?/227-mv/nagomi_interview.mp4',
+            url: 'https://files.zzzhxxx.top/video/nagomi.ts',
         },
         danmaku: {
-            id: md5('https://link.zzzhxxx.top/?/227-mv/nagomi_interview.mp4'),
+            id: md5('https://files.zzzhxxx.top/video/nagomi.ts'),
             addition: ['https://danmu.zzzhxxx.top/v3/bilibili?aid=87900951&bvid=BV1n741147yh&cid=150175780'],
             api: "https://danmu.zzzhxxx.top/"
         },
@@ -160,12 +170,8 @@ template: comment.html
     <script>
         const dp2 = new DPlayer({
         container: document.getElementById('dplayer2'),
-        live: true,
-        danmaku: true,
-        
         video: {
-            url: 'https://bcovlive-a.akamaihd.net/653eddba1a7247b0ac7b6bc42c6d7453/ap-northeast-1/6160987587001/profile_0/chunklist.m3u8',
-            type: 'hls',
+            url: 'https://files.zzzhxxx.top/video/nagomi.mp4',
         },
         danmaku: {
             id: md5('nagomi-intro'),
@@ -178,8 +184,18 @@ template: comment.html
         },
         ]
     });
-    console.log(dp.plugins.hls);
     </script>
+    <script>
+        const ap = new APlayer({
+        container: document.getElementById('aplayer'),
+        audio: [{
+            name: 'Voice Sample',
+            artist: '西條和',
+            url: 'https://files.zzzhxxx.top/voicesample/nagomi.mp3',
+            cover: 'https://nananiji.zzzhxxx.top/assets/photo/avatar/nagomi.jpg'
+    }]
+});
+        </script>
 </body>
 </html>
 
