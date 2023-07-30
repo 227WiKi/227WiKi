@@ -118,12 +118,15 @@ template: comment.html
 - 对鸡蛋有一种奇怪的兴趣[^6]
 
 ## 采访
-
-<iframe src="//player.bilibili.com/blackboard/newplayer.html?aid=24916894&bvid=BV1qW411F7AW&cid=42051306&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="https://player.bilibili.com/player.html?aid=87900951&bvid=BV1qW411F7AW&cid=42051306&page=1" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
 
 ## FREE TALK
 
 <div id="dplayer"></div>
+
+## 声音样本
+
+<div id="aplayer"></div>
 
 [^1]: https://twitter.com/sally_amaki/status/1303928957029330945
 [^2]: https://entertainmentstation.jp/118434
@@ -140,12 +143,12 @@ template: comment.html
     <script src="https://nananiji.zzzhxxx.top/js/md5.js"></script>
     <script src="https://nananiji.zzzhxxx.top/js/hls.min.js"></script>
     <script src="https://nananiji.zzzhxxx.top/js/DPlayer.min.js"></script>
+    <script src="https://nananiji.zzzhxxx.top/js/aplayer.min.js"></script>
     <script>
         const dp = new DPlayer({
         container: document.getElementById('dplayer'),
         video: {
-            url: 'https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/4504957038001/e543e4bf-0d45-4461-8087-a76132b669aa/10s/master.m3u8?fastly_token=NjJkYTQ4ODlfMTQ4NmJkZDU0ZWNlMTk2YWI5M2Y0Njg2MGYyNjA2N2FkMDQzODgyMDQwNDNlOWE3NDkyYTk1NTYzMGM3YTcwZg%3D%3D',
-            type: 'hls',
+            url: 'https://files.zzzhxxx.top/video/sally.mp4',
         },
         danmaku: {
             id: md5('sally-intro'),
@@ -160,6 +163,46 @@ template: comment.html
     });
     console.log(dp.plugins.hls);
     </script>
-    
+    <script>
+        const ap = new APlayer({
+        container: document.getElementById('aplayer'),
+        audio: [{
+            name: '对话1',
+            artist: '天城サリー',
+            url: 'https://files.zzzhxxx.top/voicesample/sally-1.mp4',
+            cover: 'https://nananiji.zzzhxxx.top/assets/photo/avatar/sally.jpg'
+            },
+            {
+                name: '对话2',
+                artist: '天城サリー',
+                url: 'https://files.zzzhxxx.top/voicesample/sally-2.mp4',
+                cover: 'https://nananiji.zzzhxxx.top/assets/photo/avatar/sally.jpg'
+            },
+            {
+                name: '对话3',
+                artist: '天城サリー',
+                url: 'https://files.zzzhxxx.top/voicesample/sally-3.mp4',
+                cover: 'https://nananiji.zzzhxxx.top/assets/photo/avatar/sally.jpg'
+            },
+            {
+                name: '对话4',
+                artist: '天城サリー',
+                url: 'https://files.zzzhxxx.top/voicesample/sally-4.mp4',
+                cover: 'https://nananiji.zzzhxxx.top/assets/photo/avatar/sally.jpg'
+            },
+            {
+                name: '对话5',
+                artist: '天城サリー',
+                url: 'https://files.zzzhxxx.top/voicesample/sally-5.mp4',
+                cover: 'https://nananiji.zzzhxxx.top/assets/photo/avatar/sally.jpg'
+            },
+            {
+                name: '旁白',
+                artist: '天城サリー',
+                url: 'https://files.zzzhxxx.top/voicesample/sally-6.mp4',
+                cover: 'https://nananiji.zzzhxxx.top/assets/photo/avatar/sally.jpg'
+            }]
+});
+        </script>
 </body>
 </html>
