@@ -103,5 +103,63 @@ template: comment.html
 - 曾经让kanae教过英语
 - 经常拜访在长崎的祖父母[^2]
 
+## FREE TALK
+
+<div id="dplayer"></div>
+
+## 声音样本
+
+<div id="aplayer"></div>
+
+<body>
+    <script src="https://nananiji.zzzhxxx.top/js/md5.js"></script>
+    <script src="https://nananiji.zzzhxxx.top/js/hls.min.js"></script>
+    <script src="https://nananiji.zzzhxxx.top/js/DPlayer.min.js"></script>
+    <script src="https://nananiji.zzzhxxx.top/js/aplayer.min.js"></script>
+    <script>
+        const dp = new DPlayer({
+        container: document.getElementById('dplayer'),
+        video: {
+            url: 'https://files.zzzhxxx.top/video/kanae.mp4',
+        },
+        danmaku: {
+            id: md5('kanae-intro'),
+            api: "https://danmu.zzzhxxx.top/"
+        },
+        contextmenu: [
+        {
+            text: '227WiKi',
+            link: 'https://github.com/227WiKi/227WiKi',
+        },
+        ]
+    });
+    console.log(dp.plugins.hls);
+    </script>
+    <script>
+        const ap = new APlayer({
+        container: document.getElementById('aplayer'),
+        audio: [{
+            name: '对话1',
+            artist: '白沢かなえ',
+            url: 'https://files.zzzhxxx.top/voicesample/kanae-1.mp4',
+            cover: 'https://nananiji.zzzhxxx.top/assets/photo/avatar/kanae.jpg'
+            },
+            {
+                name: '对话2',
+                artist: '白沢かなえ',
+                url: 'https://files.zzzhxxx.top/voicesample/kanae-2.mp4',
+                cover: 'https://nananiji.zzzhxxx.top/assets/photo/avatar/kanae.jpg'
+            },
+            {
+                name: '对话3',
+                artist: '白沢かなえ',
+                url: 'https://files.zzzhxxx.top/voicesample/kanae-3.mp4',
+                cover: 'https://nananiji.zzzhxxx.top/assets/photo/avatar/kanae.jpg'
+            }]
+});
+        </script>
+</body>
+</html>
+
 [^1]: SHOWROOM 2017.10.31
 [^2]: https://blog.nanabunnonijyuuni.com/s/n227/diary/detail/179
