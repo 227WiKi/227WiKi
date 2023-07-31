@@ -2,14 +2,21 @@
 title: 成员 - 白泽加奈惠
 template: comment.html
 ---
+# :pack-sig-member-kanae-sig: 白泽加奈惠
 
 !!! kanae-sig inline end "白泽加奈惠"
+    === "十一单"
+
+        !![十一单公式照](https://nananiji.zzzhxxx.top/assets/photo/kanae/11th.jpeg)
+    === "十单"
+
+        !![十单公式照](https://nananiji.zzzhxxx.top/assets/photo/kanae/10th.jpeg!compress)
     === "九单(v2)"
 
-        !![九单公式照(第二版)](https://nananiji.zzzhxxx.top/assets/photo/kanae/9th-2.jpg)
+        !![九单公式照(第二版)](https://nananiji.zzzhxxx.top/assets/photo/kanae/9th-2.jpg!compress)
     === "九单(v1)"
 
-        <a data-caption="九单公式照(第一版)" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/kanae/9th.jpg"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/kanae/9th.jpg" title="" width="100%" /></a>
+        <a data-caption="九单公式照(第一版)" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/kanae/9th.jpg"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/kanae/9th.jpg!compress" title="" width="100%" /></a>
 
     === "八单"
 
@@ -76,15 +83,14 @@ template: comment.html
         ![kanae](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@1.0/assets/kanae-sig.svg){ width="100" loading=lazy }
         <figcaption>签名</figcaption>
     </figure>
-    [:fontawesome-brands-twitter: Twitter](https://twitter.com/kanae_shirosawa){ .md-button .md-button--primary }
-    [:fontawesome-brands-instagram: Instagram](https://www.instagram.com/__shiro227/){ .md-button .md-button--primary }
+    [:fontawesome-brands-twitter:](https://twitter.com/kanae_shirosawa){ .md-button .md-button--primary }
+    [:fontawesome-brands-instagram:](https://www.instagram.com/__shiro227/){ .md-button .md-button--primary }
     [Blog](http://blog.nanabunnonijyuuni.com/s/n227/diary/blog/list?ct=05){ .md-button .md-button--primary }
 
 ## 时间线
 ### 2016
 
 - 12月24日，从10,325名中通过了22/7的最终审核。报名号为18号。
-
 ### 2017
 
 - 3月，在「私たちの名付け親になってください」 SHOWROOM，招募艺名。并在之后的SHOWROOM中宣布了艺名白泽加奈惠
@@ -95,13 +101,19 @@ template: comment.html
 
 - 3月14日，开通Twitter
 
+### 2023
+
+- 6月4日，发表博客，宣布将在7月底毕业并隐退[^3][^4]
+- 7月31日，正式从22/7毕业
 ## 相关
 
 - 喜欢樱坂46[^1]
 - 在渡边麻友从AKB毕业时很伤心[^1]
 - 有密集恐惧症
-- 曾经让kanae教过英语
+- 曾经让sally教过英语
 - 经常拜访在长崎的祖父母[^2]
+
+
 
 ## FREE TALK
 
@@ -110,6 +122,9 @@ template: comment.html
 ## 声音样本
 
 <div id="aplayer"></div>
+## 毕业歌单
+
+<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="450" style="width:100%;max-width:1230px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/cn/playlist/22-7-%E6%B2%A2%E3%81%8B%E3%81%AA%E3%81%88%E5%8D%92%E6%A5%AD%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB-setlist/pl.u-NpXm7YGT4xmB94g?l=en-GB"></iframe>
 
 <body>
     <script src="https://nananiji.zzzhxxx.top/js/md5.js"></script>
@@ -163,3 +178,5 @@ template: comment.html
 
 [^1]: SHOWROOM 2017.10.31
 [^2]: https://blog.nanabunnonijyuuni.com/s/n227/diary/detail/179
+[^3]: https://blog.nanabunnonijyuuni.com/s/n227/diary/detail/2258?ima=0500&cd=blog
+[^4]: https://nanabunnonijyuuni.com/s/n129/news/detail/10841?ima=2203
