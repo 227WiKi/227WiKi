@@ -5,9 +5,15 @@ template: comment.html
 # :pack-sig-member-sally-sig: 天城莎莉
 
 !!! sally-sig inline end "天城莎莉"
+    === "十一单"
+
+        !![十一单公式照](https://nananiji.zzzhxxx.top/assets/photo/sally/11th.jpg!compress)
+    === "十单"
+
+        !![十单公式照](https://nananiji.zzzhxxx.top/assets/photo/sally/10th.jpg!compress)
     === "九单(v2)"
 
-        !![九单公式照(第二版)](https://nananiji.zzzhxxx.top/assets/photo/sally/9th-2.jpg)
+        !![九单公式照(第二版)](https://nananiji.zzzhxxx.top/assets/photo/sally/9th-2.jpg!compress)
     === "九单(v1)"
 
         <a data-caption="九单公式照(第一版)" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/sally/9th.jpg"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/sally/9th.jpg" title="" width="100%" /></a>
