@@ -6,8 +6,7 @@ template: comment.html
 
 !!! game inline end "游戏"
 
-    === "游戏图标"
-        !![](https://nananiji.zzzhxxx.top/assets/game/icon.png)
+    ![](https://nananiji.zzzhxxx.top/assets/game/icon.png)
 
     --------
     
@@ -93,7 +92,7 @@ template: comment.html
 
 开服初期，有网友解包游戏应用程序发现邦邦中的曲目，游戏源码疑似抄袭邦邦[^2],随后的一次更新后，再去解包游戏文件，发现曲目消失
   
-!![游戏解包图](https://nananiji.zzzhxxx.top/assets/game/EZC5jiuWAAIL0OE.jfif)
+![游戏解包图](https://nananiji.zzzhxxx.top/assets/game/EZC5jiuWAAIL0OE.jfif)
 
 ## 活动
 | 序号 | 活动图像 |活动名称 | 活动歌曲 | 活动卡牌 | 备注 | 

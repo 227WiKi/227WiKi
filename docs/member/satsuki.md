@@ -4,12 +4,18 @@ template: comment.html
 ---
 
 !!! general inline end "椎名桜月"
+    === "十一单"
+
+        ![十一单公式照](https://nananiji.zzzhxxx.top/assets/photo/satsuki/11th.jpg!compress){ loading=lazy }
+    === "十单"
+
+        ![十单公式照](https://nananiji.zzzhxxx.top/assets/photo/satsuki/10th.webp!compress){ loading=lazy }
     === "九单(v2)"
 
-        !![九单公式照(第二版)](https://nananiji.zzzhxxx.top/assets/photo/satsuki/9th-2.jpg)
+        ![九单公式照(第二版)](https://nananiji.zzzhxxx.top/assets/photo/satsuki/9th-2.jpg!compress){ loading=lazy }
     === "九单(v1)"
 
-        <a data-caption="九单公式照(第一版)" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/satsuki/9th.jpg"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/satsuki/9th.jpg" title="" width="100%" /></a>
+        ![九单公式照(第一版)](https://nananiji.zzzhxxx.top/assets/photo/satsuki/9th.jpg!compress){ loading=lazy }
 
     --------
 
@@ -40,7 +46,9 @@ template: comment.html
         <figcaption>签名</figcaption>
     </figure>
 
-    [:fontawesome-brands-twitter: Twitter](https://twitter.com/satsuki_shiina){ .md-button .md-button--primary }
+    [:fontawesome-brands-twitter:](https://twitter.com/satsuki_shiina){ .md-button }
+    [:fontawesome-brands-instagram:](https://instagram.com/shiina_satsuki227){ .md-button }
+    [:fontawesome-brands-tiktok:](https://www.tiktok.com/@satsuki_shiina){ .md-button }
 
 # 时间线
 ## 2021 

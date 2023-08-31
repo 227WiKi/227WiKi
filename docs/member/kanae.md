@@ -7,54 +7,54 @@ template: comment.html
 !!! kanae-sig inline end "白泽加奈惠"
     === "十一单"
 
-        !![十一单公式照](https://nananiji.zzzhxxx.top/assets/photo/kanae/11th.jpeg)
+        ![十一单公式照](https://nananiji.zzzhxxx.top/assets/photo/kanae/11th.jpeg){ loading=lazy }
     === "十单"
 
-        !![十单公式照](https://nananiji.zzzhxxx.top/assets/photo/kanae/10th.jpeg!compress)
+        ![十单公式照](https://nananiji.zzzhxxx.top/assets/photo/kanae/10th.jpeg!compress){ loading=lazy }
     === "九单(v2)"
 
-        !![九单公式照(第二版)](https://nananiji.zzzhxxx.top/assets/photo/kanae/9th-2.jpg!compress)
+        ![九单公式照(第二版)](https://nananiji.zzzhxxx.top/assets/photo/kanae/9th-2.jpg!compress){ loading=lazy }
     === "九单(v1)"
 
-        <a data-caption="九单公式照(第一版)" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/kanae/9th.jpg"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/kanae/9th.jpg!compress" title="" width="100%" /></a>
+        ![九单公式照(第一版)](https://nananiji.zzzhxxx.top/assets/photo/kanae/9th-1.jpg!compress){ loading=lazy }
 
     === "八单"
 
-        <a data-caption="八单公式照" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/kanae/8th.webp"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/kanae/8th.webp" title="" width="100%" /></a>
+        ![八单公式照](https://nananiji.zzzhxxx.top/assets/photo/kanae/8th.webp){ loading=lazy }
 
     === "一专"
 
-        <a data-caption="一专公式照" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/kanae/1st-album.webp"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/kanae/1st-album.webp" title="" width="100%" /></a>
+        ![一专公式照](https://nananiji.zzzhxxx.top/assets/photo/kanae/1st-album.webp){ loading=lazy }
 
     === "七单"
 
-        <a data-caption="七单公式照" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/kanae/7th.webp"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/kanae/7th.webp" title="" width="100%" /></a>
+        ![八单公式照](https://nananiji.zzzhxxx.top/assets/photo/kanae/7th.webp){ loading=lazy }
+
     === "六单"
 
-        <a data-caption="六单公式照" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/kanae/6th.webp"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/kanae/6th.webp" title="" width="100%" /></a>
+        ![八单公式照](https://nananiji.zzzhxxx.top/assets/photo/kanae/6th.webp){ loading=lazy }
 
     === "五单"
-        <a data-caption="五单公式照" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/kanae/5th.webp"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/kanae/5th.webp" title="" width="100%" /></a>
+        ![八单公式照](https://nananiji.zzzhxxx.top/assets/photo/kanae/5th.webp){ loading=lazy }
 
     === "四单"
 
-        <a data-caption="四单公式照" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/kanae/4th.webp"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/kanae/4th.webp" title="" width="100%" /></a>
+        ![八单公式照](https://nananiji.zzzhxxx.top/assets/photo/kanae/4th.webp){ loading=lazy }
 
     === "三单"
 
-        <a data-caption="三单公式照" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/kanae/3rd.webp"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/kanae/3rd.webp" title="" width="100%" /></a>
+        ![八单公式照](https://nananiji.zzzhxxx.top/assets/photo/kanae/3rd.webp){ loading=lazy }
 
     === "二单"
 
-        <a data-caption="二单公式照" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/kanae/2nd.webp"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/kanae/2nd.webp" title="" width="100%" /></a>
+        ![八单公式照](https://nananiji.zzzhxxx.top/assets/photo/kanae/2nd.webp){ loading=lazy }
 
     === "一单"
 
-        <a data-caption="一单公式照" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/kanae/kanae-1st.webp"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/kanae/kanae-1st.webp" title="" width="100%" /></a>
-
+        ![八单公式照](https://nananiji.zzzhxxx.top/assets/photo/kanae/1st.webp){ loading=lazy }
     === "初次亮相"
 
-        <a data-caption="初次亮相白裙" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/kanae/WhiteDress.webp"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/kanae/WhiteDress.webp" title="" width="100%" /></a>
+        ![初次亮相白裙照](https://nananiji.zzzhxxx.top/assets/photo/kanae/WhiteDress.webp){ loading=lazy }
     --------
 
     <b>姓名</b>   白泽加奈惠 
@@ -83,9 +83,8 @@ template: comment.html
         ![kanae](https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@1.0/assets/kanae-sig.svg){ width="100" loading=lazy }
         <figcaption>签名</figcaption>
     </figure>
-    [:fontawesome-brands-twitter:](https://twitter.com/kanae_shirosawa){ .md-button .md-button--primary }
-    [:fontawesome-brands-instagram:](https://www.instagram.com/__shiro227/){ .md-button .md-button--primary }
-    [Blog](http://blog.nanabunnonijyuuni.com/s/n227/diary/blog/list?ct=05){ .md-button .md-button--primary }
+    [:fontawesome-brands-instagram:备份](https://blog.227wiki.eu.org/shiro227/){ .md-button}
+    [Blog备份](https://blog.227wiki.eu.org/categories/%E6%88%90%E5%91%98%E5%8D%9A%E5%AE%A2/%E7%99%BD%E6%B2%A2%E3%81%8B%E3%81%AA%E3%81%88/){ .md-button}
 
 ## 时间线
 ### 2016

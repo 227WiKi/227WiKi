@@ -11,7 +11,7 @@ template: comment.html
             <img loading="lazy" alt="1st-1" src="https://nananiji.zzzhxxx.top/assets/photo/songs/single/1st-1.jpg" title="Title" width="100%" />
         </a>
     === "完全生产限定版Type-B"
-        !![](https://nananiji.zzzhxxx.top/assets/photo/songs/single/1st-2.jpg)
+        ![](https://nananiji.zzzhxxx.top/assets/photo/songs/single/1st-2.jpg)
     
     <center>:pack-hires: Hi-Res Lossless</center>
     

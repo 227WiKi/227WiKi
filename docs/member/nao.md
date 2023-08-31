@@ -4,12 +4,18 @@ template: comment.html
 ---
 
 !!! general inline end "相川奈央"
+    === "十一单"
+
+        ![十一单公式照](https://nananiji.zzzhxxx.top/assets/photo/nao/11th.jpg!compress){ loading=lazy }
+    === "十单"
+
+        ![十单公式照](https://nananiji.zzzhxxx.top/assets/photo/nao/10th.webp!compress){ loading=lazy }
     === "九单(v2)"
 
-        !![九单公式照(第二版)](https://nananiji.zzzhxxx.top/assets/photo/nao/9th-2.jpg)
+        ![九单公式照(第二版)](https://nananiji.zzzhxxx.top/assets/photo/nao/9th-2.jpg!compress){ loading=lazy }
     === "九单(v1)"
 
-        <a data-caption="九单公式照(第一版)" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/nao/9th.jpg"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/nao/9th.jpg" title="" width="100%" /></a>
+        ![九单公式照(第一版)](https://nananiji.zzzhxxx.top/assets/photo/nao/9th.jpg!compress){ loading=lazy }
 
     --------
 
@@ -36,7 +42,7 @@ template: comment.html
     <b>角色</b> 西浦そら
   
 
-    [:fontawesome-brands-twitter: Twitter](https://twitter.com/nao_aikawa227){ .md-button .md-button--primary }
+    [:fontawesome-brands-twitter: Twitter](https://twitter.com/nao_aikawa227){ .md-button}
 
 ## 时间线
 ### 2021 
@@ -51,40 +57,32 @@ template: comment.html
 ## 相关
 
 - 在六单时期成为了22/7的粉丝
+- 喜欢烘焙
 
 ## FREE TALK
 
 <div id="dplayer"></div>
 
-<html>
-<head>
-    <meta name="referrer" content="never">
-</head>
-
-<body>
-    <script src="https://nananiji.zzzhxxx.top/js/md5.js"></script>
-    <script src="https://nananiji.zzzhxxx.top/js/hls.min.js"></script>
-    <script src="https://nananiji.zzzhxxx.top/js/DPlayer.min.js"></script>
-    <script>
-        const dp = new DPlayer({
-        container: document.getElementById('dplayer'),
-        video: {
-            url: 'https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/4504957038001/bb57ca17-0f5d-4748-929d-682c4e3e1443/10s/master.m3u8?fastly_token=NjJkYTRiMWVfY2M5NjI1NTRlZWZlNTM2YmU2MmZiZDU4MTE4YzQ1ZDQwMDdiYTYwODMyMGQ5MDBmZWQ2MGZiNzQ5NjEzNTUzMQ%3D%3D',
-            type: 'hls',
-        },
-        danmaku: {
-            id: md5('nao-intro'),
-            api: "https://danmu.zzzhxxx.top/"
-        },
-        contextmenu: [
-        {
-            text: '227WiKi',
-            link: 'https://github.com/227WiKi/227WiKi',
-        },
-        ]
-    });
-    console.log(dp.plugins.hls);
-    </script>
-    
-</body>
-</html>
+<script src="https://nananiji.zzzhxxx.top/js/md5.js"></script>
+<script src="https://nananiji.zzzhxxx.top/js/hls.min.js"></script>
+<script src="https://nananiji.zzzhxxx.top/js/DPlayer.min.js"></script>
+<script>
+    const dp = new DPlayer({
+    container: document.getElementById('dplayer'),
+    video: {
+        url: 'https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/4504957038001/bb57ca17-0f5d-4748-929d-682c4e3e1443/10s/master.m3u8?fastly_token=NjJkYTRiMWVfY2M5NjI1NTRlZWZlNTM2YmU2MmZiZDU4MTE4YzQ1ZDQwMDdiYTYwODMyMGQ5MDBmZWQ2MGZiNzQ5NjEzNTUzMQ%3D%3D',
+        type: 'hls',
+    },
+    danmaku: {
+        id: md5('nao-intro'),
+        api: "https://danmu.zzzhxxx.top/"
+    },
+    contextmenu: [
+    {
+        text: '227WiKi',
+        link: 'https://github.com/227WiKi/227WiKi',
+    },
+    ]
+});
+console.log(dp.plugins.hls);
+</script>

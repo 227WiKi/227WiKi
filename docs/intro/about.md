@@ -1,90 +1,80 @@
-<center> 
+---
+title: 简介 - Markdown特别用法
+template: comment.html
+---
+# 关于22/7
 
-  <img src="https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/logo.svg"  width= 224 height=153>
-
-
-  [Github](https://github.com/227WiKi/227WiKi) | [Gitee](https://gitee.com/nananijiwiki/nananiji-wiki)
-
-  ![](https://img.shields.io/badge/mkdocs-1.3.0-blue?style=for-the-badge)
-  
-  ![](https://img.shields.io/github/workflow/status/227WiKi/227WiKi/227?style=for-the-badge)
-  ![GitHub contributors](https://img.shields.io/github/contributors/227WiKi/227WiKi?style=for-the-badge)
-  ![GitHub issues](https://img.shields.io/github/issues-raw/227WiKi/227WiKi?style=for-the-badge)
-  ![GitHub release (latest by date)](https://img.shields.io/github/v/release/227WiKi/227WiKi?style=for-the-badge)
-  ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/227WiKi/227WiKi?style=for-the-badge)
-  ![GitHub last commit](https://img.shields.io/github/last-commit/227WiKi/227WiKi?style=for-the-badge)
-  
-  ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
-  [![forthebadge](https://forthebadge.com/images/badges/cc-sa.svg)](https://forthebadge.com)
-  [![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com)
-
- </center> 
-
-----------
+![アーティスト写真](https://nanabunnonijyuuni.com/images/4/35c/7cf86be97e2a080a50c5ef5dbd206.jpg){ loading= lazy} 
 
 ## 简介
+22/7 由索尼音乐和 ANIPLEX 合作推出，制作人是秋元康。
+该组合是通过选拔声优偶像来扮演日本著名创作人创作的角色而成立的。
 
-**22/7** 是由 **秋元康** 与 **ANIPLEX** 、 **SonyMusic** 联手组成的虚拟偶像组合
+## 时间线
 
-**22/7 WiKi** 是一个开源的社区项目，由Mkdocs系统驱动，包含了与22/7有关的各类资源和信息
+### 2016
 
-## 访问
+- 12月24日，11 人通过最终选拔，22/7结成
 
-目前提供两种访问方式
+### 2017
 
-- 若您处于国外或可以流畅使用Github Pages,请访问[Github Pages版本](https://227wiki.github.io/)
-- 若您无法顺利使用Github Pages,请访问[国内镜像](https://wiki.zzzhxxx.top)
+- 2月27日 227之日，首批11名成员在SHOWROOM进行『名付け親募集』向粉丝征集艺名
+- 2月28日～3月3日 『名付け親募集』企画、个别SHOWROOM配信
+- 3月4日 通过 SHOWROOM 公布 11 人的姓名。
+- 3月10日 『月刊ニュータイプ』开始连载『あの日の彼女たち』
+- 4月9日 第一个定期番组『割り切れないラジオ』在超A&G+开始
+- 4月21日 『22/7 朗読劇』举行
+- 5月9日～5月19日 『22/7 配役決定生電話!!11日間連SHOWROOM配信』确定了8名角色的声优
+- 5月20日 『22/7 朗読劇 第二回公演』举行，8位声优首次亮相
+- 6月24日 『22/7 朗読劇 第三回公演』举行
+- 7月22日 『”22/7”の日 初ライブイベント』举行，宣布CD发布、动画化和11人收录的歌曲等信息，涼花萌、高辻麗、武田愛奈首次亮相
+- 9月20日 一单『僕は存在していなかった』发行，从早上7点至下午3点进行15小时连续SHOWROOM直播，首次登上Oricon周榜第十位
+
+### 2018
+
+- 4月11日 二单『シャンプーの匂いがした』发行，首次登上Oricon周榜第八位
+- 7月7日 『22/7計算中』开始播出
+- 8月22日 三单『理解者』发行，首次登上Oricon周榜第七位，举办『理解者発売記念VR生配信ライブイベント』
+- 9月20日 CD出道一周年，『22/7 計算中Special Event』举办，每个角色的Youtube频道开始活动，宣布追加角色神木みかみ(CV.涼花萌)、東条悠希(CV.高辻麗)、柊つぼみ(CV.武田愛奈)
+- 12月27日 在11人参加SHOWROOM直播中宣布爱称『ナナニジ』
+
+### 2019
+
+- 1月22日 『22/7 定期公演“ナナニジライブ”#1』举行
+- 7月22日 『ナナニジフェス2019』举行，宣布电视动画于2020年1月放送
+- 8月21日 四单『何もしてあげられない』发行，首次登上Oricon周榜第四位
+- 12月7日 『アニメ放送直前スペシャルミニライブ』在Ginza Sony Park举行，世界首创的 4K 三角流媒体系统在 VR 中同步直播。
+- 12月30日  『22/7 定期公演“ナナニジライブ” 』全部12场公演结束
+
+### 2020
+
+- 1月4日 电视动画『22/7』第 1+2 集先行上映会在新宿バルト9举行。
+- 1月11日 电视动画『22/7』开始放送
+- 2月26日 五单『ムズイ』发行，首次登上Oricon周榜第二位
+- 2月27日 『22/7 5thシングル『ムズイ』発売記念スペシャルライブ』SHOWROOM、AbemaTV、ニコニコ同时直播
+- 4月4日 『22/7計算中』Season2 开始播出
+- 5月27日 音游『22/7 音楽の時間』开始发行
+- 9月30日 六单『風は吹いてるか？』发行，位于Oricon周榜第二位
+
+### 2021
+
+- 1月9日 『22/7検算中』开始播出
+- 2月24日 七单『僕が持ってるものなら』发行，位于Oricon周榜第二位
+- 2月28日 22/7『僕が持ってるものなら』发售纪念LIVE举行，队长帆風千春在演出后从22/7毕业
+- 4月3日 『22/7計算中』Season3开始播出
+- 4月21日 『22/7 LIVE at STUDIO COAST～11（イレブン）～』发售
+- 7月11日～7月22日 首次东京、名古屋和大阪巡演，「11という名の永遠の素数 リリースツアー2021」举行
+- 7月14日 首张专辑『11という名の永遠の素数』发行，位于Oricon周榜第二位
+- 11月14日 『ANNIVERSARY LIVE 2021』在東京国際フォーラム ホールA举行，日夜两场演出共演唱了 51 首 22/7 曲目。
+- 11月24日 八单『覚醒』发行，位于Oricon周榜第二位
+- 12月23日 22/7第一本写真集『青春は割り切れない』发售
+- 12月26日 首次角色Live，「22/7 5TH BIRTHDAY LIVE 2021 ~Colors of Flowers~」举行
+
+### 2022
+
+- 2月27日 "ナナニジの日"在YoutubeLive直播，八位新成员首次公开亮相
+- 3月10日〜3月27日 『22/7 LIVE TOUR 2022「14」』举行，巡演结束后，由于人气爆棚，宣布追加演出。
+- 7月27日 九单『曇り空の向こうは晴れている』发行，是新成员加入后的首支单曲，总共有14名成员
 
 
-## CDN
 
-目前所有资源使用jsdelivr调用，由于jsdelivr备案吊销，部分资源国内调用可能会很慢，将会尽快移动至阿里云CDN
-
-## 如何贡献
-
-### 如果你能够使用git
-
-请fork该项目修改后提交Pull Request，在编写页面时请遵循编写规范
-
-### 如果你无法使用git
-
-请访问你需要修改的页面在右上角找到笔的图标使用GitHub或gitee的在线编辑进行提交pr
-
-若您两种方法都无法使用，请电邮`fiberbell@163.com`或者bilibili私信`@FiberBell`提出您需要贡献的页面并提供修改后的文件，我们会将您加入页面展示的贡献者中
-
-## 部署
-
-推荐部署环境`Python >= 3.8`
-
-clone 该项目
-
-```
-git clone https://github.com/227WiKi/227WiKi.git
-```
-
-安装依赖
-
-```
-pip install -r requirements.txt
-```
-
-> 由于blog文件夹所含文件过多，建议将blog文件夹移出docs文件夹在进行构建
-
-运行
-
-```
-mkdocs serve
-```
-
-
-## Sponsor
-
-如果您想支持本项目，可以前往[爱发电](https://afdian.net/@zzzhxxx) 或 [patreon](https://patreon.com/zzzhxxx) 赞助用于支持CDN与域名开销
-
-## 加入我们
-
-若您能持续为22/7 WiKi 做出贡献请私信zzzhxxx加入Organization以便提交贡献
-
-## 联系
-
-> Blog [@zzzhxxx](https://zzzhxxx.top) · GitHub [@zzzhxxx](https://github.com/zzzhxxx) · Gitee [@zzzhxxx](https://gitee.com/zzzhxxx) · Telegram [@FiberBell](https://t.me/Fiberbell) · BiliBili [@FiberBell](https://space.bilibili.com/40127239) · QQ [@风纪委员](https://qm.qq.com/cgi-bin/qm/qr?k=7AjWZGuWBFU54GBhQqrZkY6rhvtKUFg6&noverify=0) · Email [@zzzhxxx](mailto:zzzhxxx@zzzhxxx.top)

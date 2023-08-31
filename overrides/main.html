@@ -1,6 +1,7 @@
-# Tags
+{% extends "base.html" %}
 
-{{ tag_content }}
+{% block content %}
+{{ super() }}
 
 <div class="rellax page_obj_01" data-rellax-speed="1"><img class="backg" src="https://nananiji.zzzhxxx.top/assets/obj_01.svg" width="31" height="41" alt=""></div>
 <div class="rellax page_obj_02" data-rellax-speed="5"><img class="backg" src="https://nananiji.zzzhxxx.top/assets/obj_02.svg" width="101" height="101" alt=""></div>
@@ -208,55 +209,55 @@
 
 	.page_obj_11 {
 		position: absolute;
-		top: 1600px;
+		top: 1400px;
 		right: 40%;
 		z-index: -1;
 	}
 
 	.page_obj_12 {
 		position: absolute;
-		top: 1700px;
+		top: 1100px;
 		left: 50px;
 	}
 
 	.page_obj_13 {
 		position: absolute;
-		top: 1800px;
+		top: 1200px;
 		right: 450px;
 		z-index: -1;
 	}
 
 	.page_obj_14 {
 		position: absolute;
-		top: 1800px;
+		top: 1200px;
 		left: 500px;
 		z-index: -1;
 	}
 
 	.page_obj_15 {
 		position: absolute;
-		top: 1900px;
+		top: 1300px;
 		left: 60px;
 		z-index: -1;
 	}
 
 	.page_obj_16 {
 		position: absolute;
-		top: 2000px;
+		top: 1400px;
 		right: 200px;
 		z-index: -1;
 	}
 
 	.page_obj_17 {
 		position: absolute;
-		top: 2500px;
+		top: 1300px;
 		left: 50%;
 		z-index: -1;
 	}
 
 	.page_obj_18 {
 		position: absolute;
-		top: 2200px;
+		top: 1400px;
 		right: 5%;
 		z-index: -1;
 	}
@@ -390,3 +391,108 @@
 <script>
   var rellax = new Rellax('.rellax');
 </script>
+  <!-- Giscus -->
+  <h2 id="__comments">{{ lang.t("meta.comments") }}</h2>
+  <!-- Replace with generated snippet -->
+  <script src="https://giscus.app/client.js"
+        data-repo="227WiKi/227WiKi"
+        data-repo-id="R_kgDOGcmDQw"
+        data-category="Page Comments"
+        data-category-id="DIC_kwDOGcmDQ84CAsWn"
+        data-mapping="title"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="https://nananiji.zzzhxxx.top/css/argon.css"
+        data-lang="zh-CN"
+        crossorigin="anonymous"
+        async>
+</script>
+  
+  <!-- Reload on palette change -->
+  <script>
+    var palette = __md_get("__palette")
+    if (palette && typeof palette.color === "object")
+      if (palette.color.scheme === "slate") {
+        var giscus = document.querySelector("script[src*=giscus]")
+        giscus.setAttribute("data-theme", "dark") 
+      }
+
+    /* Register event handlers after documented loaded */
+    document.addEventListener("DOMContentLoaded", function() {
+      var ref = document.querySelector("[data-md-component=palette]")
+      ref.addEventListener("change", function() {
+        var palette = __md_get("__palette")
+        if (palette && typeof palette.color === "object") {
+          var theme = palette.color.scheme === "slate" ? "dark" : "light"
+
+          /* Instruct Giscus to change theme */
+          var frame = document.querySelector(".giscus-frame")
+          frame.contentWindow.postMessage(
+            { giscus: { setConfig: { theme } } },
+            "https://giscus.app"
+          )
+        }
+      })
+    })
+  </script>
+  <ul class="metadata page-metadata" data-bi-name="page info" lang="zh-cn" dir="ltr">
+    <li class="contributors-holder">
+      <span class="contributors-text">本页面贡献者</span>
+      <ul class="contributors" data-bi-name="contributors">
+        {%- for user in committers -%}
+        <a href="https://github.com/{{ user.name }}" title="{{ user.name }}" data-bi-name="contributorprofile"><img src="{{ user.avatar }}" style="width:35px; height:35px; border-radius:50%;margin-right: 0.5rem;" data-src="{{ user.avatar }}" alt="{{ user.name }}">{{ user.name }}</a>
+        {%- endfor -%}
+      </ul>
+    </li>
+  </ul>
+  <style>
+  .metadata{
+    list-style:none;
+    padding:0;
+    margin:0;
+    margin-bottom: 15px;
+    color: #999;
+    font-size:0.85em;
+    }
+    .metadata.page-metadata .contributors-text{
+        margin-right:5px
+    }
+    body[dir=rtl] .metadata.page-metadata .contributors-text{
+        margin-right:0;
+        margin-left:5px
+    }
+    .page-metadata .contributors{
+        display:inline-block;
+        list-style:none;
+        margin:0!important;
+        padding:0!important
+    }
+    .page-metadata .contributors li{
+        display:inline-block;
+        vertical-align:top;
+        margin:0;
+        padding:0
+    }
+    .md-typeset .blog-post-description {
+        margin-bottom: 0;
+    }
+    .contributors *{
+        display: inline-block;
+        vertical-align: middle;
+        margin-right: 0.5rem;
+    }
+    </style>
+      <script>    
+        $( '.contributors img[data-src]' ).each( function() {
+        src = $(this).attr("data-src");
+        $(this).attr('src',src);
+      });
+  </script>
+  <ul class="metadata page-metadata" data-bi-name="page info" lang="zh-cn" dir="ltr">
+    <li class="last-updated-holder displayDate loading">
+      <span class="last-updated-text">最后更新时间:</span>
+      <time role="presentation" datetime="2018-10-25T00:00:00.000Z" data-article-date-source="ms.date">{% if last_commit_date %}{{ last_commit_date }}{% endif %}</time>
+    </li>
+  </ul>
+{% endblock %}

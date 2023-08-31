@@ -16,7 +16,6 @@ jobs:
           python-version: 3.8.12
       - run: pip install \
           mkdocs-material \
-          fancyboxmd \
-          mkdocs-blogging-plugin \
+          mkdocs-glightbox \
           mkdocs-git-committers-plugin-cn \
       - run: mkdocs gh-deploy --force

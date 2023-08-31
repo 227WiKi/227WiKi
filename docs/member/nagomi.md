@@ -6,57 +6,57 @@ template: comment.html
 !!! nagomi-sig inline end "西條和"
     === "十一单"
 
-        !![十一单公式照](https://nananiji.zzzhxxx.top/assets/photo/nagomi/11th.jpg)
+        ![十一单公式照](https://nananiji.zzzhxxx.top/assets/photo/nagomi/11th.jpg!compress){ loading=lazy }
 
     === "十单"
 
-        !![十单公式照](https://nananiji.zzzhxxx.top/assets/photo/nagomi/10th.jpg)
+        ![十单公式照](https://nananiji.zzzhxxx.top/assets/photo/nagomi/10th.jpg!compress){ loading=lazy }
 
     === "九单(v2)"
 
-        !![九单公式照(第二版)](https://nananiji.zzzhxxx.top/assets/photo/nagomi/9th-2.jpg)
+        ![九单公式照(第二版)](https://nananiji.zzzhxxx.top/assets/photo/nagomi/9th-2.jpg!compress){ loading=lazy }
     === "九单(v1)"
 
-        <a data-caption="九单公式照(第一版)" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/nagomi/9th.jpg"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/nagomi/9th.jpg" title="" width="100%" /></a>
+        ![九单公式照(第一版)](https://nananiji.zzzhxxx.top/assets/photo/nagomi/9th.jpg!compress){ loading=lazy }
 
     === "八单"
 
-        <a data-caption="八单公式照" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/nagomi/8th.jpg"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/nagomi/8th.jpg" title="" width="100%" /></a>
+        ![八单公式照](https://nananiji.zzzhxxx.top/assets/photo/nagomi/8th.jpg!compress){ loading=lazy }
 
     === "一专"
 
-        <a data-caption="一专公式照" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/nagomi/1st-album.jpg"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/nagomi/1st-album.jpg" title="" width="100%" /></a>
+        ![一专公式照](https://nananiji.zzzhxxx.top/assets/photo/nagomi/1st-album.jpg!compress){ loading=lazy }
 
     === "七单"
 
-        <a data-caption="七单公式照" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/nagomi/7th.jpg"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/nagomi/7th.jpg" title="" width="100%" /></a>
+        ![七单公式照](https://nananiji.zzzhxxx.top/assets/photo/nagomi/7th.jpg!compress){ loading=lazy }
     === "六单"
 
-        <a data-caption="六单公式照" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/nagomi/6th.jpg"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/nagomi/6th.jpg" title="" width="100%" /></a>
+        ![六单公式照](https://nananiji.zzzhxxx.top/assets/photo/nagomi/6th.jpg!compress){ loading=lazy }
 
     === "五单"
 
-        <a data-caption="五单公式照" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/nagomi/5th.jpg"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/nagomi/5th.jpg" title="" width="100%" /></a>
+        ![五单公式照](https://nananiji.zzzhxxx.top/assets/photo/nagomi/5th.jpg!compress){ loading=lazy }
 
     === "四单"
 
-        <a data-caption="四单公式照" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/nagomi/4th.jpg"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/nagomi/4th.jpg" title="" width="100%" /></a>
+        ![四单公式照](https://nananiji.zzzhxxx.top/assets/photo/nagomi/4th.jpg!compress){ loading=lazy }
 
     === "三单"
 
-        <a data-caption="三单公式照" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/nagomi/3rd.jpg"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/nagomi/3rd.jpg" title="" width="100%" /></a>
+        ![三单公式照](https://nananiji.zzzhxxx.top/assets/photo/nagomi/3rd.jpg!compress){ loading=lazy }
 
     === "二单"
 
-        <a data-caption="二单公式照" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/nagomi/2nd.jpg"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/nagomi/2nd.jpg" title="" width="100%" /></a>
+        ![二单公式照](https://nananiji.zzzhxxx.top/assets/photo/nagomi/2nd.jpg!compress){ loading=lazy }
 
     === "一单"
 
-        <a data-caption="一单公式照" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/nagomi/nagomi-1st.jpg"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/nagomi/nagomi-1st.jpg" title="" width="100%" /></a>
+        ![一单公式照](https://nananiji.zzzhxxx.top/assets/photo/nagomi/nagomi-1st.jpg!compress){ loading=lazy }
 
     === "初次亮相"
 
-        <a data-caption="初次亮相白裙" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/nagomi/WhiteDress.jpg"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/nagomi/WhiteDress.jpg" title="" width="100%" /></a>
+        ![初次亮相白裙照](https://nananiji.zzzhxxx.top/assets/photo/nagomi/WhiteDress.jpg!compress){ loading=lazy }
         
     --------
 
@@ -137,65 +137,59 @@ template: comment.html
 [^3]: https://www.bilibili.com/video/BV1n741147yh
 [^4]: https://www.bilibili.com/read/cv4313541
 
-<html>
-<head>
-    <meta name="referrer" content="never">
-</head>
 
-<body>
-    <link rel="stylesheet" href="https://nananiji.zzzhxxx.top/css/aplayer.min.css">
-    <script src="https://nananiji.zzzhxxx.top/js/md5.js"></script>
-    <script src="https://nananiji.zzzhxxx.top/js/hls.min.js"></script>
-    <script src="https://nananiji.zzzhxxx.top/js/DPlayer.min.js"></script>
-    <script src="https://nananiji.zzzhxxx.top/js/aplayer.min.js"></script>
-    <script>
-        const dp = new DPlayer({
-        container: document.getElementById('dplayer'),
-        video: {
-            url: 'https://files.zzzhxxx.top/video/nagomi.ts',
-        },
-        danmaku: {
-            id: md5('https://files.zzzhxxx.top/video/nagomi.ts'),
-            addition: ['https://danmu.zzzhxxx.top/v3/bilibili?aid=87900951&bvid=BV1n741147yh&cid=150175780'],
-            api: "https://danmu.zzzhxxx.top/"
-        },
-        contextmenu: [
-        {
-            text: '227WiKi',
-            link: 'https://github.com/227WiKi/227WiKi',
-        },
-        ]
-    });
-    </script>
-    <script>
-        const dp2 = new DPlayer({
-        container: document.getElementById('dplayer2'),
-        video: {
-            url: 'https://files.zzzhxxx.top/video/nagomi.mp4',
-        },
-        danmaku: {
-            id: md5('nagomi-intro'),
-            api: "https://danmu.zzzhxxx.top/"
-        },
-        contextmenu: [
-        {
-            text: '227WiKi',
-            link: 'https://github.com/zzzhxxx/227WiKi',
-        },
-        ]
-    });
-    </script>
-    <script>
-        const ap = new APlayer({
-        container: document.getElementById('aplayer'),
-        audio: [{
-            name: 'Voice Sample',
-            artist: '西條和',
-            url: 'https://files.zzzhxxx.top/voicesample/nagomi.mp3',
-            cover: 'https://nananiji.zzzhxxx.top/assets/photo/avatar/nagomi.jpg'
+
+<link rel="stylesheet" href="https://nananiji.zzzhxxx.top/css/aplayer.min.css">
+<script src="https://nananiji.zzzhxxx.top/js/md5.js"></script>
+<script src="https://nananiji.zzzhxxx.top/js/hls.min.js"></script>
+<script src="https://nananiji.zzzhxxx.top/js/DPlayer.min.js"></script>
+<script src="https://nananiji.zzzhxxx.top/js/aplayer.min.js"></script>
+<script>
+    const dp = new DPlayer({
+    container: document.getElementById('dplayer'),
+    video: {
+        url: 'https://files.zzzhxxx.top/video/nagomi.ts',
+    },
+    danmaku: {
+        id: md5('https://files.zzzhxxx.top/video/nagomi.ts'),
+        addition: ['https://danmu.zzzhxxx.top/v3/bilibili?aid=87900951&bvid=BV1n741147yh&cid=150175780'],
+        api: "https://danmu.zzzhxxx.top/"
+    },
+    contextmenu: [
+    {
+        text: '227WiKi',
+        link: 'https://github.com/227WiKi/227WiKi',
+    },
+    ]
+});
+</script>
+<script>
+    const dp2 = new DPlayer({
+    container: document.getElementById('dplayer2'),
+    video: {
+        url: 'https://files.zzzhxxx.top/video/nagomi.mp4',
+    },
+    danmaku: {
+        id: md5('nagomi-intro'),
+        api: "https://danmu.zzzhxxx.top/"
+    },
+    contextmenu: [
+    {
+        text: '227WiKi',
+        link: 'https://github.com/zzzhxxx/227WiKi',
+    },
+    ]
+});
+</script>
+<script>
+    const ap = new APlayer({
+    container: document.getElementById('aplayer'),
+    audio: [{
+        name: 'Voice Sample',
+        artist: '西條和',
+        url: 'https://files.zzzhxxx.top/voicesample/nagomi.mp3',
+        cover: 'https://nananiji.zzzhxxx.top/assets/photo/avatar/nagomi.jpg'
     }]
 });
-        </script>
-</body>
-</html>
+</script>
 

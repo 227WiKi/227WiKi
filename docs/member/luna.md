@@ -4,12 +4,18 @@ template: comment.html
 ---
 
 !!! general inline end "四条月"
+    === "十一单"
+
+        ![十一单公式照](https://nananiji.zzzhxxx.top/assets/photo/luna/11th.jpg!compress){ loading=lazy }
+    === "十单"
+
+        ![十单公式照](https://nananiji.zzzhxxx.top/assets/photo/luna/10th.webp!compress){ loading=lazy }
     === "九单(v2)"
 
-        !![九单公式照(第二版)](https://nananiji.zzzhxxx.top/assets/photo/luna/9th-2.jpg)
+        ![九单公式照(第二版)](https://nananiji.zzzhxxx.top/assets/photo/luna/9th-2.jpg!compress){ loading=lazy }
     === "九单(v1)"
 
-        <a data-caption="九单公式照(第一版)" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/luna/9th.jpg"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/photo/luna/9th.jpg" title="" width="100%" /></a>
+        ![九单公式照(第一版)](https://nananiji.zzzhxxx.top/assets/photo/luna/9th.jpg!compress){ loading=lazy }
 
     --------
 
@@ -40,7 +46,9 @@ template: comment.html
         <figcaption>签名</figcaption>
     </figure>
 
-    [:fontawesome-brands-twitter: Twitter](https://twitter.com/luna_shijo227){ .md-button .md-button--primary } [Blog](https://blog.nanabunnonijyuuni.com/s/n227/diary/blog/list?ima=5436&ct=18){ .md-button .md-button--primary }
+    [:fontawesome-brands-twitter:](https://twitter.com/luna_shijo227){ .md-button} 
+    [:fontawesome-brands-tiktok:](https://www.tiktok.com/@luna_shijo){ .md-button  }
+    [Blog](https://blog.nanabunnonijyuuni.com/s/n227/diary/blog/list?ima=5436&ct=18){ .md-button}
 
 ## 时间线
 ### 2021 
@@ -58,35 +66,27 @@ template: comment.html
 
 <div id="dplayer"></div>
 
-<html>
-<head>
-    <meta name="referrer" content="never">
-</head>
 
-<body>
-    <script src="https://nananiji.zzzhxxx.top/js/md5.js"></script>
-    <script src="https://nananiji.zzzhxxx.top/js/hls.min.js"></script>
-    <script src="https://nananiji.zzzhxxx.top/js/DPlayer.min.js"></script>
-    <script>
-        const dp = new DPlayer({
-        container: document.getElementById('dplayer'),
-        video: {
-            url: 'https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/4504957038001/d6196725-53ac-44eb-bf29-2791a3b31e95/10s/master.m3u8?fastly_token=NjJkYTUwNzNfYjVkYWM2ZTAzYzE0MjZhYmQ0YTIwZWQwMjZmNzU5ZWM2YjRiZTVhYjQwYjE4YzZhZTQxNWVmODEzZWI1YTBlMA%3D%3D',
-            type: 'hls',
-        },
-        danmaku: {
-            id: md5('luna-intro'),
-            api: "https://danmu.zzzhxxx.top/"
-        },
-        contextmenu: [
-        {
-            text: '227WiKi',
-            link: 'https://github.com/227WiKi/227WiKi',
-        },
-        ]
-    });
-    console.log(dp.plugins.hls);
-    </script>
-    
-</body>
-</html>
+<script src="https://nananiji.zzzhxxx.top/js/md5.js"></script>
+<script src="https://nananiji.zzzhxxx.top/js/hls.min.js"></script>
+<script src="https://nananiji.zzzhxxx.top/js/DPlayer.min.js"></script>
+<script>
+    const dp = new DPlayer({
+    container: document.getElementById('dplayer'),
+    video: {
+        url: 'https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/4504957038001/d6196725-53ac-44eb-bf29-2791a3b31e95/10s/master.m3u8?fastly_token=NjJkYTUwNzNfYjVkYWM2ZTAzYzE0MjZhYmQ0YTIwZWQwMjZmNzU5ZWM2YjRiZTVhYjQwYjE4YzZhZTQxNWVmODEzZWI1YTBlMA%3D%3D',
+        type: 'hls',
+    },
+    danmaku: {
+        id: md5('luna-intro'),
+        api: "https://danmu.zzzhxxx.top/"
+    },
+    contextmenu: [
+    {
+        text: '227WiKi',
+        link: 'https://github.com/227WiKi/227WiKi',
+    },
+    ]
+});
+console.log(dp.plugins.hls);
+</script>
