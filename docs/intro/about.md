@@ -1,12 +1,13 @@
 ---
-title: 简介 - Markdown特别用法
-template: comment.html
+title: 简介 - 22/7
 ---
+
 # 关于22/7
 
 ![アーティスト写真](https://nanabunnonijyuuni.com/images/4/35c/7cf86be97e2a080a50c5ef5dbd206.jpg){ loading= lazy} 
 
 ## 简介
+
 22/7 由索尼音乐和 ANIPLEX 合作推出，制作人是秋元康。
 该组合是通过选拔声优偶像来扮演日本著名创作人创作的角色而成立的。
 
@@ -75,6 +76,3 @@ template: comment.html
 - 2月27日 "ナナニジの日"在YoutubeLive直播，八位新成员首次公开亮相
 - 3月10日〜3月27日 『22/7 LIVE TOUR 2022「14」』举行，巡演结束后，由于人气爆棚，宣布追加演出。
 - 7月27日 九单『曇り空の向こうは晴れている』发行，是新成员加入后的首支单曲，总共有14名成员
-
-
-

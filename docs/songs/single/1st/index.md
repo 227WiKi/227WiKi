@@ -7,11 +7,9 @@ template: comment.html
 !!! general inline end "歌曲信息"
 
     === "完全生产限定版Type-A"
-        <a data-caption="Description" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/photo/songs/single/1st-1.jpg">
-            <img loading="lazy" alt="1st-1" src="https://nananiji.zzzhxxx.top/assets/photo/songs/single/1st-1.jpg" title="Title" width="100%" />
-        </a>
+        ![完全生产限定版Type-A](https://nananiji.zzzhxxx.top/assets/photo/songs/single/1st-1.jpg)
     === "完全生产限定版Type-B"
-        ![](https://nananiji.zzzhxxx.top/assets/photo/songs/single/1st-2.jpg)
+        ![完全生产限定版Type-B](https://nananiji.zzzhxxx.top/assets/photo/songs/single/1st-2.jpg)
     
     <center>:pack-hires: Hi-Res Lossless</center>
     

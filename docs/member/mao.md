@@ -46,7 +46,7 @@ template: comment.html
     <b>角色</b> 桐生塔子
   
     <figure markdown>
-        ![Nagomi](https://nananiji.zzzhxxx.top/assets/mao-sig.svg){ width="100" loading=lazy }
+        ![sign](https://nananiji.zzzhxxx.top/assets/mao-sig.svg){ width="100" loading=lazy }
         <figcaption>签名</figcaption>
     </figure>
 

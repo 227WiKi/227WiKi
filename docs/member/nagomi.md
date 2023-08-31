@@ -86,7 +86,7 @@ template: comment.html
         ![Nagomi](https://nananiji.zzzhxxx.top/assets/nagomi-sig.svg){ width="100" loading=lazy }
         <figcaption>签名</figcaption>
     </figure>
-    [:fontawesome-brands-twitter: Twitter](https://twitter.com/nagomi_saijo){ .md-button .md-button--primary } [Blog](http://blog.nanabunnonijyuuni.com/s/n227/diary/blog/list?ima=1526&ct=04){ .md-button .md-button--primary }
+    [:fontawesome-brands-twitter: Twitter](https://twitter.com/nagomi_saijo){ .md-button } [Blog](http://blog.nanabunnonijyuuni.com/s/n227/diary/blog/list?ima=1526&ct=04){ .md-button }
 
 ## 时间线
 

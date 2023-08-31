@@ -42,7 +42,7 @@ template: comment.html
     <b>角色</b> 濑良穂乃花
   
     <figure markdown>
-        ![Nagomi](https://nananiji.zzzhxxx.top/assets/rino-sig.svg){ width="100" loading=lazy }
+        ![rino](https://nananiji.zzzhxxx.top/assets/rino-sig.svg){ width="100" loading=lazy }
         <figcaption>签名</figcaption>
     </figure>
     [:fontawesome-brands-twitter: Twitter](https://twitter.com/rino_mochizuki){ .md-button }
@@ -74,35 +74,26 @@ template: comment.html
 
 <div id="dplayer"></div>
 
-<html>
-<head>
-    <meta name="referrer" content="never">
-</head>
-
-<body>
-    <script src="https://nananiji.zzzhxxx.top/js/md5.js"></script>
-    <script src="https://nananiji.zzzhxxx.top/js/hls.min.js"></script>
-    <script src="https://nananiji.zzzhxxx.top/js/DPlayer.min.js"></script>
-    <script>
-        const dp = new DPlayer({
-        container: document.getElementById('dplayer'),
-        video: {
-            url: 'https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/4504957038001/3c6bbf28-1eed-4ef9-bb8d-ab4cf43904d8/10s/master.m3u8?fastly_token=NjJkYTUwYWRfNTcwYmYwNmQ3NmUxZTk3ODU1ODZmN2I4MjlkNWY4OGYwNWQ4NDQ5OGYzZDBlMDI4MTFmOTFhMjI1ZWRhMjY1Yw%3D%3D',
-            type: 'hls',
-        },
-        danmaku: {
-            id: md5('rino-intro'),
-            api: "https://danmu.zzzhxxx.top/"
-        },
-        contextmenu: [
-        {
-            text: '227WiKi',
-            link: 'https://github.com/227WiKi/227WiKi',
-        },
-        ]
-    });
-    console.log(dp.plugins.hls);
-    </script>
-    
-</body>
-</html>
+<script src="https://nananiji.zzzhxxx.top/js/md5.js"></script>
+<script src="https://nananiji.zzzhxxx.top/js/hls.min.js"></script>
+<script src="https://nananiji.zzzhxxx.top/js/DPlayer.min.js"></script>
+<script>
+    const dp = new DPlayer({
+    container: document.getElementById('dplayer'),
+    video: {
+        url: 'https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/4504957038001/3c6bbf28-1eed-4ef9-bb8d-ab4cf43904d8/10s/master.m3u8?fastly_token=NjJkYTUwYWRfNTcwYmYwNmQ3NmUxZTk3ODU1ODZmN2I4MjlkNWY4OGYwNWQ4NDQ5OGYzZDBlMDI4MTFmOTFhMjI1ZWRhMjY1Yw%3D%3D',
+        type: 'hls',
+    },
+    danmaku: {
+        id: md5('rino-intro'),
+        api: "https://danmu.zzzhxxx.top/"
+    },
+    contextmenu: [
+    {
+        text: '227WiKi',
+        link: 'https://github.com/227WiKi/227WiKi',
+    },
+    ]
+});
+console.log(dp.plugins.hls);
+</script>

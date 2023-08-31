@@ -216,16 +216,17 @@ plugins:
       height: auto
       zoomable: true
       draggable: true
-      skip_classes:
-        - custom-skip-class-name
       auto_caption: true
       caption_position: bottom
 extra_css:
   - '_static/css/extra.css'
+  - '_static/css/glightbox.min.css'
   - stylesheets/extra.css
   - https://nananiji.zzzhxxx.top/css/jquery.fancybox.min.css
   - https://nananiji.zzzhxxx.top/css/APlayer.min.css
 extra_javascript:
+  - '_static/js/glightbox.min.js'
+  - '_static/js/glightbox.js'
   - https://nananiji.zzzhxxx.top/js/jquery.min.js
   - https://nananiji.zzzhxxx.top/js/jquery.fancybox.min.js
   - https://nananiji.zzzhxxx.top/js/DPlayer.min.js

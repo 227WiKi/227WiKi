@@ -42,7 +42,7 @@ template: comment.html
     <b>角色</b> 一之濑莹
     
     <figure markdown>
-        ![Nagomi](https://nananiji.zzzhxxx.top/assets/luna-sig.svg){ width="100" loading=lazy }
+        ![sign](https://nananiji.zzzhxxx.top/assets/luna-sig.svg){ width="100" loading=lazy }
         <figcaption>签名</figcaption>
     </figure>
 
