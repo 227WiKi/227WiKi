@@ -3,6 +3,8 @@ title: 成员 - 西條和
 template: comment.html
 ---
 # :pack-sig-member-nagomi-sig: 西條和
+???+ quote "ひとこと"
+    無口な関西人です。なにもできませんが自分を変えれるように全力で頑張ります。見ていてくれたら嬉しいです。
 !!! nagomi-sig inline end "西條和"
     === "十一单"
 

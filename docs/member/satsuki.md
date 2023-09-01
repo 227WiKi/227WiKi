@@ -2,7 +2,8 @@
 title: 成员 - 椎名桜月
 template: comment.html
 ---
-
+???+ quote "ひとこと"
+    椎名桜月です！ハムスターを飼ってます。これから沢山成長していきたいです。 よろしくお願いします！
 !!! general inline end "椎名桜月"
     === "十一单"
 

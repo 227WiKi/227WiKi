@@ -2,7 +2,8 @@
 title: 成员 - 清井美那
 template: comment.html
 ---
-
+???+ quote "ひとこと"
+    登山部リケジョの平和主義者、清井美那です！小柄だけどダイナミックに頑張ります！
 !!! general inline end "清井美那"
     === "十一单"
 

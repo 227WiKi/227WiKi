@@ -3,7 +3,8 @@ title: 成员 - 凉花萌
 template: comment.html
 ---
 # :pack-sig-member-moe-sig: 凉花萌
-
+???+ quote "ひとこと"
+    鳥と桃が大好きです！
 !!! moe-sig inline end "凉花萌"
     === "十一单"
 

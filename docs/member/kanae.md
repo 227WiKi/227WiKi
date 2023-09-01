@@ -3,7 +3,8 @@ title: 成员 - 白泽加奈惠
 template: comment.html
 ---
 # :pack-sig-member-kanae-sig: 白泽加奈惠
-
+???+ quote "ひとこと"
+    土踏まずがないことが密かな悩みです。よろしくお願いします！
 !!! kanae-sig inline end "白泽加奈惠"
     === "十一单"
 

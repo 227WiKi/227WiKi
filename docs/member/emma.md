@@ -2,7 +2,8 @@
 title: 成员 - 月城咲舞
 template: comment.html
 ---
-
+???+ quote "ひとこと"
+    電撃担当月城咲舞です！必殺ナナニジクラッシュ！
 !!! general inline end "月城咲舞"
     === "十一单"
 

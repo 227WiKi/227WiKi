@@ -3,6 +3,8 @@ title: 成员 - 天城莎莉
 template: comment.html
 ---
 # :pack-sig-member-sally-sig: 天城莎莉
+???+ quote "ひとこと"
+    根暗な明るいオタク、天城サリーです！食も笑顔もアメリカンサイズで頑張ります！
 
 !!! sally-sig inline end "天城莎莉"
     === "十一单"

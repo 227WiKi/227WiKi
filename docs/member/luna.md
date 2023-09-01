@@ -2,7 +2,8 @@
 title: 成员 - 四条月
 template: comment.html
 ---
-
+???+ quote "ひとこと"
+    お月様のように皆さんを照らせる存在でありたいです
 !!! general inline end "四条月"
     === "十一单"
 

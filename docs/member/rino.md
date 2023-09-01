@@ -2,7 +2,8 @@
 title: 成员 - 望月りの
 template: comment.html
 ---
-
+???+ quote "ひとこと"
+    チアスマイル全開で皆様の心に猛突進！不器用だけど全力で頑張ります。
 !!! general inline end "望月りの"
     === "十一单"
 

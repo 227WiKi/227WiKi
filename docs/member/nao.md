@@ -2,7 +2,8 @@
 title: 成员 - 相川奈央
 template: comment.html
 ---
-
+???+ quote "ひとこと"
+    夢は皆さんを笑顔にすること、あざとく愛嬌を振りまきます♡ 応援よろしくお願いします！
 !!! general inline end "相川奈央"
     === "十一单"
 

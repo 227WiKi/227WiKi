@@ -2,7 +2,9 @@
 title: 成员 - 雨夜音
 template: comment.html
 ---
-
+???+ quote "ひとこと"
+    分からない事ばかりの未熟者ですが全力で頑張ります。よろしくお願い致します。
+    
 !!! general inline end "雨夜音"
     === "十一单"
 
