@@ -124,7 +124,7 @@ template: comment.html
 
 ## 个人采访
 
-<iframe src="https://player.bilibili.com/player.html?aid=87900951&bvid=BV1n741147yh&cid=150175780&page=1" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
+<iframe src="https://player.bilibili.com/player.html?aid=87900951&bvid=BV1n741147yh&cid=150175780&page=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
 
 [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV1n741147yh){ .md-button .md-button--primary }
 
