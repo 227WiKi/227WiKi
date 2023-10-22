@@ -6,6 +6,9 @@ template: comment.html
 ???+ quote "ひとこと"
     鳥と桃が大好きです！
 !!! moe-sig inline end "凉花萌"
+    === "二专"
+
+        ![二专公式照](https://nananiji.zzzhxxx.top/assets/photo/moe/2nd-album.jpg!compress){ loading=lazy }
     === "十一单"
 
         ![十一单公式照](https://nananiji.zzzhxxx.top/assets/photo/moe/11th.jpg!compress){ loading=lazy }

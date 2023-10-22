@@ -7,6 +7,9 @@ template: comment.html
     根暗な明るいオタク、天城サリーです！食も笑顔もアメリカンサイズで頑張ります！
 
 !!! sally-sig inline end "天城莎莉"
+    === "二专"
+
+        ![二专公式照](https://nananiji.zzzhxxx.top/assets/photo/sally/2nd-album.jpg!compress){ loading=lazy }
     === "十一单"
 
         ![十一单公式照](https://nananiji.zzzhxxx.top/assets/photo/sally/11th.jpg!compress){ loading=lazy }

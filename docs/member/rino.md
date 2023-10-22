@@ -5,6 +5,9 @@ template: comment.html
 ???+ quote "ひとこと"
     チアスマイル全開で皆様の心に猛突進！不器用だけど全力で頑張ります。
 !!! general inline end "望月りの"
+    === "二专"
+
+        ![二专公式照](https://nananiji.zzzhxxx.top/assets/photo/rino/2nd-album.jpg!compress){ loading=lazy }
     === "十一单"
 
         ![十一单公式照](https://nananiji.zzzhxxx.top/assets/photo/rino/11th.jpg!compress){ loading=lazy }

@@ -5,6 +5,9 @@ template: comment.html
 ???+ quote "ひとこと"
     お月様のように皆さんを照らせる存在でありたいです
 !!! general inline end "四条月"
+    === "二专"
+
+        ![二专公式照](https://nananiji.zzzhxxx.top/assets/photo/luna/2nd-album.jpg!compress){ loading=lazy }
     === "十一单"
 
         ![十一单公式照](https://nananiji.zzzhxxx.top/assets/photo/luna/11th.jpg!compress){ loading=lazy }

@@ -5,6 +5,9 @@ template: comment.html
 ???+ quote "ひとこと"
     登山部リケジョの平和主義者、清井美那です！小柄だけどダイナミックに頑張ります！
 !!! general inline end "清井美那"
+    === "二专"
+
+        ![二专公式照](https://nananiji.zzzhxxx.top/assets/photo/mina/2nd-album.jpg!compress){ loading=lazy }
     === "十一单"
 
         ![十一单公式照](https://nananiji.zzzhxxx.top/assets/photo/mina/11th.jpg!compress){ loading=lazy }

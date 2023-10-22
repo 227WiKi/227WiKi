@@ -39,7 +39,7 @@ template: comment.html
 
 
 
-不曾存在的我(僕は存在していなかった)是22/7的首张Single也是Single中主打歌的歌名，在2017年9月20日发布.
+不曾存在的我(僕は存在していなかった)是22/7的首张单曲也是单曲中主打歌的歌名，在2017年9月20日发布。
 
 ## 歌曲列表
 
@@ -47,9 +47,9 @@ template: comment.html
 
 | No.     | 标题                          | 时长 |
 | --------| ------------------------------------ | -------- |
-| 1.      | :pack-hires:     不曾存在的我(僕は存在していなかった)| 4:15 |
-| 2.      | :pack-hires: 地下铁抵抗主义(地下鉄抵抗主義) | 4:31 |
-| 3.      | :pack-hires:     11人聚集的理由 (11人が集まった理由) | 4:00|
+| 1.      | [:pack-hires:     不曾存在的我(僕は存在していなかった)](/songs/single/1st/song-1/)| 4:15 |
+| 2.      | [:pack-hires: 地下铁抵抗主义(地下鉄抵抗主義)](/songs/single/1st/song-2/)| 4:31 |
+| 3.      | [:pack-hires:     11人聚集的理由 (11人が集まった理由)](/songs/single/1st/song-3/) | 4:00|
 | 4.      |    不曾存在的我(僕は存在していなかった)-off vocal ver.-  | 4:04 |
 | 5.      |  地下铁抵抗主义(地下鉄抵抗主義)-off vocal ver.-  | 4:31 |
 | 6.      | 11人聚集的理由 (11人が集まった理由)-off vocal ver.-  | 3:58 |
@@ -86,10 +86,11 @@ template: comment.html
 ## 视频
 
 === "Music Video"
+    <iframe src="https://player.bilibili.com/player.html?aid=373098921&bvid=BV1vZ4y1g7uS&cid=369475374&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
     [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV1vZ4y1g7uS){ .md-button .md-button--primary }
     [:fontawesome-brands-youtube: 前往YouTube观看](https://www.youtube.com/watch?v=lKGDCoRjlCk){ .md-button .md-button--primary }
 === "Lyric Video"
-
+    <iframe src="https://player.bilibili.com/player.html?aid=12491357&bvid=BV1Xx411i7Wb&cid=20556630&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
     [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV1Xx411i7Wb){ .md-button .md-button--primary }
 
 ## 下载 

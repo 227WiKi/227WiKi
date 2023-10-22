@@ -6,6 +6,9 @@ template: comment.html
 ???+ quote "ひとこと"
     無口な関西人です。なにもできませんが自分を変えれるように全力で頑張ります。見ていてくれたら嬉しいです。
 !!! nagomi-sig inline end "西條和"
+    === "二专"
+
+        ![二专公式照](https://nananiji.zzzhxxx.top/assets/photo/nagomi/2nd-album.jpg!compress){ loading=lazy }
     === "十一单"
 
         ![十一单公式照](https://nananiji.zzzhxxx.top/assets/photo/nagomi/11th.jpg!compress){ loading=lazy }
