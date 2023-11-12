@@ -200,6 +200,11 @@ repo_name: 227WiKi/227WiKi
 edit_uri: edit/master/docs/
 
 plugins:
+
+  - blog:
+    enabled: true
+    blog_dir: blog
+    blog_toc: true
   - search:
       lang: 
         - ja
@@ -236,6 +241,20 @@ extra_javascript:
   - https://nananiji.zzzhxxx.top/js/APlayer.min.js
   - https://nananiji.zzzhxxx.top/js/Meting.min.js
 extra:
+  consent:
+    title: Cookie consent
+    description: >- 
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our documentation and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our documentation better.
+    cookies:
+      analytics: Google Analytics
+      custom: Custom cookie
+    actions:
+      - accept
+      - manage
+
   social:
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/FiberBell
@@ -251,6 +270,20 @@ extra:
   analytics:
     provider: google
     property: G-WR7E2E5BRB
+    feedback:
+      title: 页面有帮助吗?
+      ratings:
+        - icon: material/emoticon-happy-outline
+          name: 有帮助
+          data: 1
+          note: >-
+            感谢您的反馈!
+        - icon: material/emoticon-sad-outline
+          name: 可以做得更好
+          data: 0
+          note: >- 
+            Thanks for your feedback! Help us improve this page by
+            using our <a href="..." target="_blank" rel="noopener">feedback form</a>.
 
 copyright: Copyright &copy; 2021 - 2023 22/7 WiKi
 
