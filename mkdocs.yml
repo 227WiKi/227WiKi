@@ -248,6 +248,10 @@ extra:
       name: 22/7 Official Website
     - icon: fontawesome/solid/paper-plane
       link: mailto:<feedback@zzzhxxx.top>
+  analytics:
+    provider: google
+    property: G-WR7E2E5BRB
+
 copyright: Copyright &copy; 2021 - 2023 22/7 WiKi
 
 markdown_extensions:
