@@ -177,9 +177,7 @@ theme:
   logo: assets/logo.svg
   favicon: assets/favicon.png
   custom_dir: overrides
-  font: 
-    text: YSHaoShenTi
-    code: qingyuan
+  font: false
   
   features:
     - content.action.edit
