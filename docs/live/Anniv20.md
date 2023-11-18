@@ -106,11 +106,11 @@ template: comment.html
     [:pack-bili-tv: B站观看 BD 4K](https://www.bilibili.com/video/BV1sp4y1h7Uk){ .md-button .md-button--primary }
 ## 下载
 
-[:pack-ali: 阿里云盘](https://www.aliyundrive.com/s/ST53qeMmcpn){ .md-button .md-button--primary }  [OneDrive](https://pan.zzzhxxx.top/s/27tB){ .md-button .md-button--primary } [应援站-昼场](https://cloud.tsinghua.edu.cn/f/3aad5435818b47f39955/){ .md-button .md-button--primary } [应援站-夜场](https://cloud.tsinghua.edu.cn/f/c9ccbac371ba436fb78a/){ .md-button .md-button--primary }
+[:pack-ali: 阿里云盘](https://www.aliyundrive.com/s/ST53qeMmcpn){ .md-button .md-button--primary }  [22/7 Archive](https://files.227wiki.eu.org/Live/[BD][%E7%86%9F%E8%82%89]22%EF%BC%8F7%20Anniversary%20Live%202020[BDRip%201080p%20AVC-10bit%20FLAC]){ .md-button .md-button--primary } [应援站-昼场](https://cloud.tsinghua.edu.cn/f/3aad5435818b47f39955/){ .md-button .md-button--primary } [应援站-夜场](https://cloud.tsinghua.edu.cn/f/c9ccbac371ba436fb78a/){ .md-button .md-button--primary }
 
 ## BD下载
 
-[:pack-ali: 阿里云盘](https://www.aliyundrive.com/s/LbeVhxid3tS){ .md-button .md-button--primary } [OneDrive](https://pan.zzzhxxx.top/s/EPuE){ .md-button .md-button--primary } 
+[:pack-ali: 阿里云盘](https://www.aliyundrive.com/s/LbeVhxid3tS){ .md-button .md-button--primary } [22/7 Archive](https://files.227wiki.eu.org/Live/[BD][%E7%86%9F%E8%82%89]22%EF%BC%8F7%20Anniversary%20Live%202020[BDRip%201080p%20AVC-10bit%20FLAC]){ .md-button .md-button--primary } 
 
 <html>
 <head>
@@ -124,7 +124,7 @@ template: comment.html
         const dp1 = new DPlayer({
         container: document.getElementById('dplayer1'),
         video: {
-            url: 'https://link.zzzhxxx.top/?/227-live/%E6%98%BC%E5%85%AC%E6%BC%944200.mp4',
+            url: 'https://files.227wiki.eu.org/d/Live/%5BBD%5D%5B%E7%86%9F%E8%82%89%5D22%EF%BC%8F7%20Anniversary%20Live%202020%5BBDRip%201080p%20AVC-10bit%20FLAC%5D/%E3%80%90%E7%86%9F%E3%80%91227%E2%80%9CAnniversary%20Live%202020%E2%80%9D%E6%98%BC%E5%9C%BA.mp4',
         },
         danmaku: {
             id: md5('https://link.zzzhxxx.top/?/227-live/%E6%98%BC%E5%85%AC%E6%BC%944200.mp4'),
@@ -142,7 +142,7 @@ template: comment.html
         const dp2 = new DPlayer({
         container: document.getElementById('dplayer2'),
         video: {
-            url: 'https://pan.zzzhxxx.top/api/v3/file/source/89/%E3%80%90%E7%86%9F%E3%80%91227%E2%80%9CAnniversary%20Live%202020%E2%80%9D%E5%A4%9C%E5%9C%BA+FC%E9%99%90%E5%AE%9ATalk.mp4?sign=PKK9pkEyHTO98LRI60pAFTr-BxlNpfOMQhFxuCBmOgY%3D%3A0',
+            url: 'https://files.227wiki.eu.org/d/Live/%5BBD%5D%5B%E7%86%9F%E8%82%89%5D22%EF%BC%8F7%20Anniversary%20Live%202020%5BBDRip%201080p%20AVC-10bit%20FLAC%5D/%E3%80%90%E7%86%9F%E3%80%91227%E2%80%9CAnniversary%20Live%202020%E2%80%9D%E5%A4%9C%E5%9C%BA.mp4',
         },
         danmaku: {
             id: md5('https://pan.zzzhxxx.top/api/v3/file/source/89/%E3%80%90%E7%86%9F%E3%80%91227%E2%80%9CAnniversary%20Live%202020%E2%80%9D%E5%A4%9C%E5%9C%BA+FC%E9%99%90%E5%AE%9ATalk.mp4?sign=PKK9pkEyHTO98LRI60pAFTr-BxlNpfOMQhFxuCBmOgY%3D%3A0'),
@@ -165,20 +165,7 @@ template: comment.html
         const dp3 = new DPlayer({
         container: document.getElementById('dplayer3'),
         video: {
-            quality: [
-                {
-                    name: '8bit 320k',
-                    url: 'https://link.zzzhxxx.top/?/227-live/webstorage/8bit/22%EF%BC%8F7%20Anniversary%20Live%202020%20-%2001%20%5B8bit%5D.mp4',
-                    type: 'normal',
-                },
-                {
-                    name: '10bit FLAC',
-                    url: 'https://pan.zzzhxxx.top/api/v3/file/source/376/22%EF%BC%8F7%20Anniversary%20Live%202020%20-%2001%20%5BBDRip%201080p%20AVC-10bit%20FLAC%5D.mkv?sign=6K5wZy7h8GmsYxkvdKTW-qvjw_GFWkjHsmpMyk_QvnU%3D%3A0',
-                    type: 'normal',
-                },
-            ],
-            defaultQuality: 0,
-            pic: 'https://link.zzzhxxx.top/?/227-live/webstorage/pic/22%EF%BC%8F7%20Anniversary%20Live%202020%20-%20Menu01.png',
+            url: 'https://files.227wiki.eu.org/d/Live/%5BBD%5D%5B%E7%86%9F%E8%82%89%5D22%EF%BC%8F7%20Anniversary%20Live%202020%5BBDRip%201080p%20AVC-10bit%20FLAC%5D/%5B%E7%94%9F%E8%82%89%5DBD/22%EF%BC%8F7%20Anniversary%20Live%202020%20-%2001%20%5BBDRip%201080p%20AVC-10bit%20FLAC%5D.mkv',
         },
         danmaku: {
             id: md5('https://pan.zzzhxxx.top/api/v3/file/source/376/22%EF%BC%8F7%20Anniversary%20Live%202020%20-%2001%20%5BBDRip%201080p%20AVC-10bit%20FLAC%5D.mkv?sign=6K5wZy7h8GmsYxkvdKTW-qvjw_GFWkjHsmpMyk_QvnU%3D%3A0'),
@@ -196,20 +183,7 @@ template: comment.html
         const dp4 = new DPlayer({
         container: document.getElementById('dplayer4'),
         video: {
-            quality: [
-                {
-                    name: '8bit 320k',
-                    url: 'https://link.zzzhxxx.top/?/227-live/webstorage/8bit/22%EF%BC%8F7%20Anniversary%20Live%202020%20-%2002%20%5B8bit%5D.mp4',
-                    type: 'normal',
-                },
-                {
-                    name: '10bit FLAC',
-                    url: 'https://pan.zzzhxxx.top/api/v3/file/source/378/22%EF%BC%8F7%20Anniversary%20Live%202020%20-%2002%20%5BBDRip%201080p%20AVC-10bit%20FLAC%5D.mkv?sign=XK3p--mFb1thgNCRGuX7oHqGUFm1l3donF5T4NpgfwA%3D%3A0',
-                    type: 'normal',
-                },
-            ],
-            defaultQuality: 0,
-            pic: 'https://link.zzzhxxx.top/?/227-live/webstorage/pic/22%EF%BC%8F7%20Anniversary%20Live%202020%20-%20Menu02.png',
+            url: 'https://files.227wiki.eu.org/d/Live/%5BBD%5D%5B%E7%86%9F%E8%82%89%5D22%EF%BC%8F7%20Anniversary%20Live%202020%5BBDRip%201080p%20AVC-10bit%20FLAC%5D/%5B%E7%94%9F%E8%82%89%5DBD/22%EF%BC%8F7%20Anniversary%20Live%202020%20-%2002%20%5BBDRip%201080p%20AVC-10bit%20FLAC%5D.mkv',
         },
         danmaku: {
             id: md5('https://pan.zzzhxxx.top/api/v3/file/source/378/22%EF%BC%8F7%20Anniversary%20Live%202020%20-%2002%20%5BBDRip%201080p%20AVC-10bit%20FLAC%5D.mkv?sign=XK3p--mFb1thgNCRGuX7oHqGUFm1l3donF5T4NpgfwA%3D%3A0'),

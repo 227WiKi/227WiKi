@@ -200,11 +200,6 @@ repo_name: 227WiKi/227WiKi
 edit_uri: edit/master/docs/
 
 plugins:
-
-  - blog:
-    enabled: true
-    blog_dir: blog
-    blog_toc: true
   - search:
       lang: 
         - ja
