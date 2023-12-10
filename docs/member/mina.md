@@ -59,12 +59,18 @@ template: comment.html
 - 2月27日在ナナニジ House中初次亮相
 - 4月20日在“14”东京追加公演上宣布为永峰枫配音
 
+### 2023
+
+- 11月27日,由于身体原因,难以进行活动,宣布从22/7毕业,SNS账户于12月7日关闭[^1][^2]
+
 ## 相关
 
 ## FREE TALK
 
 <div id="dplayer"></div>
 
+[^1]: https://nanabunnonijyuuni.com/s/n129/news/detail/10943?ima=3258
+[^2]: https://blog.227wiki.eu.org/2023/11/30/0cd3197c7426f21e83e06ab1f1ce9432/
 
 <script src="https://nananiji.zzzhxxx.top/js/md5.js"></script>
 <script src="https://nananiji.zzzhxxx.top/js/hls.min.js"></script>
