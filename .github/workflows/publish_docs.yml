@@ -1,7 +1,7 @@
 name: 227
 on:
   push:
-    branches: 
+    branches:
       - master
 jobs:
   deploy:
@@ -17,5 +17,6 @@ jobs:
       - run: pip install \
           mkdocs-material \
           mkdocs-glightbox \
-          mkdocs-git-committers-plugin-cn \
+          mkdocs-git-committers-plugin-2 \
+          mkdocs-git-revision-date-localized-plugin \
       - run: mkdocs gh-deploy --force
