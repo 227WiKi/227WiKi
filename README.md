@@ -5,9 +5,6 @@
   [Github](https://github.com/227WiKi/227WiKi) | [Gitee](https://gitee.com/nananijiwiki/nananiji-wiki)
 
   ![](https://img.shields.io/badge/mkdocs-1.5.3-blue?style=for-the-badge)
-  <user>/<repo>/test.yml?branch=main
-
-
   ![](https://img.shields.io/github/actions/workflow/status/227WiKi/227WiKi/publish_docs.yml?style=for-the-badge)
   ![GitHub contributors](https://img.shields.io/github/contributors/227WiKi/227WiKi?style=for-the-badge)
   ![GitHub issues](https://img.shields.io/github/issues-raw/227WiKi/227WiKi?style=for-the-badge)
