@@ -93,6 +93,10 @@ template: comment.html
     </figure>
     [:fontawesome-brands-twitter: Twitter](https://twitter.com/nagomi_saijo){ .md-button } [Blog](http://blog.nanabunnonijyuuni.com/s/n227/diary/blog/list?ima=1526&ct=04){ .md-button }
 
+    --------
+
+    <b>应援色</b> 白色
+
 ## 时间线
 
 ### 2016
@@ -109,7 +113,7 @@ template: comment.html
 
 - 非常喜欢看《相棒》
 - 喜欢的偶像是fairies[^1]
-- 有一个姐姐，在showroom与zoom直播中经常会出现，同时声线非常像，到了连妈妈也不能分辨的地步
+- 有一个[姐姐](https://www.instagram.com/ukita_eriko/)，在showroom与zoom直播中经常会出现，同时声线非常像，到了连妈妈也不能分辨的地步
 - 直播中被成员们投票为团里最像父亲的人之一[^2]
 - 喜欢看ASMR视频，尤其是切肥皂的视频
 - 小学的时候因受到校园暴力而变成了现在的性格[^3]
@@ -118,8 +122,14 @@ template: comment.html
 - 在一次直播中说漏嘴自己在2000年左右出生
 - 讨厌自己的声音，认为自己没有资格去演绎美羽，但她还是去做她最不想做的事了
 - 喜欢电梯里和通往地铁站台的楼梯间的气味 [^4]
+- 因为想要做出改变所以参加了22/7的甄选
+- 在休息室喜欢一个人坐在角落里
 - 声优方面受到了高山南的影响
 - 喜欢跳舞，但由于担心自己跳得不像偶像，在跳舞时很难保持微笑。小时候曾模仿过Fairies团体跳舞，并掌握了一些跳舞的方法。
+- 右腿膝盖有一个疤痕，在live时会用胶布贴上
+- 喜欢米菲
+- 基本不接电话
+
 
 ## 声音样本
 
