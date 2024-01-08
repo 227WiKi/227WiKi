@@ -22,7 +22,7 @@ nav:
           - 望月りの: member/rino.md
       - 毕业成员:
           - 清井美那: member/mina.md
-          - 雨夜音: member/oto.md
+          - 雨夜音(あ): member/oto.md
           - 白泽加奈惠: member/kanae.md
           - 宫濑玲奈(佐仓初): member/reina.md
           - 海乃琉璃(吉宫瑠织): member/ruri.md
@@ -30,12 +30,13 @@ nav:
           - 武田爱奈（あいなっち）: member/aina.md
           - 高辻丽(日永丽): member/urara.md
           - 帆风千春(千春): member/chiharu.md
-          - 花川芽衣(椛島島光): member/mei.md
+          - 花川芽衣(椛島光): member/mei.md
   - Live:
       - 索引: live/index.md
       - Anniversary Live 2020: live/Anniv20.md
       - "11": live/11.md
       - Mission Paradise: live/mp.md
+      - Anniversary Live 2021: live/Anniv21.md
   - 歌曲:
       - 索引: songs/index.md
       - 单曲:
@@ -109,6 +110,23 @@ nav:
                   - 君は誰だ？: songs/single/9th/song-3.md
                   - カントリーガール: songs/single/9th/song-4.md
                   - 読みかけの漫画: songs/single/9th/song-5.md
+          - 神様だって決められない:
+              - 简介: songs/single/10th/index.md
+              - 歌曲:
+                  - 神様だって決められない: songs/single/10th/song-1.md
+                  - 命の続き: songs/single/10th/song-2.md
+                  - 謎の力: songs/single/10th/song-3.md
+                  - 最後のピアノ(白组): songs/single/10th/song-4.md
+                  - ハレロ(红组): songs/single/10th/song-5.md
+          - 僕は今夜、出て行く:
+              - 简介: songs/single/11th/index.md
+              - 歌曲:
+                  - 僕は今夜、出て行く: songs/single/11th/song-1.md
+                  - あやふやな世界観: songs/single/11th/song-2.md
+                  - 僕のホロスコープ: songs/single/11th/song-3.md
+                  - 悲しみの半分: songs/single/11th/song-4.md
+                  - もう純情は邪魔なだけ: songs/single/11th/song-5.md
+        
       - 专辑:
           - 名为11的永远的素数:
               - 简介: songs/album/1st/index-disc.md

@@ -5,6 +5,7 @@
   [Github](https://github.com/227WiKi/227WiKi) | [Gitee](https://gitee.com/nananijiwiki/nananiji-wiki)
 
   ![](https://img.shields.io/badge/mkdocs-1.5.3-blue?style=for-the-badge)
+  [![Built with Material for MkDocs](https://img.shields.io/badge/Material_for_MkDocs-526CFE?style=for-the-badge&logo=MaterialForMkDocs&logoColor=white)](https://squidfunk.github.io/mkdocs-material/)
   ![](https://img.shields.io/github/actions/workflow/status/227WiKi/227WiKi/publish_docs.yml?style=for-the-badge)
   ![GitHub contributors](https://img.shields.io/github/contributors/227WiKi/227WiKi?style=for-the-badge)
   ![GitHub issues](https://img.shields.io/github/issues-raw/227WiKi/227WiKi?style=for-the-badge)
