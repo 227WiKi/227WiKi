@@ -1,5 +1,5 @@
 ---
-title: 成员 - 清井美那
+title: 毕业成员 - 清井美那
 template: comment.html
 ---
 ???+ quote "ひとこと"

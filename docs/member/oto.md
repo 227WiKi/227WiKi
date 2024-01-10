@@ -1,5 +1,5 @@
 ---
-title: 成员 - 雨夜音
+title: 毕业成员 - 雨夜音
 template: comment.html
 ---
 ???+ quote "ひとこと"

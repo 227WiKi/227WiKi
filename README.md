@@ -28,15 +28,8 @@
 
 ## 访问
 
-目前提供两种访问方式
+[Official](https://227wiki.eu.org)|[Azure Mirror](https://mirror.227wiki.eu.org/)
 
-- 若您处于国外或可以流畅使用Github Pages,请访问[Github Pages版本](https://227wiki.github.io/)
-- 若您无法顺利使用Github Pages,请访问[国内镜像](https://wiki.zzzhxxx.top)
-
-
-## CDN
-
-目前所有资源使用jsdelivr调用，由于jsdelivr备案吊销，部分资源国内调用可能会很慢，将会尽快移动至阿里云CDN
 
 ## 如何贡献
 
@@ -48,7 +41,7 @@
 
 请访问你需要修改的页面在右上角找到笔的图标使用GitHub或gitee的在线编辑进行提交pr
 
-若您两种方法都无法使用，请电邮`fiberbell@163.com`或者bilibili私信`@FiberBell`提出您需要贡献的页面并提供修改后的文件，我们会将您加入页面展示的贡献者中
+若您两种方法都无法使用，请电邮`feedback@227wiki.eu.org`或者bilibili私信`@FiberBell`提出您需要贡献的页面并提供修改后的文件，我们会将您加入页面展示的贡献者中
 
 ## 部署
 
@@ -77,7 +70,7 @@ mkdocs serve
 
 ## Sponsor
 
-如果您想支持本项目，可以前往[爱发电](https://afdian.net/@zzzhxxx) 或 [patreon](https://patreon.com/zzzhxxx) 赞助用于支持CDN与域名开销
+如果您想支持本项目，可以前往[爱发电](https://afdian.net/@zzzhxxx) 或 [patreon](https://patreon.com/zzzhxxx) 赞助用于支持CDN开销
 
 ## 加入我们
 
@@ -85,4 +78,6 @@ mkdocs serve
 
 ## 联系
 
-> Blog [@zzzhxxx](https://zzzhxxx.top) · GitHub [@zzzhxxx](https://github.com/zzzhxxx) · Gitee [@zzzhxxx](https://gitee.com/zzzhxxx) · Telegram [@FiberBell](https://t.me/Fiberbell) · BiliBili [@FiberBell](https://space.bilibili.com/40127239) · QQ [@风纪委员](https://qm.qq.com/cgi-bin/qm/qr?k=7AjWZGuWBFU54GBhQqrZkY6rhvtKUFg6&noverify=0)
+> Email [feedback@227wiki.eu.org](mailto:feedback@227wiki.eu.org) · Telegram [@FiberBell](https://t.me/Fiberbell) · BiliBili [@FiberBell](https://space.bilibili.com/40127239) 
+
+![Alt](https://repobeats.axiom.co/api/embed/09929dc48a1a73f50d3adc6ff7c3622ac3db858d.svg "Repobeats analytics image")
