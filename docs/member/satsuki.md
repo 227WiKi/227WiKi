@@ -50,9 +50,9 @@ template: comment.html
         <figcaption>签名</figcaption>
     </figure>
 
-    [:fontawesome-brands-twitter:](https://twitter.com/satsuki_shiina){ .md-button }
-    [:fontawesome-brands-instagram:](https://instagram.com/shiina_satsuki227){ .md-button }
-    [:fontawesome-brands-tiktok:](https://www.tiktok.com/@satsuki_shiina){ .md-button }
+    [:fontawesome-brands-twitter:](https://twitter.com/satsuki_shiina) [:fontawesome-brands-instagram:](https://instagram.com/shiina_satsuki227) [:fontawesome-brands-tiktok:](https://www.tiktok.com/@satsuki_shiina)
+
+    [Blog](https://blog.nanabunnonijyuuni.com/s/n227/diary/blog/list?ima=5436&ct=17){ .md-button}
 
 # 时间线
 ## 2021 

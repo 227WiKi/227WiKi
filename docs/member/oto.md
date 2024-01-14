@@ -44,8 +44,6 @@ template: comment.html
     <b>角色</b> 八神叶爱
   
 
-    [:fontawesome-brands-twitter: Twitter](https://twitter.com/oto_amaya227){ .md-button }
-
 ## 时间线
 ### 2021 
 

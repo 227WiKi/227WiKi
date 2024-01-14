@@ -46,8 +46,9 @@ template: comment.html
 
   
 
-    [:fontawesome-brands-twitter:](https://twitter.com/emma_tsukishiro){ .md-button}
-    [:fontawesome-brands-tiktok:](https://www.tiktok.com/@emma_tsukishiro){ .md-button}
+    [:fontawesome-brands-twitter:](https://twitter.com/emma_tsukishiro) [:fontawesome-brands-tiktok:](https://www.tiktok.com/@emma_tsukishiro)
+
+    [Blog](https://blog.nanabunnonijyuuni.com/s/n227/diary/blog/list?ima=5436&ct=19){ .md-button}
 
 ## 时间线
 ### 2021 

@@ -49,7 +49,9 @@ template: comment.html
         ![rino](https://nananiji.zzzhxxx.top/assets/rino-sig.svg){ width="100" loading=lazy }
         <figcaption>签名</figcaption>
     </figure>
-    [:fontawesome-brands-twitter: Twitter](https://twitter.com/rino_mochizuki){ .md-button }
+    [:fontawesome-brands-twitter:](https://twitter.com/rino_mochizuki) [:fontawesome-brands-instagram:](https://twitter.com/cure_rinochi)
+    
+    [Blog](https://blog.nanabunnonijyuuni.com/s/n227/diary/blog/list?ima=3919&ct=20){ .md-button}
 
 ## 时间线
 ### 2021 

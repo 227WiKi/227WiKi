@@ -56,8 +56,7 @@ template: comment.html
     <b>角色(旧)</b> 斋藤妮可露
   
 
-    [:fontawesome-brands-instagram:](https://www.instagram.com/hikari_kabashima/){ .md-button} 
-
+    [:fontawesome-brands-instagram:](https://www.instagram.com/hikari_kabashima/)
 ## 时间线
 
 ### 22/7时期

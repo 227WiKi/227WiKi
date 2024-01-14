@@ -50,8 +50,8 @@ template: comment.html
         <figcaption>签名</figcaption>
     </figure>
 
-    [:fontawesome-brands-twitter:](https://twitter.com/luna_shijo227){ .md-button} 
-    [:fontawesome-brands-tiktok:](https://www.tiktok.com/@luna_shijo){ .md-button  }
+    [:fontawesome-brands-twitter:](https://twitter.com/luna_shijo227) [:fontawesome-brands-tiktok:](https://www.tiktok.com/@luna_shijo) 
+    
     [Blog](https://blog.nanabunnonijyuuni.com/s/n227/diary/blog/list?ima=5436&ct=18){ .md-button}
 
 ## 时间线

@@ -92,10 +92,8 @@ template: comment.html
         ![sally](https://nananiji.zzzhxxx.top/assets/sally-sig.svg){ width="100" }
         <figcaption>签名</figcaption>
     </figure>
-    [:fontawesome-brands-twitter:](https://twitter.com/sally_amaki){ .md-button}  [:fontawesome-brands-instagram:](https://www.instagram.com/sallyamaki/){ .md-button }
-    <br> 
-    [:fontawesome-brands-youtube:](https://www.youtube.com/channel/UCi4UjmN8HSi16sAhh_iEb6w){ .md-button }
-    [:fontawesome-brands-tiktok:](https://www.tiktok.com/@sally_amaki){ .md-button }
+    [:fontawesome-brands-twitter:](https://twitter.com/sally_amaki) [:fontawesome-brands-instagram:](https://www.instagram.com/sallyamaki/) [:fontawesome-brands-youtube:](https://www.youtube.com/channel/UCi4UjmN8HSi16sAhh_iEb6w) [:fontawesome-brands-tiktok:](https://www.tiktok.com/@sally_amaki)
+    
     [Blog](http://blog.nanabunnonijyuuni.com/s/n227/diary/blog/list?ima=1453&ct=01){ .md-button }
 
 ## 时间线

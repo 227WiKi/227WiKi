@@ -54,8 +54,8 @@ template: comment.html
         <figcaption>签名</figcaption>
     </figure>
 
-    [:fontawesome-brands-twitter:](https://twitter.com/mao_asaoka227){ .md-button} 
-    [:fontawesome-brands-instagram:](https://instagram.com/asaoka_mao__){ .md-button} 
+    [:fontawesome-brands-twitter:](https://twitter.com/mao_asaoka227) [:fontawesome-brands-instagram:](https://instagram.com/asaoka_mao__)
+    
     [Blog](https://blog.nanabunnonijyuuni.com/s/n227/diary/blog/list?ima=0912&ct=14){ .md-button}
 
 ## 时间线

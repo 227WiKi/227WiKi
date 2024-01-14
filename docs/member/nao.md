@@ -46,7 +46,9 @@ template: comment.html
     <b>角色</b> 西浦そら
   
 
-    [:fontawesome-brands-twitter: Twitter](https://twitter.com/nao_aikawa227){ .md-button}
+    [:fontawesome-brands-twitter:](https://twitter.com/nao_aikawa227)
+    
+    [Blog](https://blog.nanabunnonijyuuni.com/s/n227/diary/blog/list?ima=3909&ct=13){ .md-button }
 
 ## 时间线
 ### 2021 

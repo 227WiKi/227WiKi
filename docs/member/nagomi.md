@@ -5,6 +5,7 @@ template: comment.html
 # :pack-sig-member-nagomi-sig: 西條和
 ???+ quote "ひとこと"
     無口な関西人です。なにもできませんが自分を変えれるように全力で頑張ります。見ていてくれたら嬉しいです。
+
 !!! nagomi-sig inline end "西條和"
     === "二专"
 
@@ -62,6 +63,7 @@ template: comment.html
     === "初次亮相"
 
         ![初次亮相白裙照](https://nananiji.zzzhxxx.top/assets/photo/nagomi/WhiteDress.jpg!compress){ loading=lazy }
+    
         
     --------
 
@@ -87,15 +89,23 @@ template: comment.html
 
     <b>角色</b>  泷川美羽
 
+    --------
+
+    <b>应援色</b> 白色
+
+    --------
+
+    <b>小组</b>  漏了气的甜汽水
+
     <figure markdown>
         ![Nagomi](https://nananiji.zzzhxxx.top/assets/nagomi-sig.svg){ width="100" loading=lazy }
         <figcaption>签名</figcaption>
     </figure>
-    [:fontawesome-brands-twitter: Twitter](https://twitter.com/nagomi_saijo){ .md-button } [Blog](http://blog.nanabunnonijyuuni.com/s/n227/diary/blog/list?ima=1526&ct=04){ .md-button }
+    [:fontawesome-brands-twitter:](https://twitter.com/nagomi_saijo)
+    
+    [Blog](http://blog.nanabunnonijyuuni.com/s/n227/diary/blog/list?ima=1526&ct=04){ .md-button }
 
-    --------
 
-    <b>应援色</b> 白色
 
 ## 时间线
 

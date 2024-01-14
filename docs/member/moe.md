@@ -88,7 +88,9 @@ template: comment.html
         ![moe](https://nananiji.zzzhxxx.top/assets/moe-sig.svg){ width="100" }
         <figcaption>签名</figcaption>
     </figure>
-    [:fontawesome-brands-twitter:](https://twitter.com/moepiyo_227){ .md-button } [:fontawesome-brands-instagram:](https://www.instagram.com/moepiyo227/){ .md-button } [Blog](http://blog.nanabunnonijyuuni.com/s/n227/diary/blog/list?ima=1513&ct=09){ .md-button }
+    [:fontawesome-brands-twitter:](https://twitter.com/moepiyo_227) [:fontawesome-brands-instagram:](https://www.instagram.com/moepiyo227/)
+    
+    [Blog](http://blog.nanabunnonijyuuni.com/s/n227/diary/blog/list?ima=1513&ct=09){ .md-button }
 
 ## 时间线
 ### 2016

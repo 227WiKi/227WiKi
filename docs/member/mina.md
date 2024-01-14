@@ -47,8 +47,6 @@ template: comment.html
     <b>角色</b> 永峰枫
   
 
-    [:fontawesome-brands-twitter: Twitter](https://twitter.com/mina_kiyoi227){ .md-button }
-
 ## 时间线
 ### 2021 
 
