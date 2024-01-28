@@ -15,8 +15,10 @@ template: comment.html
 
     === "十单"
 
-        ![十单公式照](https://nananiji.zzzhxxx.top/assets/photo/uta/10th.jpg!compress){ loading=lazy }
+        ![十单公式照](https://nananiji.zzzhxxx.top/assets/photo/uta/10th.webp!compress){ loading=lazy }
+    === "九单v2"
 
+        ![九单v2公式照](https://nananiji.zzzhxxx.top/assets/photo/uta/9th-2.jpg!compress){ loading=lazy }
     === "九单"
 
         ![九单公式照](https://nananiji.zzzhxxx.top/assets/photo/uta/9th.jpg!compress){ loading=lazy }
@@ -74,7 +76,11 @@ template: comment.html
 
     <figure markdown>
         ![uta](https://nananiji.zzzhxxx.top/assets/uta-sig.svg){ width="100" loading=lazy }
-        <figcaption>签名</figcaption>
+        <figcaption>签名1</figcaption>
+    </figure>
+    <figure markdown>
+        ![uta](https://nananiji.zzzhxxx.top/assets/uta-sig2.svg){ width="100" loading=lazy }
+        <figcaption>签名2</figcaption>
     </figure>
     [:fontawesome-brands-twitter:](https://twitter.com/kawase_uta_0227) [:fontawesome-brands-instagram:](https://instagram.com/kawase_uta)
     

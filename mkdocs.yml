@@ -223,6 +223,7 @@ plugins:
   - git-committers:
       repository: 227WiKi/227WiKi
       branch: master
+      token: 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
   - git-revision-date-localized:
       enable_creation_date: true
       type: date
@@ -279,7 +280,8 @@ extra:
       link: https://nanabunnonijyuuni.com/
       name: 22/7 Official Website
     - icon: fontawesome/solid/paper-plane
-      link: mailto:<feedback@zzzhxxx.top>
+      link: mailto:<feedback@227wiki.eu.org>
+      name: Send email
   analytics:
     provider: google
     property: G-WR7E2E5BRB
@@ -298,7 +300,7 @@ extra:
             Thanks for your feedback! Help us improve this page by
             using our <a href="..." target="_blank" rel="noopener">feedback form</a>.
 
-copyright: Copyright &copy; 2021 - 2023 22/7 WiKi
+copyright: Copyright &copy; 2021 - 2024 22/7 WiKi
 
 markdown_extensions:
   - admonition
