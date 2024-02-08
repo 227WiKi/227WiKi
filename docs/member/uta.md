@@ -128,7 +128,12 @@ template: comment.html
 ## FREETALK
 
 <div class="artplayer-app"></div>
-
+<style>
+.artplayer-app {
+  width: 1280px;
+  height: 720px;
+}
+</style>
 
 ## 声音样本
 
@@ -159,7 +164,6 @@ var art = new Artplayer({
     autoplay: false,
     pip: true,
     autoSize: true,
-    autoMini: true,
     setting: true,
     flip: true,
     playbackRate: true,

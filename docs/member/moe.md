@@ -128,7 +128,12 @@ template: comment.html
 ## FREE TALK
 
 <div class="artplayer-app"></div>
-
+<style>
+.artplayer-app {
+  width: 1280px;
+  height: 720px;
+}
+</style>
 
 
 [^1]: https://twitter.com/moepiyo_227/status/1393923302700113925
@@ -155,7 +160,6 @@ template: comment.html
     autoplay: false,
     pip: true,
     autoSize: true,
-    autoMini: true,
     setting: true,
     flip: true,
     playbackRate: true,

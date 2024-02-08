@@ -154,7 +154,12 @@ template: comment.html
 ## FREE TALK
 
 <div class="artplayer-app"></div>
-
+<style>
+.artplayer-app {
+  width: 1280px;
+  height: 720px;
+}
+</style>
 
 
 
@@ -179,7 +184,6 @@ template: comment.html
     autoplay: false,
     pip: true,
     autoSize: true,
-    autoMini: true,
     setting: true,
     flip: true,
     playbackRate: true,
