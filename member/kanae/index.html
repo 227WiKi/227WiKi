@@ -18,7 +18,7 @@
       
       
       <link rel="icon" href="../../assets/favicon.png">
-      <meta name="generator" content="mkdocs-1.5.3, mkdocs-material-9.5.5">
+      <meta name="generator" content="mkdocs-1.5.3, mkdocs-material-9.5.8">
     
     
       
@@ -26,7 +26,7 @@
       
     
     
-      <link rel="stylesheet" href="../../assets/stylesheets/main.50c56a3b.min.css">
+      <link rel="stylesheet" href="../../assets/stylesheets/main.f2e4d321.min.css">
       
         
         <link rel="stylesheet" href="../../assets/stylesheets/palette.06af60db.min.css">
@@ -6150,38 +6150,53 @@ c28 -31 52 -60 52 -63 0 -3 -42 -34 -92 -68 -144 -96 -253 -128 -219 -64 7 12
 
 <p><a class="md-button md-button--primary" href="https://www.bilibili.com/video/BV1a741147h6"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200" class="icon" p-id="2920" t="1642668483949" version="1.1" viewBox="0 0 1024 1024"><defs><style type="text/css">:not(pre){-webkit-text-stroke:0!important}</style></defs><path d="M306.005333 117.632L444.330667 256h135.296l138.368-138.325333a42.666667 42.666667 0 0 1 60.373333 60.373333L700.330667 256H789.333333A149.333333 149.333333 0 0 1 938.666667 405.333333v341.333334a149.333333 149.333333 0 0 1-149.333334 149.333333h-554.666666A149.333333 149.333333 0 0 1 85.333333 746.666667v-341.333334A149.333333 149.333333 0 0 1 234.666667 256h88.96L245.632 177.962667a42.666667 42.666667 0 0 1 60.373333-60.373334zM789.333333 341.333333h-554.666666a64 64 0 0 0-63.701334 57.856L170.666667 405.333333v341.333334a64 64 0 0 0 57.856 63.701333L234.666667 810.666667h554.666666a64 64 0 0 0 63.701334-57.856L853.333333 746.666667v-341.333334A64 64 0 0 0 789.333333 341.333333zM341.333333 469.333333a42.666667 42.666667 0 0 1 42.666667 42.666667v85.333333a42.666667 42.666667 0 0 1-85.333333 0v-85.333333a42.666667 42.666667 0 0 1 42.666666-42.666667z m341.333334 0a42.666667 42.666667 0 0 1 42.666666 42.666667v85.333333a42.666667 42.666667 0 0 1-85.333333 0v-85.333333a42.666667 42.666667 0 0 1 42.666667-42.666667z" p-id="2921"/></svg></span> 前往bilibili观看</a></p>
 <h2 id="free-talk">FREE TALK<a class="headerlink" href="#free-talk" title="Permanent link">&para;</a></h2>
-<div id="dplayer"></div>
+<div class="artplayer-app"></div>
 
 <h2 id="_5">声音样本<a class="headerlink" href="#_5" title="Permanent link">&para;</a></h2>
 <div id="aplayer"></div>
+
 <h2 id="_6">毕业歌单<a class="headerlink" href="#_6" title="Permanent link">&para;</a></h2>
 <iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="450" style="width:100%;max-width:1230px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/cn/playlist/22-7-%E6%B2%A2%E3%81%8B%E3%81%AA%E3%81%88%E5%8D%92%E6%A5%AD%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB-setlist/pl.u-NpXm7YGT4xmB94g?l=en-GB"></iframe>
 
 <body>
-    <script src="https://nananiji.zzzhxxx.top/js/md5.js"></script>
-    <script src="https://nananiji.zzzhxxx.top/js/hls.min.js"></script>
-    <script src="https://nananiji.zzzhxxx.top/js/DPlayer.min.js"></script>
     <script src="https://nananiji.zzzhxxx.top/js/aplayer.min.js"></script>
-    <script>
-        const dp = new DPlayer({
-        container: document.getElementById('dplayer'),
-        video: {
-            url: 'https://files.zzzhxxx.top/video/kanae.mp4',
-        },
-        danmaku: {
-            id: md5('kanae-intro'),
-            api: "https://danmu.zzzhxxx.top/"
-        },
-        contextmenu: [
+    <script src="https://cdn.jsdelivr.net/npm/artplayer/dist/artplayer.js"></script>
+
+<script>
+    var art = new Artplayer({
+    container: '.artplayer-app',
+    url: 'https://res.227wiki.eu.org/video/freetalk/kanae.mp4',
+    volume: 0.5,
+    isLive: false,
+    muted: false,
+    autoplay: false,
+    pip: true,
+    autoSize: true,
+    autoMini: true,
+    setting: true,
+    flip: true,
+    playbackRate: true,
+    aspectRatio: true,
+    fullscreen: true,
+    fullscreenWeb: true,
+    subtitleOffset: true,
+    miniProgressBar: true,
+    mutex: true,
+    backdrop: true,
+    playsInline: true,
+    autoPlayback: false,
+    airplay: true,
+    theme: '#23ade5',
+    contextmenu: [
         {
-            text: '227WiKi',
-            link: 'https://github.com/227WiKi/227WiKi',
+            html: '22/7 WiKi',
+            click: function (contextmenu) {
+                console.info('22/7 WiKi');
+                contextmenu.show = true;
+            },
         },
-        ]
-    });
-    console.log(dp.plugins.hls);
-    </script>
-    <script>
+    ],
+});
         const ap = new APlayer({
         container: document.getElementById('aplayer'),
         audio: [{
@@ -6245,7 +6260,7 @@ c28 -31 52 -60 52 -63 0 -3 -42 -34 -92 -68 -144 -96 -253 -128 -219 -64 7 12
     <span class="md-icon" title="最后更新">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1-2.1-2M12.5 7v5.2l4 2.4-1 1L11 13V7h1.5M11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2v1.8Z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">October 2, 2023</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">February 8, 2024</span>
   </span>
 
     
@@ -6275,7 +6290,7 @@ c28 -31 52 -60 52 -63 0 -3 -42 -34 -92 -68 -144 -96 -253 -128 -219 -64 7 12
       
         <a href="https://github.com/zzzhxxx" class="md-author" title="@zzzhxxx">
           
-          <img src="https://avatars.227wiki.eu.org/u/63891505?v=4&size=72" alt="zzzhxxx">
+          <img src="https://avatars.githubusercontent.com/u/63891505?v=4&size=72" alt="zzzhxxx">
         </a>
       
       
@@ -7076,7 +7091,7 @@ c28 -31 52 -60 52 -63 0 -3 -42 -34 -92 -68 -144 -96 -253 -128 -219 -64 7 12
     <script id="__config" type="application/json">{"base": "../..", "features": ["content.action.edit", "content.action.view", "search.suggest", "search.highlight", "search.share", "navigation.tabs", "navigation.sections", "navigation.expand", "navigation.top", "navigation.indexes"], "search": "../../assets/javascripts/workers/search.b8dbb3d2.min.js", "translations": {"clipboard.copied": "\u5df2\u590d\u5236", "clipboard.copy": "\u590d\u5236", "search.result.more.one": "\u5728\u8be5\u9875\u4e0a\u8fd8\u6709 1 \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.more.other": "\u5728\u8be5\u9875\u4e0a\u8fd8\u6709 # \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.none": "\u6ca1\u6709\u627e\u5230\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.one": "\u627e\u5230 1 \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.other": "# \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.placeholder": "\u952e\u5165\u4ee5\u5f00\u59cb\u641c\u7d22", "search.result.term.missing": "\u7f3a\u5c11", "select.version": "\u9009\u62e9\u5f53\u524d\u7248\u672c"}}</script>
     
     
-      <script src="../../assets/javascripts/bundle.c18c5fb9.min.js"></script>
+      <script src="../../assets/javascripts/bundle.8fd75fb4.min.js"></script>
       
         <script src="../../_static/js/glightbox.min.js"></script>
       
