@@ -207,5 +207,6 @@
 
 /* artplayer container */
 .artplayer-app {
-  aspect-ratio: 16/9;
+  width: 1280px;
+  height: 720px;
 }
