@@ -93,13 +93,19 @@ template: comment.html
     [Blog](http://blog.nanabunnonijyuuni.com/s/n227/diary/blog/list?ima=1513&ct=09){ .md-button }
 
 ## 时间线
+
 ### 2016
+
 - 12月24日，从10,325名中通过了22/7的最终审核。报名号为20号。
+  
 ### 2018
+
 - 6月，开通Twitter。
 
 - 9月20日，加入22/7企划培训一段时间后，正式确定为神木御神配音。
+  
 ### 2021
+
 - 2月8日，开通Instagram
 - 5月，感染新冠，暂时停止活动
 - 8月16日，恢复活动
@@ -121,7 +127,9 @@ template: comment.html
 
 ## FREE TALK
 
-<div id="dplayer"></div>
+<div class="artplayer-app"></div>
+
+
 
 [^1]: https://twitter.com/moepiyo_227/status/1393923302700113925
 [^2]: SHOWROOM 2017.12.02
@@ -135,26 +143,42 @@ template: comment.html
 [^10]: https://twitter.com/moepiyo_227/status/1179227320906899457
 [^11]: https://twitter.com/moepiyo_227/status/1070291611223912448
 
-<script src="https://nananiji.zzzhxxx.top/js/md5.js"></script>
-<script src="https://nananiji.zzzhxxx.top/js/hls.min.js"></script>
-<script src="https://nananiji.zzzhxxx.top/js/DPlayer.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/artplayer/dist/artplayer.js"></script>
+
 <script>
-    const dp = new DPlayer({
-    container: document.getElementById('dplayer'),
-    video: {
-        url: 'https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/4504957038001/081bc17b-0547-4ff9-a713-14846e7dc21f/10s/master.m3u8?fastly_token=NjJkOWNjOTVfZDVlN2M4ODdmNDhiMWU4ZWIzZWNhZWU3NDAwY2E2YzQ4MDMxZjI0NjM1YzBhNTU5MGExNzQ2MDFiMTU2ZWIzMw%3D%3D',
-        type: 'hls',
-    },
-    danmaku: {
-        id: md5('moe-intro'),
-        api: "https://danmu.zzzhxxx.top/"
-    },
-    contextmenu: [
-    {
-        text: '227WiKi',
-        link: 'https://github.com/227WiKi/227WiKi',
-    },
-    ]
+    var art = new Artplayer({
+    container: '.artplayer-app',
+    url: 'https://res.227wiki.eu.org/video/freetalk/moe.mp4',
+	volume: 0.5,
+    isLive: false,
+    muted: false,
+    autoplay: false,
+    pip: true,
+    autoSize: true,
+    autoMini: true,
+    setting: true,
+    flip: true,
+    playbackRate: true,
+    aspectRatio: true,
+    fullscreen: true,
+    fullscreenWeb: true,
+    subtitleOffset: true,
+    miniProgressBar: true,
+    mutex: true,
+    backdrop: true,
+    playsInline: true,
+    autoPlayback: false,
+    airplay: true,
+	theme: '#23ade5',
+	contextmenu: [
+        {
+            html: '22/7 WiKi',
+            click: function (contextmenu) {
+                console.info('22/7 WiKi');
+                contextmenu.show = true;
+            },
+        },
+    ],
 });
-console.log(dp.plugins.hls);
+
 </script>

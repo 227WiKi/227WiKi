@@ -63,33 +63,59 @@ template: comment.html
 
 ## 相关
 
+- 是22/7中最矮的成员
+- 在表演老歌时，经常承担水巴的部分
+- 尽管从22/7毕业了，任然想要成为一个对日本和世界有用的人
+- 毕业的原因是在医院检查时发现了多种疾病，医生建议她休息
+
+<br>
+<br>
+<br>
+
 ## FREE TALK
 
-<div id="dplayer"></div>
+<div class="artplayer-app"></div>
+
 
 [^1]: https://nanabunnonijyuuni.com/s/n129/news/detail/10943?ima=3258
 [^2]: https://blog.227wiki.eu.org/2023/11/30/0cd3197c7426f21e83e06ab1f1ce9432/
 
-<script src="https://nananiji.zzzhxxx.top/js/md5.js"></script>
-<script src="https://nananiji.zzzhxxx.top/js/hls.min.js"></script>
-<script src="https://nananiji.zzzhxxx.top/js/DPlayer.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/artplayer/dist/artplayer.js"></script>
+
 <script>
-    const dp = new DPlayer({
-    container: document.getElementById('dplayer'),
-    video: {
-        url: 'https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/4504957038001/3f2a4579-2354-4280-b863-0e3c74a29d6a/10s/master.m3u8?fastly_token=NjJkYTUxMTdfZjdkYmYwNDAzM2YwODJjYTZhNTY2ODRhNDYwYWQxZDFkMjAwZmQ3NjM5NTdiN2U2M2FjNzlmYmFiZGI1ODMzNg%3D%3D',
-        type: 'hls',
-    },
-    danmaku: {
-        id: md5('mina-intro'),
-        api: "https://danmu.zzzhxxx.top/"
-    },
-    contextmenu: [
-    {
-        text: '227WiKi',
-        link: 'https://github.com/227WiKi/227WiKi',
-    },
-    ]
+    var art = new Artplayer({
+    container: '.artplayer-app',
+    url: 'https://res.227wiki.eu.org/video/freetalk/mina.mp4',
+	volume: 0.5,
+    isLive: false,
+    muted: false,
+    autoplay: false,
+    pip: true,
+    autoSize: true,
+    autoMini: true,
+    setting: true,
+    flip: true,
+    playbackRate: true,
+    aspectRatio: true,
+    fullscreen: true,
+    fullscreenWeb: true,
+    subtitleOffset: true,
+    miniProgressBar: true,
+    mutex: true,
+    backdrop: true,
+    playsInline: true,
+    autoPlayback: false,
+    airplay: true,
+	theme: '#23ade5',
+	contextmenu: [
+        {
+            html: '22/7 WiKi',
+            click: function (contextmenu) {
+                console.info('22/7 WiKi');
+                contextmenu.show = true;
+            },
+        },
+    ],
 });
-console.log(dp.plugins.hls);
+
 </script>

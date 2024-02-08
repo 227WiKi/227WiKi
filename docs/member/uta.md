@@ -125,6 +125,15 @@ template: comment.html
 - 每年都会去滑一次冰[^11]
 - 除了妮可露，在22/7中最喜欢的角色是神木御神，原因是对粉毛没有抵抗力[^11]
 
+## FREETALK
+
+<div class="artplayer-app"></div>
+
+
+## 声音样本
+
+<div id="aplayer"></div>
+
 [^1]: https://www.bilibili.com/video/BV1A94y1v7r8
 [^2]: https://blog.nanabunnonijyuuni.com/s/n227/diary/detail/1964?ima=4057&cd=blog
 [^3]: [SHOWROOM 2020.01.11](https://www.bilibili.com/video/BV1YJ411n7AY)
@@ -137,4 +146,64 @@ template: comment.html
 [^10]: SHOWROOM 2020.03.24
 [^11]: SHOWROOM 2020.04.13
 
+<script src="https://cdn.jsdelivr.net/npm/artplayer/dist/artplayer.js"></script>
+<script src="https://nananiji.zzzhxxx.top/js/aplayer.min.js"></script>
 
+<script>
+var art = new Artplayer({
+    container: '.artplayer-app',
+    url: 'https://res.227wiki.eu.org/video/freetalk/uta.mp4',
+	volume: 0.5,
+    isLive: false,
+    muted: false,
+    autoplay: false,
+    pip: true,
+    autoSize: true,
+    autoMini: true,
+    setting: true,
+    flip: true,
+    playbackRate: true,
+    aspectRatio: true,
+    fullscreen: true,
+    fullscreenWeb: true,
+    subtitleOffset: true,
+    miniProgressBar: true,
+    mutex: true,
+    backdrop: true,
+    playsInline: true,
+    autoPlayback: false,
+    airplay: true,
+	theme: '#23ade5',
+	contextmenu: [
+        {
+            html: '22/7 WiKi',
+            click: function (contextmenu) {
+                console.info('22/7 WiKi');
+                contextmenu.show = true;
+            },
+        },
+    ],
+});
+
+const ap = new APlayer({
+    container: document.getElementById('aplayer'),
+    audio: [{
+        name: '台词1',
+        artist: '河瀬詩',
+        url: 'https://res.227wiki.eu.org/audio/voicesample/uta/1.mp4',
+        cover: 'https://nananiji.zzzhxxx.top/assets/photo/avatar/uta.jpg'
+        },
+        {
+            name: '台词2',
+            artist: '河瀬詩',
+            url: 'https://res.227wiki.eu.org/audio/voicesample/uta/2.mp4',
+            cover: 'https://nananiji.zzzhxxx.top/assets/photo/avatar/uta.jpg'
+        },
+        {
+            name: '台词3',
+            artist: '河瀬詩',
+            url: 'https://res.227wiki.eu.org/audio/voicesample/uta/3.mp4',
+            cover: 'https://nananiji.zzzhxxx.top/assets/photo/avatar/uta.jpg'
+        }]
+});
+    </script>

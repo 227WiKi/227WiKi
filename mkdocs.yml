@@ -223,7 +223,6 @@ plugins:
   - git-committers:
       repository: 227WiKi/227WiKi
       branch: master
-      token: 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
   - git-revision-date-localized:
       enable_creation_date: true
       type: date

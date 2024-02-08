@@ -136,11 +136,17 @@ template: comment.html
 
 ## FREE TALK
 
-<div id="dplayer"></div>
+<div class="artplayer-app"></div>
 
 ## 声音样本
 
-<div id="aplayer"></div>
+### 新版
+
+<div id="aplayer1"></div>
+
+### 旧版
+
+<div id="aplayer2"></div>
 
 [^1]: https://twitter.com/sally_amaki/status/1303928957029330945
 [^2]: https://entertainmentstation.jp/118434
@@ -151,67 +157,162 @@ template: comment.html
 [^7]: https://www.bilibili.com/video/BV1fp4y1J7jJ
 
 
-<script src="https://nananiji.zzzhxxx.top/js/md5.js"></script>
-<script src="https://nananiji.zzzhxxx.top/js/hls.min.js"></script>
-<script src="https://nananiji.zzzhxxx.top/js/DPlayer.min.js"></script>
+
 <script src="https://nananiji.zzzhxxx.top/js/aplayer.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/artplayer/dist/artplayer.js"></script>
 <script>
-    const dp = new DPlayer({
-    container: document.getElementById('dplayer'),
-    video: {
-        url: 'https://files.zzzhxxx.top/video/sally.mp4',
-    },
-    danmaku: {
-        id: md5('sally-intro'),
-        api: "https://danmu.zzzhxxx.top/"
-    },
-    contextmenu: [
-    {
-        text: '227WiKi',
-        link: 'https://github.com/227WiKi/227WiKi',
-    },
-    ]
+var art = new Artplayer({
+    container: '.artplayer-app',
+    url: 'https://res.227wiki.eu.org/video/freetalk/sally.mp4',
+	volume: 0.5,
+    isLive: false,
+    muted: false,
+    autoplay: false,
+    pip: true,
+    autoSize: true,
+    autoMini: true,
+    setting: true,
+    flip: true,
+    playbackRate: true,
+    aspectRatio: true,
+    fullscreen: true,
+    fullscreenWeb: true,
+    subtitleOffset: true,
+    miniProgressBar: true,
+    mutex: true,
+    backdrop: true,
+    playsInline: true,
+    autoPlayback: false,
+    airplay: true,
+	theme: '#23ade5',
+	contextmenu: [
+        {
+            html: '22/7 WiKi',
+            click: function (contextmenu) {
+                console.info('22/7 WiKi');
+                contextmenu.show = true;
+            },
+        },
+    ],
 });
-console.log(dp.plugins.hls);
-</script>
-<script>
-    const ap = new APlayer({
-    container: document.getElementById('aplayer'),
+    const ap2 = new APlayer({
+    container: document.getElementById('aplayer2'),
     audio: [{
         name: '对话1',
         artist: '天城サリー',
-        url: 'https://files.zzzhxxx.top/voicesample/sally-1.mp4',
+        url: 'https://res.227wiki.eu.org/audio/voicesample/sally/sally-1.mp4',
         cover: 'https://nananiji.zzzhxxx.top/assets/photo/avatar/sally.jpg'
         },
         {
             name: '对话2',
             artist: '天城サリー',
-            url: 'https://files.zzzhxxx.top/voicesample/sally-2.mp4',
+            url: 'https://res.227wiki.eu.org/audio/voicesample/sally/sally-2.mp4',
             cover: 'https://nananiji.zzzhxxx.top/assets/photo/avatar/sally.jpg'
         },
         {
             name: '对话3',
             artist: '天城サリー',
-            url: 'https://files.zzzhxxx.top/voicesample/sally-3.mp4',
+            url: 'https://res.227wiki.eu.org/audio/voicesample/sally/sally-3.mp4',
             cover: 'https://nananiji.zzzhxxx.top/assets/photo/avatar/sally.jpg'
         },
         {
             name: '对话4',
             artist: '天城サリー',
-            url: 'https://files.zzzhxxx.top/voicesample/sally-4.mp4',
+            url: 'https://res.227wiki.eu.org/audio/voicesample/sally/sally-4.mp4',
             cover: 'https://nananiji.zzzhxxx.top/assets/photo/avatar/sally.jpg'
         },
         {
             name: '对话5',
             artist: '天城サリー',
-            url: 'https://files.zzzhxxx.top/voicesample/sally-5.mp4',
+            url: 'https://res.227wiki.eu.org/audio/voicesample/sally/sally-5.mp4',
             cover: 'https://nananiji.zzzhxxx.top/assets/photo/avatar/sally.jpg'
         },
         {
             name: '旁白',
             artist: '天城サリー',
-            url: 'https://files.zzzhxxx.top/voicesample/sally-6.mp4',
+            url: 'https://res.227wiki.eu.org/audio/voicesample/sally/sally-6.mp4',
             cover: 'https://nananiji.zzzhxxx.top/assets/photo/avatar/sally.jpg'
         }]
 });
-    </script>
+    const ap1 = new APlayer({
+    container: document.getElementById('aplayer1'),
+    audio: [{
+        name: '少女(Jealousy〜女社会〜)',
+        artist: '天城サリー',
+        url: 'https://res.227wiki.eu.org/audio/voicesample/sally/new/1.m4a',
+        cover: 'https://nananiji.zzzhxxx.top/assets/photo/avatar/sally.jpg'
+        },
+        {
+            name: '女子高校生は見た',
+            artist: '天城サリー',
+            url: 'https://res.227wiki.eu.org/audio/voicesample/sally/new/2.m4a',
+            cover: 'https://nananiji.zzzhxxx.top/assets/photo/avatar/sally.jpg'
+        },
+        {
+            name: '女子高校生2 (Blue Spring〜おこがましい気遣い〜)',
+            artist: '天城サリー',
+            url: 'https://res.227wiki.eu.org/audio/voicesample/sally/new/3.m4a',
+            cover: 'https://nananiji.zzzhxxx.top/assets/photo/avatar/sally.jpg'
+        },
+        {   
+            name: '犯人 (Revenge~最後のお願い〜)',
+            artist: '天城サリー',
+            url: 'https://res.227wiki.eu.org/audio/voicesample/sally/new/4.m4a',
+            cover: 'https://nananiji.zzzhxxx.top/assets/photo/avatar/sally.jpg'
+        },
+        {
+            name: '大人女性 (社畜と犬)',
+            artist: '天城サリー',
+            url: 'https://res.227wiki.eu.org/audio/voicesample/sally/new/5.m4a',
+            cover: 'https://nananiji.zzzhxxx.top/assets/photo/avatar/sally.jpg'
+        },
+        {
+            name: '泣き (百合の嘘)',
+            artist: '天城サリー',
+            url: 'https://res.227wiki.eu.org/audio/voicesample/sally/new/6.m4a',
+            cover: 'https://nananiji.zzzhxxx.top/assets/photo/avatar/sally.jpg'
+        },
+        {
+            name: '幼稚園児「Dreamer～平和の世界を夢見て～)',
+            artist: '天城サリー',
+            url: 'https://res.227wiki.eu.org/audio/voicesample/sally/new/7.m4a',
+            cover: 'https://nananiji.zzzhxxx.top/assets/photo/avatar/sally.jpg'
+        },
+        {
+            name: 'ナレーション1「Focus～世界一醜い(？)～」',
+            artist: '天城サリー',
+            url: 'https://res.227wiki.eu.org/audio/voicesample/sally/new/8.m4a',
+            cover: 'https://nananiji.zzzhxxx.top/assets/photo/avatar/sally.jpg'
+        },
+        {
+            name: 'ナレーション2(Only You〜愛の為なら〜)',
+            artist: '天城サリー',
+            url: 'https://res.227wiki.eu.org/audio/voicesample/sally/new/9.m4a',
+            cover: 'https://nananiji.zzzhxxx.top/assets/photo/avatar/sally.jpg'
+        },
+        {
+            name: '外画 (凹凹バディ)',
+            artist: '天城サリー',
+            url: 'https://res.227wiki.eu.org/audio/voicesample/sally/new/10.m4a',
+            cover: 'https://nananiji.zzzhxxx.top/assets/photo/avatar/sally.jpg'
+        },
+        {
+            name: 'ENG1 Adult(英語1 大人)',
+            artist: '天城サリー',
+            url: 'https://res.227wiki.eu.org/audio/voicesample/sally/new/ENG1.m4a',
+            cover: 'https://nananiji.zzzhxxx.top/assets/photo/avatar/sally.jpg'
+        },
+        {
+            name: 'ENG2 Teen ager(英語2 10代)',
+            artist: '天城サリー',
+            url: 'https://res.227wiki.eu.org/audio/voicesample/sally/new/ENG2.m4a',
+            cover: 'https://nananiji.zzzhxxx.top/assets/photo/avatar/sally.jpg'
+        },
+        {
+            name: 'ENG3 preschooler(英語3 幼児)',
+            artist: '天城サリー',
+            url: 'https://res.227wiki.eu.org/audio/voicesample/sally/new/ENG3.m4a',
+            cover: 'https://nananiji.zzzhxxx.top/assets/photo/avatar/sally.jpg'
+        }]
+    });
+</script>

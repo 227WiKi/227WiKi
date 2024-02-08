@@ -121,40 +121,55 @@ template: comment.html
 
 ## FREE TALK
 
-<div id="dplayer"></div>
+<div class="artplayer-app"></div>
 
 ## 声音样本
 
 <div id="aplayer"></div>
+
 ## 毕业歌单
 
 <iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="450" style="width:100%;max-width:1230px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/cn/playlist/22-7-%E6%B2%A2%E3%81%8B%E3%81%AA%E3%81%88%E5%8D%92%E6%A5%AD%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB-setlist/pl.u-NpXm7YGT4xmB94g?l=en-GB"></iframe>
 
 <body>
-    <script src="https://nananiji.zzzhxxx.top/js/md5.js"></script>
-    <script src="https://nananiji.zzzhxxx.top/js/hls.min.js"></script>
-    <script src="https://nananiji.zzzhxxx.top/js/DPlayer.min.js"></script>
     <script src="https://nananiji.zzzhxxx.top/js/aplayer.min.js"></script>
-    <script>
-        const dp = new DPlayer({
-        container: document.getElementById('dplayer'),
-        video: {
-            url: 'https://files.zzzhxxx.top/video/kanae.mp4',
-        },
-        danmaku: {
-            id: md5('kanae-intro'),
-            api: "https://danmu.zzzhxxx.top/"
-        },
-        contextmenu: [
+    <script src="https://cdn.jsdelivr.net/npm/artplayer/dist/artplayer.js"></script>
+
+<script>
+    var art = new Artplayer({
+    container: '.artplayer-app',
+    url: 'https://res.227wiki.eu.org/video/freetalk/kanae.mp4',
+	volume: 0.5,
+    isLive: false,
+    muted: false,
+    autoplay: false,
+    pip: true,
+    autoSize: true,
+    autoMini: true,
+    setting: true,
+    flip: true,
+    playbackRate: true,
+    aspectRatio: true,
+    fullscreen: true,
+    fullscreenWeb: true,
+    subtitleOffset: true,
+    miniProgressBar: true,
+    mutex: true,
+    backdrop: true,
+    playsInline: true,
+    autoPlayback: false,
+    airplay: true,
+	theme: '#23ade5',
+	contextmenu: [
         {
-            text: '227WiKi',
-            link: 'https://github.com/227WiKi/227WiKi',
+            html: '22/7 WiKi',
+            click: function (contextmenu) {
+                console.info('22/7 WiKi');
+                contextmenu.show = true;
+            },
         },
-        ]
-    });
-    console.log(dp.plugins.hls);
-    </script>
-    <script>
+    ],
+});
         const ap = new APlayer({
         container: document.getElementById('aplayer'),
         audio: [{

@@ -153,7 +153,8 @@ template: comment.html
 
 ## FREE TALK
 
-<div id="dplayer2"></div>
+<div class="artplayer-app"></div>
+
 
 
 
@@ -165,48 +166,44 @@ template: comment.html
 
 
 <link rel="stylesheet" href="https://nananiji.zzzhxxx.top/css/aplayer.min.css">
-<script src="https://nananiji.zzzhxxx.top/js/md5.js"></script>
-<script src="https://nananiji.zzzhxxx.top/js/hls.min.js"></script>
-<script src="https://nananiji.zzzhxxx.top/js/DPlayer.min.js"></script>
 <script src="https://nananiji.zzzhxxx.top/js/aplayer.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/artplayer/dist/artplayer.js"></script>
+
 <script>
-    const dp = new DPlayer({
-    container: document.getElementById('dplayer'),
-    video: {
-        url: 'https://files.zzzhxxx.top/video/nagomi.ts',
-    },
-    danmaku: {
-        id: md5('https://files.zzzhxxx.top/video/nagomi.ts'),
-        addition: ['https://danmu.zzzhxxx.top/v3/bilibili?aid=87900951&bvid=BV1n741147yh&cid=150175780'],
-        api: "https://danmu.zzzhxxx.top/"
-    },
-    contextmenu: [
-    {
-        text: '227WiKi',
-        link: 'https://github.com/227WiKi/227WiKi',
-    },
-    ]
+    var art = new Artplayer({
+    container: '.artplayer-app',
+    url: 'https://res.227wiki.eu.org/video/freetalk/nagomi.mp4',
+	volume: 0.5,
+    isLive: false,
+    muted: false,
+    autoplay: false,
+    pip: true,
+    autoSize: true,
+    autoMini: true,
+    setting: true,
+    flip: true,
+    playbackRate: true,
+    aspectRatio: true,
+    fullscreen: true,
+    fullscreenWeb: true,
+    subtitleOffset: true,
+    miniProgressBar: true,
+    mutex: true,
+    backdrop: true,
+    playsInline: true,
+    autoPlayback: false,
+    airplay: true,
+	theme: '#23ade5',
+	contextmenu: [
+        {
+            html: '22/7 WiKi',
+            click: function (contextmenu) {
+                console.info('22/7 WiKi');
+                contextmenu.show = true;
+            },
+        },
+    ],
 });
-</script>
-<script>
-    const dp2 = new DPlayer({
-    container: document.getElementById('dplayer2'),
-    video: {
-        url: 'https://files.zzzhxxx.top/video/nagomi.mp4',
-    },
-    danmaku: {
-        id: md5('nagomi-intro'),
-        api: "https://danmu.zzzhxxx.top/"
-    },
-    contextmenu: [
-    {
-        text: '227WiKi',
-        link: 'https://github.com/zzzhxxx/227WiKi',
-    },
-    ]
-});
-</script>
-<script>
     const ap = new APlayer({
     container: document.getElementById('aplayer'),
     audio: [{
