@@ -137,7 +137,12 @@ template: comment.html
 ## FREE TALK
 
 <div class="artplayer-app"></div>
-
+<style>
+.artplayer-app {
+  width: 1280px;
+  height: 720px;
+}
+</style>
 
 ## 声音样本
 

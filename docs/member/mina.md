@@ -78,7 +78,12 @@ template: comment.html
 ## FREE TALK
 
 <div class="artplayer-app"></div>
-
+<style>
+.artplayer-app {
+  width: 1280px;
+  height: 720px;
+}
+</style>
 
 [^1]: https://nanabunnonijyuuni.com/s/n129/news/detail/10943?ima=3258
 [^2]: https://blog.227wiki.eu.org/2023/11/30/0cd3197c7426f21e83e06ab1f1ce9432/
