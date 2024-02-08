@@ -204,3 +204,8 @@
 /* TODO mizuha */
 /* TODO aina */
 /* TODO reina */
+
+/* artplayer container */
+.artplayer-app {
+  aspect-ratio: 16/9;
+}
