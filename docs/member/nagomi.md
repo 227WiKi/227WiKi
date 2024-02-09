@@ -156,7 +156,7 @@ template: comment.html
 <div class="artplayer-app"></div>
 <style>
 .artplayer-app {
-  aspect-ratio: 16/9;
+    aspect-ratio: 16/9;
 }
 </style>
 

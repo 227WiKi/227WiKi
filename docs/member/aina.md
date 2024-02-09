@@ -10,39 +10,39 @@ template: comment.html
 !!! aina-sig inline end "武田爱奈（あいなっち）"
     === "八单"
 
-        ![八单公式照](https://nananiji.zzzhxxx.top/assets/photo/aina/8th.jpg!compress){ loading=lazy }
+        ![八单公式照](https://res.227wiki.eu.org/photo/aina/8th.jpeg){ loading=lazy }
 
     === "一专"
 
-        ![一专公式照](https://nananiji.zzzhxxx.top/assets/photo/aina/1st-album.jpg!compress){ loading=lazy }
+        ![一专公式照](https://res.227wiki.eu.org/photo/aina/1st-album.jpeg){ loading=lazy }
 
     === "七单"
 
-        ![七单公式照](https://nananiji.zzzhxxx.top/assets/photo/aina/7th.jpg!compress){ loading=lazy }
+        ![七单公式照](https://res.227wiki.eu.org/photo/aina/7th.jpeg){ loading=lazy }
         
     === "六单"
 
-        ![六单公式照](https://nananiji.zzzhxxx.top/assets/photo/aina/6th.jpg!compress){ loading=lazy }
+        ![六单公式照](https://res.227wiki.eu.org/photo/aina/6th.jpeg){ loading=lazy }
 
     === "五单"
 
-        ![五单公式照](https://nananiji.zzzhxxx.top/assets/photo/aina/5th.jpg!compress){ loading=lazy }
+        ![五单公式照](https://res.227wiki.eu.org/photo/aina/5th.jpeg){ loading=lazy }
 
     === "四单"
 
-        ![四单公式照](https://nananiji.zzzhxxx.top/assets/photo/aina/4th.jpg!compress){ loading=lazy }
+        ![四单公式照](https://res.227wiki.eu.org/photo/aina/4th.jpeg){ loading=lazy }
 
     === "三单"
 
-        ![三单公式照](https://nananiji.zzzhxxx.top/assets/photo/aina/3rd.jpg!compress){ loading=lazy }
+        ![三单公式照](https://res.227wiki.eu.org/photo/aina/3rd.jpeg){ loading=lazy }
 
     === "二单"
 
-        ![二单公式照](https://nananiji.zzzhxxx.top/assets/photo/aina/2nd.jpg!compress){ loading=lazy }
+        ![二单公式照](https://res.227wiki.eu.org/photo/aina/2nd.webp){ loading=lazy }
 
     === "一单"
 
-        ![一单公式照](https://nananiji.zzzhxxx.top/assets/photo/aina/171227_227_img_04.jpg!compress){ loading=lazy }
+        ![一单公式照](https://res.227wiki.eu.org/photo/aina/1st.jpg){ loading=lazy }
 
     --------
 
