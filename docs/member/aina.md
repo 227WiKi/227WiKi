@@ -3,6 +3,7 @@ title: 武田爱奈（あいなっち）
 template: comment.html
 ---
 # :pack-sig-member-aina-sig: 武田爱奈（あいなっち）
+
 ???+ quote "ひとこと"
     死ぬこと以外かすり傷!
 
@@ -113,41 +114,15 @@ template: comment.html
 - 大学专业学的是营养师。
 
 ## 采访
-<iframe src="https://www.bilibili.com/video/BV1eE411o7PJ/?share_source=copy_web&vd_source=53eb07c91966442a76aa1bebf575fd26" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
+
+<iframe src="https://player.bilibili.com/player.html?aid=70842764&bvid=BV1eE411o7PJ&cid=122741457&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
 
 ## 声音样本
-<iframe src="https://www.bilibili.com/video/BV1kf4y1Q7jn?vd_source=53eb07c91966442a76aa1bebf575fd26" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
 
-<!-- <div id="aplayer"></div> -->
-[^1]: https://www.bilibili.com/video/BV1oT4y1Y7uE?vd_source=53eb07c91966442a76aa1bebf575fd26
-[^2]: https://www.bilibili.com/video/BV1Ye411W73c?vd_source=53eb07c91966442a76aa1bebf575fd26
-[^3]: https://www.bilibili.com/video/BV14K4y1b7Fc?vd_source=53eb07c91966442a76aa1bebf575fd26
-[^4]: https://www.bilibili.com/video/BV1iv411A7UL?vd_source=53eb07c91966442a76aa1bebf575fd26
+<iframe src="https://player.bilibili.com/player.html?aid=286862051&bvid=BV1kf4y1Q7jn&cid=225328361&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
 
-<script src="https://nananiji.zzzhxxx.top/js/md5.js"></script>
-<script src="https://nananiji.zzzhxxx.top/js/hls.min.js"></script>
-<script src="https://nananiji.zzzhxxx.top/js/aplayer.min.js"></script>
+[^1]: https://www.bilibili.com/video/BV1oT4y1Y7uE
+[^2]: https://www.bilibili.com/video/BV1Ye411W73c
+[^3]: https://www.bilibili.com/video/BV14K4y1b7Fc
+[^4]: https://www.bilibili.com/video/BV1iv411A7UL
 
-<!-- <script>
-    const ap = new APlayer({
-    container: document.getElementById('aplayer'),
-    audio: [{
-        name: '对话1',
-        artist: '武田爱奈',
-        url: 'https://files.zzzhxxx.top/voicesample/aina-1.mp4',
-        cover: 'https://nananiji.zzzhxxx.top/assets/photo/avatar/aina.jpg'
-        },
-        {
-            name: '对话2',
-            artist: '武田爱奈',
-            url: 'https://files.zzzhxxx.top/voicesample/aina-2.mp4',
-            cover: 'https://nananiji.zzzhxxx.top/assets/photo/avatar/aina.jpg'
-        },
-        {
-            name: '旁白',
-            artist: '武田爱奈',
-            url: 'https://files.zzzhxxx.top/voicesample/aina-3.mp4',
-            cover: 'https://nananiji.zzzhxxx.top/assets/photo/avatar/aina.jpg'
-        }]
-});
-    </script> -->
