@@ -206,5 +206,5 @@
 /* TODO reina */
 .artplayer-app {
   position: relative;
-  z-index: 1 !important;
+  z-index: -1 !important;
 }
