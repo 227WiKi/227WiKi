@@ -61,7 +61,7 @@ template: comment.html
     <b>角色</b> 佐藤丽华
 
     <figure markdown>
-        ![aina](https://nananiji.zzzhxxx.top/assets/chiharu-sig.svg){ width="100" }
+        ![chiharu](https://nananiji.zzzhxxx.top/assets/chiharu-sig.svg){ width="100" }
         <figcaption>签名</figcaption>
     </figure>
     [:fontawesome-brands-twitter:](https://twitter.com/chiharu_okr) 
