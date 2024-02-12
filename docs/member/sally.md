@@ -141,7 +141,7 @@ template: comment.html
 .artplayer-app {
     aspect-ratio: 16/9;
     position: relative;
-    z-index: -1 !important;
+    z-index: 1 !important;
 }
 </style>
 
