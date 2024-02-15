@@ -4,6 +4,7 @@ template: comment.html
 ---
 ???+ quote "ひとこと"
     電撃担当月城咲舞です！必殺ナナニジクラッシュ！
+    
 !!! general inline end "月城咲舞"
     === "二专"
 

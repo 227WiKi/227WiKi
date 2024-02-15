@@ -5,7 +5,7 @@ template: comment.html
 # :pack-sig-member-aina-sig: 武田爱奈（あいなっち）
 
 ???+ quote "ひとこと"
-    死ぬこと以外かすり傷!
+    夢はたくさんの人に笑顔と元気を与えることです♪何事にも全力で頑張ります！
 
 !!! aina-sig inline end "武田爱奈（あいなっち）"
     === "八单"

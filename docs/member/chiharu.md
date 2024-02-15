@@ -4,6 +4,9 @@ template: comment.html
 ---
 # :pack-sig-member-chiharu-sig: 帆风千春(千春)
 
+???+ quote "ひとこと"
+    ちはるんです。笑う門には福来たる！
+
 !!! chiharu-sig inline end "帆风千春(千春)"
     === "千春时期"
         ![千春时期公式照](https://res.227wiki.eu.org/photo/chiharu/chiharu.jpg){ loading=lazy }

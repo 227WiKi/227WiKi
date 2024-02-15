@@ -4,7 +4,10 @@ template: comment.html
 ---
 # :pack-sig-member-moe-sig: 凉花萌
 ???+ quote "ひとこと"
+    みなさんにお会いできるのを楽しみに頑張ります！
+
     鳥と桃が大好きです！
+    
 !!! moe-sig inline end "凉花萌"
     === "二专"
 

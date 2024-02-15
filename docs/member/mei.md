@@ -2,6 +2,9 @@
 title: 毕业成员 - 花川芽衣(椛島光)
 template: comment.html
 ---
+???+ quote "ひとこと"
+    可愛いものが大好きです。皆さんに最高の声をお届けできるように頑張ります！よろしくお願いします♪
+
 !!! general inline end "椛島光"
     === "椛島光时期"
         ![椛島光时期公式照](https://nananiji.zzzhxxx.top/assets/photo/mei/hikari.jpg!compress){ loading=lazy }
