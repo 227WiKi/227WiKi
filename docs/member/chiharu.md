@@ -6,27 +6,27 @@ template: comment.html
 
 !!! chiharu-sig inline end "帆风千春(千春)"
     === "千春时期"
-        ![千春时期公式照](https://res.227wiki.eu.org/photo/chiharu/chiharu.jpeg){ loading=lazy }
+        ![千春时期公式照](https://res.227wiki.eu.org/photo/chiharu/chiharu.jpg){ loading=lazy }
 
     === "七单"
 
-        ![七单公式照](https://res.227wiki.eu.org/photo/chiharu/7th.jpeg){ loading=lazy }
+        ![七单公式照](https://res.227wiki.eu.org/photo/chiharu/7th.webp){ loading=lazy }
         
     === "六单"
 
-        ![六单公式照](https://res.227wiki.eu.org/photo/chiharu/6th.jpeg){ loading=lazy }
+        ![六单公式照](https://res.227wiki.eu.org/photo/chiharu/6th.webp){ loading=lazy }
 
     === "五单"
 
-        ![五单公式照](https://res.227wiki.eu.org/photo/chiharu/5th.jpeg){ loading=lazy }
+        ![五单公式照](https://res.227wiki.eu.org/photo/chiharu/5th.webp){ loading=lazy }
 
     === "四单"
 
-        ![四单公式照](https://res.227wiki.eu.org/photo/chiharu/4th.jpeg){ loading=lazy }
+        ![四单公式照](https://res.227wiki.eu.org/photo/chiharu/4th.webp){ loading=lazy }
 
     === "三单"
 
-        ![三单公式照](https://res.227wiki.eu.org/photo/chiharu/3rd.jpeg){ loading=lazy }
+        ![三单公式照](https://res.227wiki.eu.org/photo/chiharu/3rd.jpg){ loading=lazy }
 
     === "二单"
 
@@ -35,10 +35,22 @@ template: comment.html
     === "一单"
 
         ![一单公式照](https://res.227wiki.eu.org/photo/chiharu/1st.jpg){ loading=lazy }
+    
+    === "初次亮相"
+
+        ![初次亮相白裙照](https://res.227wiki.eu.org/photo/chiharu/ChiharuWhiteDress.webp){ loading=lazy }
 
     --------
 
-    <b>姓名</b>  帆风千春
+    <b>姓名</b>  千春
+
+    --------
+
+    <b>曾用名</b> 帆风千春
+
+    --------
+
+    <b>真名</b> 寺川千春
 
     --------
 
@@ -109,6 +121,11 @@ template: comment.html
 - 在showroom中曾提到过用家庭公用账户课金被姐姐发现，后被教训要省钱。[^4]
 - 与直田姬奈是好友，常常会相互探望与聚餐，也会有推特互动。
 - 与moe在showroom中发表了一系列对urara的痴汉言论。[^5]
+- 特别喜欢女神异闻录系列
+- 会弹贝斯
+- 曾经纪念推特关注人数破千答粉丝提问时有粉丝说，你和声优爱美长得好像啊，希望有一天能看到你们的合照。千春回答说自己很喜欢《BanG Dream!》，能合照的话会感到很荣幸，也会为此努力。
+- 曾在推特上表明喜欢《BanG Dream!》中Poppin'Party的市谷有咲。
+- 曾在SR中公开表达对内田真礼的爱意[^6]
 
 ## 采访
 
@@ -116,10 +133,33 @@ template: comment.html
 
 ## 声音样本
 
+### 22/7时期
+
 <iframe src="https://player.bilibili.com/player.html?aid=926812268&bvid=BV1JT4y1L77u&cid=225336578&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
+
+### 响社时期
+
+<div id="aplayer"></div>
+
 
 [^1]: https://www.barks.jp/news/?id=1000157867
 [^2]: https://nanabunnonijyuuni.com/s/n129/news/detail/10152?ima=5632
-[^3]: https://www.bilibili.com/video/BV1rD4y1U7FJ?vd_source=53eb07c91966442a76aa1bebf575fd26
-[^4]: https://www.bilibili.com/video/BV1UE411L7Wb/?vd_source=c494fcb51160c617e1a838ae1eac6a0d
-[^5]: https://www.bilibili.com/video/BV1VE411G71G?vd_source=53eb07c91966442a76aa1bebf575fd26
+[^3]: https://www.bilibili.com/video/BV1rD4y1U7FJ
+[^4]: https://www.bilibili.com/video/BV1UE411L7Wb
+[^5]: https://www.bilibili.com/video/BV1VE411G71G
+[^6]: https://www.bilibili.com/video/BV1cb411S7yx
+
+<link rel="stylesheet" href="https://nananiji.zzzhxxx.top/css/aplayer.min.css">
+<script src="https://nananiji.zzzhxxx.top/js/aplayer.min.js"></script>
+
+<script>
+const ap = new APlayer({
+    container: document.getElementById('aplayer'),
+    audio: [{
+        name: 'Voice Sample',
+        artist: '千春',
+        url: 'https://res.227wiki.eu.org/audio/voicesample/chiharu/chiharu.mp3',
+        cover: 'https://nananiji.zzzhxxx.top/assets/photo/avatar/chiharu.jpg'
+    }]
+});
+</script>
