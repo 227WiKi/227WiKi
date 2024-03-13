@@ -12,6 +12,7 @@ template: comment.html
     === "二专"
 
         ![二专公式照](https://nananiji.zzzhxxx.top/assets/photo/moe/2nd-album.jpg!compress){ loading=lazy }
+
     === "十一单"
 
         ![十一单公式照](https://nananiji.zzzhxxx.top/assets/photo/moe/11th.jpg!compress){ loading=lazy }
@@ -38,6 +39,7 @@ template: comment.html
     === "七单"
 
         ![七单公式照](https://nananiji.zzzhxxx.top/assets/photo/moe/7th.jpg!compress){ loading=lazy }
+        
     === "六单"
 
         ![六单公式照](https://nananiji.zzzhxxx.top/assets/photo/moe/6th.jpg!compress){ loading=lazy }

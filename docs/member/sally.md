@@ -10,6 +10,7 @@ template: comment.html
     === "二专"
 
         ![二专公式照](https://nananiji.zzzhxxx.top/assets/photo/sally/2nd-album.jpg!compress){ loading=lazy }
+
     === "十一单"
 
         ![十一单公式照](https://nananiji.zzzhxxx.top/assets/photo/sally/11th.jpg!compress){ loading=lazy }
@@ -21,6 +22,7 @@ template: comment.html
     === "九单(v2)"
 
         ![九单公式照(第二版)](https://nananiji.zzzhxxx.top/assets/photo/sally/9th-2.jpg!compress){ loading=lazy }
+
     === "九单(v1)"
 
         ![九单公式照(第一版)](https://nananiji.zzzhxxx.top/assets/photo/sally/9th.jpg!compress){ loading=lazy }
@@ -36,6 +38,7 @@ template: comment.html
     === "七单"
 
         ![七单公式照](https://nananiji.zzzhxxx.top/assets/photo/sally/7th.jpg!compress){ loading=lazy }
+        
     === "六单"
 
         ![六单公式照](https://nananiji.zzzhxxx.top/assets/photo/sally/6th.jpg!compress){ loading=lazy }

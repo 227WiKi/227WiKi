@@ -5,40 +5,40 @@ template: comment.html
 # :pack-sig-member-mizuha-sig: 仓冈水巴(仓丸莉子)
 
 ???+ quote "ひとこと"
-    
+    22/7(ナナブンノニジュウニ)の関西代表として頑張ります!!!!
 
 !!! mizuha-sig inline end "仓冈水巴(仓丸莉子)"
     === "仓丸莉子时期"
 
-        ![仓丸莉子时期公式照](https://res.227wiki.eu.org/photo/mizuha/mizuha.jpg){ loading=lazy }
+        ![仓丸莉子时期公式照](https://res.227wiki.eu.org/photo/mizuha/riko.jpg){ loading=lazy }
     
     === "八单"
 
-        ![八单公式照](https://res.227wiki.eu.org/photo/mizuha/8th.jpg){ loading=lazy }
+        ![八单公式照](https://res.227wiki.eu.org/photo/mizuha/8th.webp){ loading=lazy }
 
     === "七单"
 
-        ![七单公式照](https://res.227wiki.eu.org/photo/mizuha/7th.jpg){ loading=lazy }
+        ![七单公式照](https://res.227wiki.eu.org/photo/mizuha/7th.webp){ loading=lazy }
         
     === "六单"
 
-        ![六单公式照](https://res.227wiki.eu.org/photo/mizuha/6th.jpg){ loading=lazy }
+        ![六单公式照](https://res.227wiki.eu.org/photo/mizuha/6th.webp){ loading=lazy }
 
     === "五单"
 
-        ![五单公式照](https://res.227wiki.eu.org/photo/mizuha/5th.jpg){ loading=lazy }
+        ![五单公式照](https://res.227wiki.eu.org/photo/mizuha/5th.webp){ loading=lazy }
 
     === "四单"
 
-        ![四单公式照](https://res.227wiki.eu.org/photo/mizuha/4th.jpg){ loading=lazy }
+        ![四单公式照](https://res.227wiki.eu.org/photo/mizuha/4th.webp){ loading=lazy }
 
     === "三单"
 
-        ![三单公式照](https://res.227wiki.eu.org/photo/mizuha/3rd.jpg){ loading=lazy }
+        ![三单公式照](https://res.227wiki.eu.org/photo/mizuha/3rd.webp){ loading=lazy }
 
     === "二单"
 
-        ![二单公式照](https://res.227wiki.eu.org/photo/mizuha/2nd.jpg){ loading=lazy }
+        ![二单公式照](https://res.227wiki.eu.org/photo/mizuha/2nd.webp){ loading=lazy }
 
     === "一单"
 
@@ -46,7 +46,7 @@ template: comment.html
 
     === "初次亮相"
 
-        ![初次亮相白裙照](https://res.227wiki.eu.org/photo/mizuha/mizuhaWhiteDress.webp){ loading=lazy }
+        ![初次亮相白裙照](https://res.227wiki.eu.org/photo/mizuha/MizuhaWhiteDress.webp){ loading=lazy }
 
     --------
 
@@ -54,7 +54,7 @@ template: comment.html
 
     --------
 
-    <b>曾用名</b> 仓冈水巴
+    <b>曾用名</b> 仓冈水巴 <span class="heimu" title="你知道的太多了">森岡莉子</span>
 
     --------
 
@@ -82,6 +82,7 @@ template: comment.html
     </figure>
     [:fontawesome-brands-twitter:](https://twitter.com/kura_maru_maru)
     [:fontawesome-brands-youtube:](https://www.youtube.com/channel/UCBH4oSYLD7KLfd3NpHUNrEA?app=desktop) 
+    [:fontawesome-brands-tiktok:](https://www.tiktok.com/@kurakuramarumaru)
 
 ## 时间线
 
@@ -144,7 +145,7 @@ template: comment.html
 
 [^1]: https://nanabunnonijyuuni.com/s/n129/news/detail/10415?ima=2135
 [^2]: https://twitter.com/kura_maru_maru/status/1478604252004380675
-[^3]: https://www.bilibili.com/video/BV1h5411b7jJ/?spm_id_from=333.337.search-card.all.click&vd_source=c494fcb51160c617e1a838ae1eac6a0d
-[^4]: https://www.bilibili.com/video/BV1q5411G7nj/?spm_id_from=333.337.search-card.all.click&vd_source=c494fcb51160c617e1a838ae1eac6a0d
-[^5]: https://www.bilibili.com/video/BV1jK4y1L7wS/?spm_id_from=333.999.0.0&vd_source=c494fcb51160c617e1a838ae1eac6a0d
-[^6]: https://www.bilibili.com/video/BV1gY411W7wE/?spm_id_from=333.337.search-card.all.click&vd_source=c494fcb51160c617e1a838ae1eac6a0d
+[^3]: https://www.bilibili.com/video/BV1h5411b7jJ
+[^4]: https://www.bilibili.com/video/BV1q5411G7nj
+[^5]: https://www.bilibili.com/video/BV1jK4y1L7wS
+[^6]: https://www.bilibili.com/video/BV1gY411W7wE

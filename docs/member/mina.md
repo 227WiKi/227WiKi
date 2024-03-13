@@ -8,15 +8,19 @@ template: comment.html
     === "二专"
 
         ![二专公式照](https://nananiji.zzzhxxx.top/assets/photo/mina/2nd-album.jpg!compress){ loading=lazy }
+
     === "十一单"
 
         ![十一单公式照](https://nananiji.zzzhxxx.top/assets/photo/mina/11th.jpg!compress){ loading=lazy }
+
     === "十单"
 
         ![十单公式照](https://nananiji.zzzhxxx.top/assets/photo/mina/10th.webp!compress){ loading=lazy }
+
     === "九单(v2)"
 
         ![九单公式照(第二版)](https://nananiji.zzzhxxx.top/assets/photo/mina/9th-2.jpg!compress){ loading=lazy }
+        
     === "九单(v1)"
 
         ![九单公式照(第一版)](https://nananiji.zzzhxxx.top/assets/photo/mina/9th.jpg!compress){ loading=lazy }

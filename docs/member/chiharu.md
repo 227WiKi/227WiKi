@@ -9,6 +9,7 @@ template: comment.html
 
 !!! chiharu-sig inline end "帆风千春(千春)"
     === "千春时期"
+    
         ![千春时期公式照](https://res.227wiki.eu.org/photo/chiharu/chiharu.jpg){ loading=lazy }
 
     === "七单"

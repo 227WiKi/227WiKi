@@ -10,6 +10,7 @@ template: comment.html
     === "二专"
 
         ![二专公式照](https://nananiji.zzzhxxx.top/assets/photo/nagomi/2nd-album.jpg!compress){ loading=lazy }
+
     === "十一单"
 
         ![十一单公式照](https://nananiji.zzzhxxx.top/assets/photo/nagomi/11th.jpg!compress){ loading=lazy }
@@ -21,6 +22,7 @@ template: comment.html
     === "九单(v2)"
 
         ![九单公式照(第二版)](https://nananiji.zzzhxxx.top/assets/photo/nagomi/9th-2.jpg!compress){ loading=lazy }
+
     === "九单(v1)"
 
         ![九单公式照(第一版)](https://nananiji.zzzhxxx.top/assets/photo/nagomi/9th.jpg!compress){ loading=lazy }
@@ -36,6 +38,7 @@ template: comment.html
     === "七单"
 
         ![七单公式照](https://nananiji.zzzhxxx.top/assets/photo/nagomi/7th.jpg!compress){ loading=lazy }
+
     === "六单"
 
         ![六单公式照](https://nananiji.zzzhxxx.top/assets/photo/nagomi/6th.jpg!compress){ loading=lazy }
@@ -101,7 +104,7 @@ template: comment.html
         ![Nagomi](https://nananiji.zzzhxxx.top/assets/nagomi-sig.svg){ width="100" loading=lazy }
         <figcaption>签名</figcaption>
     </figure>
-    [:fontawesome-brands-twitter:](https://twitter.com/nagomi_saijo)
+    [:fontawesome-brands-twitter:](https://twitter.com/nagomi_saijo) [:fontawesome-brands-tiktok:](https://www.tiktok.com/@nagomi_saijo)
     
     [Blog](http://blog.nanabunnonijyuuni.com/s/n227/diary/blog/list?ima=1526&ct=04){ .md-button }
 

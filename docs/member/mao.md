@@ -8,15 +8,19 @@ template: comment.html
     === "二专"
 
         ![二专公式照](https://nananiji.zzzhxxx.top/assets/photo/mao/2nd-album.jpg!compress){ loading=lazy }
+
     === "十一单"
 
         ![十一单公式照](https://nananiji.zzzhxxx.top/assets/photo/mao/11th.jpg!compress){ loading=lazy }
+
     === "十单"
 
         ![十单公式照](https://nananiji.zzzhxxx.top/assets/photo/mao/10th.webp!compress){ loading=lazy }
+
     === "九单(v2)"
 
         ![九单公式照(第二版)](https://nananiji.zzzhxxx.top/assets/photo/mao/9th-2.jpg!compress){ loading=lazy }
+
     === "九单(v1)"
 
         ![九单公式照(第一版)](https://nananiji.zzzhxxx.top/assets/photo/mao/9th.jpg!compress){ loading=lazy }
@@ -27,7 +31,7 @@ template: comment.html
 
     --------
 
-    <b>原名</b>   河野真央
+    <b>曾用名</b>    <span class="heimu" title="你知道的太多了">河野真央</span>
 
     --------
 
@@ -54,8 +58,8 @@ template: comment.html
         <figcaption>签名</figcaption>
     </figure>
 
-    [:fontawesome-brands-twitter:](https://twitter.com/mao_asaoka227) [:fontawesome-brands-instagram:](https://instagram.com/asaoka_mao__)
-    
+    [:fontawesome-brands-twitter:](https://twitter.com/mao_asaoka227) [:fontawesome-brands-instagram:](https://instagram.com/asaoka_mao__) [:fontawesome-brands-tiktok:](https://www.tiktok.com/@mao_asaoka)  
+
     [Blog](https://blog.nanabunnonijyuuni.com/s/n227/diary/blog/list?ima=0912&ct=14){ .md-button}
 
 ## 时间线

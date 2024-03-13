@@ -12,59 +12,63 @@ template: comment.html
 !!! reina-sig inline end "宮瀬玲奈(佐仓初)"
     === "佐仓初时期"
 
-        ![佐仓初时期照片](https://res.227wiki.eu.org/photo/reina/reina.jpg){ loading=lazy }
+        ![佐仓初时期照片](https://res.227wiki.eu.org/photo/reina/ui.jpeg){ loading=lazy }
 
     === "十一单"
 
-        ![十一单公式照](https://res.227wiki.eu.org/photo/reina/11th.jpg){ loading=lazy }
+        ![十一单公式照](https://res.227wiki.eu.org/photo/reina/11th.png){ loading=lazy }
 
     === "十单"
 
-        ![十单公式照](https://res.227wiki.eu.org/photo/reina/10th.jpg){ loading=lazy }
+        ![十单公式照](https://res.227wiki.eu.org/photo/reina/10th.webp){ loading=lazy }
 
     === "九单(v2)"
 
-        ![九单公式照(第二版)](https://res.227wiki.eu.org/photo/reina/9th-2.jpg){ loading=lazy }
+        ![九单公式照(第二版)](https://res.227wiki.eu.org/photo/reina/9th-2.webp){ loading=lazy }
 
     === "九单(v1)"
 
-        ![九单公式照(第一版)](https://res.227wiki.eu.org/photo/reina/9th-1.jpg){ loading=lazy }
+        ![九单公式照(第一版)](https://res.227wiki.eu.org/photo/reina/9th-1.webp){ loading=lazy }
     
     === "八单"
 
-        ![八单公式照](https://res.227wiki.eu.org/photo/reina/8th.jpg){ loading=lazy }
+        ![八单公式照](https://res.227wiki.eu.org/photo/reina/8th.webp){ loading=lazy }
 
+    === "一专"
+
+        ![一专公式照](https://res.227wiki.eu.org/photo/reina/1st-album.webp){ loading=lazy }
+    
     === "七单"
 
-        ![七单公式照](https://res.227wiki.eu.org/photo/reina/7th.jpg){ loading=lazy }
+        ![七单公式照](https://res.227wiki.eu.org/photo/reina/7th.webp){ loading=lazy }
         
     === "六单"
 
-        ![六单公式照](https://res.227wiki.eu.org/photo/reina/6th.jpg){ loading=lazy }
+        ![六单公式照](https://res.227wiki.eu.org/photo/reina/6th.webp){ loading=lazy }
 
     === "五单"
 
-        ![五单公式照](https://res.227wiki.eu.org/photo/reina/5th.jpg){ loading=lazy }
+        ![五单公式照](https://res.227wiki.eu.org/photo/reina/5th.webp){ loading=lazy }
 
     === "四单"
 
-        ![四单公式照](https://res.227wiki.eu.org/photo/reina/4th.jpg){ loading=lazy }
+        ![四单公式照](https://res.227wiki.eu.org/photo/reina/4th.webp){ loading=lazy }
 
     === "三单"
 
-        ![三单公式照](https://res.227wiki.eu.org/photo/reina/3rd.jpg){ loading=lazy }
+        ![三单公式照](https://res.227wiki.eu.org/photo/reina/3rd.webp){ loading=lazy }
 
     === "二单"
 
-        ![二单公式照](https://res.227wiki.eu.org/photo/reina/2nd.jpg){ loading=lazy }
+        ![二单公式照](https://res.227wiki.eu.org/photo/reina/2nd.webp){ loading=lazy }
 
     === "一单"
 
-        ![一单公式照](https://res.227wiki.eu.org/photo/reina/1st.jpg){ loading=lazy }
+        ![一单公式照](https://res.227wiki.eu.org/photo/reina/1st.webp){ loading=lazy }
 
     === "初次亮相"
 
-        ![初次亮相白裙照](https://res.227wiki.eu.org/photo/reina/reinaWhiteDress.webp){ loading=lazy }
+        ![初次亮相白裙照](https://res.227wiki.eu.org/photo/reina/ReinaWhiteDress.webp){ loading=lazy }
 
     --------
 
@@ -113,11 +117,15 @@ template: comment.html
 - 5月，确认为22/7的角色立川绚香配音，随后也公开了角色形象。
 - 9月20日，在22/7的首张单曲「僕は存在していなかった」中首次亮相。
 
+### 2018
+
+- 5月18日，开设个人Twitter和Instagram账号。
+
 ### 2023
 
 - 1月25日，宣布将于11th发售活动后从22/7毕业[^1]，并将于5月25日在Zepp DiverCity(TOKYO)举办毕业音乐会[^2]。
 - 5月18日，宣布将于6月7日23:59关闭艺人Twitter、Instagram、SHOWROOM、官网内博客。[^3]
-- 6月17日，以“佐仓初”名义在推特回归。[^4]
+- 6月17日，以“佐仓初”名义回归,并开设粉丝俱乐部。[^4]
 
 ## 相关
 
@@ -129,6 +137,8 @@ template: comment.html
 - 可以看到灵体。[^6]
 - 在计算中，经常会将话题抛给观众。
 - 曾经游戏实况过“黑道圣徒4”，并且捏了一个非常抽象的脸。~~不愧是画画具有别人无法理解优点的大师~~。[^7]
+- 最喜欢在现场表演的歌是循環バス，因为这首歌很可爱，并且是一首由11人共同参与的歌[^8]
+- 喜欢收集帽子、眼镜和厚底鞋。
 
 ## 采访
 
@@ -144,6 +154,7 @@ template: comment.html
 [^2]: https://nanabunnonijyuuni.com/s/n129/news/detail/10758
 [^3]: https://nanabunnonijyuuni.com/s/n129/news/detail/10828
 [^4]: https://twitter.com/ui_sakura_0526/status/1669902705538789376
-[^5]: https://www.bilibili.com/video/BV1Wi4y1S7wG/?spm_id_from=333.337.search-card.all.click&vd_source=c494fcb51160c617e1a838ae1eac6a0d
-[^6]: https://www.bilibili.com/video/BV1dx41127D7/?vd_source=c494fcb51160c617e1a838ae1eac6a0d
-[^7]: https://www.bilibili.com/video/BV1K3411M7WQ/?spm_id_from=333.337.search-card.all.click&vd_source=c494fcb51160c617e1a838ae1eac6a0d
+[^5]: https://www.bilibili.com/video/BV1Wi4y1S7wG
+[^6]: https://www.bilibili.com/video/BV1dx41127D7
+[^7]: https://www.bilibili.com/video/BV1K3411M7WQ
+[^8]: http://www.jame-world.com/us/articles-131094-interview-with-22-7-at-anime-expo-2018.html

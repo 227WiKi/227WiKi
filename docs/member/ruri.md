@@ -9,6 +9,7 @@ template: comment.html
 
 !!! ruri-sig inline end "海乃るり(吉宫瑠织)"
     === "吉宫瑠织时期"
+    
         ![吉宫瑠织时期公式照](https://res.227wiki.eu.org/photo/ruri/ruri.jpg){ loading=lazy }
     
     === "八单"
