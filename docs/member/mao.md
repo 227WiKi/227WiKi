@@ -5,6 +5,10 @@ template: comment.html
 ???+ quote "ひとこと"
     家族には宇宙から旅行しに来ている妖精ちゃんと言われています。言い回しが少し変わっていて不思議らしいです。<br> ナナニジファミリーとして皆さんと一緒に幸せになりたいです！応援よろしくお願いします！
 !!! general inline end "麻丘真央"
+    === "十二单"
+
+        ![十二单公式照](https://res.227wiki.eu.org/photo/mao/12th.jpg){ loading=lazy }
+
     === "二专"
 
         ![二专公式照](https://nananiji.zzzhxxx.top/assets/photo/mao/2nd-album.jpg!compress){ loading=lazy }
@@ -31,7 +35,7 @@ template: comment.html
 
     --------
 
-    <b>曾用名</b>    <span class="heimu" title="你知道的太多了">河野真央</span>
+    <b>其他姓名</b>    <span class="heimu" title="你知道的太多了">河野真央</span>
 
     --------
 

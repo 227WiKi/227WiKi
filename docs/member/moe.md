@@ -9,6 +9,10 @@ template: comment.html
     鳥と桃が大好きです！
     
 !!! moe-sig inline end "凉花萌"
+    === "十二单"
+
+        ![十二单公式照](https://res.227wiki.eu.org/photo/moe/12th.jpg){ loading=lazy }
+
     === "二专"
 
         ![二专公式照](https://nananiji.zzzhxxx.top/assets/photo/moe/2nd-album.jpg!compress){ loading=lazy }
