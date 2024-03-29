@@ -57,8 +57,8 @@ template: comment.html
         ![rino](https://nananiji.zzzhxxx.top/assets/rino-sig.svg){ width="100" loading=lazy }
         <figcaption>签名</figcaption>
     </figure>
-    [:fontawesome-brands-twitter:](https://twitter.com/rino_mochizuki) [:fontawesome-brands-instagram:](https://twitter.com/cure_rinochi)
-    
+    [:fontawesome-brands-twitter:](https://twitter.com/rino_mochizuki) [:fontawesome-brands-instagram:](https://twitter.com/cure_rinochi) [:fontawesome-brands-tiktok:](https://www.tiktok.com/@cure_rinochi)
+       
     [Blog](https://blog.nanabunnonijyuuni.com/s/n227/diary/blog/list?ima=3919&ct=20){ .md-button}
 
 ## 时间线
@@ -80,7 +80,7 @@ template: comment.html
 
 - 从小梦想成为偶像
 - 和阿和关系很好
-- 曾经参加过其他偶像的甄选 ~~因为这一点被日网黑粉狂喷~~
+- 曾经参加过其他偶像的甄选  <span class="heimu" title="你知道的太多了">因为这一点被日网黑粉狂喷</span>
 - 在表演二期生加入之前的歌曲时，经常唱千春的part
 
 
