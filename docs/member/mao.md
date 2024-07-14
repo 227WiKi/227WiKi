@@ -5,6 +5,10 @@ template: comment.html
 ???+ quote "ひとこと"
     家族には宇宙から旅行しに来ている妖精ちゃんと言われています。言い回しが少し変わっていて不思議らしいです。<br> ナナニジファミリーとして皆さんと一緒に幸せになりたいです！応援よろしくお願いします！
 !!! general inline end "麻丘真央"
+    === "十三单"
+
+        ![十三单公式照](https://res.227wiki.eu.org/photo/mao/13th.jpg){ loading=lazy }
+
     === "十二单"
 
         ![十二单公式照](https://res.227wiki.eu.org/photo/mao/12th.jpg){ loading=lazy }

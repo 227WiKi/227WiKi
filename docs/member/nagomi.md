@@ -7,6 +7,10 @@ template: comment.html
     無口な関西人です。なにもできませんが自分を変えれるように全力で頑張ります。見ていてくれたら嬉しいです。
 
 !!! nagomi-sig inline end "西條和"
+    === "十三单"
+
+        ![十三单公式照](https://res.227wiki.eu.org/photo/nagomi/13th.jpg){ loading=lazy }
+
     === "十二单"
 
         ![十二单公式照](https://res.227wiki.eu.org/photo/nagomi/12th.jpg){ loading=lazy }

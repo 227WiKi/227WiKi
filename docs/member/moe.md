@@ -3,12 +3,17 @@ title: 成员 - 凉花萌
 template: comment.html
 ---
 # :pack-sig-member-moe-sig: 凉花萌
+
 ???+ quote "ひとこと"
     みなさんにお会いできるのを楽しみに頑張ります！
 
     鳥と桃が大好きです！
     
 !!! moe-sig inline end "凉花萌"
+    === "十三单"
+
+        ![十三单公式照](https://res.227wiki.eu.org/photo/moe/13th.jpg){ loading=lazy }
+
     === "十二单"
 
         ![十二单公式照](https://res.227wiki.eu.org/photo/moe/12th.jpg){ loading=lazy }
@@ -119,6 +124,10 @@ template: comment.html
 - 5月，感染新冠，暂时停止活动
 - 8月16日，恢复活动
 
+### 2024
+
+- 6月17日，宣布将在8月的Summer Live结束后毕业[^12]
+
 ## 相关
 
 - 在showroom里说过自己有一个姐姐和一个弟弟[^2]
@@ -145,6 +154,10 @@ template: comment.html
 }
 </style>
 
+## 声音样本
+
+<div id="aplayer"></div>
+
 
 [^1]: https://twitter.com/moepiyo_227/status/1393923302700113925
 [^2]: SHOWROOM 2017.12.02
@@ -157,9 +170,11 @@ template: comment.html
 [^9]: SHOWROOM 2018.03.08
 [^10]: https://twitter.com/moepiyo_227/status/1179227320906899457
 [^11]: https://twitter.com/moepiyo_227/status/1070291611223912448
+[^12]: https://nanabunnonijyuuni-mobile.com/s/n110/news/detail/10526?ima=1424
 
 <script src="https://cdn.jsdelivr.net/npm/artplayer/dist/artplayer.js"></script>
-
+<link rel="stylesheet" href="https://nananiji.zzzhxxx.top/css/aplayer.min.css">
+<script src="https://nananiji.zzzhxxx.top/js/aplayer.min.js"></script>
 <script>
     var art = new Artplayer({
     container: '.artplayer-app',
@@ -194,5 +209,21 @@ template: comment.html
         },
     ],
 });
-
+const ap= new APlayer({
+    container: document.getElementById('aplayer'),
+    audio: [{
+        name: 'Sample 1',
+        artist: '凉花萌',
+        url: 'https://res.227wiki.eu.org/audio/voicesample/moe/moe-1.mp4',
+        cover: 'https://nananiji.zzzhxxx.top/assets/photo/avatar/moe.jpg'
+        },
+        {
+            name: 'Sample 2',
+            artist: '凉花萌',
+            url: 'https://res.227wiki.eu.org/audio/voicesample/moe/moe-2.mp4',
+            cover: 'https://nananiji.zzzhxxx.top/assets/photo/avatar/moe.jpg'
+        }]
+});
 </script>
+
+

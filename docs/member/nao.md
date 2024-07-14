@@ -5,6 +5,10 @@ template: comment.html
 ???+ quote "ひとこと"
     夢は皆さんを笑顔にすること、あざとく愛嬌を振りまきます♡ 応援よろしくお願いします！
 !!! general inline end "相川奈央"
+    === "十三单"
+
+        ![十三单公式照](https://res.227wiki.eu.org/photo/nao/13th.jpg){ loading=lazy }
+
     === "十二单"
 
         ![十二单公式照](https://res.227wiki.eu.org/photo/nao/12th.jpg){ loading=lazy }

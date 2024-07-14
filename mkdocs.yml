@@ -126,7 +126,14 @@ nav:
                   - 僕のホロスコープ: songs/single/11th/song-3.md
                   - 悲しみの半分: songs/single/11th/song-4.md
                   - もう純情は邪魔なだけ: songs/single/11th/song-5.md
-        
+          - 後でわかること:
+              - 简介: songs/single/12th/index.md
+              - 歌曲:
+                  - 後でわかること: songs/single/12th/song-1.md
+                  - 春雷の頃: songs/single/12th/song-2.md
+                  - もう少し生きてみないか？: songs/single/12th/song-3.md
+                  - 無関心ヒーロー: songs/single/12th/song-4.md
+                  - 世界中で歌おうぜ: songs/single/12th/song-5.md
       - 专辑:
           - 名为11的永远的素数:
               - 简介: songs/album/1st/index-disc.md

@@ -76,7 +76,11 @@
 
     [:octicons-arrow-right-24: 详情](/songs/single/11th/)
 
+-   ![12th](https://nananiji.zzzhxxx.top/assets/photo/songs/single/12th-1.jpg!compress) __後でわかること__
 
+    ---
+
+    [:octicons-arrow-right-24: 详情](/songs/single/12th/)
 
 </div>
 
