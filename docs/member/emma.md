@@ -6,6 +6,10 @@ template: comment.html
     電撃担当月城咲舞です！必殺ナナニジクラッシュ！
     
 !!! general inline end "月城咲舞"
+    === "十三单"
+
+        ![十三单公式照](https://res.227wiki.eu.org/photo/emma/13th.jpg){ loading=lazy }
+    
     === "十二单"
 
         ![十二单公式照](https://res.227wiki.eu.org/photo/emma/12th.jpg){ loading=lazy }

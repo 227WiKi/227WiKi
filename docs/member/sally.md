@@ -7,6 +7,10 @@ template: comment.html
     根暗な明るいオタク、天城サリーです！食も笑顔もアメリカンサイズで頑張ります！
 
 !!! sally-sig inline end "天城莎莉"
+    === "十三单"
+
+        ![十三单公式照](https://res.227wiki.eu.org/photo/sally/13th.jpg){ loading=lazy }
+
     === "十二单"
 
         ![十二单公式照](https://res.227wiki.eu.org/photo/sally/12th.jpg){ loading=lazy }
