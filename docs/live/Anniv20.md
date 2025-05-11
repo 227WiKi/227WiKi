@@ -7,11 +7,11 @@ template: comment.html
 !!! general inline end "Live信息"
     === "Menu 1"
 
-        ![Menu 1](https://res.227wiki.eu.org/photo/live/a2020/1.png){ loading=lazy }
+        ![](https://res.227wiki.eu.org/photo/live/a2020/1.png){ loading=lazy }
     
     === "Menu 2"
 
-        ![Menu 2](https://res.227wiki.eu.org/photo/live/a2020/2.png){ loading=lazy }
+        ![](https://res.227wiki.eu.org/photo/live/a2020/2.png){ loading=lazy }
 
     --------
 
@@ -146,7 +146,6 @@ template: comment.html
 
 <body>
     <script src="https://nananiji.zzzhxxx.top/js/md5.js"></script>
-    <script src="https://nananiji.zzzhxxx.top/js/DPlayer.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/artplayer/dist/artplayer.js"></script>
     <script>
     var art1 = new Artplayer({
@@ -216,42 +215,6 @@ template: comment.html
                 },
             },
         ],
-    });
-    </script>
-    <script>
-        const dp3 = new DPlayer({
-        container: document.getElementById('dplayer3'),
-        video: {
-            url: 'https://files.227wiki.eu.org/d/Live/%5BBD%5D%5B%E7%86%9F%E8%82%89%5D22%EF%BC%8F7%20Anniversary%20Live%202020%5BBDRip%201080p%20AVC-10bit%20FLAC%5D/%5B%E7%94%9F%E8%82%89%5DBD/22%EF%BC%8F7%20Anniversary%20Live%202020%20-%2001%20%5BBDRip%201080p%20AVC-10bit%20FLAC%5D.mkv',
-        },
-        danmaku: {
-            id: md5('https://pan.zzzhxxx.top/api/v3/file/source/376/22%EF%BC%8F7%20Anniversary%20Live%202020%20-%2001%20%5BBDRip%201080p%20AVC-10bit%20FLAC%5D.mkv?sign=6K5wZy7h8GmsYxkvdKTW-qvjw_GFWkjHsmpMyk_QvnU%3D%3A0'),
-            api: "https://danmu.zzzhxxx.top/"
-        },
-        contextmenu: [
-        {
-            text: '227WiKi',
-            link: 'https://github.com/227WiKi/227WiKi',
-        },
-        ]
-    });
-    </script>
-    <script>
-        const dp4 = new DPlayer({
-        container: document.getElementById('dplayer4'),
-        video: {
-            url: 'https://files.227wiki.eu.org/d/Live/%5BBD%5D%5B%E7%86%9F%E8%82%89%5D22%EF%BC%8F7%20Anniversary%20Live%202020%5BBDRip%201080p%20AVC-10bit%20FLAC%5D/%5B%E7%94%9F%E8%82%89%5DBD/22%EF%BC%8F7%20Anniversary%20Live%202020%20-%2002%20%5BBDRip%201080p%20AVC-10bit%20FLAC%5D.mkv',
-        },
-        danmaku: {
-            id: md5('https://pan.zzzhxxx.top/api/v3/file/source/378/22%EF%BC%8F7%20Anniversary%20Live%202020%20-%2002%20%5BBDRip%201080p%20AVC-10bit%20FLAC%5D.mkv?sign=XK3p--mFb1thgNCRGuX7oHqGUFm1l3donF5T4NpgfwA%3D%3A0'),
-            api: "https://danmu.zzzhxxx.top/"
-        },
-        contextmenu: [
-        {
-            text: '227WiKi',
-            link: 'https://github.com/227WiKi/227WiKi',
-        },
-        ]
     });
     </script>
 </body>
