@@ -102,9 +102,10 @@ template: comment.html
         ![moe](https://nananiji.zzzhxxx.top/assets/moe-sig.svg){ width="100" }
         <figcaption>签名</figcaption>
     </figure>
-    [:fontawesome-brands-twitter:](https://twitter.com/moepiyo_227) [:fontawesome-brands-instagram:](https://www.instagram.com/moepiyo227/)
+    [:fontawesome-brands-twitter:](https://twitter.com/moepiyo_227) 
     
-    [Blog](http://blog.nanabunnonijyuuni.com/s/n227/diary/blog/list?ima=1513&ct=09){ .md-button }
+    [:fontawesome-brands-instagram:备份](https://blog.227wiki.eu.org/moepiyo227/){ .md-button}
+    [Blog备份](https://blog.227wiki.eu.org/categories/%E6%88%90%E5%91%98%E5%8D%9A%E5%AE%A2/%E6%B6%BC%E8%8A%B1%E8%90%8C/){ .md-button }
 
 ## 时间线
 
@@ -127,6 +128,7 @@ template: comment.html
 ### 2024
 
 - 6月17日，宣布将在8月的Summer Live结束后毕业[^12]
+- 8月31日，在毕业演唱会后正式从22/7毕业,不会回归演艺圈
 
 ## 相关
 
