@@ -8,7 +8,8 @@ nav:
       - 参与修订: intro/commit.md
       - Markdown特别用法: intro/markdown.md
       - 版权协议: license.md
-  - 成员:
+  - 成员: 
+      - 索引: member/index.md
       - 现役成员:
           - 天城莎莉: member/sally.md
           - 河濑诗: member/uta.md
@@ -17,6 +18,16 @@ nav:
           - 椎名桜月: member/satsuki.md
           - 月城咲舞: member/emma.md
           - 望月りの: member/rino.md
+          - 三期生:
+              - 吉沢珠璃: member/julie.md
+              - 折本美玲: member/mirei.md
+              - 北原実咲: member/misaki.md
+              - 黒崎ありす: member/alice.md
+              - 橘茉奈: member/mana.md
+              - 桧山依子: member/iko.md
+              - 三雲遥加: member/haruka.md
+              - 南伊織: member/minami.md
+
       - 毕业成员:
           - 四条月: member/luna.md
           - 西條和: member/nagomi.md
@@ -142,6 +153,22 @@ nav:
                 - 赤いバラの理由: songs/single/13th/song-3.md
                 - 炭水化物祭り: songs/single/13th/song-4.md
                 - 声優になりたくて: songs/single/13th/song-5.md
+          - ロックは死なない:
+             - 简介: songs/single/14th/index.md
+             - 歌曲:
+                - ロックは死なない: songs/single/14th/song-1.md
+                - Why are you crying ?: songs/single/14th/song-2.md
+                - 地獄一丁目: songs/single/14th/song-3.md
+                - 嫌われるということ: songs/single/14th/song-4.md
+                - 恋は道草: songs/single/14th/song-5.md
+          - あなたでなくちゃ:
+             - 简介: songs/single/15th/index.md
+             - 歌曲:
+                - あなたでなくちゃ: songs/single/15th/song-1.md
+                - あざす: songs/single/15th/song-2.md
+                - 舌打ち: songs/single/15th/song-3.md
+                - 22/7: songs/single/15th/song-4.md
+                - イングリッシュ・ゴールデンレトリバー: songs/single/15th/song-5.md
       - 专辑:
           - 名为11的永远的素数:
               - 简介: songs/album/1st/index-disc.md
@@ -171,6 +198,8 @@ nav:
                   - 简介: songs/album/1st/index-bd.md
           - 旅人算:
               - 简介: songs/album/2nd/index.md
+          - ABC予想:
+              - 简介: songs/album/3rd/index.md 
   - 动画:
       - 简介: anime/index.md
 
@@ -234,6 +263,7 @@ plugins:
         - ja
         - en
       separator: '[\s\-\.]+'
+  - macros
   - git-committers:
       repository: 227WiKi/227WiKi
       branch: master
@@ -287,8 +317,8 @@ extra:
       link: https://twitter.com/FiberBell
       name: zzzhxxx on Twitter
     - icon: pack/bili
-      link: https://space.bilibili.com/40127239
-      name: zzzhxxx on BilBili
+      link: https://space.bilibili.com/
+      name: 22/7 on BilBili
     - icon: pack/227
       link: https://nanabunnonijyuuni.com/
       name: 22/7 Official Website
@@ -317,6 +347,7 @@ copyright: Copyright &copy; 2021 - 2025 22/7 WiKi
 
 watch:
   - overrides
+  - docs
 
 markdown_extensions:
   - admonition
