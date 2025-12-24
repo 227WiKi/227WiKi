@@ -37,3 +37,18 @@ def define_env(env):
         </div>
         """
         return html.replace('\n', '').strip()
+
+    @env.macro
+    def live(title, date, venue, image, link):
+        html = f"""
+        <div class="live-card">
+            <img src="{image}" alt="{title}">
+            <div class="live-info">
+                <span class="live-date">{date}</span>
+                <span class="live-title">{title}</span>
+                <span class="live-venue">{venue}</span>
+            </div>
+            <a href="{link}" class="card-link"></a>
+        </div>
+        """
+        return html.replace('\n', '').strip()
