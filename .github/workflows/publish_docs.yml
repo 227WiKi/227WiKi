@@ -15,11 +15,7 @@ jobs:
         with:
           python-version: 3.8.12
       - name: install dependencies
-        run: pip install \
-          mkdocs-material \
-          mkdocs-glightbox \
-          mkdocs-git-committers-plugin-2 \
-          mkdocs-git-revision-date-localized-plugin \
+        run: pip install -r requirements.txt
       - run: mkdocs gh-deploy --force
       - name: Deploy to Azure Static Web Apps
         uses: actions/checkout@v3
