@@ -2,502 +2,582 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://227wiki.eu.org/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/license/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/watch/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/anime/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/bangumi/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/game/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/game/card/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/intro/about-wiki/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/intro/about/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/intro/commit/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/intro/markdown/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/keisanchu/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/kensanchu/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/live/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/live/11/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/live/Anniv20/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/live/Anniv21/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/live/mp/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
+    </url>
+    <url>
+         <loc>https://227wiki.eu.org/member/</loc>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/member/aina/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
+    </url>
+    <url>
+         <loc>https://227wiki.eu.org/member/alice/</loc>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/member/chiharu/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/member/emma/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
+    </url>
+    <url>
+         <loc>https://227wiki.eu.org/member/haruka/</loc>
+         <lastmod>2025-12-24</lastmod>
+    </url>
+    <url>
+         <loc>https://227wiki.eu.org/member/iko/</loc>
+         <lastmod>2025-12-24</lastmod>
+    </url>
+    <url>
+         <loc>https://227wiki.eu.org/member/julie/</loc>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/member/kanae/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/member/luna/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
+    </url>
+    <url>
+         <loc>https://227wiki.eu.org/member/mana/</loc>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/member/mao/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/member/mei/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/member/mina/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
+    </url>
+    <url>
+         <loc>https://227wiki.eu.org/member/minami/</loc>
+         <lastmod>2025-12-24</lastmod>
+    </url>
+    <url>
+         <loc>https://227wiki.eu.org/member/mirei/</loc>
+         <lastmod>2025-12-24</lastmod>
+    </url>
+    <url>
+         <loc>https://227wiki.eu.org/member/misaki/</loc>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/member/mizuha/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/member/moe/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/member/nagomi/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/member/nao/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/member/oto/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/member/reina/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/member/rino/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/member/ruri/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/member/sally/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/member/satsuki/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/member/urara/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/member/uta/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/personal-bangumi/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/radio/fcradio/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/radio/warikirenai/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/album/1st/index-bd/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/album/1st/index-disc/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/album/1st/index-disc2/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/album/1st/song-1/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/album/1st/song-2/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/album/1st/song-3/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/album/1st/song-4/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/album/1st/song-5/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/album/2nd/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
+    </url>
+    <url>
+         <loc>https://227wiki.eu.org/songs/album/3rd/</loc>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/10th/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/10th/song-1/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/10th/song-2/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/10th/song-3/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/10th/song-4/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/10th/song-5/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/11th/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/11th/song-1/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/11th/song-2/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/11th/song-3/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/11th/song-4/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/11th/song-5/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/12th/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/12th/song-1/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/12th/song-3/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/12th/song-4/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/12th/song-5/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/13th/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/13th/song-1/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/13th/song-3/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/13th/song-4/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/13th/song-5/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
+    </url>
+    <url>
+         <loc>https://227wiki.eu.org/songs/single/14th/</loc>
+         <lastmod>2025-12-24</lastmod>
+    </url>
+    <url>
+         <loc>https://227wiki.eu.org/songs/single/14th/song-1/</loc>
+         <lastmod>2025-12-24</lastmod>
+    </url>
+    <url>
+         <loc>https://227wiki.eu.org/songs/single/14th/song-3/</loc>
+         <lastmod>2025-12-24</lastmod>
+    </url>
+    <url>
+         <loc>https://227wiki.eu.org/songs/single/14th/song-4/</loc>
+         <lastmod>2025-12-24</lastmod>
+    </url>
+    <url>
+         <loc>https://227wiki.eu.org/songs/single/14th/song-5/</loc>
+         <lastmod>2025-12-24</lastmod>
+    </url>
+    <url>
+         <loc>https://227wiki.eu.org/songs/single/15th/</loc>
+         <lastmod>2025-12-24</lastmod>
+    </url>
+    <url>
+         <loc>https://227wiki.eu.org/songs/single/15th/song-1/</loc>
+         <lastmod>2025-12-24</lastmod>
+    </url>
+    <url>
+         <loc>https://227wiki.eu.org/songs/single/15th/song-3/</loc>
+         <lastmod>2025-12-24</lastmod>
+    </url>
+    <url>
+         <loc>https://227wiki.eu.org/songs/single/15th/song-4/</loc>
+         <lastmod>2025-12-24</lastmod>
+    </url>
+    <url>
+         <loc>https://227wiki.eu.org/songs/single/15th/song-5/</loc>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/1st/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/1st/song-1/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/1st/song-2/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/1st/song-3/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/2nd/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/2nd/song-1/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/2nd/song-2/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/2nd/song-3/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/2nd/song-4/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/2nd/song-5/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/3rd/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/3rd/song-1/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/3rd/song-2/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/3rd/song-3/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/3rd/song-4/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/3rd/song-5/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/4th/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/4th/song-1/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/4th/song-2/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/4th/song-3/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/4th/song-4/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/4th/song-5/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/5th/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/5th/song-1/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/5th/song-2/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/5th/song-3/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/5th/song-4/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/5th/song-5/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/6th/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/6th/song-1/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/6th/song-2/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/6th/song-3/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/6th/song-4/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/6th/song-5/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/7th/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/7th/song-1/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/7th/song-2/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/7th/song-3/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/7th/song-4/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/7th/song-5/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/8th/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/8th/song-1/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/8th/song-2/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/8th/song-3/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/8th/song-4/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/8th/song-5/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/9th/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/9th/song-1/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/9th/song-2/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/9th/song-3/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/9th/song-4/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
     <url>
          <loc>https://227wiki.eu.org/songs/single/9th/song-5/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-12-24</lastmod>
     </url>
 </urlset>
