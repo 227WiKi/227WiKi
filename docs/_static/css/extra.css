@@ -177,7 +177,6 @@ span.mjpage__block>svg {
   margin-top: 4px;
 }
 
-/* --- 唱片/专辑卡片样式 (Discography) --- */
 .disc-grid {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
@@ -262,6 +261,110 @@ span.mjpage__block>svg {
   color: var(--md-default-fg-color--light);
   margin-top: 6px;
   opacity: 0.8;
+}
+
+.card-link {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 10;
+  cursor: pointer;
+}
+
+.live-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+
+  align-items: start;
+
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+@media screen and (max-width: 768px) {
+  .live-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.live-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+
+  background-color: var(--md-default-bg-color);
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 12px;
+  box-shadow: none !important;
+  padding-bottom: 12px;
+  overflow: hidden;
+  transition: all 0.3s ease;
+
+  width: 100%;
+}
+
+
+.live-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1) !important;
+  border-color: var(--md-accent-fg-color);
+  z-index: 2;
+}
+
+.live-card img {
+  width: 100%;
+  height: auto !important;
+  display: block;
+  margin: 0 !important;
+
+  box-shadow: none !important;
+  border-radius: 12px 12px 0 0 !important;
+  border-bottom: 1px solid var(--md-default-fg-color--lightest);
+}
+
+.live-info {
+  padding: 12px 15px 0 15px;
+  width: 100%;
+  text-align: left;
+}
+
+.live-date {
+  display: inline-block;
+  font-size: 12px;
+  font-weight: bold;
+  color: var(--md-accent-fg-color);
+  background-color: rgba(0, 145, 235, 0.08);
+  padding: 2px 6px;
+  border-radius: 4px;
+  margin-bottom: 6px;
+}
+
+.live-title {
+  display: block;
+  font-size: 15px;
+  font-weight: bold;
+  color: var(--md-default-fg-color);
+  line-height: 1.4;
+  margin-bottom: 4px;
+}
+
+.live-venue {
+  display: flex;
+  align-items: center;
+  font-size: 12px;
+  color: var(--md-default-fg-color--light);
+  margin-top: 4px;
+}
+
+.live-venue::before {
+  content: "📍";
+  margin-right: 4px;
+  font-size: 10px;
+  opacity: 0.7;
 }
 
 .card-link {
