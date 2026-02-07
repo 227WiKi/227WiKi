@@ -1,0 +1,30 @@
+[project]
+name = "227WiKi"
+version = "1.0.0"
+description = "A wiki for 22/7"
+authors = [
+    {name = "zzzhxxx", email = "zhxsend@gmail.com"},
+]
+dependencies = [
+    "mkdocs-material",
+    "mkdocs-glightbox",
+    "mkdocs-git-committers-plugin-2",
+    "mkdocs-git-revision-date-localized-plugin",
+    "mkdocs-macros-plugin",
+]
+requires-python = "==3.9.*"
+readme = "README.md"
+license = {text = "MIT"}
+
+
+[tool.pdm]
+distribution = false
+
+[tool.pdm.scripts]
+start = "mkdocs serve"
+build = "mkdocs build"
+
+[build-system]
+requires = ["pdm-backend"]
+build-backend = "pdm.backend"
+
