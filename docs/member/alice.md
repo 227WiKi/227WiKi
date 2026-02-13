@@ -3,7 +3,7 @@ title: 成员 - 黒崎ありす
 template: comment.html
 ---
 
-!!! julie-sig inline end "黒崎ありす"
+!!! general inline end "黒崎ありす"
 
     === "十六单"
     

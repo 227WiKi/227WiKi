@@ -3,7 +3,7 @@ title: 成员 - 桧山依子
 template: comment.html
 ---
 
-!!! julie-sig inline end "桧山依子"
+!!! general inline end "桧山依子"
 
     === "十六单"
     

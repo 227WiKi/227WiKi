@@ -3,7 +3,7 @@ title: 成员 - 三雲遥加
 template: comment.html
 ---
 
-!!! julie-sig inline end "三雲遥加"
+!!! general inline end "三雲遥加"
 
     === "十六单"
     

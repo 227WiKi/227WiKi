@@ -3,7 +3,7 @@ title: 成员 - 北原実咲
 template: comment.html
 ---
 
-!!! julie-sig inline end "北原実咲"
+!!! general inline end "北原実咲"
 
     === "十六单"
     

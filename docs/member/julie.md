@@ -3,7 +3,7 @@ title: 成员 - 吉沢珠璃
 template: comment.html
 ---
 
-!!! julie-sig inline end "吉沢珠璃"
+!!! general inline end "吉沢珠璃"
 
     === "十六单"
     

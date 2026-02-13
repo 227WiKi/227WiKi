@@ -3,7 +3,7 @@ title: 成员 - 折本美玲
 template: comment.html
 ---
 
-!!! julie-sig inline end "折本美玲"
+!!! general inline end "折本美玲"
 
     === "十六单"
     

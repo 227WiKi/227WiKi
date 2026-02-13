@@ -3,7 +3,7 @@ title: 成员 - 橘茉奈
 template: comment.html
 ---
 
-!!! julie-sig inline end "橘茉奈"
+!!! general inline end "橘茉奈"
 
     === "十六单"
     
