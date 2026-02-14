@@ -85,5 +85,6 @@ title: 22/7 计算中 - Season 2
 | 37 | 2020.12.12 | 22/7一句话恋爱电视剧选手权 前半战                    | [中字](https://www.bilibili.com/video/BV1CX4y1u72B){target=_blank} |
 | 38 | 2020.12.19 | 22/7一句话恋爱电视剧选手权 后半战                    | [中字](https://www.bilibili.com/video/BV1by4y1n7nM){target=_blank} |
 | 39 | 2020.12.26 | 解答关于22/7的疑问！那个为什么被剪掉了〜！？               | [中字](https://www.bilibili.com/video/BV1Lh411M7w2){target=_blank} |
+| 40 |  2021.1.1  | 正月特别节目 22/7红白歌合战                       | [中字](https://www.bilibili.com/video/BV1gV411t7p4){target=_blank} |
 
 
