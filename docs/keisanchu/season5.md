@@ -85,8 +85,8 @@ title: 22/7 计算中 - Season 5
 | 38 | 2023.12.16 | 谁最知识渊博!? 22/7中谁知道这个词？大奖赛 后半战  |    [中字](https://www.bilibili.com/video/BV1Mp4y1R7pv){target=_blank}    |
 | 39 | 2023.12.23 | 成员情感团结一体！全员一致选手权！前半战          |    [中字](https://www.bilibili.com/video/BV1764y1K7Hd){target=_blank}    |
 | 40 | 2023.12.30 | 成员情感团结一体！全员一致选手权！后半战          |    [中字](https://www.bilibili.com/video/BV1n64y1A7tx){target=_blank}    |
-| 41 |  2024.1.6  | 22/7新春试笔大会                    |    [中字](https://www.bilibili.com/video/BV1BT4y1b7Hs){target=_blank}    |
-| 42 | 2024.1.13  | 22/7新春试笔大会后半战                 |    [中字](https://www.bilibili.com/video/BV1Z6421G7Du){target=_blank}    |
+| 41 |  2024.1.6  | 22/7新春试笔大会 前半战                |    [中字](https://www.bilibili.com/video/BV1BT4y1b7Hs){target=_blank}    |
+| 42 | 2024.1.13  | 22/7新春试笔大会 后半战                |    [中字](https://www.bilibili.com/video/BV1Z6421G7Du){target=_blank}    |
 | 43 | 2024.1.20  | 擅自决定的2023年度最佳颁奖典礼 上           |    [中字](https://www.bilibili.com/video/BV1a6421u77o){target=_blank}    |
 | 44 | 2024.1.27  | 擅自决定的2023年度最佳颁奖典礼 下           |    [中字](https://www.bilibili.com/video/BV1RF4m177Nt){target=_blank}    |
 | 45 |  2024.2.3  | 小组对抗赛 情人节告白对决 前半战             |    [中字](https://www.bilibili.com/video/BV1q2421c7dc){target=_blank}    |
@@ -95,9 +95,9 @@ title: 22/7 计算中 - Season 5
 | 48 | 2024.2.24  | 锻炼表现力! 22/7彼此传达对抗赛 后半战        |    [中字](https://www.bilibili.com/video/BV1AZ421h7RS){target=_blank}    |
 | 49 |  2024.3.2  | "想和泷川美羽一起尝试的事"提案对抗赛 前半战       |    [中字](https://www.bilibili.com/video/BV1wi421d71d){target=_blank}    |
 | 50 |  2024.3.9  | "想和泷川美羽一起尝试的事"提案对抗赛 后半战       |    [中字](https://www.bilibili.com/video/BV1YH4y1H7Ly){target=_blank}    |
-| 51 | 2024.3.16  | 提问！工作人员的看法！22/7优点大排名1         |    [中字](https://www.bilibili.com/video/BV1wM4m197Uc){target=_blank}    |
-| 52 | 2024.3.23  | 提问！工作人员的看法！22/7优点大排名2         |    [中字](https://www.bilibili.com/video/BV1rp421C7CM){target=_blank}    |
-| 53 | 2024.3.30  | 提问！工作人员的看法！22/7优点大排名1 完结篇     |    [中字](https://www.bilibili.com/video/BV1rA4m1c71p){target=_blank}    |
+| 51 | 2024.3.16  | 提问！工作人员的看法！22/7优点大排名（1）       |    [中字](https://www.bilibili.com/video/BV1wM4m197Uc){target=_blank}    |
+| 52 | 2024.3.23  | 提问！工作人员的看法！22/7优点大排名（2）       |    [中字](https://www.bilibili.com/video/BV1rp421C7CM){target=_blank}    |
+| 53 | 2024.3.30  | 提问！工作人员的看法！22/7优点大排名 完结篇      |    [中字](https://www.bilibili.com/video/BV1rA4m1c71p){target=_blank}    |
 
 ## 幕后
 

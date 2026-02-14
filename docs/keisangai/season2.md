@@ -90,4 +90,4 @@ title: 22/7 计算外 - Season 2
 | 43 | 2026.1.24  | 三期生们初次登台 内幕大公开（下）       | [中字](https://www.bilibili.com/video/BV1HfFKzTEHc){target=_blank} |
 | 44 | 2026.1.31  | 向3期生传授！22/7HOW TO讲座！（上） | [中字](https://www.bilibili.com/video/BV1BxFQz4EX9){target=_blank} |
 | 45 |  2026.2.7  | 向3期生传授！22/7HOW TO讲座！（下） | [生肉](https://www.bilibili.com/video/BV1fjF4zxEfL){target=_blank} |
-| 46 | 2026.2.14  |                         |                      [生肉](){target=_blank}                       |
+| 46 | 2026.2.14  | 22/7三期生 运动能力德比（上）       | [生肉](https://www.bilibili.com/video/BV1QWZJBDEDE){target=_blank} |

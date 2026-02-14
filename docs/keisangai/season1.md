@@ -68,7 +68,7 @@ title: 22/7 计算外 - Season 1
 | 13 | 2024.7.13  | 22/7部活创立宣讲对决 前半战                | [中字](https://www.bilibili.com/video/BV1jf421B7oA){target=_blank} |
 | 14 | 2024.7.20  | 22/7部活创立宣讲对决 后半战                | [中字](https://www.bilibili.com/video/BV1ar421M7Jo){target=_blank} |
 | 15 | 2024.7.27  | 问答测试！22/7LIVE事件簿                | [中字](https://www.bilibili.com/video/BV1rjYPeWERz){target=_blank} |
-| 16 |  2024.8.3  | 团队对抗 谁是大画伯对决！ 前半战               | [中字](https://www.bilibili.com/video/BV15oeweVEPR){target=_blank} |
+| 16 |  2024.8.3  | 团队对抗 谁是大画伯对决！前半战                | [中字](https://www.bilibili.com/video/BV15oeweVEPR){target=_blank} |
 | 17 | 2024.8.10  | 团队对抗 谁是大画伯对决！后半战                | [中字](https://www.bilibili.com/video/BV1JApreaEPq){target=_blank} |
 | 18 | 2024.8.17  | 22/7一起组乐队吧（上）                   | [中字](https://www.bilibili.com/video/BV1xeWBeqEpz){target=_blank} |
 | 19 | 2024.8.24  | 22/7一起组乐队吧（下）                   | [中字](https://www.bilibili.com/video/BV1i7HteDEPw){target=_blank} |
