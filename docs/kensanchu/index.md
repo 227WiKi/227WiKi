@@ -29,3 +29,34 @@ title: 22/7检算中 - 简介
         box-shadow: 0 0px 0px 0 rgba(0,0,0,0), 0 0px 0px 0 rgba(0,0,0,0);
     }
 </style>
+
+!!! general inline end "22/7 检算中"
+
+		<a data-caption="海报" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/kensanchu/kensanchu_poster.jpg!compress"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/kensanchu/kensanchu_poster.jpg!preview" title="" width="100%" /></a>
+
+	--------
+
+	<b>节目名称:</b> 22/7 检算中
+
+	--------
+	
+	<b>节目译名:</b> 22/7 检算中
+
+	--------
+	
+	<b>放送时间:</b> 周六 23:00-23:30(UTC+9)
+
+	--------
+
+	<b>MC:</b> 三四郎（小宫浩信 / 相田周二）
+
+	--------
+
+	<b>节目状态:</b> 已完结
+
+	--------
+
+	<b>播放平台:</b> BS11/TOKYO MX
+
+!!! note
+    本页为节目简介。各集列表请从左侧导航栏选择对应季度查看
