@@ -215,6 +215,11 @@ nav:
       - 简介: kensanchu/index.md
       - 节目列表: kensanchu/kensanchu.md
 
+  - 计算外:
+      - 简介: keisangai/index.md
+      - Season 1: keisangai/season1.md
+      - Season 2: keisangai/season2.md
+
   - 广播:
       - 除不尽广播:
           - 简介: radio/warikirenai/index.md
