@@ -103,32 +103,98 @@ document.addEventListener("DOMContentLoaded", function () {
         }
     ];
     function getAvatar(name) {
-        const member = artistList.find(item => item.artiname === name);
-        return member.artiimag;
+        const member = artistList.find(function (item) {
+            return item.artiname === name;
+        });
+        return member ? member.artiimag : "https://blog.227wiki.eu.org/img/404.png";
     }
-    const container = document.getElementById('js-blog-list');
-    if (!container)
-        return;
-    fetch(HEXO_API_URL)
-        .then(response => response.json())
-        .then(posts => {
-            let html = "";
-            posts.forEach(post => {
+
+    function getVisibleCount() {
+        return window.matchMedia("(max-width: 768px)").matches ? 2 : 4;
+    }
+
+    function escapeHtml(text) {
+        return String(text)
+            .replace(/&/g, "&amp;")
+            .replace(/</g, "&lt;")
+            .replace(/>/g, "&gt;")
+            .replace(/\"/g, "&quot;")
+            .replace(/'/g, "&#039;");
+    }
+
+    function renderPosts(container, posts) {
+        const limit = getVisibleCount();
+        const html = posts
+            .slice(0, limit)
+            .map(function (post) {
                 const avatarUrl = getAvatar(post.author);
                 const thumbnailUrl = post.cover || "https://blog.227wiki.eu.org/img/404.png";
-                html += `<a class="index_blog_entry" href="${post.link}" target="_blank">
-                            <span class="index_blog_entry_icon"><img src="${avatarUrl}" alt="${post.author}"></span>
-                            <p class="index_blog_entry_name">${post.author}</p>
-                            <div class="index_blog_entry_img"><img src="${thumbnailUrl}" loading="lazy"></div>
-                            <h3 class="index_blog_entry_title">${post.title}</h3>
-                            <span class="index_blog_entry_date">${post.date}</span>
-                        </a>`;
-            });
-            container.innerHTML = html;
-            console.log("BLOG LOAD SUCCESSFULLY");
+                return [
+                    '<a class="hwv2-blog-card hwv2-reveal" href="' + escapeHtml(post.link) + '" target="_blank" rel="noopener noreferrer">',
+                    '<div class="hwv2-blog-card-chrome">',
+                    '<span class="hwv2-blog-dot"><img src="' + escapeHtml(avatarUrl) + '" alt="' + escapeHtml(post.author) + ' 头像" loading="lazy"></span>',
+                    '<span class="hwv2-blog-bar">' + escapeHtml(post.author) + '</span>',
+                    '</div>',
+                    '<div class="hwv2-blog-cover"><img src="' + escapeHtml(thumbnailUrl) + '" alt="' + escapeHtml(post.title) + '" loading="lazy"></div>',
+                    '<div class="hwv2-blog-meta">',
+                    '<h3>' + escapeHtml(post.title) + '</h3>',
+                    '<time>' + escapeHtml(post.date) + '</time>',
+                    '</div>',
+                    '</a>'
+                ].join("");
+            })
+            .join("");
+        container.innerHTML = html;
+    }
+
+    function renderFallback(container) {
+        const count = getVisibleCount();
+        const html = Array.from({ length: count })
+            .map(function (_, idx) {
+                return [
+                    '<article class="hwv2-blog-card hwv2-blog-card--placeholder" aria-label="博客占位卡片">',
+                    '<div class="hwv2-blog-card-chrome">',
+                    '<span class="hwv2-blog-dot" aria-hidden="true"></span>',
+                    '<span class="hwv2-blog-bar">更新中</span>',
+                    '</div>',
+                    '<div class="hwv2-blog-cover" aria-hidden="true"></div>',
+                    '<div class="hwv2-blog-meta">',
+                    '<h3>博客内容加载中</h3>',
+                    '<time>placeholder-' + (idx + 1) + '</time>',
+                    '</div>',
+                    '</article>'
+                ].join("");
+            })
+            .join("");
+        container.innerHTML = html;
+    }
+
+    const container = document.getElementById("js-blog-list");
+    if (!container) {
+        return;
+    }
+
+    fetch(HEXO_API_URL)
+        .then(function (response) {
+            if (!response.ok) {
+                throw new Error("Failed to load posts");
+            }
+            return response.json();
         })
-        .catch(err => {
-            console.log("Load blog failed: ", err);
-            container.innerHTML = '<p style="text-align:center;">Loading Error</p>';
+        .then(function (posts) {
+            if (!Array.isArray(posts) || posts.length === 0) {
+                renderFallback(container);
+                return;
+            }
+            renderPosts(container, posts);
+        })
+        .catch(function () {
+            renderFallback(container);
         });
+
+    window.addEventListener("resize", function () {
+        if (container.children.length > 0 && container.querySelector(".hwv2-blog-card--placeholder")) {
+            renderFallback(container);
+        }
+    });
 });
