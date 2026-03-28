@@ -1,112 +1,35 @@
 document.addEventListener("DOMContentLoaded", function () {
     const HEXO_API_URL = "https://blog.227wiki.eu.org/api/posts.json";
-    const artistList = [
-        {
-            "articode": "a1",
-            "artiname": "天城サリー",
-            "artiimag": "https://nananiji.zzzhxxx.top/assets/photo/avatar/sally.jpg!avatar"
-        },
-        {
-            "articode": "a12",
-            "artiname": "河瀬詩",
-            "artiimag": "https://nananiji.zzzhxxx.top/assets/photo/avatar/uta.jpg!avatar"
-        },
-        {
-            "articode": "a4",
-            "artiname": "西條和",
-            "artiimag": "https://nananiji.zzzhxxx.top/assets/photo/avatar/nagomi.jpg!avatar"
-        },
-        {
-            "articode": "a6",
-            "artiname": "涼花萌",
-            "artiimag": "https://nananiji.zzzhxxx.top/assets/photo/avatar/moe.jpg!avatar"
-        },
-        {
-            "articode": "a13",
-            "artiname": "相川奈央",
-            "artiimag": "https://nananiji.zzzhxxx.top/assets/photo/avatar/nao.jpg!avatar"
-        },
-        {
-            "articode": "a14",
-            "artiname": "麻丘真央",
-            "artiimag": "https://nananiji.zzzhxxx.top/assets/photo/avatar/mao.jpg!avatar"
-        },
-        {
-            "articode": "a15",
-            "artiname": "雨夜音",
-            "artiimag": "https://nananiji.zzzhxxx.top/assets/photo/avatar/oto.jpg!avatar"
-        },
-        {
-            "articode": "a16",
-            "artiname": "清井美那",
-            "artiimag": "https://nananiji.zzzhxxx.top/assets/photo/avatar/mina.jpg!avatar"
-        },
-        {
-            "articode": "a17",
-            "artiname": "椎名桜月",
-            "artiimag": "https://nananiji.zzzhxxx.top/assets/photo/avatar/satsuki.jpg!avatar"
-        },
-        {
-            "articode": "a18",
-            "artiname": "四条月",
-            "artiimag": "https://nananiji.zzzhxxx.top/assets/photo/avatar/luna.jpg!avatar"
-        },
-        {
-            "articode": "a19",
-            "artiname": "月城咲舞",
-            "artiimag": "https://nananiji.zzzhxxx.top/assets/photo/avatar/emma.jpg!avatar"
-        },
-        {
-            "articode": "a20",
-            "artiname": "望月りの",
-            "artiimag": "https://nananiji.zzzhxxx.top/assets/photo/avatar/rino.jpg!avatar"
-        },
-        {
-            "articode": "a21",
-            "artiname": "吉沢珠璃",
-            "artiimag": "https://nananiji.zzzhxxx.top/assets/photo/avatar/julie.jpg!avatar"
-        },
-        {
-            "articode": "a22",
-            "artiname": "折本美玲",
-            "artiimag": "https://nananiji.zzzhxxx.top/assets/photo/avatar/mirei.jpg!avatar"
-        },
-        {
-            "articode": "a23",
-            "artiname": "北原実咲",
-            "artiimag": "https://nananiji.zzzhxxx.top/assets/photo/avatar/misaki.jpg!avatar"
-        },
-        {
-            "articode": "a24",
-            "artiname": "黒崎ありす",
-            "artiimag": "https://nananiji.zzzhxxx.top/assets/photo/avatar/alice.jpg!avatar"
-        },
-        {
-            "articode": "a25",
-            "artiname": "橘茉奈",
-            "artiimag": "https://nananiji.zzzhxxx.top/assets/photo/avatar/mana.jpg!avatar"
-        },
-        {
-            "articode": "a26",
-            "artiname": "桧山依子",
-            "artiimag": "https://nananiji.zzzhxxx.top/assets/photo/avatar/iko.jpg!avatar"
-        },
-        {
-            "articode": "a27",
-            "artiname": "三雲遥加",
-            "artiimag": "https://nananiji.zzzhxxx.top/assets/photo/avatar/haruka.jpg!avatar"
-        },
-        {
-            "articode": "a28",
-            "artiname": "南伊織",
-            "artiimag": "https://nananiji.zzzhxxx.top/assets/photo/avatar/minami.jpg!avatar"
+    const DEFAULT_AVATAR_URL = "https://blog.227wiki.eu.org/img/404.png";
+
+    function resolvePostAvatar(post) {
+        if (!window.AvatarMap || typeof window.AvatarMap.resolveAvatar !== "function") {
+            return DEFAULT_AVATAR_URL;
         }
-    ];
-    function getAvatar(name) {
-        const member = artistList.find(function (item) {
-            return item.artiname === name;
-        });
-        return member ? member.artiimag : "https://blog.227wiki.eu.org/img/404.png";
+
+        var slugCandidates = [
+            post.author_slug,
+            post.authorSlug,
+            post.authorId,
+            post.category_slug,
+            post.categorySlug,
+            post.slug
+        ];
+
+        for (var i = 0; i < slugCandidates.length; i += 1) {
+            var slug = slugCandidates[i];
+            if (!slug) {
+                continue;
+            }
+
+            var bySlug = window.AvatarMap.resolveAvatar({ slug: slug });
+            if (bySlug) {
+                return bySlug;
+            }
+        }
+
+        var byName = window.AvatarMap.resolveAvatar({ name: post.author });
+        return byName || DEFAULT_AVATAR_URL;
     }
 
     function getVisibleCount() {
@@ -127,7 +50,7 @@ document.addEventListener("DOMContentLoaded", function () {
         const html = posts
             .slice(0, limit)
             .map(function (post) {
-                const avatarUrl = getAvatar(post.author);
+                const avatarUrl = resolvePostAvatar(post);
                 const thumbnailUrl = post.cover || "https://blog.227wiki.eu.org/img/404.png";
                 return [
                     '<a class="hwv2-blog-card hwv2-reveal" href="' + escapeHtml(post.link) + '" target="_blank" rel="noopener noreferrer">',
@@ -174,22 +97,32 @@ document.addEventListener("DOMContentLoaded", function () {
         return;
     }
 
-    fetch(HEXO_API_URL)
-        .then(function (response) {
-            if (!response.ok) {
-                throw new Error("Failed to load posts");
-            }
-            return response.json();
-        })
-        .then(function (posts) {
-            if (!Array.isArray(posts) || posts.length === 0) {
-                renderFallback(container);
-                return;
-            }
-            renderPosts(container, posts);
-        })
+    var avatarReady = window.AvatarMap && typeof window.AvatarMap.loadMembers === "function"
+        ? window.AvatarMap.loadMembers()
+        : Promise.resolve();
+
+    avatarReady
         .catch(function () {
-            renderFallback(container);
+            return null;
+        })
+        .then(function () {
+            return fetch(HEXO_API_URL)
+                .then(function (response) {
+                    if (!response.ok) {
+                        throw new Error("Failed to load posts");
+                    }
+                    return response.json();
+                })
+                .then(function (posts) {
+                    if (!Array.isArray(posts) || posts.length === 0) {
+                        renderFallback(container);
+                        return;
+                    }
+                    renderPosts(container, posts);
+                })
+                .catch(function () {
+                    renderFallback(container);
+                });
         });
 
     window.addEventListener("resize", function () {

@@ -41,7 +41,7 @@
 
   .hwv2-top-actions nav a,
   .hwv2-mobile-nav a {
-    color: #008cd2 !important;
+    color: #152542 !important;
   }
 
   .hwv2-top-actions nav a:hover,
@@ -49,6 +49,39 @@
   .hwv2-mobile-nav a:hover,
   .hwv2-mobile-nav a:focus-visible {
     color: #008cd2 !important;
+  }
+
+  .hwv2-footer a:hover,
+  .hwv2-footer a:focus-visible {
+    color: #008cd2 !important;
+  }
+
+  .hwv2-hero-badge,
+  .hwv2-hero-badge span {
+    color: #008cd2 !important;
+  }
+
+  .hwv2-member-card,
+  .hwv2-blog-card {
+    transition:
+      box-shadow 0.24s ease,
+      transform 0.24s ease,
+      border-color 0.24s ease;
+    will-change: box-shadow, transform;
+  }
+
+  .hwv2-member-card:hover,
+  .hwv2-member-card:focus-visible {
+    box-shadow: 0 10px 24px rgba(0, 140, 210, 0.12) !important;
+    transform: translateY(-1px);
+    border-color: rgba(0, 140, 210, 0.3) !important;
+  }
+
+  .hwv2-blog-card:hover,
+  .hwv2-blog-card:focus-within {
+    box-shadow: 0 12px 28px rgba(0, 140, 210, 0.13) !important;
+    transform: translateY(-2px);
+    border-color: rgba(0, 140, 210, 0.3) !important;
   }
 
   .hwv2-members .hwv2-tab,

@@ -22,21 +22,37 @@ document.addEventListener("DOMContentLoaded", function () {
             { name: "桧山依子", role: "三期生", slug: "iko" }
         ],
         graduated: [
-            { name: "花川芽衣", role: "斎藤ニコル 役", slug: "mei", avatar: "https://nananiji.zzzhxxx.top/assets/photo/avatar/mei.jpg!avatar" },
-            { name: "海乃るり", role: "戸田ジュン 役", slug: "ruri", avatar: "https://nananiji.zzzhxxx.top/assets/photo/avatar/ruri.jpg!avatar" },
-            { name: "白沢かなえ", role: "丸山あかね 役", slug: "kanae", avatar: "https://nananiji.zzzhxxx.top/assets/photo/avatar/kanae.jpg!avatar" },
-            { name: "清井美那", role: "永峰楓 役", slug: "mina", avatar: "https://nananiji.zzzhxxx.top/assets/photo/avatar/mina.jpg!avatar" },
-            { name: "四条月", role: "一之瀬蛍 役", slug: "luna", avatar: "https://nananiji.zzzhxxx.top/assets/photo/avatar/luna.jpg!avatar" },
-            { name: "帆風千春", role: "佐藤麗華 役", slug: "chiharu", avatar: "https://nananiji.zzzhxxx.top/assets/photo/avatar/chiharu.jpg!avatar" },
-            { name: "倉岡水巴", role: "河野都 役", slug: "mizuha", avatar: "https://nananiji.zzzhxxx.top/assets/photo/avatar/mizuha.jpg!avatar" },
-            { name: "雨夜音", role: "八神叶愛 役", slug: "oto", avatar: "https://nananiji.zzzhxxx.top/assets/photo/avatar/oto.jpg!avatar" },
-            { name: "涼花萌", role: "神木みかみ 役", slug: "moe", avatar: "https://nananiji.zzzhxxx.top/assets/photo/avatar/moe.jpg!avatar" },
-            { name: "高辻麗", role: "東条悠希 役", slug: "urara", avatar: "https://nananiji.zzzhxxx.top/assets/photo/avatar/urara.jpg!avatar" },
-            { name: "武田愛奈", role: "柊つぼみ 役", slug: "aina", avatar: "https://nananiji.zzzhxxx.top/assets/photo/avatar/aina.jpg!avatar" },
-            { name: "宮瀬玲奈", role: "立川絢香 役", slug: "reina", avatar: "https://nananiji.zzzhxxx.top/assets/photo/avatar/reina.jpg!avatar" },
-            { name: "西條和", role: "滝川みう 役", slug: "nagomi", avatar: "https://nananiji.zzzhxxx.top/assets/photo/avatar/nagomi.jpg!avatar" }
+            { name: "花川芽衣", role: "斎藤ニコル 役", slug: "mei" },
+            { name: "海乃るり", role: "戸田ジュン 役", slug: "ruri" },
+            { name: "白沢かなえ", role: "丸山あかね 役", slug: "kanae" },
+            { name: "清井美那", role: "永峰楓 役", slug: "mina" },
+            { name: "四条月", role: "一之瀬蛍 役", slug: "luna" },
+            { name: "帆風千春", role: "佐藤麗華 役", slug: "chiharu" },
+            { name: "倉岡水巴", role: "河野都 役", slug: "mizuha" },
+            { name: "雨夜音", role: "八神叶愛 役", slug: "oto" },
+            { name: "涼花萌", role: "神木みかみ 役", slug: "moe" },
+            { name: "高辻麗", role: "東条悠希 役", slug: "urara" },
+            { name: "武田愛奈", role: "柊つぼみ 役", slug: "aina" },
+            { name: "宮瀬玲奈", role: "立川絢香 役", slug: "reina" },
+            { name: "西條和", role: "滝川みう 役", slug: "nagomi" }
         ]
     };
+
+    function resolveMemberAvatar(member, status) {
+        if (window.AvatarMap && typeof window.AvatarMap.resolveAvatar === "function") {
+            return window.AvatarMap.resolveAvatar({
+                slug: member.slug,
+                name: member.name,
+                status: status
+            });
+        }
+
+        if (status === "graduated") {
+            return "https://nananiji.zzzhxxx.top/assets/photo/avatar/" + member.slug + ".jpg!avatar";
+        }
+
+        return "https://res.227wiki.eu.org/photo/avatar/16th/" + member.slug + ".jpg";
+    }
 
     function renderMembers(groupName, containerId) {
         const container = document.getElementById(containerId);
@@ -44,7 +60,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
         const html = memberGroups[groupName]
             .map(function (member) {
-                var avatarUrl = member.avatar && member.avatar.length ? member.avatar : 'https://res.227wiki.eu.org/photo/avatar/16th/' + member.slug + '.jpg';
+                var avatarUrl = resolveMemberAvatar(member, groupName);
                 return [
                     '<a class="hwv2-member-card hwv2-reveal" href="/member/' + member.slug + '">',
                     '<span class="hwv2-member-avatar"><img src="' + avatarUrl + '" alt="' + member.name + ' 头像" loading="lazy"></span>',
@@ -60,9 +76,17 @@ document.addEventListener("DOMContentLoaded", function () {
         container.innerHTML = html;
     }
 
-    renderMembers("active", "hwv2-members-active");
-    renderMembers("third", "hwv2-members-third");
-    renderMembers("graduated", "hwv2-members-graduated");
+    function renderAllMemberGroups() {
+        renderMembers("active", "hwv2-members-active");
+        renderMembers("third", "hwv2-members-third");
+        renderMembers("graduated", "hwv2-members-graduated");
+    }
+
+    if (window.AvatarMap && typeof window.AvatarMap.loadMembers === "function") {
+        window.AvatarMap.loadMembers().finally(renderAllMemberGroups);
+    } else {
+        renderAllMemberGroups();
+    }
 
     const tabButtons = Array.from(document.querySelectorAll(".hwv2-tab"));
     const tabPanels = Array.from(document.querySelectorAll(".hwv2-panel"));

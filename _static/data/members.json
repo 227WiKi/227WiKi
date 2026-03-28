@@ -1,0 +1,34 @@
+{
+  "members": [
+    { "slug": "sally", "name": "天城サリー", "status": "active" },
+    { "slug": "nao", "name": "相川奈央", "status": "active" },
+    { "slug": "emma", "name": "月城咲舞", "status": "active" },
+    { "slug": "uta", "name": "河瀬詩", "status": "active" },
+    { "slug": "mao", "name": "麻丘真央", "status": "active" },
+    { "slug": "satsuki", "name": "椎名桜月", "status": "active" },
+    { "slug": "rino", "name": "望月りの", "status": "active" },
+
+    { "slug": "julie", "name": "吉沢珠璃", "status": "third" },
+    { "slug": "alice", "name": "黒崎ありす", "status": "third" },
+    { "slug": "haruka", "name": "三雲遥加", "status": "third" },
+    { "slug": "mirei", "name": "折本美玲", "status": "third" },
+    { "slug": "mana", "name": "橘茉奈", "status": "third" },
+    { "slug": "minami", "name": "南伊織", "status": "third" },
+    { "slug": "misaki", "name": "北原実咲", "status": "third" },
+    { "slug": "iko", "name": "桧山依子", "status": "third" },
+
+    { "slug": "mei", "name": "花川芽衣", "status": "graduated" },
+    { "slug": "ruri", "name": "海乃るり", "status": "graduated" },
+    { "slug": "kanae", "name": "白沢かなえ", "status": "graduated" },
+    { "slug": "mina", "name": "清井美那", "status": "graduated" },
+    { "slug": "luna", "name": "四条月", "status": "graduated" },
+    { "slug": "chiharu", "name": "帆風千春", "status": "graduated" },
+    { "slug": "mizuha", "name": "倉岡水巴", "status": "graduated" },
+    { "slug": "oto", "name": "雨夜音", "status": "graduated" },
+    { "slug": "moe", "name": "涼花萌", "status": "graduated" },
+    { "slug": "urara", "name": "高辻麗", "status": "graduated" },
+    { "slug": "aina", "name": "武田愛奈", "status": "graduated" },
+    { "slug": "reina", "name": "宮瀬玲奈", "status": "graduated" },
+    { "slug": "nagomi", "name": "西條和", "status": "graduated" }
+  ]
+}
