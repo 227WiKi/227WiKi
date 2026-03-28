@@ -9014,7 +9014,6 @@
 
 
                 
-
 <div class="rellax page_obj_01" data-rellax-speed="1">
   <img class="backg" src="https://nananiji.zzzhxxx.top/assets/obj_01.svg" width="31" height="41" alt="">
 </div>
@@ -9071,6 +9070,38 @@
 </div>
 <style>
   /* @group obj */
+
+  /* Keep decorative geometry behind content and block interaction */
+  .md-main {
+    position: relative;
+    isolation: isolate;
+  }
+
+  .rellax[class*="page_obj_"],
+  .rellax[class*="page_obj_"] img {
+    z-index: -1 !important;
+    pointer-events: none !important;
+    -webkit-user-select: none;
+    user-select: none;
+  }
+
+  .md-main__inner,
+  .md-content,
+  .md-content__inner,
+  .md-typeset,
+  #__comments,
+  .giscus,
+  .md-typeset .admonition,
+  .md-typeset details,
+  .md-typeset table,
+  .md-typeset img,
+  .md-typeset ul,
+  .md-typeset ol,
+  .md-typeset li,
+  .md-typeset p {
+    position: relative;
+    z-index: 3;
+  }
 
   .rellax {
     -ms-filter: blur(4px);
@@ -9314,126 +9345,162 @@
     transition-duration: 0s;
   }
   .page_obj_01 img:hover {
-    box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0), 0 0px 0px 0 rgba(0, 0, 0, 0);
+    box-shadow:
+      0 0px 0px 0 rgba(0, 0, 0, 0),
+      0 0px 0px 0 rgba(0, 0, 0, 0);
   }
   .page_obj_02 img {
     box-shadow: 0 0px 0px rgb(0 0 0 / 0%);
     transition-duration: 0s;
   }
   .page_obj_02 img:hover {
-    box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0), 0 0px 0px 0 rgba(0, 0, 0, 0);
+    box-shadow:
+      0 0px 0px 0 rgba(0, 0, 0, 0),
+      0 0px 0px 0 rgba(0, 0, 0, 0);
   }
   .page_obj_03 img {
     box-shadow: 0 0px 0px rgb(0 0 0 / 0%);
     transition-duration: 0s;
   }
   .page_obj_03 img:hover {
-    box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0), 0 0px 0px 0 rgba(0, 0, 0, 0);
+    box-shadow:
+      0 0px 0px 0 rgba(0, 0, 0, 0),
+      0 0px 0px 0 rgba(0, 0, 0, 0);
   }
   .page_obj_04 img {
     box-shadow: 0 0px 0px rgb(0 0 0 / 0%);
     transition-duration: 0s;
   }
   .page_obj_05 img:hover {
-    box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0), 0 0px 0px 0 rgba(0, 0, 0, 0);
+    box-shadow:
+      0 0px 0px 0 rgba(0, 0, 0, 0),
+      0 0px 0px 0 rgba(0, 0, 0, 0);
   }
   .page_obj_05 img {
     box-shadow: 0 0px 0px rgb(0 0 0 / 0%);
     transition-duration: 0s;
   }
   .page_obj_05 img:hover {
-    box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0), 0 0px 0px 0 rgba(0, 0, 0, 0);
+    box-shadow:
+      0 0px 0px 0 rgba(0, 0, 0, 0),
+      0 0px 0px 0 rgba(0, 0, 0, 0);
   }
   .page_obj_06 img {
     box-shadow: 0 0px 0px rgb(0 0 0 / 0%);
     transition-duration: 0s;
   }
   .page_obj_06 img:hover {
-    box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0), 0 0px 0px 0 rgba(0, 0, 0, 0);
+    box-shadow:
+      0 0px 0px 0 rgba(0, 0, 0, 0),
+      0 0px 0px 0 rgba(0, 0, 0, 0);
   }
   .page_obj_07 img {
     box-shadow: 0 0px 0px rgb(0 0 0 / 0%);
     transition-duration: 0s;
   }
   .page_obj_07 img:hover {
-    box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0), 0 0px 0px 0 rgba(0, 0, 0, 0);
+    box-shadow:
+      0 0px 0px 0 rgba(0, 0, 0, 0),
+      0 0px 0px 0 rgba(0, 0, 0, 0);
   }
   .page_obj_08 img {
     box-shadow: 0 0px 0px rgb(0 0 0 / 0%);
     transition-duration: 0s;
   }
   .page_obj_08 img:hover {
-    box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0), 0 0px 0px 0 rgba(0, 0, 0, 0);
+    box-shadow:
+      0 0px 0px 0 rgba(0, 0, 0, 0),
+      0 0px 0px 0 rgba(0, 0, 0, 0);
   }
   .page_obj_09 img {
     box-shadow: 0 0px 0px rgb(0 0 0 / 0%);
     transition-duration: 0s;
   }
   .page_obj_09 img:hover {
-    box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0), 0 0px 0px 0 rgba(0, 0, 0, 0);
+    box-shadow:
+      0 0px 0px 0 rgba(0, 0, 0, 0),
+      0 0px 0px 0 rgba(0, 0, 0, 0);
   }
   .page_obj_10 img {
     box-shadow: 0 0px 0px rgb(0 0 0 / 0%);
     transition-duration: 0s;
   }
   .page_obj_10 img:hover {
-    box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0), 0 0px 0px 0 rgba(0, 0, 0, 0);
+    box-shadow:
+      0 0px 0px 0 rgba(0, 0, 0, 0),
+      0 0px 0px 0 rgba(0, 0, 0, 0);
   }
   .page_obj_11 img {
     box-shadow: 0 0px 0px rgb(0 0 0 / 0%);
     transition-duration: 0s;
   }
   .page_obj_11 img:hover {
-    box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0), 0 0px 0px 0 rgba(0, 0, 0, 0);
+    box-shadow:
+      0 0px 0px 0 rgba(0, 0, 0, 0),
+      0 0px 0px 0 rgba(0, 0, 0, 0);
   }
   .page_obj_12 img {
     box-shadow: 0 0px 0px rgb(0 0 0 / 0%);
     transition-duration: 0s;
   }
   .page_obj_12 img:hover {
-    box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0), 0 0px 0px 0 rgba(0, 0, 0, 0);
+    box-shadow:
+      0 0px 0px 0 rgba(0, 0, 0, 0),
+      0 0px 0px 0 rgba(0, 0, 0, 0);
   }
   .page_obj_13 img {
     box-shadow: 0 0px 0px rgb(0 0 0 / 0%);
     transition-duration: 0s;
   }
   .page_obj_13 img:hover {
-    box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0), 0 0px 0px 0 rgba(0, 0, 0, 0);
+    box-shadow:
+      0 0px 0px 0 rgba(0, 0, 0, 0),
+      0 0px 0px 0 rgba(0, 0, 0, 0);
   }
   .page_obj_14 img {
     box-shadow: 0 0px 0px rgb(0 0 0 / 0%);
     transition-duration: 0s;
   }
   .page_obj_14 img:hover {
-    box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0), 0 0px 0px 0 rgba(0, 0, 0, 0);
+    box-shadow:
+      0 0px 0px 0 rgba(0, 0, 0, 0),
+      0 0px 0px 0 rgba(0, 0, 0, 0);
   }
   .page_obj_15 img {
     box-shadow: 0 0px 0px rgb(0 0 0 / 0%);
     transition-duration: 0s;
   }
   .page_obj_15 img:hover {
-    box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0), 0 0px 0px 0 rgba(0, 0, 0, 0);
+    box-shadow:
+      0 0px 0px 0 rgba(0, 0, 0, 0),
+      0 0px 0px 0 rgba(0, 0, 0, 0);
   }
   .page_obj_16 img {
     box-shadow: 0 0px 0px rgb(0 0 0 / 0%);
     transition-duration: 0s;
   }
   .page_obj_16 img:hover {
-    box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0), 0 0px 0px 0 rgba(0, 0, 0, 0);
+    box-shadow:
+      0 0px 0px 0 rgba(0, 0, 0, 0),
+      0 0px 0px 0 rgba(0, 0, 0, 0);
   }
   .page_obj_17 img {
     box-shadow: 0 0px 0px rgb(0 0 0 / 0%);
     transition-duration: 0s;
   }
   .page_obj_17 img:hover {
-    box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0), 0 0px 0px 0 rgba(0, 0, 0, 0);
+    box-shadow:
+      0 0px 0px 0 rgba(0, 0, 0, 0),
+      0 0px 0px 0 rgba(0, 0, 0, 0);
   }
   .page_obj_18 img {
     box-shadow: 0 0px 0px rgb(0 0 0 / 0%);
     transition-duration: 0s;
   }
   .page_obj_18 img:hover {
-    box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0), 0 0px 0px 0 rgba(0, 0, 0, 0);
+    box-shadow:
+      0 0px 0px 0 rgba(0, 0, 0, 0),
+      0 0px 0px 0 rgba(0, 0, 0, 0);
   }
 </style>
 <script>
@@ -9465,12 +9532,13 @@
         var frame = document.querySelector(".giscus-frame");
         frame.contentWindow.postMessage(
           { giscus: { setConfig: { theme } } },
-          "https://giscus.app"
+          "https://giscus.app",
         );
       }
     });
   });
 </script>
+
 
               </article>
             </div>
