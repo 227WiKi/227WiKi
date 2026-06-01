@@ -44,10 +44,29 @@ nav:
           - 花川芽衣(椛島光): member/mei.md
   - Live:
       - 索引: live/index.md
-      - Anniversary Live 2020: live/Anniv20.md
-      - "11": live/11.md
-      - Mission Paradise: live/mp.md
-      - Anniversary Live 2021: live/Anniv21.md
+      - 2018:
+          - 22/7 割り切れないライブ ～シャンプーの匂いがした～: live/2018/2018-warikirenai-live-shampoo.md
+          - 3rdシングル「理解者」発売記念 VR LIVE: live/2018/2018-rikaisha-release-vr-live.md
+          - 22/7 JAM Live 2018: live/2018/2018-jam-live.md
+      - 2019:
+          - ナナニジフェス 2019: live/2019/2019-nananiji-fes.md
+          - リスアニ！LIVE BEIJING 2019: live/2019/2019-lisani-live-beijing.md
+          - JAM EXPO 2019 ～ブルーベリーステージ～: live/2019/2019-jam-expo-blueberry-stage.md
+          - 22/7 Birthday Event 2019: live/2019/2019-birthday-event.md
+      - 2020:
+          - NewYear Premium Party 2020: live/2020/2020-newyear-premium-party.md
+          - 22/7 5thシングルムズイ発売記念スペシャル無観客ライブ: live/2020/2020-muzui-release-special-live.md
+          - JAM ONLINE FESTIVAL 2020 ～パープルステージ～: live/2020/2020-jam-online-festival-purple-stage.md
+          - 22/7 Anniversary Live 2020: live/2020/2020-anniversary-live.md
+          - TOKYO IDOL FESTIVAL オンライン 2020: live/2020/2020-tif-online.md
+          - 22/7 LIVE ～11（イレブン）～: live/2020/2020-live-11.md
+      - 2021:
+          - TVアニメ「22/7」スペシャルイベント Mission Paradise: live/2021/2021-mission-paradise.md
+      # - 2022:
+      # - 2023:
+      # - 2024:
+      # - 2025:
+      # - 2026:
   - 歌曲:
       - 索引: songs/index.md
       - 单曲:
@@ -321,6 +340,7 @@ plugins:
         - en
       separator: '[\s\-\.]+'
   - macros
+#   *****************************************
   - git-committers:
       repository: 227WiKi/227WiKi
       branch: master
@@ -339,6 +359,7 @@ plugins:
       draggable: true
       auto_caption: true
       caption_position: bottom
+#   *****************************************
 extra_css:
   - "_static/css/extra.css"
   - "_static/css/glightbox.min.css"
