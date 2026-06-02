@@ -27,7 +27,7 @@ template: comment.html
 
 ## 信息
 
-22/7 Birthday Event 2019 是22/7于2019年12月24日在Zepp DiverCity (TOKYO)举办的活动，影像收录在第5张单曲[ムズイ]限定盘Type-B的特典DVD(/songs/single/5th/)。
+22/7 Birthday Event 2019 是22/7于2019年12月24日在Zepp DiverCity (TOKYO)举办的活动，影像收录在第5张单曲[ムズイ]限定盘Type-B的特典DVD。
 
 ## 曲目表
 
