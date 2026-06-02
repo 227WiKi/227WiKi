@@ -90,6 +90,12 @@ template: comment.html
 
     [:pack-bili-tv: B站观看](https://www.bilibili.com/video/BV1yQ4y1u7qP){ .md-button .md-button--primary }
 
+=== "Making 生肉"
+
+    <iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=1354107932&bvid=BV12z421U7pa&cid=1529034317&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"></iframe>
+
+    [:pack-bili-tv: B站观看](https://www.bilibili.com/video/BV12z421U7pa){ .md-button .md-button--primary }
+
 ## 参考
 
 - [官方 Special Site](https://nanabunnonijyuuni-mobile.com/s/n110/page/7th-birthday?ima=0000&link=ROBO004)

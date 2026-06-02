@@ -38,3 +38,12 @@ template: comment.html
 | 11 | 2019.11.27 | 西条和 | 
 | 12 | 2019.12.30 | 河濑诗 | 
 
+## 观看
+
+=== "中字"
+
+    <iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=92016542&bvid=BV1v7411P7H3&cid=157113375&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"></iframe>
+
+    [:pack-bili-tv: B站观看](https://www.bilibili.com/video/BV1v7411P7H3){ .md-button .md-button--primary }
+
+

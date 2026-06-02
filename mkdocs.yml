@@ -44,54 +44,77 @@ nav:
           - 花川芽衣(椛島光): member/mei.md
   - Live:
       - 索引: live/index.md
-      - 2017:
-          - “22/7の日” 初Live Event: live/2017/2017-first-live-event.md
-          - 「僕は存在していなかった」发售纪念活动: live/2017/2017-boku-wa-sonzai-shiteinakatta-release-event.md
-          - 22/7 Special Christmas Event: live/2017/2017-special-christmas-event.md
-      - 2018:
-          - 22/7 割り切れないライブ ～シャンプーの匂いがした～: live/2018/2018-warikirenai-live-shampoo.md
-          - “22/7の日”「理解者」初披露！Free Live: live/2018/2018-rikaisha-first-performance-free-live.md
-          - 3rdシングル「理解者」発売記念 VR LIVE: live/2018/2018-rikaisha-release-vr-live.md
-          - 22/7 計算中 Special Event: live/2018/2018-keisanchu-special-event.md
-          - 22/7 JAM Live 2018: live/2018/2018-jam-live.md
-      - 2019:
-          - ナナニジライブ 2019: live/2019/2019-nananiji-live.md
-          - ナナニジフェス 2019: live/2019/2019-nananiji-fes.md
-          - リスアニ！LIVE BEIJING 2019: live/2019/2019-lisani-live-beijing.md
-          - JAM EXPO 2019 ～ブルーベリーステージ～: live/2019/2019-jam-expo-blueberry-stage.md
-          - 22/7 Birthday Event 2019: live/2019/2019-birthday-event.md
-      - 2020:
-          - NewYear Premium Party 2020: live/2020/2020-newyear-premium-party.md
-          - 22/7 5thシングルムズイ発売記念スペシャル無観客ライブ: live/2020/2020-muzui-release-special-live.md
-          - JAM ONLINE FESTIVAL 2020 ～パープルステージ～: live/2020/2020-jam-online-festival-purple-stage.md
-          - 22/7 Anniversary Live 2020: live/2020/2020-anniversary-live.md
-          - TOKYO IDOL FESTIVAL オンライン 2020: live/2020/2020-tif-online.md
-          - 22/7 LIVE ～11（イレブン）～: live/2020/2020-live-11.md
-      - 2021:
-          - TVアニメ「22/7」スペシャルイベント Mission Paradise: live/2021/2021-mission-paradise.md
-          - 22/7「僕が持ってるものなら」発売記念LIVE: live/2021/2021-boku-ga-motteru-mono-nara-release-live.md
-          - 22/7 1stアルバム『11という名の永遠の素数』リリース Tour 2021: live/2021/2021-1st-album-release-tour.md
-          - JAM EXPO 2020-2021 ～ストロベリーステージ～: live/2021/2021-jam-expo-strawberry-stage.md
-          - 22/7 ANNIVERSARY ONLINE 2021: live/2021/2021-anniversary-online.md
-          - TOKYO IDOL FESTIVAL 2021: live/2021/2021-tif.md
-          - 22/7 ANNIVERSARY LIVE 2021: live/2021/2021-anniversary-live.md
-          - 22/7 5TH BIRTHDAY LIVE 2021 ～Colors of Flowers～: live/2021/2021-5th-birthday-live-colors-of-flowers.md
-      - 2022:
-          - 22/7 LIVE TOUR 2022「14」: live/2022/2022-live-tour-14.md
-          - ナナニジ夏祭り 2022: live/2022/2022-nananiji-natsumatsuri.md
-          - TOKYO IDOL FESTIVAL 2022: live/2022/2022-tif.md
-          - 22/7 ANNIVERSARY LIVE 2022: live/2022/2022-anniversary-live.md
-          - ナナニジ年末大感謝祭’22: live/2022/2022-year-end-thanksgiving.md
-          - 22/7 CHARACTER LIVE ～6th BIRTHDAY PARTY 2022～: live/2022/2022-character-live-6th-birthday-party.md
-      - 2023:
-          - ナナニジスプリングパレード2023: live/2023/2023-spring-parade.md
-          - 宮瀬玲奈 卒業コンサート: live/2023/2023-reina-miyase-graduation-concert.md
-          - ナナニジ夏祭り2023: live/2023/2023-nananiji-natsumatsuri.md
-          - 22/7 ANNIVERSARY LIVE 2023: live/2023/2023-anniversary-live.md
-          - 22/7 Character's Theater 2023: live/2023/2023-characters-theater.md
-      # - 2024:
-      # - 2025:
-      # - 2026:
+      - Live:
+        - 2017:
+                - “22/7の日” 初Live Event: live/2017/2017-first-live-event.md
+                - 「僕は存在していなかった」发售纪念活动: live/2017/2017-boku-wa-sonzai-shiteinakatta-release-event.md
+                - 22/7 Special Christmas Event: live/2017/2017-special-christmas-event.md
+        - 2018:
+            - 22/7 割り切れないライブ ～シャンプーの匂いがした～: live/2018/2018-warikirenai-live-shampoo.md
+            - “22/7の日”「理解者」初披露！Free Live: live/2018/2018-rikaisha-first-performance-free-live.md
+            - 3rdシングル「理解者」発売記念 VR LIVE: live/2018/2018-rikaisha-release-vr-live.md
+            - 22/7 計算中 Special Event: live/2018/2018-keisanchu-special-event.md
+            - 22/7 JAM Live 2018: live/2018/2018-jam-live.md
+        - 2019:
+            - ナナニジライブ 2019: live/2019/2019-nananiji-live.md
+            - ナナニジフェス 2019: live/2019/2019-nananiji-fes.md
+            - リスアニ！LIVE BEIJING 2019: live/2019/2019-lisani-live-beijing.md
+            - JAM EXPO 2019 ～ブルーベリーステージ～: live/2019/2019-jam-expo-blueberry-stage.md
+            - 22/7 Birthday Event 2019: live/2019/2019-birthday-event.md
+        - 2020:
+            - NewYear Premium Party 2020: live/2020/2020-newyear-premium-party.md
+            - 22/7 5thシングルムズイ発売記念スペシャル無観客ライブ: live/2020/2020-muzui-release-special-live.md
+            - JAM ONLINE FESTIVAL 2020 ～パープルステージ～: live/2020/2020-jam-online-festival-purple-stage.md
+            - 22/7 Anniversary Live 2020: live/2020/2020-anniversary-live.md
+            - TOKYO IDOL FESTIVAL オンライン 2020: live/2020/2020-tif-online.md
+            - 22/7 LIVE ～11（イレブン）～: live/2020/2020-live-11.md
+        - 2021:
+            - Sony Music AnimeSongs ONLINE 日本武道館: live/2021/2021-sony-music-animesongs-online.md
+            - TVアニメ「22/7」スペシャルイベント Mission Paradise: live/2021/2021-mission-paradise.md
+            - 22/7「僕が持ってるものなら」発売記念LIVE: live/2021/2021-boku-ga-motteru-mono-nara-release-live.md
+            - 22/7 1stアルバム『11という名の永遠の素数』リリース Tour 2021: live/2021/2021-1st-album-release-tour.md
+            - JAM EXPO 2020-2021 ～ストロベリーステージ～: live/2021/2021-jam-expo-strawberry-stage.md
+            - 22/7 ANNIVERSARY ONLINE 2021: live/2021/2021-anniversary-online.md
+            - TOKYO IDOL FESTIVAL 2021: live/2021/2021-tif.md
+            - 22/7 ANNIVERSARY LIVE 2021: live/2021/2021-anniversary-live.md
+            - 22/7 5TH BIRTHDAY LIVE 2021 ～Colors of Flowers～: live/2021/2021-5th-birthday-live-colors-of-flowers.md
+        - 2022:
+            - 22/7 LIVE TOUR 2022「14」: live/2022/2022-live-tour-14.md
+            - ナナニジ夏祭り 2022: live/2022/2022-nananiji-natsumatsuri.md
+            - TOKYO IDOL FESTIVAL 2022: live/2022/2022-tif.md
+            - 22/7 ANNIVERSARY LIVE 2022: live/2022/2022-anniversary-live.md
+            - ナナニジ年末大感謝祭’22: live/2022/2022-year-end-thanksgiving.md
+            - 22/7 CHARACTER LIVE ～6th BIRTHDAY PARTY 2022～: live/2022/2022-character-live-6th-birthday-party.md
+        - 2023:
+            - ナナニジライブ2023: live/2023/2023-nananiji-live.md
+            - 52OSAKA ～Girls Castle～: live/2023/2023-52osaka-girls-castle.md
+            - ナナニジスプリングパレード2023: live/2023/2023-spring-parade.md
+            - 超アイドル祭2023: live/2023/2023-cho-idol-fes.md
+            - 宮瀬玲奈 卒業コンサート: live/2023/2023-reina-miyase-graduation-concert.md
+            - ナナニジ夏祭り2023: live/2023/2023-nananiji-natsumatsuri.md
+            - TOKYO IDOL FESTIVAL 2023: live/2023/2023-tif.md
+            - 22/7 ANNIVERSARY LIVE 2023: live/2023/2023-anniversary-live.md
+            - 22/7 Character's Theater 2023: live/2023/2023-characters-theater.md
+        - 2024:
+            - 22/7 Summer Live 2024 “Magic School Days”: live/2024/2024-summer-live-magic-school-days.md
+            - めざましライブ Da-iCE × TOKYO GIRLS COLLECTION (op.act 22/7): live/2024/2024-odaiba-bohkenoh-himawari-dream-stage.md
+            - 涼花萌 卒業コンサート: live/2024/2024-moe-suzuhana-graduation-concert.md
+            - 22/7 ANNIVERSARY LIVE 2024: live/2024/2024-anniversary-live.md
+            - 22/7 CHARACTER LIVE 2024 ～RED or WHITE？～: live/2024/2024-character-live-red-or-white.md
+        - 2025:
+            - 22/7 Spring Tour 2025 ～Casino Party!!～: live/2025/2025-spring-tour-casino-party.md
+            - 22/7 カントリーライブ in 北海道根室市: live/2025/2025-country-live-nemuro.md
+            - 22/7 Summer Live 2025 ～Toyboxの秘密～: live/2025/2025-summer-live-toybox.md
+            - SPARK 2025 in MAKUHARI: live/2025/2025-spark-in-makuhari.md
+            - 西條和 卒業コンサート ～存在の証明～: live/2025/2025-nagomi-saijo-graduation-concert.md
+            - 22/7 ANNIVERSARY LIVE 2025: live/2025/2025-anniversary-live.md
+        - 2026:
+            - 22/7 3期生 定期公演「ナナニジライブ2026」: live/2026/2026-nananiji-live.md
+            - 22/7 Star Travelers: live/2026/2026-star-travelers.md
+            - ナナニジライブ inジャパンフェスタ: live/2026/2026-japan-festa.md
+            - 22/7 LIVE「15」: live/2026/2026-live-15.md
+            - 16thシングル「二つの道」リリース記念イベント: live/2026/2026-futatsu-no-michi-release-event.md
+            - 22/7 LIVE「Fivesta」: live/2026/2026-live-fivesta.md
   - 歌曲:
       - 索引: songs/index.md
       - 单曲:
