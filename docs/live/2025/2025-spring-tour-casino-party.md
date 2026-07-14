@@ -85,6 +85,19 @@ template: comment.html
 
     [:pack-bili-tv: B站观看](https://www.bilibili.com/video/BV1HBZzYYEeP){ .md-button .md-button--primary }
 
+=== "Making 上"
+
+    <iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=114886969397440&bvid=BV1GKgYz9EdU&cid=31175082526&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"></iframe>
+
+    [:pack-bili-tv: B站观看](https://www.bilibili.com/video/BV1GKgYz9EdU){ .md-button .md-button--primary }
+
+=== "Making 下"
+
+    <iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=114887003016132&bvid=BV18ugYzQEpU&cid=31175085862&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"></iframe>
+
+    [:pack-bili-tv: B站观看](https://www.bilibili.com/video/BV18ugYzQEpU){ .md-button .md-button--primary }
+
+
 ## 参考
 
 - [官方 Special Site与曲目表](https://nanabunnonijyuuni-mobile.com/s/n110/page/spring-tour_2025)
