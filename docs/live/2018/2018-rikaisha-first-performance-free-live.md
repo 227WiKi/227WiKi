@@ -33,5 +33,5 @@ template: comment.html
 
 ## 参考
 
-- [Animate Times活动报道](https://www.animatetimes.com/news/details.php?id=1532671494)
-- [Tower Records活动页面](https://tower.jp/store/event/2018/07/127879)
+- [Sony Music官方活动公告](https://www.sonymusic.co.jp/artist/nanabunnonijyuuni/info/497156)
+- [Aniplex官方活动报告](https://prtimes.jp/main/html/rd/p/000001151.000016356.html)

@@ -99,4 +99,3 @@ template: comment.html
 ## 参考
 
 - [官方 Special Site](https://nanabunnonijyuuni-mobile.com/s/n110/page/7th-birthday?ima=0000&link=ROBO004)
-- [CGWORLD制作报道](https://cgworld.jp/article/cg227-characters-theater-.html)

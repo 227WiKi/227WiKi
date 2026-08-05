@@ -27,7 +27,7 @@ template: comment.html
 
 ## 信息
 
-22/7 5thシングルムズイ発売記念スペシャル無観客ライブ 是22/7于2020年2月27日在Zepp Tokyo举办的无观众演唱会，影像收录在第6张单曲[風は吹いてるか？](/songs/single/6th/)的Blu-ray中。
+22/7 5thシングルムズイ発売記念スペシャル無観客ライブ 是22/7于2020年2月27日在Zepp Tokyo举办的无观众演唱会。原定同日在该会场举办的“22/7 1st Tour ～ムズイ～”东京公演受新型冠状病毒疫情影响取消，组合改为从原会场进行本场Live的线上直播。影像收录在第6张单曲[風は吹いてるか？](/songs/single/6th/)的Blu-ray中。
 
 ## 曲目表
 
@@ -41,7 +41,7 @@ template: comment.html
     | 5. | 足を洗え! |
     | 6. | 未来があるから |
     | 7. | 願いの眼差し |
-    | 8. | Rain of Lies |
+    | 8. | Rain of lies |
     | 9. | 空のエメラルド |
 
 ## 观看
@@ -69,3 +69,8 @@ template: comment.html
     <iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=586744738&bvid=BV1vz4y1277L&cid=298817846&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"></iframe>
 
     [:pack-bili-tv: B站观看](https://www.bilibili.com/video/BV1vz4y1277L){ .md-button .md-button--primary }
+
+## 参考
+
+- [Sony Music第6张单曲收录内容公告](https://www.sonymusic.co.jp/artist/nanabunnonijyuuni/info/520421)
+- [キョードー大阪1st Tour公演中止说明](https://kyodo-osaka.co.jp/search/detail/1927)

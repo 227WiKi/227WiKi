@@ -13,7 +13,7 @@ template: comment.html
 
     --------
 
-    <b>会场:</b> 北海道根室市文化会館
+    <b>会场:</b> 根室市総合文化会館 小ホール
 
 ## 信息
 
@@ -44,6 +44,20 @@ template: comment.html
     | 1. | adrenaline!!!（TrySail Cover） |
     | 2. | キウイの主張（根室ver.） |
     | 3. | いつの間にSunrise |
+
+## 观看
+
+=== "Behind the Scenes"
+
+    <iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=114673378663624&bvid=BV1ZgMKzEEMX&cid=30466116635&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"></iframe>
+
+    [:pack-bili-tv: B站观看](https://www.bilibili.com/video/BV1ZgMKzEEMX){ .md-button .md-button--primary }
+
+=== "饭拍 いつの間にSunrise"
+
+    <iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=114528608128991&bvid=BV1qeJVzKEfC&cid=30025059118&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"></iframe>
+
+    [:pack-bili-tv: B站观看](https://www.bilibili.com/video/BV1qeJVzKEfC){ .md-button .md-button--primary }
 
 ## 参考
 

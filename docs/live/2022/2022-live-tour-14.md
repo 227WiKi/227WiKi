@@ -27,6 +27,66 @@ template: comment.html
 
 ## 曲目表
 
+=== "神奈川场（FC限定）"
+
+    | No. | 曲目 |
+    | --- | --- |
+    | 1. | ムズイ |
+    | 2. | 理解者 |
+    | 3. | ポニーテールは振り向かせない |
+    | 4. | 何もしてあげられない |
+    | 5. | 風は吹いてるか？ |
+    | 6. | 循環バス |
+    | 7. | ヒヤシンス |
+    | 8. | シャンプーの匂いがした |
+    | 9. | 僕が持ってるものなら |
+    | 10. | 覚醒 |
+    | <b>Encore</b> | |
+    | 1. | 僕は存在していなかった |
+    | 2. | 未来があるから |
+
+=== "名古屋场"
+
+    | No. | 曲目 |
+    | --- | --- |
+    | 1. | ムズイ |
+    | 2. | 理解者 |
+    | 3. | ポニーテールは振り向かせない |
+    | 4. | 何もしてあげられない |
+    | 5. | 風は吹いてるか？ |
+    | 6. | ロマンスの積み木 |
+    | 7. | Rain of lies |
+    | 8. | 願いの眼差し |
+    | 9. | 循環バス |
+    | 10. | ヒヤシンス |
+    | 11. | シャンプーの匂いがした |
+    | 12. | 僕が持ってるものなら |
+    | 13. | 覚醒 |
+    | <b>Encore</b> | |
+    | 1. | 僕は存在していなかった |
+    | 2. | 未来があるから |
+
+=== "大阪场"
+
+    | No. | 曲目 |
+    | --- | --- |
+    | 1. | ムズイ |
+    | 2. | 理解者 |
+    | 3. | ポニーテールは振り向かせない |
+    | 4. | 何もしてあげられない |
+    | 5. | 風は吹いてるか？ |
+    | 6. | 君はMoon |
+    | 7. | Just here and now |
+    | 8. | 韋駄天娘 |
+    | 9. | 循環バス |
+    | 10. | ヒヤシンス |
+    | 11. | シャンプーの匂いがした |
+    | 12. | 僕が持ってるものなら |
+    | 13. | 覚醒 |
+    | <b>Encore</b> | |
+    | 1. | 僕は存在していなかった |
+    | 2. | 未来があるから |
+
 === "东京昼场"
 
     | No. | 曲目 |
@@ -35,9 +95,9 @@ template: comment.html
     | 2. | 理解者 |
     | 3. | ポニーテールは振り向かせない |
     | 4. | 何もしてあげられない |
-    | 5. | 風は吹いてるか? |
+    | 5. | 風は吹いてるか？ |
     | 6. | ロマンスの積み木 |
-    | 7. | Rain of Lies |
+    | 7. | Rain of lies |
     | 8. | 願いの眼差し |
     | 9. | 循環バス |
     | 10. | ヒヤシンス |
@@ -56,8 +116,8 @@ template: comment.html
     | 2. | 理解者 |
     | 3. | ポニーテールは振り向かせない |
     | 4. | 何もしてあげられない |
-    | 5. | 風は吹いてるか? |
-    | 6. | 君は Moon |
+    | 5. | 風は吹いてるか？ |
+    | 6. | 君はMoon |
     | 7. | Just here and now |
     | 8. | 韋駄天娘 |
     | 9. | 循環バス |
@@ -65,6 +125,30 @@ template: comment.html
     | 11. | シャンプーの匂いがした |
     | 12. | 僕が持ってるものなら |
     | 13. | 覚醒 |
+    | <b>Encore</b> | |
+    | 1. | 僕は存在していなかった |
+    | 2. | 未来があるから |
+
+=== "追加公演"
+
+    | No. | 曲目 |
+    | --- | --- |
+    | 1. | ムズイ |
+    | 2. | 理解者 |
+    | 3. | ポニーテールは振り向かせない |
+    | 4. | 何もしてあげられない |
+    | 5. | 風は吹いてるか？ |
+    | 6. | ロマンスの積み木 |
+    | 7. | Rain of lies |
+    | 8. | 願いの眼差し |
+    | 9. | 君はMoon |
+    | 10. | Just here and now |
+    | 11. | 韋駄天娘 |
+    | 12. | 循環バス |
+    | 13. | ヒヤシンス |
+    | 14. | シャンプーの匂いがした |
+    | 15. | 僕が持ってるものなら |
+    | 16. | 覚醒 |
     | <b>Encore</b> | |
     | 1. | 僕は存在していなかった |
     | 2. | 未来があるから |
@@ -77,11 +161,23 @@ template: comment.html
 
     [:pack-bili-tv: B站观看](https://www.bilibili.com/video/BV1La411f7di){ .md-button .md-button--primary }
 
+=== "昼场 直播"
+
+    <iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=637724517&bvid=BV1zY4y1q7WS&cid=560266191&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"></iframe>
+
+    [:pack-bili-tv: B站观看](https://www.bilibili.com/video/BV1zY4y1q7WS){ .md-button .md-button--primary }
+
 === "夜场 BD"
 
     <iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=429231822&bvid=BV1PG41187Nt&cid=792994287&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"></iframe>
 
     [:pack-bili-tv: B站观看](https://www.bilibili.com/video/BV1PG41187Nt){ .md-button .md-button--primary }
+
+=== "夜场 直播"
+
+    <iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=637724517&bvid=BV1zY4y1q7WS&cid=560416784&p=2&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"></iframe>
+
+    [:pack-bili-tv: B站观看](https://www.bilibili.com/video/BV1zY4y1q7WS){ .md-button .md-button--primary }
 
 === "Making 生肉"
 
@@ -95,3 +191,6 @@ template: comment.html
 
     [:pack-bili-tv: B站观看](https://www.bilibili.com/video/BV11x4y1K7WL){ .md-button .md-button--primary }
 
+## 参考
+
+- [22/7 LIVE TOUR 2022「14」特设页面](https://nanabunnonijyuuni-mobile.com/s/n110/page/live_tour_14_detail)

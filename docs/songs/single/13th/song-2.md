@@ -1,4 +1,4 @@
-﻿---
+---
 title: 歌曲 -  佐藤さん
 template: comment.html
 ---
@@ -63,6 +63,10 @@ template: comment.html
 ## 简介
 
 《佐藤さん》是收录在22/7第13张单曲《YESとNOの間に》中的共通曲，作词由秋元康负责，作曲由Mami Lab、Penguins、Sorato负责，编曲由Sorato负责，于2024年10月30日正式发售，总时长3分43秒。
+
+=== "Dance Practice"
+    <iframe src="https://player.bilibili.com/player.html?aid=117008633110410&bvid=BV1sP3461EgV&cid=40442465583&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
+    [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV1sP3461EgV){ .md-button .md-button--primary }
 
 ## 歌词
 

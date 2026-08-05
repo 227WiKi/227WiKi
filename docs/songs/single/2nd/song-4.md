@@ -66,6 +66,9 @@ template: comment.html
     <iframe src="https://player.bilibili.com/player.html?aid=534828194&bvid=BV1sM41197QB&cid=1301657086&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
     [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV1sM41197QB){ .md-button .md-button--primary }
     [:fontawesome-brands-youtube: 前往YouTube观看](https://www.youtube.com/watch?v=YArZdh6l8OY){ .md-button .md-button--primary }
+=== "22/7_the 3rd Music Video"
+    <iframe src="https://player.bilibili.com/player.html?aid=116691761632933&bvid=BV1bSEc6YEPK&cid=38856231628&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
+    [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV1bSEc6YEPK){ .md-button .md-button--primary }
 
 ## 歌词
 

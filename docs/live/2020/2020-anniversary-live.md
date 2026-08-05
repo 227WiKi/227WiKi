@@ -27,6 +27,10 @@ template: comment.html
 
     --------
 
+    <b>会场:</b> LINE CUBE SHIBUYA（渋谷公会堂）
+
+    --------
+
     <b>BD收录:[僕が持ってるものなら 完全生产限定盘A/B](../../songs/single/7th/)</b>
 
     --------
@@ -35,7 +39,7 @@ template: comment.html
 
 ## 信息
 
-22/7 Anniversary Live 2020 是22/7 2020年9月20日在LINE CUBE SHIBUYA举办的演唱会，总共有昼场和夜场两个场次，有线下观看和线上直播两种观看模式，演唱会的BD视频分别收录在[僕が持ってるものなら](../../songs/single/7th/)的完全生产限定版A/B中，Making收录在初回生产限定版中
+22/7 Anniversary Live 2020 是22/7于2020年9月20日在LINE CUBE SHIBUYA举办的演唱会，总共有昼场和夜场两个场次，有线下观看和线上直播两种观看模式。演唱会的BD视频分别收录在[僕が持ってるものなら](../../songs/single/7th/)的完全生产限定版A/B中，Making收录在初回生产限定版中。
 
 ## 曲目表
 
@@ -56,7 +60,7 @@ template: comment.html
     |       12.       |        未来があるから        |
     |       13.       |       ロマンスの積み木       |
     |       14.       |       風は吹いてるか？       |
-    | <b> Encore </b> |
+    | <b>Encore</b> | |
     |       1.        |     何もしてあげられない     |
     |       2.        |           韋駄天娘           |
 
@@ -77,7 +81,7 @@ template: comment.html
     |       12.       |        未来があるから        |
     |       13.       |       ロマンスの積み木       |
     |       14.       |       風は吹いてるか？       |
-    | <b> Encore </b> |
+    | <b>Encore</b> | |
     |       1.        |     何もしてあげられない     |
     |       2.        |      11人が集まった理由      |
 
@@ -138,6 +142,11 @@ template: comment.html
 ## BD下载
 
 [:pack-ali: 阿里云盘](https://www.aliyundrive.com/s/LbeVhxid3tS){ .md-button .md-button--primary } [22/7 Archive](https://files.227wiki.eu.org/Live/[BD][%E7%86%9F%E8%82%89]22%EF%BC%8F7%20Anniversary%20Live%202020[BDRip%201080p%20AVC-10bit%20FLAC]){ .md-button .md-button--primary } 
+
+## 参考
+
+- [Sony Music官方公演公告](https://www.sonymusic.co.jp/artist/nanabunnonijyuuni/info/520327)
+- [Sony Music官方直播及公演说明](https://www.sonymusic.co.jp/artist/nanabunnonijyuuni/info/522128)
 
 <html>
 <head>

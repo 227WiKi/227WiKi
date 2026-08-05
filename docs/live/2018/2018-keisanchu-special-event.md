@@ -47,5 +47,4 @@ template: comment.html
 
 ## 参考
 
-- [超！アニメディア Official Report](https://cho-animedia.jp/article/2018/09/22/8355.html)
-- [Real Sound活动报道](https://realsound.jp/2018/10/post-259262.html)
+- [Aniplex官方活动报告](https://prtimes.jp/main/html/rd/p/000001301.000016356.html)

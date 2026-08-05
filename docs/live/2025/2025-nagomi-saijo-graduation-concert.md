@@ -38,7 +38,7 @@ template: comment.html
     | 11 | 空のエメラルド |
     | 12 | 曇り空の向こうは晴れている |
     | 13 | 僕らの環境 |
-    | 14 | 風は吹いてるか? |
+    | 14 | 風は吹いてるか？ |
     | 15 | 何もしてあげられない |
     | 16 | あなたでなくちゃ |
     | <b>Encore</b> | |
@@ -93,5 +93,5 @@ template: comment.html
 
 ## 参考
 
-- [THE FIRST TIMES](https://www.thefirsttimes.jp/report/0000677221/)
-- [OTOTOY](https://ototoy.jp/news/125720)
+- [官方 Special Site](https://nanabunnonijyuuni-mobile.com/s/n110/page/saijonagomi_graduationconcert?ima=0000&link=ROBO004)
+- [22/7官方活动报告与曲目表](https://nanabunnonijyuuni-mobile.com/s/n110/diary/detail/440473)

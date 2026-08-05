@@ -66,5 +66,5 @@ template: comment.html
 
 ## 参考
 
-- [官方公告](https://nanabunnonijyuuni-mobile.com/s/n110/news/detail/10557)
-- [encore活动报道与曲目表](https://e.usen.com/news/news-event/227magic-school-days-day3-227-wonderlandtea-party.html)
+- [官方 Special Site](https://nanabunnonijyuuni-mobile.com/s/n110/page/suzuhanamoe_graduationconcert?ima=0000&link=ROBO004)
+- [22/7官方活动报告与曲目表](https://nanabunnonijyuuni-mobile.com/s/n110/diary/detail/426920?cd=special&ima=0008)

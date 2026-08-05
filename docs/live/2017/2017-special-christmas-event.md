@@ -13,7 +13,7 @@ template: comment.html
 
     --------
 
-    <b>会场:</b> SME乃木坂ビル
+    <b>会场:</b> SME乃木坂ビル（乃木坂スクエア）
 
 ## 信息
 
@@ -51,4 +51,4 @@ template: comment.html
 
 ## 参考
 
-- [音乐Natalie活动报道](https://natalie.mu/music/news/262561)
+- [Sony Music官方活动公告](https://www.sonymusic.co.jp/artist/nanabunnonijyuuni/info/489232)

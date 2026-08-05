@@ -32,7 +32,7 @@ Sony Music AnimeSongs ONLINE 日本武道館是Sony Music旗下艺人共同出�
     | No. | 曲目 |
     | --- | --- |
     | 1. | ムズイ |
-    | 2. | 風は吹いてるか? |
+    | 2. | 風は吹いてるか？ |
 
 ## 观看
 
@@ -44,5 +44,4 @@ Sony Music AnimeSongs ONLINE 日本武道館是Sony Music旗下艺人共同出�
 
 ## 参考
 
-- [SPICE演出时间表](https://spice.eplus.jp/articles/280665)
-- [SPICE活动报道与完整曲目](https://spice.eplus.jp/articles/281019)
+- [Sony Music AnimeSongs ONLINE 日本武道館活动公告](https://www.sonymusic.co.jp/artist/asca/info/524878)
