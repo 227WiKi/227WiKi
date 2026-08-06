@@ -3,6 +3,33 @@ template: comment.html
 title: 22/7 计算外 - 简介
 ---
 
+# <center><div class="header_logo"><img src="../assets/keisangai.png" width="336" height="336" alt="keisangai logo"></div></center>
+<!-- LOGO PLACE HOLDER -->
+
+<style>
+    .header_logo {
+	}
+
+	.header_logo img {
+		width: 336px;
+		height: auto;
+        border-radius: 0px;
+        box-shadow: 0 0px 0px rgb(0 0 0 / 0%);
+        transition-duration: 0s;
+	}
+
+	.header_logo a:hover img {
+		opacity: .7;
+	}
+
+	.page_header .header_logo {
+		display: none;
+	}
+    .header_logo img:hover {
+        box-shadow: 0 0px 0px 0 rgba(0,0,0,0), 0 0px 0px 0 rgba(0,0,0,0);
+    }
+</style>
+
 !!! general inline end "22/7 计算外"
 
 	--------
@@ -39,4 +66,3 @@ title: 22/7 计算外 - 简介
 
 !!! note
     本页为节目简介。各集列表请从左侧导航栏选择对应季度查看
-

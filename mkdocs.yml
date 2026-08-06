@@ -510,6 +510,8 @@ nav:
           - 简介: songs/cover/index.md
   - 动画:
       - 简介: anime/index.md
+      - TV动画《22/7》: anime/tv-anime.md
+      - あの日の彼女たち: anime/ano-hi-no-kanojo-tachi.md
 
   - 计算中:
       - 简介: keisanchu/index.md
@@ -534,6 +536,10 @@ nav:
           - 简介: radio/warikirenai/index.md
       - ナナニジ RADIO:
           - 简介: radio/fcradio/index.md
+      - くらてん！:
+          - 简介: radio/kuraten/index.md
+      - 22/7のTHE CATCH:
+          - 简介: radio/the-catch/index.md
 
   - 个人节目/直播:
       - 索引: personal-bangumi/index.md
