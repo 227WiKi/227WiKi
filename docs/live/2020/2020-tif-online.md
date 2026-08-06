@@ -11,6 +11,10 @@ template: comment.html
 
     <b>举办日期:</b> 2020年10月2日
 
+    --------
+
+    <b>舞台:</b> HOT STAGE（在线活动）
+
 ## 信息
 
 22/7于2020年10月2日出演TOKYO IDOL FESTIVAL オンライン 2020。
@@ -39,3 +43,8 @@ template: comment.html
     <iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=927438693&bvid=BV1xT4y1w7F4&cid=243689033&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"></iframe>
 
     [:pack-bili-tv: B站观看](https://www.bilibili.com/video/BV1xT4y1w7F4){ .md-button .md-button--primary }
+
+## 参考
+
+- [TOKYO IDOL FESTIVAL官方出演阵容](https://www.idolfes.com/2020/lineup/)
+- [TOKYO IDOL FESTIVAL官方时间表](https://www.idolfes.com/2020/timetable/stage/hot_stage.html)

@@ -23,22 +23,31 @@ template: comment.html
 
     --------
 
-    <b>影像收录:</b> [理解者 完全生产限定盘 Type-A](../../songs/single/3rd/index.md)
+    <b>影像收录:</b> [理解者 完全生产限定盘 Type-B](../../songs/single/3rd/index.md)
 
 ## 信息
 
-22/7 割り切れないライブ ～シャンプーの匂いがした～ 是22/7于2018年2月27日在ディファ有明举办的演唱会，影像收录在第3张单曲[理解者](../../songs/single/3rd/index)的完全生产限定盘 Type-A 中。
+22/7 割り切れないライブ ～シャンプーの匂いがした～ 是22/7于2018年2月27日在ディファ有明举办的演唱会，由角色出演的Virtual Live与声优成员出演的Real Live两部分组成。影像收录在第3张单曲[理解者](../../songs/single/3rd/index.md)的完全生产限定盘 Type-B 中。
 
 ## 曲目表
 
-=== "曲目"
-    |       No.       |             曲目             |
-    | :-------------: | :--------------------------: |
-    |       1.        |           やさしい記憶        |
-    |       2.        |       叫ぶしかない青春         |
-    |       3.        |     僕は存在していなかった     |
-    |       4.        |    シャンプーの匂いがした      |
-    |       5.        |        11人が集まった理由      |
+=== "Virtual Live"
+
+    | No. | 曲目 |
+    | --- | --- |
+    | 1. | 僕は存在していなかった |
+    | 2. | 地下鉄抵抗主義 |
+    | 3. | シャンプーの匂いがした |
+
+=== "Real Live"
+
+    | No. | 曲目 |
+    | --- | --- |
+    | 1. | やさしい記憶 |
+    | 2. | 叫ぶしかない青春 |
+    | 3. | 僕は存在していなかった |
+    | 4. | シャンプーの匂いがした |
+    | Encore | 11人が集まった理由 |
 
 ## 观看
 
@@ -60,5 +69,8 @@ template: comment.html
 
     [:pack-bili-tv: B站观看](https://www.bilibili.com/video/BV1rW41167Y1){ .md-button .md-button--primary }
 
+## 参考
 
+- [Sony Music官方活动公告](https://www.sonymusic.co.jp/artist/nanabunnonijyuuni/info/491108)
+- [Sony Music Labels官方活动报告](https://prtimes.jp/main/html/rd/p/000001228.000013546.html)
 

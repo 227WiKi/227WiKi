@@ -67,5 +67,3 @@ template: comment.html
 ## 参考
 
 - [官方公告](https://nanabunnonijyuuni-mobile.com/s/n110/news/detail/11181?ima=1256)
-- [USEN上映报道](https://e.usen.com/news/news-original/227-star-travelers.html)
-- [水色の笹音：配信记录与曲目整理](https://blog.livedoor.jp/sapphy_0611/archives/46685161.html)

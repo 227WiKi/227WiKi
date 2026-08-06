@@ -44,4 +44,3 @@ template: comment.html
 
 - [官方公告](https://nanabunnonijyuuni-mobile.com/s/n110/news/detail/11022?ima=5208)
 - [SPARK 2025出演列表](https://sparkfes.com/2025/artists/)
-- [现场记录](https://blog.livedoor.jp/halo77/archives/52183400.html)

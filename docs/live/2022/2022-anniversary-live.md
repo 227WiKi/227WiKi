@@ -73,8 +73,8 @@ template: comment.html
     | 11. | 何もしてあげられない |
     | 12. | とんぼの気持ち |
     | 13. | ロマンスの積み木 |
-    | 14. | 君は Moon |
-    | 15. | Rain of Lies |
+    | 14. | 君はMoon |
+    | 15. | Rain of lies |
     | <b>Encore - 晴れた日のベンチ</b> | |
     | 1. | 半チャーハン |
     | 2. | To goでよろしく！ |
@@ -160,4 +160,3 @@ template: comment.html
     <iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=781535799&bvid=BV1w24y177Ah&cid=1069748198&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"></iframe>
 
     [:pack-bili-tv: B站观看](https://www.bilibili.com/video/BV1w24y177Ah){ .md-button .md-button--primary }
-

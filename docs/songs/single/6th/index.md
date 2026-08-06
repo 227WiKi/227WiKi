@@ -137,5 +137,8 @@ template: comment.html
 === "Dance Video定点版"
     <iframe src="https://player.bilibili.com/player.html?aid=939901127&bvid=BV1FW4y1k79b&cid=746041070&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
     [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV1FW4y1k79b){ .md-button .md-button--primary }
+=== "22/7_the 3rd Music Video"
+    <iframe src="https://player.bilibili.com/player.html?aid=116997509616676&bvid=BV1gX3q6QEHH&cid=40379220837&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
+    [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV1gX3q6QEHH){ .md-button .md-button--primary }
 
 <!-- gitalk -->

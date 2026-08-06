@@ -26,7 +26,11 @@ template: comment.html
     | No. | 曲目 |
     | --- | --- |
     | 1. | 命の続き |
-    | 2. | 神様だって決められない |
+    | 2. | ヒヤシンス |
+    | 3. | 神様だって決められない |
+    | 4. | シャンプーの匂いがした |
+    | 5. | タチツテトパワー |
+    | 6. | 曇り空の向こうは晴れている |
 
 ## 观看
 
@@ -38,5 +42,4 @@ template: comment.html
 
 ## 参考
 
-- [SPICE活动报道](https://spice.eplus.jp/articles/313485?p=2)
-- [LiveFans活动报道](https://www.livefans.jp/report/amp/57010)
+- [22/7官方出演公告](https://nanabunnonijyuuni-mobile.com/s/n110/news/detail/info10681)

@@ -56,6 +56,12 @@ template: comment.html
 
 《スパシーバ！》是收录在22/7第3张专辑《ABC予想》中的专辑新曲，作词由山崎あおい负责，作曲由山崎あおい、炭竃智弘负责，编曲由炭竃智弘负责，专辑于2025年12月10日正式发售，总时长3分53秒。
 
+
+=== "Dance Practice"
+    <iframe src="https://player.bilibili.com/player.html?aid=116963418313758&bvid=BV1CTgC6XErB&cid=40195983382&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"> </iframe>
+    [:pack-bili-tv: 前往bilibili观看](https://www.bilibili.com/video/BV1CTgC6XErB){ .md-button .md-button--primary }
+
+
 ## 歌词
 
 === "日语"

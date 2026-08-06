@@ -23,11 +23,13 @@ template: comment.html
 
 === "曲目"
 
-    | No. | 曲目 |
-    | --- | --- |
-    | 1. | 僕は存在していなかった |
-    | 2. | 地下鉄抵抗主義 |
+    | No. | 形式 | 曲目 |
+    | --- | --- | --- |
+    | 1. | Character Live | 僕は存在していなかった |
+    | 2. | Real Live | 地下鉄抵抗主義 |
+    | 3. | Real Live | 僕は存在していなかった |
 
 ## 参考
 
 - [Aniplex新闻稿](https://prtimes.jp/main/html/rd/p/000000546.000016356.html)
+- [22/7官方首次Live Report](https://nanabunnonijyuuni-mobile.com/s/n110/diary/detail/347380)

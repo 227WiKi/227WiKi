@@ -1,11 +1,11 @@
 ---
-title: Live - ナナニジ年末大感謝祭 2022
+title: Live - ナナニジ年末大感謝祭’22
 template: comment.html
 ---
-# :pack-bd: ナナニジ年末大感謝祭 2022
+# :pack-bd: ナナニジ年末大感謝祭’22
 
 !!! general inline end "Live信息"
-    <b>Live名称:</b> ナナニジ年末大感謝祭 2022
+    <b>Live名称:</b> ナナニジ年末大感謝祭’22
 
     --------
 
@@ -47,6 +47,5 @@ template: comment.html
     <iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=349194010&bvid=BV1tR4y1S7yT&cid=936543384&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"></iframe>
 
     [:pack-bili-tv: B站观看](https://www.bilibili.com/video/BV1tR4y1S7yT){ .md-button .md-button--primary }
-
 
 

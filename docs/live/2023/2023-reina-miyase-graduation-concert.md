@@ -79,4 +79,3 @@ template: comment.html
 ## 参考
 
 - [官方 Special Site](https://nanabunnonijyuuni-mobile.com/s/n110/page/miyasereina_graduationconcert?ima=0000&link=ROBO004)
-- [Pop'n'Roll活动报道与曲目表](https://popnroll.tv/articles/33106)

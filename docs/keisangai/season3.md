@@ -58,8 +58,18 @@ title: 22/7 计算外 - Season 3
 | 11  | 2026.6.13 | 折本&北原&三云前往三岛天空步道！因某物而尖叫！麻丘&椎名来后半战PR之旅！突然上船却全是外国游客，某位成员紧急参战！？  | [中字](https://www.bilibili.com/video/BV1GgjS6qEog){target=_blank} |
 | 12  | 2026.6.20 |  震惊！麻丘&椎名来到来宫神社居然发现...！茉奈&珠璃在热海站商店街开始PR！某位成员使出必杀技发起突击！ | [中字](https://www.bilibili.com/video/BV14iTn69EVt){target=_blank} |
 | 13  | 2026.6.27 |  爱丽丝&茉奈&珠璃在热海开始PR！在长滨特设市进行紧急LIVE！LIVE后珠璃绽放出意外的才能！？ | [中字](https://www.bilibili.com/video/BV1kgMh6LE8S){target=_blank} |
-| 14  | 2026.7.4 |  mao和nao赛口令哼小曲行进中... | [共星](https://www.bilibili.com/video/BV1wkMP6zE7g){target=_blank} |
-| 15  | 2026.7.11 |  南北组合小田园PR中...小馋猫&呆南笨北！？ | [共星](https://www.bilibili.com/video/BV1opNA6QEdp){target=_blank} |
+| 14  | 2026.7.4 |  相川&麻丘从热海骑自行车往小田原！？途中在汤河町意外邂逅！以及在海边想到的宣传方法是?最后最大的试炼...到底是什么！？ | [中字](https://www.bilibili.com/video/BV11RK36oE5j){target=_blank} |
+| 15  | 2026.7.11 |  南北的小田原市PR之旅!一开始就遭遇暴雨！？在渔港之站吃吃吃PR！？甚至还有突入的学习时间？结果都是小笨蛋！ | [中字](https://www.bilibili.com/video/BV1qWg16SEJE){target=_blank} |
+| 16  | 2026.7.18 |  南北为了PR活动前往地方广播电台FM小田原进行交涉!能否顺利出演呢？然后是怒涛般的展开！接着又向三四郎谈判！？究竟会? | [中字](https://www.bilibili.com/video/BV1XZGP6AEVe){target=_blank} |
+| 17  | 2026.7.25 |  音乐FES的“#小田原大合战”的揽客活动！相田&依子&茉奈全力宣传却!?爱丽丝&三云的无能宣传让小宫开始斯巴达式指导!? | [中字](https://www.bilibili.com/video/BV1WZM26bE3Z){target=_blank} |
+| 18  | 2026.8.1 |  小田原大合戦演出本番&大胃王不在的大胃王挑战！ | [共星](https://www.bilibili.com/video/BV17R3m6cEHY){target=_blank} |
+
+
+
+
+
+
+
 
 
 

@@ -83,5 +83,4 @@ template: comment.html
 
 ## 参考
 
-- [encore官方活动报道与曲目表](https://e.usen.com/news/news-event/1228-227-character-live-2024red-or-white.html)
-- [THE FIRST TIMES活动公告](https://www.thefirsttimes.jp/news/0000514602/)
+- [22/7官方活动公告](https://nanabunnonijyuuni-mobile.com/s/n110/news/detail/10701?ima=0000&link=ROBO004)

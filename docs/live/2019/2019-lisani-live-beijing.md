@@ -11,6 +11,10 @@ template: comment.html
 
     <b>举办日期:</b> 2019年11月9日
 
+    --------
+
+    <b>会场:</b> 中国国际展览中心新馆
+
 ## 信息
 
 22/7于2019年11月9日出演的リスアニ！LIVE BEIJING 2019现场。
@@ -21,7 +25,10 @@ template: comment.html
     | No. | 曲目 |
     | --- | --- |
     | 1. | 何もしてあげられない |
-    | 2. | 未来があるから |
+    | 2. | ロマンスの積み木 |
+    | 3. | Rain of lies |
+    | 4. | 韋駄天娘 |
+    | 5. | 未来があるから |
 
 ## 观看
 
@@ -54,3 +61,7 @@ template: comment.html
     <iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=98725172&bvid=BV1Q7411m78H&cid=168510663&p=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="720"></iframe>
 
     [:pack-bili-tv: B站观看](https://www.bilibili.com/video/BV1Q7411m78H){ .md-button .md-button--primary }
+
+## 参考
+
+- [LisAni官方活动报道](https://www.lisani.jp/0000138971/)

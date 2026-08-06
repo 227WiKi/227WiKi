@@ -39,6 +39,4 @@ template: comment.html
 
 ## 参考
 
-- [THE FIRST TIMES活动报道](https://www.thefirsttimes.jp/report/0000465002/)
-- [FOD配信公告](https://mezamashi.media/articles/-/5114)
 - [富士电视台活动页](https://www.fujitv.co.jp/bohkenoh2024/stage/stage1.html)
