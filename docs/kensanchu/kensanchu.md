@@ -62,6 +62,10 @@ title: 22/7 检算中 - 简介
 
 | 标题                    |                                链接                                |
 |-----------------------|:----------------------------------------------------------------:|
+| 《22/7 检算中》PV | [中字](https://www.bilibili.com/video/BV11K4y1V7e2){target=_blank} |
 | Blu-ray 发售纪念 特別视频（前篇） |[中字](https://www.bilibili.com/video/BV15b4y1Y7hY){target=_blank} |
 | Blu-ray 发售纪念 特別视频（后篇） |[中字](https://www.bilibili.com/video/BV12Q4y1C7mY){target=_blank} |
+| Blu-ray 收录未公开花絮（Off-shot） | [生肉](https://www.bilibili.com/video/BV1sq4y1D7ji){target=_blank} |
+| 限定配信（2021.10.31） | [生肉](https://www.bilibili.com/video/BV1JL4y1q7wN){target=_blank} |
+| 第11回「22/7组队对抗赛 上」评论音轨（凉花萌、仓冈水巴、白泽加奈惠） | [生肉](https://www.bilibili.com/video/BV19S4y1Q7Mt){target=_blank} |
 
