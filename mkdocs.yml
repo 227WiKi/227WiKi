@@ -177,6 +177,8 @@ nav:
                 - 22/7 LIVE「15」: live/2026/2026-live-15.md
                 - 22/7 LIVE「Fivesta」: live/2026/2026-live-fivesta.md
                 - 22/7 Live in Taipei 2026: live/2026/2026-live-in-taipei.md
+                - 17thシングル発売記念リリースイベント: live/2026/2026-17th-single-release-event.md
+                - 22/7 ANNIVERSARY LIVE 2026: live/2026/2026-anniversary-live.md
             - 外部活动・拼盘:
                 - LEGEND FES: live/2026/2026-legend-fes.md
                 - GIGA・GIGA SONIC 2026.02.03: live/2026/2026-giga-giga-sonic-february.md
@@ -187,130 +189,12 @@ nav:
                 - AFA Thailand 2026: live/2026/2026-afa-thailand.md
                 - たかねこフェス vol.6 ～サマーセッション～: live/2026/2026-takaneko-fes-vol6.md
                 - TOKYO IDOL FESTIVAL 2026: live/2026/2026-tif.md
-      # 原 Live 导航结构（保留）
-#      - 年份:
-#        - 2017:
-#          - “22/7の日” 初Live Event: live/2017/2017-first-live-event.md
-#          - 「僕は存在していなかった」发售纪念活动: live/2017/2017-boku-wa-sonzai-shiteinakatta-release-event.md
-#          - A&Gオールスター2017 ロビーステージ: live/2017/2017-ag-all-star.md
-#          - 22/7 Special Christmas Event: live/2017/2017-special-christmas-event.md
-#        - 2018:
-#            - 22/7 割り切れないライブ ～シャンプーの匂いがした～: live/2018/2018-warikirenai-live-shampoo.md
-#            - AJ Night 2018: live/2018/2018-aj-night.md
-#            - 2ndシングル「シャンプーの匂いがした」発売記念リリースイベント: live/2018/2018-shampoo-release-events.md
-#            - FM-FUJI開局30周年記念ライブ GIRLS POWER LIVE: live/2018/2018-girls-power-live.md
-#            - JAM 2018 Day2: live/2018/2018-jam-2018-day2.md
-#            - “22/7の日”「理解者」初披露！Free Live: live/2018/2018-rikaisha-first-performance-free-live.md
-#            - THE ODAIBA MUSIC LIVE: live/2018/2018-odaiba-music-live.md
-#            - 3rdシングル「理解者」発売記念イベント: live/2018/2018-rikaisha-release-vr-live.md
-#            - アニサマ OK! カラオケDAMステージ: live/2018/2018-anisama-ok-stage.md
-#            - 京まふ2018 22/7 京まふスペシャルステージ: live/2018/2018-kyomaf.md
-#            - 22/7 計算中 Special Event: live/2018/2018-keisanchu-special-event.md
-#            - マチ★アソビ Vol.21 22/7 スペシャルステージ: live/2018/2018-machiasobi-vol21.md
-#            - JAM the Field vol.14: live/2018/2018-jam-live.md
-#            - LIVE MONSTERS!!: live/2018/2018-live-monsters.md
-#        - 2019:
-#            - ナナニジライブ 2019: live/2019/2019-nananiji-live.md
-#            - AnimeJapan 2019 22/7 Special Live: live/2019/2019-animejapan.md
-#            - ナナニジフェス 2019: live/2019/2019-nananiji-fes.md
-#            - TOKYO IDOL FESTIVAL 2019: live/2019/2019-tokyo-idol-festival.md
-#            - 4thシングル「何もしてあげられない」発売記念リリースイベント: live/2019/2019-nani-mo-shiteagerarenai-release-event.md
-#            - JAM EXPO 2019 ～ブルーベリーステージ～: live/2019/2019-jam-expo-blueberry-stage.md
-#            - 22/7 Anniversary Live 2019: live/2019/2019-anniversary-live.md
-#            - 京まふ2019 22/7 スペシャルステージ: live/2019/2019-kyomaf.md
-#            - AFA Creators Super Fest 2019 Sally Amaki Special Performance: live/2019/2019-afa-creators-super-fest-sally.md
-#            - リスアニ！LIVE BEIJING 2019: live/2019/2019-lisani-live-beijing.md
-#            - RAINBOW Fes.: live/2019/2019-rainbow-fes.md
-#            - 22/7 アニメ放送直前記念VRライブ: live/2019/2019-anime-broadcast-vr-live.md
-#            - 22/7 Birthday Event 2019: live/2019/2019-birthday-event.md
-#        - 2020:
-#            - NewYear Premium Party 2020: live/2020/2020-newyear-premium-party.md
-#            - 22/7 5thシングルムズイ発売記念スペシャル無観客ライブ: live/2020/2020-muzui-release-special-live.md
-#            - JAM ONLINE FESTIVAL 2020 ～パープルステージ～: live/2020/2020-jam-online-festival-purple-stage.md
-#            - 22/7 Anniversary Live 2020: live/2020/2020-anniversary-live.md
-#            - TOKYO IDOL FESTIVAL オンライン 2020: live/2020/2020-tif-online.md
-#            - 22/7 LIVE at STUDIO COAST ～11（イレブン）～: live/2020/2020-live-11.md
-#        - 2021:
-#            - Sony Music AnimeSongs ONLINE 日本武道館: live/2021/2021-sony-music-animesongs-online.md
-#            - TVアニメ「22/7」スペシャルイベント Mission Paradise: live/2021/2021-mission-paradise.md
-#            - 22/7「僕が持ってるものなら」発売記念LIVE: live/2021/2021-boku-ga-motteru-mono-nara-release-live.md
-#            - 復活定期公演「ナナニジライブ 2021」: live/2021/2021-nananiji-live.md
-#            - 22/7 1stアルバム『11という名の永遠の素数』リリース Tour 2021: live/2021/2021-1st-album-release-tour.md
-#            - JAM EXPO 2020-2021 ～ストロベリーステージ～: live/2021/2021-jam-expo-strawberry-stage.md
-#            - 22/7 ANNIVERSARY ONLINE 2021: live/2021/2021-anniversary-online.md
-#            - TOKYO IDOL FESTIVAL 2021: live/2021/2021-tif.md
-#            - 22/7 ANNIVERSARY LIVE 2021: live/2021/2021-anniversary-live.md
-#            - 22/7 5TH BIRTHDAY LIVE 2021 ～Colors of Flowers～: live/2021/2021-5th-birthday-live-colors-of-flowers.md
-#        - 2022:
-#            - 22/7 LIVE TOUR 2022「14」: live/2022/2022-live-tour-14.md
-#            - ナナニジ夏祭り 2022: live/2022/2022-nananiji-natsumatsuri.md
-#            - TOKYO IDOL FESTIVAL 2022: live/2022/2022-tif.md
-#            - SUMMER SONIC 2022: live/2022/2022-summer-sonic.md
-#            - 22/7 ANNIVERSARY LIVE 2022: live/2022/2022-anniversary-live.md
-#            - ナナニジ年末大感謝祭’22: live/2022/2022-year-end-thanksgiving.md
-#            - 22/7 CHARACTER LIVE ～6th BIRTHDAY PARTY 2022～: live/2022/2022-character-live-6th-birthday-party.md
-#        - 2023:
-#            - ナナニジライブ2023: live/2023/2023-nananiji-live.md
-#            - 52OSAKA ～Girls Castle～: live/2023/2023-52osaka-girls-castle.md
-#            - ナナニジスプリングパレード2023: live/2023/2023-spring-parade.md
-#            - 超アイドル祭2023: live/2023/2023-cho-idol-fes.md
-#            - 歌舞伎町UP GATE↑↑DAY1: live/2023/2023-kabukicho-up-gate.md
-#            - 宮瀬玲奈 卒業コンサート: live/2023/2023-reina-miyase-graduation-concert.md
-#            - ナナニジ夏祭り2023: live/2023/2023-nananiji-natsumatsuri.md
-#            - TOKYO IDOL FESTIVAL 2023: live/2023/2023-tif.md
-#            - JAM EXPO 2023 supported by UP-T: live/2023/2023-jam-expo.md
-#            - 'Fang Music Fes #02': live/2023/2023-fang-music-fes-02.md
-#            - GIGA・GIGA SONIC 2周年大感謝祭SPECIAL: live/2023/2023-giga-giga-sonic.md
-#            - TUBEOUT! in Detroit: live/2023/2023-tubeout-in-detroit.md
-#            - 22/7 ANNIVERSARY LIVE 2023: live/2023/2023-anniversary-live.md
-#            - 22/7 Character's Theater 2023: live/2023/2023-characters-theater.md
-#        - 2024:
-#            - Hello Music Festival 2024 in TOKYO: live/2024/2024-hello-music-festival.md
-#            - iLiVE!バレンタイン: live/2024/2024-ilive-valentine.md
-#            - 12thシングル「後でわかること」発売記念リリースイベント: live/2024/2024-ato-de-wakaru-koto-release-event.md
-#            - SPARK 2024 in KAWASAKI: live/2024/2024-spark-in-kawasaki.md
-#            - 22/7 Summer Live 2024 “Magic School Days”: live/2024/2024-summer-live-magic-school-days.md
-#            - TOKYO IDOL FESTIVAL 2024: live/2024/2024-tif.md
-#            - めざましライブ Da-iCE × TOKYO GIRLS COLLECTION (op.act 22/7): live/2024/2024-odaiba-bohkenoh-himawari-dream-stage.md
-#            - コカ・コーラ SUMMER STATION 音楽LIVE: live/2024/2024-summer-station.md
-#            - 涼花萌 卒業コンサート: live/2024/2024-moe-suzuhana-graduation-concert.md
-#            - 13thシングル「YESとNOの間に」発売記念リリースイベント: live/2024/2024-yes-to-no-no-aida-ni-release-event.md
-#            - GIGA・GIGA SONIC in 幕張メッセ: live/2024/2024-giga-giga-sonic.md
-#            - 22/7 ANNIVERSARY LIVE 2024: live/2024/2024-anniversary-live.md
-#            - 22/7 CHARACTER LIVE 2024 ～RED or WHITE？～: live/2024/2024-character-live-red-or-white.md
-#        - 2025:
-#            - 14thシングル「ロックは死なない」発売記念リリースイベント: live/2025/2025-rock-wa-shinanai-release-event.md
-#            - 22/7 Spring Tour 2025 ～Casino Party!!～: live/2025/2025-spring-tour-casino-party.md
-#            - GIGA・GIGA SONIC in Zepp Shinjuku: live/2025/2025-giga-giga-sonic-april.md
-#            - 15thシングル「あなたでなくちゃ」発売記念リリースイベント: live/2025/2025-anata-de-nakucha-release-events.md
-#            - Vocal & Dance Collection Live Vol.7: live/2025/2025-vocal-dance-collection-live-vol7.md
-#            - 22/7 カントリーライブ in 北海道根室市: live/2025/2025-country-live-nemuro.md
-#            - TOKYO IDOL FESTIVAL 2025: live/2025/2025-tif.md
-#            - 22/7 Summer Live 2025 ～Toyboxの秘密～: live/2025/2025-summer-live-toybox.md
-#            - 西條和 卒業コンサート ～存在の証明～: live/2025/2025-nagomi-saijo-graduation-concert.md
-#            - SPARK 2025 in MAKUHARI: live/2025/2025-spark-in-makuhari.md
-#            - STARRZ TOKYO 2025: live/2025/2025-starrz-tokyo.md
-#            - HYPE // VIBE supported by bis: live/2025/2025-hype-vibe.md
-#            - GIGA・GIGA SONIC ～推ししか勝たん！君と僕とのギガ推し祭～: live/2025/2025-giga-giga-sonic-october.md
-#            - 3rdアルバム「ABC予想」発売記念リリースイベント: live/2025/2025-abc-yosou-release-events.md
-#            - 22/7 ANNIVERSARY LIVE 2025: live/2025/2025-anniversary-live.md
-#        - 2026:
-#            - LEGEND FES: live/2026/2026-legend-fes.md
-#            - 16thシングル「二つの道」リリース記念イベント: live/2026/2026-futatsu-no-michi-release-event.md
-#            - 22/7 3期生 定期公演「ナナニジライブ2026」: live/2026/2026-nananiji-live.md
-#            - GIGA・GIGA SONIC 2026.02.03: live/2026/2026-giga-giga-sonic-february.md
-#            - 22/7 Star Travelers: live/2026/2026-star-travelers.md
-#            - ナナニジライブ inジャパンフェスタ: live/2026/2026-japan-festa.md
-#            - IDORISE!! FESTIVAL 2026: live/2026/2026-idorise-festival.md
-#            - 22/7 LIVE「15」: live/2026/2026-live-15.md
-#            - Ai FES DAY2: live/2026/2026-ai-fes.md
-#            - ICONIC MOMENTS FES！Supported by ZIP-FM: live/2026/2026-iconic-moments-fes.md
-#            - 小田原大合戦2026: live/2026/2026-odawara-daikassen.md
-#            - 22/7 LIVE「Fivesta」: live/2026/2026-live-fivesta.md
-#            - AFA Thailand 2026: live/2026/2026-afa-thailand.md
-#            - たかねこフェス vol.6 ～サマーセッション～: live/2026/2026-takaneko-fes-vol6.md
-#            - 22/7 Live in Taipei 2026: live/2026/2026-live-in-taipei.md
-#            - TOKYO IDOL FESTIVAL 2026: live/2026/2026-tif.md
+                - 埼玉MUSIC&FOOD FESTIVAL: live/2026/2026-saitama-music-food-festival.md
+                - AFA Indonesia 2026: live/2026/2026-afa-indonesia.md
+                - GIGA・GIGA SONIC 2026.08.19: live/2026/2026-giga-giga-sonic-august.md
+                - 22/7 よみうりランド ミニライブ: live/2026/2026-yomiuriland-mini-live.md
+                - SHIGA IDOL COLLECTION “PREMIUM”: live/2026/2026-shiga-idol-collection-premium.md
+                - HERO GATE: live/2026/2026-hero-gate.md
   - 歌曲:
       - 索引: songs/index.md
       - 单曲:
@@ -449,32 +333,6 @@ nav:
                   - To go请多关照: songs/album/1st/song-3.md
                   - 交换条件: songs/album/1st/song-4.md
                   - 喜欢上你是我的自由: songs/album/1st/song-5.md
-              # - 旧结构:
-              #     - 简介: songs/album/1st/index-disc.md
-              #     - Disc1:
-              #         - 不曾存在的我: songs/single/1st/song-1.md
-              #         - 散发出了香波的气息: songs/single/2nd/song-1.md
-              #         - 理解者: songs/single/3rd/song-1.md
-              #         - 什么都无法为你做到: songs/single/4th/song-1.md
-              #         - 太难了: songs/single/5th/song-1.md
-              #         - 风在吹吗?: songs/single/6th/song-1.md
-              #         - 若是我的所有之物: songs/single/7th/song-1.md
-              #         - 风信子: songs/album/1st/song-1.md
-              #         - 试着在空中飞翔吧: songs/album/1st/song-2.md
-              #         - 11人聚集的理由: songs/single/1st/song-3.md
-              #     - Disc2(角色歌):
-              #         - 简介: songs/album/1st/index-disc2.md
-              #     - Disc3(组合歌):
-              #         - 半炒饭: songs/single/6th/song-3.md
-              #         - To go请多关照: songs/album/1st/song-3.md
-              #         - 纹身·爱: songs/single/6th/song-4.md
-              #         - 交换条件: songs/album/1st/song-4.md
-              #         - 冰激凌掉地上: songs/single/6th/song-5.md
-              #         - 喜欢上你是我的自由: songs/album/1st/song-5.md
-              #         - 猕猴桃主张(白组): songs/single/7th/song-4.md
-              #         - 雷鸣的Delay(红组): songs/single/7th/song-5.md
-              #     - BD:
-              #         - 简介: songs/album/1st/index-bd.md
           - 旅人算:
               - 简介: songs/album/2nd/index.md
               - 专辑新曲:
@@ -543,6 +401,12 @@ nav:
 
   - 个人节目/直播:
       - 索引: personal-bangumi/index.md
+      - 成员:
+          - 河濑诗:
+              - 索引: personal-bangumi/KawaseUta/index.md
+              - 生日活动: personal-bangumi/KawaseUta/uta-matsuri.md
+              - 河瀬詩の“したっけ、これから家（うち）きちゃう？” / 河瀬詩の“うたっけ！”: personal-bangumi/KawaseUta/sitakke-utakke.md
+              - 河瀬詩の泡沫らじお-UTAKATA RADIO-: personal-bangumi/KawaseUta/utakata-radio.md
 
   - 生放送/节目:
       - 索引: bangumi/index.md
