@@ -62,7 +62,12 @@ title: 22/7 计算外 - Season 3
 | 15  | 2026.7.11 |  南北的小田原市PR之旅!一开始就遭遇暴雨！？在渔港之站吃吃吃PR！？甚至还有突入的学习时间？结果都是小笨蛋！ | [中字](https://www.bilibili.com/video/BV1qWg16SEJE){target=_blank} |
 | 16  | 2026.7.18 |  南北为了PR活动前往地方广播电台FM小田原进行交涉!能否顺利出演呢？然后是怒涛般的展开！接着又向三四郎谈判！？究竟会? | [中字](https://www.bilibili.com/video/BV1XZGP6AEVe){target=_blank} |
 | 17  | 2026.7.25 |  音乐FES的“#小田原大合战”的揽客活动！相田&依子&茉奈全力宣传却!?爱丽丝&三云的无能宣传让小宫开始斯巴达式指导!? | [中字](https://www.bilibili.com/video/BV1WZM26bE3Z){target=_blank} |
-| 18  | 2026.8.1 |  小田原大合戦演出本番&大胃王不在的大胃王挑战！ | [共星](https://www.bilibili.com/video/BV17R3m6cEHY){target=_blank} |
+| 18  | 2026.8.1  | 音乐节“小田原大合战”终于开始正式开始!三期生在三四郎注视下堂堂登场！live结束后的大胃王挑战!? | [中字](https://www.bilibili.com/video/BV1y5ur6jEJu){target=_blank} |
+| 19  | 2026.8.8  | 河濑&月城&望月的PR活动！从小田原出发驰向大海!谁会空军!? | [中字](https://www.bilibili.com/video/BV1CC8J6zECk){target=_blank} |
+| 20  | 2026.8.15 | 河濑＆月城舞＆望月，三人在月城的提议下会有何展开！？橘&桧山&南！对于初次开始三人PR活动，网络巨人依子会！？ | [中字](https://www.bilibili.com/video/BV1Zs8Z6KES9){target=_blank} |
+| 21  | 2026.8.22 | 茉奈&依子&南！在江之岛茉欺少年穷的白学现场!?海选排名最靠后三人在湘南学校与舞蹈社联动舞蹈！ | [中字](https://www.bilibili.com/video/BV1tDtf6nEqG){target=_blank} |
+| 22  | 2026.8.29 | 江之岛PR战，田径部突袭接力对决，海边意外邀约 | [机翻](https://www.bilibili.com/video/BV1QU416nEh5){target=_blank} |
+| 23  | 2026.9.5  | mao阿诗rino鎌倉小町突击宣传，三云爱丽丝美玲信号格三人组快乐摸鱼 | [机翻](https://www.bilibili.com/video/BV1TBbL6eEmS){target=_blank} |
 
 
 
