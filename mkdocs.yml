@@ -479,17 +479,17 @@ extra_css:
   - "_static/css/glightbox.min.css"
   - stylesheets/extra.css
   - stylesheets/home.css
-  - https://nananiji.zzzhxxx.top/css/jquery.fancybox.min.css
-  - https://nananiji.zzzhxxx.top/css/APlayer.min.css
+  - _static/css/jquery.fancybox.min.css
+  - _static/css/APlayer.min.css
 extra_javascript:
   - "_static/js/glightbox.min.js"
   - "_static/js/glightbox.js"
-  - https://nananiji.zzzhxxx.top/js/jquery.min.js
-  - https://nananiji.zzzhxxx.top/js/jquery.fancybox.min.js
-  - https://nananiji.zzzhxxx.top/js/DPlayer.min.js
-  - https://nananiji.zzzhxxx.top/js/md5.js
-  - https://nananiji.zzzhxxx.top/js/APlayer.min.js
-  - https://nananiji.zzzhxxx.top/js/Meting.min.js
+  - _static/js/jquery.min.js
+  - _static/js/jquery.fancybox.min.js
+  - _static/js/DPlayer.min.js
+  - _static/js/md5.js
+  - _static/js/APlayer.min.js
+  - _static/js/Meting.min.js
 extra:
   consent:
     title: Cookie consent

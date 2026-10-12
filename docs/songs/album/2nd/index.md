@@ -7,7 +7,7 @@ template: comment.html
 !!! general inline end "专辑信息"
 
     === "专辑封面"
-        ![旅人算](https://nananiji.zzzhxxx.top/assets/photo/songs/album/2nd.webp)
+        ![旅人算](https://res.227wiki.eu.org/photo/songs/album/2nd.webp)
     
     <center>:pack-hires: Hi-Res Lossless</center>
     

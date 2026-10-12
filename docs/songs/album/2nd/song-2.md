@@ -7,7 +7,7 @@ template: comment.html
 !!! general inline end "歌曲信息"
 
     === "专辑封面"
-        ![](https://nananiji.zzzhxxx.top/assets/photo/songs/album/2nd.webp)
+        ![](https://res.227wiki.eu.org/photo/songs/album/2nd.webp)
     --------
     
     <b>歌曲名称:</b> 世界の矛盾

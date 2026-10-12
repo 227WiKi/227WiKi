@@ -77,7 +77,7 @@ template: comment.html
     <b>角色</b> 河野都
 
     <figure markdown>
-        ![mizuha](https://nananiji.zzzhxxx.top/assets/mizuha-sig.svg){ width="100" }
+        ![mizuha](/assets/mizuha-sig.svg){ width="100" }
         <figcaption>签名</figcaption>
     </figure>
     [:fontawesome-brands-twitter:](https://twitter.com/kura_maru_maru)

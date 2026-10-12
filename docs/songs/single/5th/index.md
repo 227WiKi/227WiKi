@@ -7,11 +7,11 @@ template: comment.html
 !!! general inline end "歌曲信息"
 
     === "完全生产限定盘 Type-A"
-        ![完全生产限定盘 Type-A](https://nananiji.zzzhxxx.top/assets/photo/songs/single/5th-1.jpg)
+        ![完全生产限定盘 Type-A](/assets/photo/songs/single/5th-1.jpg)
     === "完全生产限定盘 Type-B"
-        ![完全生产限定盘 Type-B](https://nananiji.zzzhxxx.top/assets/photo/songs/single/5th-2.jpg)
+        ![完全生产限定盘 Type-B](/assets/photo/songs/single/5th-2.jpg)
     === "通常盘"
-        ![通常盘](https://nananiji.zzzhxxx.top/assets/photo/songs/single/5th-3.jpg)
+        ![通常盘](/assets/photo/songs/single/5th-3.jpg)
     
     <center>:pack-hires: Hi-Res Lossless</center>
     

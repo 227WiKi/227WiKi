@@ -154,7 +154,7 @@ template: comment.html
 </head>
 
 <body>
-    <script src="https://nananiji.zzzhxxx.top/js/md5.js"></script>
+    <script src="/_static/js/md5.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/artplayer/dist/artplayer.js"></script>
     <script>
     var art1 = new Artplayer({

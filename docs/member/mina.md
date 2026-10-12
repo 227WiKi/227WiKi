@@ -19,11 +19,11 @@ template: comment.html
 
     === "九单(v2)"
 
-        ![九单公式照(第二版)](https://nananiji.zzzhxxx.top/assets/photo/mina/9th-2.jpg!compress){ loading=lazy }
+        ![九单公式照(第二版)](/assets/photo/mina/9th-2.jpg){ loading=lazy }
         
     === "九单(v1)"
 
-        ![九单公式照(第一版)](https://nananiji.zzzhxxx.top/assets/photo/mina/9th.jpg!compress){ loading=lazy }
+        ![九单公式照(第一版)](/assets/photo/mina/9th.jpg){ loading=lazy }
 
 
     --------

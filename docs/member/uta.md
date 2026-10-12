@@ -35,38 +35,38 @@ template: comment.html
 
     === "十一单"
 
-        ![十一单公式照](https://nananiji.zzzhxxx.top/assets/photo/uta/11th.jpg!compress){ loading=lazy }
+        ![十一单公式照](https://res.227wiki.eu.org/photo/uta/11th.jpg){ loading=lazy }
 
     === "十单"
 
-        ![十单公式照](https://nananiji.zzzhxxx.top/assets/photo/uta/10th.webp!compress){ loading=lazy }
+        ![十单公式照](https://res.227wiki.eu.org/photo/uta/10th.webp){ loading=lazy }
 
     === "九单v2"
 
-        ![九单v2公式照](https://nananiji.zzzhxxx.top/assets/photo/uta/9th-2.jpg!compress){ loading=lazy }
+        ![九单v2公式照](/assets/photo/uta/9th-2.jpg){ loading=lazy }
         
     === "九单"
 
-        ![九单公式照](https://nananiji.zzzhxxx.top/assets/photo/uta/9th.jpg!compress){ loading=lazy }
+        ![九单公式照](/assets/photo/uta/9th.jpg){ loading=lazy }
 
     === "八单"
 
-        ![八单公式照](https://nananiji.zzzhxxx.top/assets/photo/uta/8th.jpg!compress){ loading=lazy }
+        ![八单公式照](https://res.227wiki.eu.org/photo/uta/8th.jpg){ loading=lazy }
 
     === "一专"
 
-        ![一专公式照](https://nananiji.zzzhxxx.top/assets/photo/uta/1st-album.jpg!compress){ loading=lazy }
+        ![一专公式照](https://res.227wiki.eu.org/photo/uta/1st-album.jpg){ loading=lazy }
 
     === "七单"
 
-        ![七单公式照](https://nananiji.zzzhxxx.top/assets/photo/uta/7th.jpg!compress){ loading=lazy }
+        ![七单公式照](https://res.227wiki.eu.org/photo/uta/7th.jpg){ loading=lazy }
     === "六单"
 
-        ![六单公式照](https://nananiji.zzzhxxx.top/assets/photo/uta/6th.jpg!compress){ loading=lazy }
+        ![六单公式照](https://res.227wiki.eu.org/photo/uta/6th.jpg){ loading=lazy }
 
     === "五单"
 
-        ![五单公式照](https://nananiji.zzzhxxx.top/assets/photo/uta/5th.jpg!compress){ loading=lazy }
+        ![五单公式照](https://res.227wiki.eu.org/photo/uta/5th.jpg){ loading=lazy }
 
     --------
 
@@ -101,11 +101,11 @@ template: comment.html
     <b>小组</b> 荧光灯再生计划
 
     <figure markdown>
-        ![uta](https://nananiji.zzzhxxx.top/assets/uta-sig.svg){ width="100" loading=lazy }
+        ![uta](/assets/uta-sig.svg){ width="100" loading=lazy }
         <figcaption>签名1</figcaption>
     </figure>
     <figure markdown>
-        ![uta](https://nananiji.zzzhxxx.top/assets/uta-sig2.svg){ width="100" loading=lazy }
+        ![uta](https://res.227wiki.eu.org/assets/uta-sig2.svg){ width="100" loading=lazy }
         <figcaption>签名2</figcaption>
     </figure>
     [:fontawesome-brands-twitter:](https://twitter.com/kawase_uta_0227) [:fontawesome-brands-instagram:](https://instagram.com/kawase_uta)
@@ -179,7 +179,7 @@ template: comment.html
 [^11]: SHOWROOM 2020.04.13
 
 <script src="https://cdn.jsdelivr.net/npm/artplayer/dist/artplayer.js"></script>
-<script src="https://nananiji.zzzhxxx.top/js/aplayer.min.js"></script>
+<script src="/_static/js/APlayer.min.js"></script>
 
 <script>
 var art = new Artplayer({
@@ -222,19 +222,19 @@ const ap = new APlayer({
         name: '台词1',
         artist: '河瀬詩',
         url: 'https://res.227wiki.eu.org/audio/voicesample/uta/1.mp4',
-        cover: 'https://nananiji.zzzhxxx.top/assets/photo/avatar/uta.jpg'
+        cover: '/assets/photo/avatar/uta.jpg'
         },
         {
             name: '台词2',
             artist: '河瀬詩',
             url: 'https://res.227wiki.eu.org/audio/voicesample/uta/2.mp4',
-            cover: 'https://nananiji.zzzhxxx.top/assets/photo/avatar/uta.jpg'
+            cover: '/assets/photo/avatar/uta.jpg'
         },
         {
             name: '台词3',
             artist: '河瀬詩',
             url: 'https://res.227wiki.eu.org/audio/voicesample/uta/3.mp4',
-            cover: 'https://nananiji.zzzhxxx.top/assets/photo/avatar/uta.jpg'
+            cover: '/assets/photo/avatar/uta.jpg'
         }]
 });
     </script>

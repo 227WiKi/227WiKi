@@ -99,7 +99,7 @@ template: comment.html
     <b>角色</b> 立川绚香
 
     <figure markdown>
-        ![reina](https://nananiji.zzzhxxx.top/assets/reina-sig.svg){ width="100" }
+        ![reina](/assets/reina-sig.svg){ width="100" }
         <figcaption>签名</figcaption>
     </figure>
     [:fontawesome-brands-twitter:](https://twitter.com/ui_sakura_0526)

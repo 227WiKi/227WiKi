@@ -43,11 +43,11 @@ template: comment.html
 
     === "九单(v2)"
 
-        ![九单公式照(第二版)](https://nananiji.zzzhxxx.top/assets/photo/rino/9th-2.jpg!compress){ loading=lazy }
+        ![九单公式照(第二版)](/assets/photo/rino/9th-2.jpg){ loading=lazy }
         
     === "九单(v1)"
 
-        ![九单公式照(第一版)](https://nananiji.zzzhxxx.top/assets/photo/rino/9th.jpg!compress){ loading=lazy }
+        ![九单公式照(第一版)](/assets/photo/rino/9th.jpg){ loading=lazy }
 
     --------
 
@@ -74,7 +74,7 @@ template: comment.html
     <b>角色</b> 濑良穂乃花
   
     <figure markdown>
-        ![rino](https://nananiji.zzzhxxx.top/assets/rino-sig.svg){ width="100" loading=lazy }
+        ![rino](https://res.227wiki.eu.org/assets/rino-sig.svg){ width="100" loading=lazy }
         <figcaption>签名</figcaption>
     </figure>
     [:fontawesome-brands-twitter:](https://twitter.com/rino_mochizuki) [:fontawesome-brands-instagram:](https://twitter.com/cure_rinochi) [:fontawesome-brands-tiktok:](https://www.tiktok.com/@cure_rinochi)
@@ -134,9 +134,9 @@ template: comment.html
 
 <div id="dplayer"></div>
 
-<script src="https://nananiji.zzzhxxx.top/js/md5.js"></script>
-<script src="https://nananiji.zzzhxxx.top/js/hls.min.js"></script>
-<script src="https://nananiji.zzzhxxx.top/js/DPlayer.min.js"></script>
+<script src="/_static/js/md5.js"></script>
+<script src="/_static/js/hls.min.js"></script>
+<script src="/_static/js/DPlayer.min.js"></script>
 <script>
     const dp = new DPlayer({
     container: document.getElementById('dplayer'),

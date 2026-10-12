@@ -77,7 +77,7 @@ template: comment.html
     <b>角色</b> 户田纯
 
     <figure markdown>
-        ![ruri](https://nananiji.zzzhxxx.top/assets/ruri-sig.svg){ width="100" }
+        ![ruri](/assets/ruri-sig.svg){ width="100" }
         <figcaption>签名</figcaption>
     </figure>
     [:fontawesome-brands-twitter:](https://twitter.com/ru_ri0808)

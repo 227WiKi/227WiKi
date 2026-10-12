@@ -11,19 +11,19 @@ template: comment.html
         ![LEAP!Project时期照片](https://res.227wiki.eu.org/photo/oto/oto_leap.webp){ loading=lazy }
     === "十一单"
 
-        ![十一单公式照](https://nananiji.zzzhxxx.top/assets/photo/oto/11th.jpg!compress){ loading=lazy }
+        ![十一单公式照](https://res.227wiki.eu.org/photo/oto/11th.jpg){ loading=lazy }
 
     === "十单"
 
-        ![十单公式照](https://nananiji.zzzhxxx.top/assets/photo/oto/10th.webp!compress){ loading=lazy }
+        ![十单公式照](https://res.227wiki.eu.org/photo/oto/10th.webp){ loading=lazy }
 
     === "九单(v2)"
 
-        ![九单公式照(第二版)](https://nananiji.zzzhxxx.top/assets/photo/oto/9th-2.jpg!compress){ loading=lazy }
+        ![九单公式照(第二版)](https://res.227wiki.eu.org/photo/oto/9th-2.jpg){ loading=lazy }
         
     === "九单(v1)"
 
-        ![九单公式照(第一版)](https://nananiji.zzzhxxx.top/assets/photo/oto/9th.jpg!compress){ loading=lazy }
+        ![九单公式照(第一版)](https://res.227wiki.eu.org/photo/oto/9th.jpg){ loading=lazy }
 
     --------
 
@@ -104,9 +104,9 @@ template: comment.html
 
 [^1]: https://blog.nanabunnonijyuuni.com/s/n227/diary/detail/2279
 
-<script src="https://nananiji.zzzhxxx.top/js/md5.js"></script>
-<script src="https://nananiji.zzzhxxx.top/js/hls.min.js"></script>
-<script src="https://nananiji.zzzhxxx.top/js/DPlayer.min.js"></script>
+<script src="/_static/js/md5.js"></script>
+<script src="/_static/js/hls.min.js"></script>
+<script src="/_static/js/DPlayer.min.js"></script>
 <script>
     const dp = new DPlayer({
     container: document.getElementById('dplayer'),

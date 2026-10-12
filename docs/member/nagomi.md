@@ -25,63 +25,63 @@ template: comment.html
 
     === "二专"
 
-        ![二专公式照](https://nananiji.zzzhxxx.top/assets/photo/nagomi/2nd-album.jpg!compress){ loading=lazy }
+        ![二专公式照](https://res.227wiki.eu.org/photo/nagomi/2nd-album.jpg){ loading=lazy }
 
     === "十一单"
 
-        ![十一单公式照](https://nananiji.zzzhxxx.top/assets/photo/nagomi/11th.jpg!compress){ loading=lazy }
+        ![十一单公式照](https://res.227wiki.eu.org/photo/nagomi/11th.jpg){ loading=lazy }
 
     === "十单"
 
-        ![十单公式照](https://nananiji.zzzhxxx.top/assets/photo/nagomi/10th.jpg!compress){ loading=lazy }
+        ![十单公式照](https://res.227wiki.eu.org/photo/nagomi/10th.jpg){ loading=lazy }
 
     === "九单(v2)"
 
-        ![九单公式照(第二版)](https://nananiji.zzzhxxx.top/assets/photo/nagomi/9th-2.jpg!compress){ loading=lazy }
+        ![九单公式照(第二版)](https://res.227wiki.eu.org/photo/nagomi/9th-2.jpg){ loading=lazy }
 
     === "九单(v1)"
 
-        ![九单公式照(第一版)](https://nananiji.zzzhxxx.top/assets/photo/nagomi/9th.jpg!compress){ loading=lazy }
+        ![九单公式照(第一版)](https://res.227wiki.eu.org/photo/nagomi/9th.jpg){ loading=lazy }
 
     === "八单"
 
-        ![八单公式照](https://nananiji.zzzhxxx.top/assets/photo/nagomi/8th.jpg!compress){ loading=lazy }
+        ![八单公式照](https://res.227wiki.eu.org/photo/nagomi/8th.jpg){ loading=lazy }
 
     === "一专"
 
-        ![一专公式照](https://nananiji.zzzhxxx.top/assets/photo/nagomi/1st-album.jpg!compress){ loading=lazy }
+        ![一专公式照](https://res.227wiki.eu.org/photo/nagomi/1st-album.jpg){ loading=lazy }
 
     === "七单"
 
-        ![七单公式照](https://nananiji.zzzhxxx.top/assets/photo/nagomi/7th.jpg!compress){ loading=lazy }
+        ![七单公式照](https://res.227wiki.eu.org/photo/nagomi/7th.jpg){ loading=lazy }
 
     === "六单"
 
-        ![六单公式照](https://nananiji.zzzhxxx.top/assets/photo/nagomi/6th.jpg!compress){ loading=lazy }
+        ![六单公式照](https://res.227wiki.eu.org/photo/nagomi/6th.jpg){ loading=lazy }
 
     === "五单"
 
-        ![五单公式照](https://nananiji.zzzhxxx.top/assets/photo/nagomi/5th.jpg!compress){ loading=lazy }
+        ![五单公式照](https://res.227wiki.eu.org/photo/nagomi/5th.jpg){ loading=lazy }
 
     === "四单"
 
-        ![四单公式照](https://nananiji.zzzhxxx.top/assets/photo/nagomi/4th.jpg!compress){ loading=lazy }
+        ![四单公式照](https://res.227wiki.eu.org/photo/nagomi/4th.jpg){ loading=lazy }
 
     === "三单"
 
-        ![三单公式照](https://nananiji.zzzhxxx.top/assets/photo/nagomi/3rd.jpg!compress){ loading=lazy }
+        ![三单公式照](https://res.227wiki.eu.org/photo/nagomi/3rd.jpg){ loading=lazy }
 
     === "二单"
 
-        ![二单公式照](https://nananiji.zzzhxxx.top/assets/photo/nagomi/2nd.jpg!compress){ loading=lazy }
+        ![二单公式照](https://res.227wiki.eu.org/photo/nagomi/2nd.jpg){ loading=lazy }
 
     === "一单"
 
-        ![一单公式照](https://nananiji.zzzhxxx.top/assets/photo/nagomi/nagomi-1st.jpg!compress){ loading=lazy }
+        ![一单公式照](https://res.227wiki.eu.org/photo/nagomi/nagomi-1st.jpg){ loading=lazy }
 
     === "初次亮相"
 
-        ![初次亮相白裙照](https://nananiji.zzzhxxx.top/assets/photo/nagomi/WhiteDress.jpg!compress){ loading=lazy }
+        ![初次亮相白裙照](https://res.227wiki.eu.org/photo/nagomi/WhiteDress.jpg){ loading=lazy }
     
         
     --------
@@ -117,7 +117,7 @@ template: comment.html
     <b>小组</b>  漏了气的甜汽水
 
     <figure markdown>
-        ![Nagomi](https://nananiji.zzzhxxx.top/assets/nagomi-sig.svg){ width="100" loading=lazy }
+        ![Nagomi](/assets/nagomi-sig.svg){ width="100" loading=lazy }
         <figcaption>签名</figcaption>
     </figure>
     [:fontawesome-brands-twitter:](https://twitter.com/nagomi_saijo) [:fontawesome-brands-tiktok:](https://www.tiktok.com/@nagomi_saijo)
@@ -195,8 +195,8 @@ template: comment.html
 
 
 
-<link rel="stylesheet" href="https://nananiji.zzzhxxx.top/css/aplayer.min.css">
-<script src="https://nananiji.zzzhxxx.top/js/aplayer.min.js"></script>
+<link rel="stylesheet" href="/_static/css/APlayer.min.css">
+<script src="/_static/js/APlayer.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/artplayer/dist/artplayer.js"></script>
 
 <script>
@@ -239,7 +239,7 @@ template: comment.html
         name: 'Voice Sample',
         artist: '西條和',
         url: 'https://files.zzzhxxx.top/voicesample/nagomi.mp3',
-        cover: 'https://nananiji.zzzhxxx.top/assets/photo/avatar/nagomi.jpg'
+        cover: 'https://res.227wiki.eu.org/photo/avatar/graduated/nagomi.jpg'
     }]
 });
 </script>

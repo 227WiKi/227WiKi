@@ -7,11 +7,11 @@ template: comment.html
 !!! general inline end "歌曲信息"
 
     === "完全生产限定盘"
-        ![](https://nananiji.zzzhxxx.top/assets/photo/songs/single/6th-1.jpg)
+        ![](/assets/photo/songs/single/6th-1.jpg)
     === "完全盘"
-        ![](https://nananiji.zzzhxxx.top/assets/photo/songs/single/6th-2.jpg)
+        ![](/assets/photo/songs/single/6th-2.jpg)
     === "通常盘"
-        ![](https://nananiji.zzzhxxx.top/assets/photo/songs/single/6th-3.jpg)
+        ![](/assets/photo/songs/single/6th-3.jpg)
     --------
     
     <b>歌曲名称:</b> 纹身·爱

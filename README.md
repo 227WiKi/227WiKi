@@ -97,7 +97,7 @@ mkdocs serve
 - 默认 URL 规则：
 
 - `active`、`third`：`https://res.227wiki.eu.org/photo/avatar/16th/{slug}.jpg`
-- `graduated`：`https://nananiji.zzzhxxx.top/assets/photo/avatar/{slug}.jpg!avatar`
+- `graduated`：`https://res.227wiki.eu.org/photo/avatar/graduated/{slug}.jpg`
 
 - 更新流程：
 

@@ -73,7 +73,7 @@ template: comment.html
     <b>角色</b> 东条悠希
 
     <figure markdown>
-        ![urara](https://nananiji.zzzhxxx.top/assets/urara-sig.svg){ width="100" }
+        ![urara](/assets/urara-sig.svg){ width="100" }
         <figcaption>签名</figcaption>
     </figure>
     [:fontawesome-brands-twitter:](https://twitter.com/hinagaurara) 

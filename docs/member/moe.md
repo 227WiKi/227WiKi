@@ -32,46 +32,46 @@ template: comment.html
 
     === "九单(v2)"
 
-        ![九单公式照(第二版)](https://nananiji.zzzhxxx.top/assets/photo/moe/9th-2.jpg!compress){ loading=lazy }
+        ![九单公式照(第二版)](/assets/photo/moe/9th-2.jpg){ loading=lazy }
     === "九单(v1)"
 
-        ![九单公式照(第一版)](https://nananiji.zzzhxxx.top/assets/photo/moe/9th.jpg!compress){ loading=lazy }
+        ![九单公式照(第一版)](/assets/photo/moe/9th.jpg){ loading=lazy }
 
     === "八单"
 
-        ![八单公式照](https://nananiji.zzzhxxx.top/assets/photo/moe/8th.jpg!compress){ loading=lazy }
+        ![八单公式照](/assets/photo/moe/8th.jpg){ loading=lazy }
 
     === "一专"
 
-        ![一专公式照](https://nananiji.zzzhxxx.top/assets/photo/moe/1st-album.jpg!compress){ loading=lazy }
+        ![一专公式照](/assets/photo/moe/1st-album.jpg){ loading=lazy }
 
     === "七单"
 
-        ![七单公式照](https://nananiji.zzzhxxx.top/assets/photo/moe/7th.jpg!compress){ loading=lazy }
+        ![七单公式照](/assets/photo/moe/7th.jpg){ loading=lazy }
         
     === "六单"
 
-        ![六单公式照](https://nananiji.zzzhxxx.top/assets/photo/moe/6th.jpg!compress){ loading=lazy }
+        ![六单公式照](/assets/photo/moe/6th.jpg){ loading=lazy }
 
     === "五单"
 
-        ![五单公式照](https://nananiji.zzzhxxx.top/assets/photo/moe/5th.jpg!compress){ loading=lazy }
+        ![五单公式照](/assets/photo/moe/5th.jpg){ loading=lazy }
 
     === "四单"
 
-        ![四单公式照](https://nananiji.zzzhxxx.top/assets/photo/moe/4th.jpg!compress){ loading=lazy }
+        ![四单公式照](/assets/photo/moe/4th.jpg){ loading=lazy }
 
     === "三单"
 
-        ![三单公式照](https://nananiji.zzzhxxx.top/assets/photo/moe/3rd.jpg!compress){ loading=lazy }
+        ![三单公式照](/assets/photo/moe/3rd.jpg){ loading=lazy }
 
     === "二单"
 
-        ![二单公式照](https://nananiji.zzzhxxx.top/assets/photo/moe/2nd.jpg!compress){ loading=lazy }
+        ![二单公式照](/assets/photo/moe/2nd.jpg){ loading=lazy }
 
     === "一单"
 
-        ![一单公式照](https://nananiji.zzzhxxx.top/assets/photo/moe/1st.jpg!compress){ loading=lazy }
+        ![一单公式照](/assets/photo/moe/1st.jpg){ loading=lazy }
 
     --------
 
@@ -99,7 +99,7 @@ template: comment.html
 
     
     <figure markdown>
-        ![moe](https://nananiji.zzzhxxx.top/assets/moe-sig.svg){ width="100" }
+        ![moe](/assets/moe-sig.svg){ width="100" }
         <figcaption>签名</figcaption>
     </figure>
     [:fontawesome-brands-twitter:](https://twitter.com/moepiyo_227) 
@@ -175,8 +175,8 @@ template: comment.html
 [^12]: https://nanabunnonijyuuni-mobile.com/s/n110/news/detail/10526?ima=1424
 
 <script src="https://cdn.jsdelivr.net/npm/artplayer/dist/artplayer.js"></script>
-<link rel="stylesheet" href="https://nananiji.zzzhxxx.top/css/aplayer.min.css">
-<script src="https://nananiji.zzzhxxx.top/js/aplayer.min.js"></script>
+<link rel="stylesheet" href="/_static/css/APlayer.min.css">
+<script src="/_static/js/APlayer.min.js"></script>
 <script>
     var art = new Artplayer({
     container: '.artplayer-app',
@@ -217,13 +217,13 @@ const ap= new APlayer({
         name: 'Sample 1',
         artist: '凉花萌',
         url: 'https://res.227wiki.eu.org/audio/voicesample/moe/moe-1.mp4',
-        cover: 'https://nananiji.zzzhxxx.top/assets/photo/avatar/moe.jpg'
+        cover: '/assets/photo/avatar/moe.jpg'
         },
         {
             name: 'Sample 2',
             artist: '凉花萌',
             url: 'https://res.227wiki.eu.org/audio/voicesample/moe/moe-2.mp4',
-            cover: 'https://nananiji.zzzhxxx.top/assets/photo/avatar/moe.jpg'
+            cover: '/assets/photo/avatar/moe.jpg'
         }]
 });
 </script>

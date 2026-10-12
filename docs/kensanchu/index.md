@@ -3,7 +3,7 @@ template: comment.html
 title: 22/7检算中 - 简介
 ---
 
-# <center><div class="header_logo"><img src="https://nananiji.zzzhxxx.top/assets/kensanchu.svg" width="336" height="379.5" alt="kensanchu logo"></div></center>
+# <center><div class="header_logo"><img src="/assets/kensanchu.svg" width="336" height="379.5" alt="kensanchu logo"></div></center>
 <!-- LOGO PLACE HOLDER -->
 
 <style>

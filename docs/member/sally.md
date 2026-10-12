@@ -33,63 +33,63 @@ template: comment.html
 
     === "二专"
 
-        ![二专公式照](https://nananiji.zzzhxxx.top/assets/photo/sally/2nd-album.jpg!compress){ loading=lazy }
+        ![二专公式照](https://res.227wiki.eu.org/photo/sally/2nd-album.webp){ loading=lazy }
 
     === "十一单"
 
-        ![十一单公式照](https://nananiji.zzzhxxx.top/assets/photo/sally/11th.jpg!compress){ loading=lazy }
+        ![十一单公式照](https://res.227wiki.eu.org/photo/sally/11th.webp){ loading=lazy }
 
     === "十单"
 
-        ![十单公式照](https://nananiji.zzzhxxx.top/assets/photo/sally/10th.jpg!compress){ loading=lazy }
+        ![十单公式照](https://res.227wiki.eu.org/photo/sally/10th.webp){ loading=lazy }
 
     === "九单(v2)"
 
-        ![九单公式照(第二版)](https://nananiji.zzzhxxx.top/assets/photo/sally/9th-2.jpg!compress){ loading=lazy }
+        ![九单公式照(第二版)](/assets/photo/sally/9th-2.jpg){ loading=lazy }
 
     === "九单(v1)"
 
-        ![九单公式照(第一版)](https://nananiji.zzzhxxx.top/assets/photo/sally/9th.jpg!compress){ loading=lazy }
+        ![九单公式照(第一版)](/assets/photo/sally/9th.jpg){ loading=lazy }
 
     === "八单"
 
-        ![八单公式照](https://nananiji.zzzhxxx.top/assets/photo/sally/8th.jpg!compress){ loading=lazy }
+        ![八单公式照](/assets/photo/sally/8th.jpg){ loading=lazy }
 
     === "一专"
 
-        ![一专公式照](https://nananiji.zzzhxxx.top/assets/photo/sally/1st-album.jpg!compress){ loading=lazy }
+        ![一专公式照](/assets/photo/sally/1st-album.jpg){ loading=lazy }
 
     === "七单"
 
-        ![七单公式照](https://nananiji.zzzhxxx.top/assets/photo/sally/7th.jpg!compress){ loading=lazy }
+        ![七单公式照](/assets/photo/sally/7th.jpg){ loading=lazy }
         
     === "六单"
 
-        ![六单公式照](https://nananiji.zzzhxxx.top/assets/photo/sally/6th.jpg!compress){ loading=lazy }
+        ![六单公式照](/assets/photo/sally/6th.jpg){ loading=lazy }
 
     === "五单"
 
-        ![五单公式照](https://nananiji.zzzhxxx.top/assets/photo/sally/5th.jpg!compress){ loading=lazy }
+        ![五单公式照](/assets/photo/sally/5th.jpg){ loading=lazy }
 
     === "四单"
 
-        ![四单公式照](https://nananiji.zzzhxxx.top/assets/photo/sally/4th.jpg!compress){ loading=lazy }
+        ![四单公式照](/assets/photo/sally/4th.jpg){ loading=lazy }
 
     === "三单"
 
-        ![三单公式照](https://nananiji.zzzhxxx.top/assets/photo/sally/3rd.jpg!compress){ loading=lazy }
+        ![三单公式照](/assets/photo/sally/3rd.jpg){ loading=lazy }
 
     === "二单"
 
-        ![二单公式照](https://nananiji.zzzhxxx.top/assets/photo/sally/2nd.jpg!compress){ loading=lazy }
+        ![二单公式照](/assets/photo/sally/2nd.jpg){ loading=lazy }
 
     === "一单"
 
-        ![一单公式照](https://nananiji.zzzhxxx.top/assets/photo/sally/1st.jpg!compress){ loading=lazy }
+        ![一单公式照](/assets/photo/sally/1st.jpg){ loading=lazy }
 
     === "初次亮相"
 
-        ![初次亮相白裙照](https://nananiji.zzzhxxx.top/assets/photo/sally/WhiteDress.jpg!compress){ loading=lazy }
+        ![初次亮相白裙照](/assets/photo/sally/WhiteDress.jpg){ loading=lazy }
 
     --------
 
@@ -116,7 +116,7 @@ template: comment.html
     <b>角色</b>  藤间樱
 
     <figure markdown>
-        ![sally](https://nananiji.zzzhxxx.top/assets/sally-sig.svg){ width="100" }
+        ![sally](/assets/sally-sig.svg){ width="100" }
         <figcaption>签名</figcaption>
     </figure>
     [:fontawesome-brands-twitter:](https://twitter.com/sally_amaki) [:fontawesome-brands-instagram:](https://www.instagram.com/sallyamaki/) [:fontawesome-brands-youtube:](https://www.youtube.com/channel/UCi4UjmN8HSi16sAhh_iEb6w) [:fontawesome-brands-tiktok:](https://www.tiktok.com/@sally_amaki)
@@ -193,7 +193,7 @@ template: comment.html
 
 
 
-<script src="https://nananiji.zzzhxxx.top/js/aplayer.min.js"></script>
+<script src="/_static/js/APlayer.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/artplayer/dist/artplayer.js"></script>
 <script>
 var art = new Artplayer({
@@ -235,37 +235,37 @@ var art = new Artplayer({
         name: '对话1',
         artist: '天城サリー',
         url: 'https://res.227wiki.eu.org/audio/voicesample/sally/sally-1.mp4',
-        cover: 'https://nananiji.zzzhxxx.top/assets/photo/avatar/sally.jpg'
+        cover: 'https://res.227wiki.eu.org/photo/avatar/16th/sally.jpg'
         },
         {
             name: '对话2',
             artist: '天城サリー',
             url: 'https://res.227wiki.eu.org/audio/voicesample/sally/sally-2.mp4',
-            cover: 'https://nananiji.zzzhxxx.top/assets/photo/avatar/sally.jpg'
+            cover: 'https://res.227wiki.eu.org/photo/avatar/16th/sally.jpg'
         },
         {
             name: '对话3',
             artist: '天城サリー',
             url: 'https://res.227wiki.eu.org/audio/voicesample/sally/sally-3.mp4',
-            cover: 'https://nananiji.zzzhxxx.top/assets/photo/avatar/sally.jpg'
+            cover: 'https://res.227wiki.eu.org/photo/avatar/16th/sally.jpg'
         },
         {
             name: '对话4',
             artist: '天城サリー',
             url: 'https://res.227wiki.eu.org/audio/voicesample/sally/sally-4.mp4',
-            cover: 'https://nananiji.zzzhxxx.top/assets/photo/avatar/sally.jpg'
+            cover: 'https://res.227wiki.eu.org/photo/avatar/16th/sally.jpg'
         },
         {
             name: '对话5',
             artist: '天城サリー',
             url: 'https://res.227wiki.eu.org/audio/voicesample/sally/sally-5.mp4',
-            cover: 'https://nananiji.zzzhxxx.top/assets/photo/avatar/sally.jpg'
+            cover: 'https://res.227wiki.eu.org/photo/avatar/16th/sally.jpg'
         },
         {
             name: '旁白',
             artist: '天城サリー',
             url: 'https://res.227wiki.eu.org/audio/voicesample/sally/sally-6.mp4',
-            cover: 'https://nananiji.zzzhxxx.top/assets/photo/avatar/sally.jpg'
+            cover: 'https://res.227wiki.eu.org/photo/avatar/16th/sally.jpg'
         }]
 });
     const ap1 = new APlayer({
@@ -274,79 +274,79 @@ var art = new Artplayer({
         name: '少女(Jealousy〜女社会〜)',
         artist: '天城サリー',
         url: 'https://res.227wiki.eu.org/audio/voicesample/sally/new/1.m4a',
-        cover: 'https://nananiji.zzzhxxx.top/assets/photo/avatar/sally.jpg'
+        cover: 'https://res.227wiki.eu.org/photo/avatar/16th/sally.jpg'
         },
         {
             name: '女子高校生は見た',
             artist: '天城サリー',
             url: 'https://res.227wiki.eu.org/audio/voicesample/sally/new/2.m4a',
-            cover: 'https://nananiji.zzzhxxx.top/assets/photo/avatar/sally.jpg'
+            cover: 'https://res.227wiki.eu.org/photo/avatar/16th/sally.jpg'
         },
         {
             name: '女子高校生2 (Blue Spring〜おこがましい気遣い〜)',
             artist: '天城サリー',
             url: 'https://res.227wiki.eu.org/audio/voicesample/sally/new/3.m4a',
-            cover: 'https://nananiji.zzzhxxx.top/assets/photo/avatar/sally.jpg'
+            cover: 'https://res.227wiki.eu.org/photo/avatar/16th/sally.jpg'
         },
         {   
             name: '犯人 (Revenge~最後のお願い〜)',
             artist: '天城サリー',
             url: 'https://res.227wiki.eu.org/audio/voicesample/sally/new/4.m4a',
-            cover: 'https://nananiji.zzzhxxx.top/assets/photo/avatar/sally.jpg'
+            cover: 'https://res.227wiki.eu.org/photo/avatar/16th/sally.jpg'
         },
         {
             name: '大人女性 (社畜と犬)',
             artist: '天城サリー',
             url: 'https://res.227wiki.eu.org/audio/voicesample/sally/new/5.m4a',
-            cover: 'https://nananiji.zzzhxxx.top/assets/photo/avatar/sally.jpg'
+            cover: 'https://res.227wiki.eu.org/photo/avatar/16th/sally.jpg'
         },
         {
             name: '泣き (百合の嘘)',
             artist: '天城サリー',
             url: 'https://res.227wiki.eu.org/audio/voicesample/sally/new/6.m4a',
-            cover: 'https://nananiji.zzzhxxx.top/assets/photo/avatar/sally.jpg'
+            cover: 'https://res.227wiki.eu.org/photo/avatar/16th/sally.jpg'
         },
         {
             name: '幼稚園児「Dreamer～平和の世界を夢見て～)',
             artist: '天城サリー',
             url: 'https://res.227wiki.eu.org/audio/voicesample/sally/new/7.m4a',
-            cover: 'https://nananiji.zzzhxxx.top/assets/photo/avatar/sally.jpg'
+            cover: 'https://res.227wiki.eu.org/photo/avatar/16th/sally.jpg'
         },
         {
             name: 'ナレーション1「Focus～世界一醜い(？)～」',
             artist: '天城サリー',
             url: 'https://res.227wiki.eu.org/audio/voicesample/sally/new/8.m4a',
-            cover: 'https://nananiji.zzzhxxx.top/assets/photo/avatar/sally.jpg'
+            cover: 'https://res.227wiki.eu.org/photo/avatar/16th/sally.jpg'
         },
         {
             name: 'ナレーション2(Only You〜愛の為なら〜)',
             artist: '天城サリー',
             url: 'https://res.227wiki.eu.org/audio/voicesample/sally/new/9.m4a',
-            cover: 'https://nananiji.zzzhxxx.top/assets/photo/avatar/sally.jpg'
+            cover: 'https://res.227wiki.eu.org/photo/avatar/16th/sally.jpg'
         },
         {
             name: '外画 (凹凹バディ)',
             artist: '天城サリー',
             url: 'https://res.227wiki.eu.org/audio/voicesample/sally/new/10.m4a',
-            cover: 'https://nananiji.zzzhxxx.top/assets/photo/avatar/sally.jpg'
+            cover: 'https://res.227wiki.eu.org/photo/avatar/16th/sally.jpg'
         },
         {
             name: 'ENG1 Adult(英語1 大人)',
             artist: '天城サリー',
             url: 'https://res.227wiki.eu.org/audio/voicesample/sally/new/ENG1.m4a',
-            cover: 'https://nananiji.zzzhxxx.top/assets/photo/avatar/sally.jpg'
+            cover: 'https://res.227wiki.eu.org/photo/avatar/16th/sally.jpg'
         },
         {
             name: 'ENG2 Teen ager(英語2 10代)',
             artist: '天城サリー',
             url: 'https://res.227wiki.eu.org/audio/voicesample/sally/new/ENG2.m4a',
-            cover: 'https://nananiji.zzzhxxx.top/assets/photo/avatar/sally.jpg'
+            cover: 'https://res.227wiki.eu.org/photo/avatar/16th/sally.jpg'
         },
         {
             name: 'ENG3 preschooler(英語3 幼児)',
             artist: '天城サリー',
             url: 'https://res.227wiki.eu.org/audio/voicesample/sally/new/ENG3.m4a',
-            cover: 'https://nananiji.zzzhxxx.top/assets/photo/avatar/sally.jpg'
+            cover: 'https://res.227wiki.eu.org/photo/avatar/16th/sally.jpg'
         }]
     });
 </script>

@@ -77,7 +77,7 @@ template: comment.html
     <b>角色</b> 佐藤丽华
 
     <figure markdown>
-        ![chiharu](https://nananiji.zzzhxxx.top/assets/chiharu-sig.svg){ width="100" }
+        ![chiharu](/assets/chiharu-sig.svg){ width="100" }
         <figcaption>签名</figcaption>
     </figure>
     [:fontawesome-brands-twitter:](https://twitter.com/chiharu_okr) 
@@ -153,8 +153,8 @@ template: comment.html
 [^5]: https://www.bilibili.com/video/BV1VE411G71G
 [^6]: https://www.bilibili.com/video/BV1cb411S7yx
 
-<link rel="stylesheet" href="https://nananiji.zzzhxxx.top/css/aplayer.min.css">
-<script src="https://nananiji.zzzhxxx.top/js/aplayer.min.js"></script>
+<link rel="stylesheet" href="/_static/css/APlayer.min.css">
+<script src="/_static/js/APlayer.min.js"></script>
 
 <script>
 const ap = new APlayer({
@@ -163,7 +163,7 @@ const ap = new APlayer({
         name: 'Voice Sample',
         artist: '千春',
         url: 'https://res.227wiki.eu.org/audio/voicesample/chiharu/chiharu.mp3',
-        cover: 'https://nananiji.zzzhxxx.top/assets/photo/avatar/chiharu.jpg'
+        cover: 'https://res.227wiki.eu.org/photo/avatar/graduated/chiharu.jpg'
     }]
 });
 </script>

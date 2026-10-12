@@ -99,7 +99,7 @@
         }
 
         if (status === "graduated") {
-            return "https://nananiji.zzzhxxx.top/assets/photo/avatar/" + slug + ".jpg!avatar";
+            return "https://res.227wiki.eu.org/photo/avatar/graduated/" + slug + ".jpg";
         }
 
         return "https://res.227wiki.eu.org/photo/avatar/16th/" + slug + ".jpg";

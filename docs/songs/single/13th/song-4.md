@@ -7,13 +7,13 @@ template: comment.html
 !!! general inline end "歌曲信息"
 
     === "完全生产限定盘 Type-A"
-        ![](https://nananiji.zzzhxxx.top/assets/photo/songs/single/13th-1.jpg)
+        ![](https://res.227wiki.eu.org/photo/songs/single/13th-1.jpg)
     === "完全生产限定盘 Type-B"
-        ![](https://nananiji.zzzhxxx.top/assets/photo/songs/single/13th-2.jpg)
+        ![](https://res.227wiki.eu.org/photo/songs/single/13th-2.jpg)
     === "完全生产限定盘 Type-C"
-        ![](https://nananiji.zzzhxxx.top/assets/photo/songs/single/13th-3.jpg)
+        ![](https://res.227wiki.eu.org/photo/songs/single/13th-3.jpg)
     === "ATRI盘"
-        ![](https://nananiji.zzzhxxx.top/assets/photo/songs/single/13th-4.jpg)
+        ![](https://res.227wiki.eu.org/photo/songs/single/13th-4.jpg)
     === "通常盘"
         ![](https://nananiji.zzzhxxx.top/assets/photo/songs/single/13th-5.jpg)
     --------

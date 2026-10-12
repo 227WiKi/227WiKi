@@ -30,7 +30,7 @@ def define_env(env):
             return explicit_avatar
 
         if status == "graduated":
-            return f"https://nananiji.zzzhxxx.top/assets/photo/avatar/{slug}.jpg!avatar"
+            return f"https://res.227wiki.eu.org/photo/avatar/graduated/{slug}.jpg"
 
         return f"https://res.227wiki.eu.org/photo/avatar/16th/{slug}.jpg"
 

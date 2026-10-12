@@ -7,11 +7,11 @@ template: comment.html
 !!! general inline end "歌曲信息"
 
     === "完全生产限定盘 Type-A"
-        ![](https://nananiji.zzzhxxx.top/assets/photo/songs/single/11th-1.webp)
+        ![](https://res.227wiki.eu.org/photo/songs/single/11th-1.webp)
     === "完全生产限定盘 Type-B"
-        ![](https://nananiji.zzzhxxx.top/assets/photo/songs/single/11th-2.webp)
+        ![](https://res.227wiki.eu.org/photo/songs/single/11th-2.webp)
     === "通常盘"
-        ![](https://nananiji.zzzhxxx.top/assets/photo/songs/single/11th-3.webp)
+        ![](https://res.227wiki.eu.org/photo/songs/single/11th-3.webp)
     --------
     
     <b>歌曲名称:</b> 僕は今夜、出て行く

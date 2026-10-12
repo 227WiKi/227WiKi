@@ -69,7 +69,7 @@ template: comment.html
     <b>角色</b> 柊蕾
 
     <figure markdown>
-        ![aina](https://nananiji.zzzhxxx.top/assets/aina-sig.svg){ width="100" }
+        ![aina](/assets/aina-sig.svg){ width="100" }
         <figcaption>签名</figcaption>
     </figure>
     [:fontawesome-brands-twitter:](https://twitter.com/ainacchi_35) [:fontawesome-brands-youtube:](https://www.youtube.com/@ainacchi-channel) 

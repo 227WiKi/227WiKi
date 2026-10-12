@@ -3,7 +3,7 @@ template: comment.html
 title: 22/7 计算中 - 简介
 ---
 
-# <center><div class="header_logo"><img src="https://nananiji.zzzhxxx.top/assets/keisanchu.svg" width="336" height="379.5" alt="keisanchu logo"></div></center>
+# <center><div class="header_logo"><img src="/assets/keisanchu.svg" width="336" height="379.5" alt="keisanchu logo"></div></center>
 <!-- LOGO PLACE HOLDER -->
 
 <style>

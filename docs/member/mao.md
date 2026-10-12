@@ -43,11 +43,11 @@ template: comment.html
 
     === "九单(v2)"
 
-        ![九单公式照(第二版)](https://nananiji.zzzhxxx.top/assets/photo/mao/9th-2.jpg!compress){ loading=lazy }
+        ![九单公式照(第二版)](/assets/photo/mao/9th-2.jpg){ loading=lazy }
 
     === "九单(v1)"
 
-        ![九单公式照(第一版)](https://nananiji.zzzhxxx.top/assets/photo/mao/9th.jpg!compress){ loading=lazy }
+        ![九单公式照(第一版)](/assets/photo/mao/9th.jpg){ loading=lazy }
 
     --------
 
@@ -78,7 +78,7 @@ template: comment.html
     <b>角色</b> 桐生塔子
   
     <figure markdown>
-        ![sign](https://nananiji.zzzhxxx.top/assets/mao-sig.svg){ width="100" loading=lazy }
+        ![sign](https://res.227wiki.eu.org/assets/mao-sig.svg){ width="100" loading=lazy }
         <figcaption>签名</figcaption>
     </figure>
 
@@ -135,9 +135,9 @@ template: comment.html
 <div id="dplayer"></div>
 
 
-<script src="https://nananiji.zzzhxxx.top/js/md5.js"></script>
-<script src="https://nananiji.zzzhxxx.top/js/hls.min.js"></script>
-<script src="https://nananiji.zzzhxxx.top/js/DPlayer.min.js"></script>
+<script src="/_static/js/md5.js"></script>
+<script src="/_static/js/hls.min.js"></script>
+<script src="/_static/js/DPlayer.min.js"></script>
 <script>
     const dp = new DPlayer({
     container: document.getElementById('dplayer'),
