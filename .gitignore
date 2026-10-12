@@ -11,3 +11,4 @@ __pycache__/
 .claude/
 .agent/
 .venv/
+/OUTDATED_LINKS_REPORT.md
