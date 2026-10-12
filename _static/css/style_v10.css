@@ -394,7 +394,7 @@ article {
     position: relative;
     display: block;
     border-radius: 10px;
-    background: url("https://nananiji.zzzhxxx.top/assets/home/line_blue.png");
+    background: url("/assets/home/line_blue.png");
     background-size: 9px 9px;
   }
 
@@ -410,7 +410,7 @@ article {
     outline: none;
     border: 0;
     -webkit-border-radius: 0;
-    background: url("https://nananiji.zzzhxxx.top/assets/home/icon_arrow.svg") no-repeat;
+    background: url("/assets/home/icon_arrow.svg") no-repeat;
     text-indent: -9999px;
     cursor: pointer;
     -webkit-appearance: none;
@@ -428,7 +428,7 @@ article {
     outline: none;
     border: 0;
     -webkit-border-radius: 0;
-    background: url("https://nananiji.zzzhxxx.top/assets/home/icon_arrow.svg") no-repeat;
+    background: url("/assets/home/icon_arrow.svg") no-repeat;
     text-indent: -9999px;
     cursor: pointer;
     -webkit-appearance: none;
@@ -493,7 +493,7 @@ article {
 
   .index_topics {
     padding: 80px 0;
-    background: url("https://nananiji.zzzhxxx.top/assets/home/line_blue_alpha.png");
+    background: url("/assets/home/line_blue_alpha.png");
     background-size: 9px 9px;
   }
 
@@ -534,7 +534,7 @@ article {
     z-index: 1;
     width: 20px;
     height: 100%;
-    background: url("https://nananiji.zzzhxxx.top/assets/home/topics_frame.svg") no-repeat;
+    background: url("/assets/home/topics_frame.svg") no-repeat;
     background-size: auto 100%;
     content: "";
   }
@@ -546,7 +546,7 @@ article {
     z-index: 1;
     width: 20px;
     height: 100%;
-    background: url("https://nananiji.zzzhxxx.top/assets/home/topics_frame.svg") no-repeat;
+    background: url("/assets/home/topics_frame.svg") no-repeat;
     background-size: auto 100%;
     content: "";
     transform: rotate(180deg);
@@ -615,7 +615,7 @@ article {
     padding: 10px 0 0 25px;
     width: 145px;
     height: 38px;
-    background: url("https://nananiji.zzzhxxx.top/assets/home/viewmore_back.svg") no-repeat;
+    background: url("/assets/home/viewmore_back.svg") no-repeat;
     background-size: 145px auto;
     color: #009ad4;
     font-weight: bold;
@@ -624,7 +624,7 @@ article {
 
   .viewmore a:hover {
     padding: 10px 0 0 25px;
-    background: url("https://nananiji.zzzhxxx.top/assets/home/viewmore_back_hover.svg") no-repeat;
+    background: url("/assets/home/viewmore_back_hover.svg") no-repeat;
     background-size: 145px auto;
     color: #fff;
   }
@@ -689,7 +689,7 @@ article {
     position: relative;
     display: inline-block;
     padding: 12px 30px 30px 90px;
-    background: url("https://nananiji.zzzhxxx.top/assets/home/icon_youtube_movie.svg") no-repeat 15px 0;
+    background: url("/assets/home/icon_youtube_movie.svg") no-repeat 15px 0;
     background-size: 55px auto;
     letter-spacing: 2px;
     font-weight: 700;
@@ -870,7 +870,7 @@ article {
 
   .index_event_date_next {
     padding-right: 60px;
-    background: url("https://nananiji.zzzhxxx.top/assets/home/icon_next.svg") no-repeat 90px 12px;
+    background: url("/assets/home/icon_next.svg") no-repeat 90px 12px;
     background-size: 17px auto;
     letter-spacing: 3px;
     font-size: 24px;
@@ -962,7 +962,7 @@ article {
 
   .about_main {
     padding: 60px 0;
-    background: url("https://nananiji.zzzhxxx.top/assets/home/line_blue_alpha.png");
+    background: url("/assets/home/line_blue_alpha.png");
     background-size: 9px 9px;
   }
 
@@ -1009,7 +1009,7 @@ article {
     z-index: 1;
     width: 100%;
     height: 8px;
-    background: url("https://nananiji.zzzhxxx.top/assets/home/line_blue_alpha.png");
+    background: url("/assets/home/line_blue_alpha.png");
     background-size: 9px 9px;
     content: "";
   }
@@ -1021,7 +1021,7 @@ article {
     z-index: 1;
     width: 100%;
     height: 8px;
-    background: url("https://nananiji.zzzhxxx.top/assets/home/line_blue_alpha.png");
+    background: url("/assets/home/line_blue_alpha.png");
     background-size: 9px 9px;
     content: "";
   }
@@ -1106,7 +1106,7 @@ article {
     z-index: 1;
     width: 100%;
     height: 8px;
-    background: url("https://nananiji.zzzhxxx.top/assets/home/line_blue_alpha.png");
+    background: url("/assets/home/line_blue_alpha.png");
     background-size: 9px 9px;
     content: "";
   }
@@ -1207,7 +1207,7 @@ article {
     z-index: 1;
     width: 100%;
     height: 8px;
-    background: url("https://nananiji.zzzhxxx.top/assets/home/line_blue_alpha.png");
+    background: url("/assets/home/line_blue_alpha.png");
     background-size: 9px 9px;
     content: "";
   }
@@ -1482,7 +1482,7 @@ article {
     z-index: 1;
     width: 100%;
     height: 8px;
-    background: url("https://nananiji.zzzhxxx.top/assets/home/line_blue_alpha.png");
+    background: url("/assets/home/line_blue_alpha.png");
     background-size: 9px 9px;
     content: "";
   }
@@ -1569,7 +1569,7 @@ article {
 
   .tv_main {
     padding: 60px 0;
-    background: url("https://nananiji.zzzhxxx.top/assets/home/line_blue_alpha.png");
+    background: url("/assets/home/line_blue_alpha.png");
     background-size: 9px 9px;
   }
 
@@ -1929,7 +1929,7 @@ article {
 
   .event_date_next {
     padding-right: 60px;
-    background: url("https://nananiji.zzzhxxx.top/assets/home/icon_next.svg") no-repeat 90px 12px;
+    background: url("/assets/home/icon_next.svg") no-repeat 90px 12px;
     background-size: 17px auto;
     letter-spacing: 3px;
     font-size: 24px;
@@ -2152,7 +2152,7 @@ article {
     padding: 10px 0 0 25px;
     width: 145px;
     height: 38px;
-    background: url("https://nananiji.zzzhxxx.top/assets/home/viewmore_back.svg") no-repeat;
+    background: url("/assets/home/viewmore_back.svg") no-repeat;
     background-size: 145px auto;
     color: #009ad4;
     font-weight: bold;
@@ -2161,7 +2161,7 @@ article {
 
   .artist_detail_sns li a:hover {
     padding: 8px 0 0 25px;
-    background: url("https://nananiji.zzzhxxx.top/assets/home/viewmore_back_hover.svg") no-repeat;
+    background: url("/assets/home/viewmore_back_hover.svg") no-repeat;
     background-size: 145px auto;
     color: #fff;
   }
@@ -2283,7 +2283,7 @@ article {
     padding: 10px 0 0 25px;
     width: 145px;
     height: 38px;
-    background: url("https://nananiji.zzzhxxx.top/assets/home/viewmore_back.svg") no-repeat;
+    background: url("/assets/home/viewmore_back.svg") no-repeat;
     background-size: 145px auto;
     color: #009ad4;
     font-weight: bold;
@@ -2293,7 +2293,7 @@ article {
   .sample-voice-list li a:hover,
   .sample-voice-list li.active a {
     padding: 8px 0 0 25px;
-    background: url("https://nananiji.zzzhxxx.top/assets/home/viewmore_back_hover.svg") no-repeat;
+    background: url("/assets/home/viewmore_back_hover.svg") no-repeat;
     background-size: 145px auto;
     color: #fff;
   }
@@ -2745,7 +2745,7 @@ article {
     padding: 10px 0 0 25px;
     width: 145px;
     height: 38px;
-    background: url("https://nananiji.zzzhxxx.top/assets/home/viewmore_back.svg") no-repeat;
+    background: url("/assets/home/viewmore_back.svg") no-repeat;
     background-size: 145px auto;
     color: #009ad4;
     font-weight: bold;
@@ -2754,7 +2754,7 @@ article {
 
   .character_detail_actor_text a:hover {
     padding: 8px 0 0 25px;
-    background: url("https://nananiji.zzzhxxx.top/assets/home/viewmore_back_hover.svg") no-repeat;
+    background: url("/assets/home/viewmore_back_hover.svg") no-repeat;
     background-size: 145px auto;
     color: #fff;
   }
@@ -2834,7 +2834,7 @@ article {
     padding: 10px 0 0 10px;
     width: 145px;
     height: 38px;
-    background: url("https://nananiji.zzzhxxx.top/assets/home/viewmore_back.svg") no-repeat;
+    background: url("/assets/home/viewmore_back.svg") no-repeat;
     background-size: 145px auto;
     color: #009ad4;
     text-align: left;
@@ -2844,7 +2844,7 @@ article {
 
   .character_detail_movie_inner a:hover {
     padding: 10px 0 0 10px;
-    background: url("https://nananiji.zzzhxxx.top/assets/home/viewmore_back_hover.svg") no-repeat;
+    background: url("/assets/home/viewmore_back_hover.svg") no-repeat;
     background-size: 145px auto;
     color: #fff;
   }
@@ -2868,7 +2868,7 @@ article {
     padding: 10px 0 0 25px;
     width: 145px;
     height: 38px;
-    background: url("https://nananiji.zzzhxxx.top/assets/home/viewmore_back.svg") no-repeat;
+    background: url("/assets/home/viewmore_back.svg") no-repeat;
     background-size: 145px auto;
     color: #009ad4;
     text-align: left;
@@ -2878,7 +2878,7 @@ article {
 
   .character_detail_twitter a:hover {
     padding: 8px 0 0 25px;
-    background: url("https://nananiji.zzzhxxx.top/assets/home/viewmore_back_hover.svg") no-repeat;
+    background: url("/assets/home/viewmore_back_hover.svg") no-repeat;
     background-size: 145px auto;
     color: #fff;
   }
@@ -3007,7 +3007,7 @@ article {
     padding: 13px 0 0 25px;
     width: 180px;
     height: 47px;
-    background: url("https://nananiji.zzzhxxx.top/assets/home/viewmore_back.svg") no-repeat;
+    background: url("/assets/home/viewmore_back.svg") no-repeat;
     background-size: 180px auto;
     color: #009ad4;
     font-weight: bold;
@@ -3016,7 +3016,7 @@ article {
 
   .discography_detail_link li a:hover {
     padding: 8px 0 0 25px;
-    background: url("https://nananiji.zzzhxxx.top/assets/home/viewmore_back_hover.svg") no-repeat;
+    background: url("/assets/home/viewmore_back_hover.svg") no-repeat;
     background-size: 180px auto;
     color: #fff;
   }
@@ -3103,7 +3103,7 @@ article {
     padding: 10px 0 0 25px;
     width: 145px;
     height: 38px;
-    background: url("https://nananiji.zzzhxxx.top/assets/home/viewmore_back.svg") no-repeat;
+    background: url("/assets/home/viewmore_back.svg") no-repeat;
     background-size: 145px auto;
     color: #009ad4;
     text-align: left;
@@ -3113,7 +3113,7 @@ article {
 
   .blog-list__more .more a:hover {
     padding: 8px 0 0 25px;
-    background: url("https://nananiji.zzzhxxx.top/assets/home/viewmore_back_hover.svg") no-repeat;
+    background: url("/assets/home/viewmore_back_hover.svg") no-repeat;
     background-size: 145px auto;
     color: #fff;
   }
@@ -3984,7 +3984,7 @@ article {
     position: relative;
     display: block;
     border-radius: 10px;
-    background: url("https://nananiji.zzzhxxx.top/assets/home/line_blue.png");
+    background: url("/assets/home/line_blue.png");
     background-size: 9px 9px;
   }
 
@@ -4000,7 +4000,7 @@ article {
     outline: none;
     border: 0;
     -webkit-border-radius: 0;
-    background: url("https://nananiji.zzzhxxx.top/assets/home/icon_arrow.svg") no-repeat;
+    background: url("/assets/home/icon_arrow.svg") no-repeat;
     background-size: 15px auto;
     text-indent: -9999px;
     cursor: pointer;
@@ -4019,7 +4019,7 @@ article {
     outline: none;
     border: 0;
     -webkit-border-radius: 0;
-    background: url("https://nananiji.zzzhxxx.top/assets/home/icon_arrow.svg") no-repeat;
+    background: url("/assets/home/icon_arrow.svg") no-repeat;
     background-size: 15px auto;
     text-indent: -9999px;
     cursor: pointer;
@@ -4097,7 +4097,7 @@ article {
 
   .index_topics {
     padding: 40px 0 20px;
-    background: url("https://nananiji.zzzhxxx.top/assets/home/line_blue_alpha.png");
+    background: url("/assets/home/line_blue_alpha.png");
     background-size: 9px 9px;
   }
 
@@ -4146,7 +4146,7 @@ article {
     z-index: 1;
     width: 20px;
     height: 100%;
-    background: url("https://nananiji.zzzhxxx.top/assets/home/topics_frame.svg") no-repeat;
+    background: url("/assets/home/topics_frame.svg") no-repeat;
     background-size: auto 100%;
     content: "";
   }
@@ -4158,7 +4158,7 @@ article {
     z-index: 1;
     width: 20px;
     height: 100%;
-    background: url("https://nananiji.zzzhxxx.top/assets/home/topics_frame.svg") no-repeat;
+    background: url("/assets/home/topics_frame.svg") no-repeat;
     background-size: auto 100%;
     content: "";
     transform: rotate(180deg);
@@ -4220,7 +4220,7 @@ article {
     padding: 8px 0 0 20px;
     width: 100px;
     height: 26px;
-    background: url("https://nananiji.zzzhxxx.top/assets/home/viewmore_back.svg") no-repeat;
+    background: url("/assets/home/viewmore_back.svg") no-repeat;
     background-size: 100px auto;
     color: #009ad4;
     font-weight: bold;
@@ -4322,7 +4322,7 @@ article {
     position: relative;
     display: inline-block;
     padding: 12px 15px 10px 35px;
-    background: url("https://nananiji.zzzhxxx.top/assets/home/icon_youtube_movie.svg") no-repeat 5px 10px;
+    background: url("/assets/home/icon_youtube_movie.svg") no-repeat 5px 10px;
     background-size: 23px auto;
     letter-spacing: 2px;
     font-weight: 700;
@@ -4514,7 +4514,7 @@ article {
 
   .index_event_date_next {
     padding: 1px 20px 0 0;
-    background: url("https://nananiji.zzzhxxx.top/assets/home/icon_next.svg") no-repeat 37px 8px;
+    background: url("/assets/home/icon_next.svg") no-repeat 37px 8px;
     background-size: 10px auto;
     letter-spacing: 1px;
     font-size: 12px;
@@ -4608,7 +4608,7 @@ article {
 
   .about_main {
     padding: 30px 0;
-    background: url("https://nananiji.zzzhxxx.top/assets/home/line_blue_alpha.png");
+    background: url("/assets/home/line_blue_alpha.png");
     background-size: 9px 9px;
   }
 
@@ -4654,7 +4654,7 @@ article {
     z-index: 1;
     width: 100%;
     height: 8px;
-    background: url("https://nananiji.zzzhxxx.top/assets/home/line_blue_alpha.png");
+    background: url("/assets/home/line_blue_alpha.png");
     background-size: 9px 9px;
     content: "";
   }
@@ -4666,7 +4666,7 @@ article {
     z-index: 1;
     width: 100%;
     height: 8px;
-    background: url("https://nananiji.zzzhxxx.top/assets/home/line_blue_alpha.png");
+    background: url("/assets/home/line_blue_alpha.png");
     background-size: 9px 9px;
     content: "";
   }
@@ -4739,7 +4739,7 @@ article {
     z-index: 1;
     width: 100%;
     height: 8px;
-    background: url("https://nananiji.zzzhxxx.top/assets/home/line_blue_alpha.png");
+    background: url("/assets/home/line_blue_alpha.png");
     background-size: 9px 9px;
     content: "";
   }
@@ -4847,7 +4847,7 @@ article {
     z-index: 1;
     width: 100%;
     height: 8px;
-    background: url("https://nananiji.zzzhxxx.top/assets/home/line_blue_alpha.png");
+    background: url("/assets/home/line_blue_alpha.png");
     background-size: 9px 9px;
     content: "";
   }
@@ -5128,7 +5128,7 @@ article {
     z-index: 1;
     width: 100%;
     height: 8px;
-    background: url("https://nananiji.zzzhxxx.top/assets/home/line_blue_alpha.png");
+    background: url("/assets/home/line_blue_alpha.png");
     background-size: 9px 9px;
     content: "";
   }
@@ -5216,7 +5216,7 @@ article {
 
   .tv_main {
     padding: 30px 0;
-    background: url("https://nananiji.zzzhxxx.top/assets/home/line_blue_alpha.png");
+    background: url("/assets/home/line_blue_alpha.png");
     background-size: 9px 9px;
   }
 
@@ -5564,7 +5564,7 @@ article {
 
   .event_date_next {
     padding: 1px 20px 0 0;
-    background: url("https://nananiji.zzzhxxx.top/assets/home/icon_next.svg") no-repeat 37px 8px;
+    background: url("/assets/home/icon_next.svg") no-repeat 37px 8px;
     background-size: 10px auto;
     letter-spacing: 1px;
     font-size: 12px;
@@ -5783,7 +5783,7 @@ article {
     padding: 10px 0 0 25px;
     width: 145px;
     height: 38px;
-    background: url("https://nananiji.zzzhxxx.top/assets/home/viewmore_back.svg") no-repeat;
+    background: url("/assets/home/viewmore_back.svg") no-repeat;
     background-size: 145px auto;
     color: #009ad4;
     font-weight: bold;
@@ -5843,7 +5843,7 @@ article {
     padding: 10px 0 0 25px;
     width: 145px;
     height: 38px;
-    background: url("https://nananiji.zzzhxxx.top/assets/home/viewmore_back.svg") no-repeat;
+    background: url("/assets/home/viewmore_back.svg") no-repeat;
     background-size: 145px auto;
     color: #009ad4;
     font-weight: bold;
@@ -5852,7 +5852,7 @@ article {
 
   .sample-voice-list li.active a {
     padding: 8px 0 0 25px;
-    background: url("https://nananiji.zzzhxxx.top/assets/home/viewmore_back_hover.svg") no-repeat;
+    background: url("/assets/home/viewmore_back_hover.svg") no-repeat;
     background-size: 145px auto;
     color: #fff;
   }
@@ -6370,7 +6370,7 @@ article {
     padding: 10px 0 0 25px;
     width: 145px;
     height: 38px;
-    background: url("https://nananiji.zzzhxxx.top/assets/home/viewmore_back.svg") no-repeat;
+    background: url("/assets/home/viewmore_back.svg") no-repeat;
     background-size: 145px auto;
     color: #009ad4;
     font-weight: bold;
@@ -6466,7 +6466,7 @@ article {
     padding: 10px 0 0 10px;
     width: 145px;
     height: 38px;
-    background: url("https://nananiji.zzzhxxx.top/assets/home/viewmore_back.svg") no-repeat;
+    background: url("/assets/home/viewmore_back.svg") no-repeat;
     background-size: 145px auto;
     color: #009ad4;
     text-align: left;
@@ -6479,7 +6479,7 @@ article {
     padding: 10px 0 0 25px;
     width: 145px;
     height: 38px;
-    background: url("https://nananiji.zzzhxxx.top/assets/home/viewmore_back.svg") no-repeat;
+    background: url("/assets/home/viewmore_back.svg") no-repeat;
     background-size: 145px auto;
     color: #009ad4;
     text-align: left;
@@ -6601,7 +6601,7 @@ article {
     padding: 10px 0 0 20px;
     width: 145px;
     height: 38px;
-    background: url("https://nananiji.zzzhxxx.top/assets/home/viewmore_back.svg") no-repeat;
+    background: url("/assets/home/viewmore_back.svg") no-repeat;
     background-size: 145px auto;
     color: #009ad4;
     font-weight: bold;
@@ -6681,7 +6681,7 @@ article {
     padding: 8px 0 0 20px;
     width: 100px;
     height: 26px;
-    background: url("https://nananiji.zzzhxxx.top/assets/home/viewmore_back.svg") no-repeat;
+    background: url("/assets/home/viewmore_back.svg") no-repeat;
     background-size: 100px auto;
     color: #009ad4;
     text-align: left;

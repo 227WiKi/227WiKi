@@ -48,7 +48,7 @@ document.addEventListener("DOMContentLoaded", function () {
         }
 
         if (status === "graduated") {
-            return "https://nananiji.zzzhxxx.top/assets/photo/avatar/" + member.slug + ".jpg!avatar";
+            return "https://res.227wiki.eu.org/photo/avatar/graduated/" + member.slug + ".jpg";
         }
 
         return "https://res.227wiki.eu.org/photo/avatar/16th/" + member.slug + ".jpg";
