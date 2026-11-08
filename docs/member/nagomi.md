@@ -9,79 +9,79 @@ template: comment.html
 !!! nagomi-sig inline end "西條和"
     === "十五单"
 
-        ![十五单公式照](https://res.227wiki.eu.org/photo/nagomi/15th.webp){ loading=lazy }
+        ![十五单公式照](https://res.227wiki.eu.org/members/nagomi/official-photos/15th-single.webp){ loading=lazy }
 
     === "十四单"
 
-        ![十四单公式照](https://res.227wiki.eu.org/photo/nagomi/14th.webp){ loading=lazy }
+        ![十四单公式照](https://res.227wiki.eu.org/members/nagomi/official-photos/14th-single.webp){ loading=lazy }
 
     === "十三单"
 
-        ![十三单公式照](https://res.227wiki.eu.org/photo/nagomi/13th.jpg){ loading=lazy }
+        ![十三单公式照](https://res.227wiki.eu.org/members/nagomi/official-photos/13th-single.jpg){ loading=lazy }
 
     === "十二单"
 
-        ![十二单公式照](https://res.227wiki.eu.org/photo/nagomi/12th.jpg){ loading=lazy }
+        ![十二单公式照](https://res.227wiki.eu.org/members/nagomi/official-photos/12th-single.jpg){ loading=lazy }
 
     === "二专"
 
-        ![二专公式照](https://res.227wiki.eu.org/photo/nagomi/2nd-album.jpg){ loading=lazy }
+        ![二专公式照](https://res.227wiki.eu.org/members/nagomi/official-photos/2nd-album.jpg){ loading=lazy }
 
     === "十一单"
 
-        ![十一单公式照](https://res.227wiki.eu.org/photo/nagomi/11th.jpg){ loading=lazy }
+        ![十一单公式照](https://res.227wiki.eu.org/members/nagomi/official-photos/11th-single.jpg){ loading=lazy }
 
     === "十单"
 
-        ![十单公式照](https://res.227wiki.eu.org/photo/nagomi/10th.jpg){ loading=lazy }
+        ![十单公式照](https://res.227wiki.eu.org/members/nagomi/official-photos/10th-single.jpg){ loading=lazy }
 
     === "九单(v2)"
 
-        ![九单公式照(第二版)](https://res.227wiki.eu.org/photo/nagomi/9th-2.jpg){ loading=lazy }
+        ![九单公式照(第二版)](https://res.227wiki.eu.org/members/nagomi/official-photos/9th-single-v2.jpg){ loading=lazy }
 
     === "九单(v1)"
 
-        ![九单公式照(第一版)](https://res.227wiki.eu.org/photo/nagomi/9th.jpg){ loading=lazy }
+        ![九单公式照(第一版)](https://res.227wiki.eu.org/members/nagomi/official-photos/9th-single-v1.jpg){ loading=lazy }
 
     === "八单"
 
-        ![八单公式照](https://res.227wiki.eu.org/photo/nagomi/8th.jpg){ loading=lazy }
+        ![八单公式照](https://res.227wiki.eu.org/members/nagomi/official-photos/8th-single.jpg){ loading=lazy }
 
     === "一专"
 
-        ![一专公式照](https://res.227wiki.eu.org/photo/nagomi/1st-album.jpg){ loading=lazy }
+        ![一专公式照](https://res.227wiki.eu.org/members/nagomi/official-photos/1st-album.jpg){ loading=lazy }
 
     === "七单"
 
-        ![七单公式照](https://res.227wiki.eu.org/photo/nagomi/7th.jpg){ loading=lazy }
+        ![七单公式照](https://res.227wiki.eu.org/members/nagomi/official-photos/7th-single.jpg){ loading=lazy }
 
     === "六单"
 
-        ![六单公式照](https://res.227wiki.eu.org/photo/nagomi/6th.jpg){ loading=lazy }
+        ![六单公式照](https://res.227wiki.eu.org/members/nagomi/official-photos/6th-single.jpg){ loading=lazy }
 
     === "五单"
 
-        ![五单公式照](https://res.227wiki.eu.org/photo/nagomi/5th.jpg){ loading=lazy }
+        ![五单公式照](https://res.227wiki.eu.org/members/nagomi/official-photos/5th-single.jpg){ loading=lazy }
 
     === "四单"
 
-        ![四单公式照](https://res.227wiki.eu.org/photo/nagomi/4th.jpg){ loading=lazy }
+        ![四单公式照](https://res.227wiki.eu.org/members/nagomi/official-photos/4th-single.jpg){ loading=lazy }
 
     === "三单"
 
-        ![三单公式照](https://res.227wiki.eu.org/photo/nagomi/3rd.jpg){ loading=lazy }
+        ![三单公式照](https://res.227wiki.eu.org/members/nagomi/official-photos/3rd-single.jpg){ loading=lazy }
 
     === "二单"
 
-        ![二单公式照](https://res.227wiki.eu.org/photo/nagomi/2nd.jpg){ loading=lazy }
+        ![二单公式照](https://res.227wiki.eu.org/members/nagomi/official-photos/2nd-single.jpg){ loading=lazy }
 
     === "一单"
 
-        ![一单公式照](https://res.227wiki.eu.org/photo/nagomi/nagomi-1st.jpg){ loading=lazy }
+        ![一单公式照](https://res.227wiki.eu.org/members/nagomi/official-photos/1st-single.jpg){ loading=lazy }
 
     === "初次亮相"
 
-        ![初次亮相白裙照](https://res.227wiki.eu.org/photo/nagomi/WhiteDress.jpg){ loading=lazy }
+        ![初次亮相白裙照](https://res.227wiki.eu.org/members/nagomi/official-photos/debut.jpg){ loading=lazy }
     
         
     --------
@@ -117,7 +117,7 @@ template: comment.html
     <b>小组</b>  漏了气的甜汽水
 
     <figure markdown>
-        ![Nagomi](/assets/nagomi-sig.svg){ width="100" loading=lazy }
+        ![Nagomi](https://res.227wiki.eu.org/members/nagomi/profile/signature.svg){ width="100" loading=lazy }
         <figcaption>签名</figcaption>
     </figure>
     [:fontawesome-brands-twitter:](https://twitter.com/nagomi_saijo) [:fontawesome-brands-tiktok:](https://www.tiktok.com/@nagomi_saijo)
@@ -202,7 +202,7 @@ template: comment.html
 <script>
     var art = new Artplayer({
     container: '.artplayer-app',
-    url: 'https://res.227wiki.eu.org/video/freetalk/nagomi.mp4',
+    url: 'https://res.227wiki.eu.org/members/nagomi/free-talk.mp4',
 	volume: 0.5,
     isLive: false,
     muted: false,
@@ -239,7 +239,7 @@ template: comment.html
         name: 'Voice Sample',
         artist: '西條和',
         url: 'https://files.zzzhxxx.top/voicesample/nagomi.mp3',
-        cover: 'https://res.227wiki.eu.org/photo/avatar/graduated/nagomi.jpg'
+        cover: 'https://res.227wiki.eu.org/members/nagomi/profile/avatars/graduated.jpg'
     }]
 });
 </script>

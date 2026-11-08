@@ -12,63 +12,63 @@ template: comment.html
 !!! reina-sig inline end "宮瀬玲奈(佐仓初)"
     === "佐仓初时期"
 
-        ![佐仓初时期照片](https://res.227wiki.eu.org/photo/reina/ui.jpeg){ loading=lazy }
+        ![佐仓初时期照片](https://res.227wiki.eu.org/members/reina/official-photos/photo-1.jpeg){ loading=lazy }
 
     === "十一单"
 
-        ![十一单公式照](https://res.227wiki.eu.org/photo/reina/11th.png){ loading=lazy }
+        ![十一单公式照](https://res.227wiki.eu.org/members/reina/official-photos/11th-single.png){ loading=lazy }
 
     === "十单"
 
-        ![十单公式照](https://res.227wiki.eu.org/photo/reina/10th.webp){ loading=lazy }
+        ![十单公式照](https://res.227wiki.eu.org/members/reina/official-photos/10th-single.webp){ loading=lazy }
 
     === "九单(v2)"
 
-        ![九单公式照(第二版)](https://res.227wiki.eu.org/photo/reina/9th-2.webp){ loading=lazy }
+        ![九单公式照(第二版)](https://res.227wiki.eu.org/members/reina/official-photos/9th-single-v2.webp){ loading=lazy }
 
     === "九单(v1)"
 
-        ![九单公式照(第一版)](https://res.227wiki.eu.org/photo/reina/9th-1.webp){ loading=lazy }
+        ![九单公式照(第一版)](https://res.227wiki.eu.org/members/reina/official-photos/9th-single-v1.webp){ loading=lazy }
     
     === "八单"
 
-        ![八单公式照](https://res.227wiki.eu.org/photo/reina/8th.webp){ loading=lazy }
+        ![八单公式照](https://res.227wiki.eu.org/members/reina/official-photos/8th-single.webp){ loading=lazy }
 
     === "一专"
 
-        ![一专公式照](https://res.227wiki.eu.org/photo/reina/1st-album.webp){ loading=lazy }
+        ![一专公式照](https://res.227wiki.eu.org/members/reina/official-photos/1st-album.webp){ loading=lazy }
     
     === "七单"
 
-        ![七单公式照](https://res.227wiki.eu.org/photo/reina/7th.webp){ loading=lazy }
+        ![七单公式照](https://res.227wiki.eu.org/members/reina/official-photos/7th-single.webp){ loading=lazy }
         
     === "六单"
 
-        ![六单公式照](https://res.227wiki.eu.org/photo/reina/6th.webp){ loading=lazy }
+        ![六单公式照](https://res.227wiki.eu.org/members/reina/official-photos/6th-single.webp){ loading=lazy }
 
     === "五单"
 
-        ![五单公式照](https://res.227wiki.eu.org/photo/reina/5th.webp){ loading=lazy }
+        ![五单公式照](https://res.227wiki.eu.org/members/reina/official-photos/5th-single.webp){ loading=lazy }
 
     === "四单"
 
-        ![四单公式照](https://res.227wiki.eu.org/photo/reina/4th.webp){ loading=lazy }
+        ![四单公式照](https://res.227wiki.eu.org/members/reina/official-photos/4th-single.webp){ loading=lazy }
 
     === "三单"
 
-        ![三单公式照](https://res.227wiki.eu.org/photo/reina/3rd.webp){ loading=lazy }
+        ![三单公式照](https://res.227wiki.eu.org/members/reina/official-photos/3rd-single.webp){ loading=lazy }
 
     === "二单"
 
-        ![二单公式照](https://res.227wiki.eu.org/photo/reina/2nd.webp){ loading=lazy }
+        ![二单公式照](https://res.227wiki.eu.org/members/reina/official-photos/2nd-single.webp){ loading=lazy }
 
     === "一单"
 
-        ![一单公式照](https://res.227wiki.eu.org/photo/reina/1st.webp){ loading=lazy }
+        ![一单公式照](https://res.227wiki.eu.org/members/reina/official-photos/1st-single.jpg){ loading=lazy }
 
     === "初次亮相"
 
-        ![初次亮相白裙照](https://res.227wiki.eu.org/photo/reina/ReinaWhiteDress.webp){ loading=lazy }
+        ![初次亮相白裙照](https://res.227wiki.eu.org/members/reina/official-photos/debut.webp){ loading=lazy }
 
     --------
 
@@ -99,7 +99,7 @@ template: comment.html
     <b>角色</b> 立川绚香
 
     <figure markdown>
-        ![reina](/assets/reina-sig.svg){ width="100" }
+        ![reina](https://res.227wiki.eu.org/members/reina/profile/signature.svg){ width="100" }
         <figcaption>签名</figcaption>
     </figure>
     [:fontawesome-brands-twitter:](https://twitter.com/ui_sakura_0526)

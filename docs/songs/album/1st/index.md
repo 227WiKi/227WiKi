@@ -7,7 +7,7 @@ template: comment.html
 !!! general inline end "专辑信息"
 
     === "专辑封面"
-        ![11という名の永遠の素数](https://res.227wiki.eu.org/photo/songs/album/1st.webp)
+        ![11という名の永遠の素数](https://res.227wiki.eu.org/music/albums/1st-album-cover.webp)
     
     <center>:pack-hires: Hi-Res Lossless</center>
     

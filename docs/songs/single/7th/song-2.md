@@ -7,13 +7,13 @@ template: comment.html
 !!! general inline end "歌曲信息"
 
     === "完全生产限定盘 Type-A"
-        ![](/assets/photo/songs/single/7th-1.jpg)
+        ![](https://res.227wiki.eu.org/music/singles/7th-single-limited-a-cover.jpg)
     === "完全生产限定盘 Type-B"
-        ![](/assets/photo/songs/single/7th-2.jpg)
+        ![](https://res.227wiki.eu.org/music/singles/7th-single-cover.jpg)
     === "初回规格限定盘"
-        ![](/assets/photo/songs/single/7th-3.jpg)
+        ![](https://res.227wiki.eu.org/music/singles/7th-single-first-press-cover.jpg)
     === "通常盘"
-        ![](/assets/photo/songs/single/7th-4.jpg)
+        ![](https://res.227wiki.eu.org/music/singles/7th-single-regular-cover.jpg)
     --------
     
     <b>歌曲名称:</b> タチツテト力量

@@ -10,7 +10,7 @@
     {{ live('22/7 Special Christmas Event', '2017.12.24', '#', '#', '/live/2017/2017-special-christmas-event') }} 
     -->
 
-    {{ live('22/7 割り切れないライブ ～シャンプーの匂いがした～', '2018.02.27', 'ディファ有明', 'https://res.227wiki.eu.org/photo/live/warikirenai2018/2018.jpg', '/live/2018/2018-warikirenai-live-shampoo') }}
+    {{ live('22/7 割り切れないライブ ～シャンプーの匂いがした～', '2018.02.27', 'ディファ有明', 'https://res.227wiki.eu.org/events/2018-warikirenai-live-shampoo-poster.jpg', '/live/2018/2018-warikirenai-live-shampoo') }}
 
     <!-- 
     {{ live('“22/7の日”「理解者」初披露！Free Live', '2018.07.22', '#', '#', '/live/2018/2018-rikaisha-first-performance-free-live') }}
@@ -27,19 +27,19 @@
 
     {{ live('22/7 アニメ放送直前記念VRライブ', '2019.12.07', 'Ginza Sony Park', '#', '/live/2019/2019-anime-broadcast-vr-live') }} -->
 
-    {{ live('22/7 Birthday Event 2019', '2019.12.24', 'Zepp DiverCity (TOKYO)', 'https://res.227wiki.eu.org/photo/live/birthdayevent2019/birthday_event.jpg', '/live/2019/2019-birthday-event') }}
+    {{ live('22/7 Birthday Event 2019', '2019.12.24', 'Zepp DiverCity (TOKYO)', 'https://res.227wiki.eu.org/events/2019-birthday-event-poster.jpg', '/live/2019/2019-birthday-event') }}
 
-    {{ live('22/7 5thシングルムズイ発売記念スペシャル無観客ライブ', '2020.02.27', 'Zepp Tokyo', 'https://res.227wiki.eu.org/photo/live/muzui2020/muzui2020.jpg', '/live/2020/2020-muzui-release-special-live') }}
+    {{ live('22/7 5thシングルムズイ発売記念スペシャル無観客ライブ', '2020.02.27', 'Zepp Tokyo', 'https://res.227wiki.eu.org/events/2020-muzui-release-special-live-poster.jpg', '/live/2020/2020-muzui-release-special-live') }}
 
-    {{ live('22/7 Anniversary Live 2020', '2020.09.20', 'LINE CUBE SHIBUYA', 'https://res.227wiki.eu.org/photo/live/a2020/1.png', '/live/2020/2020-anniversary-live') }}
+    {{ live('22/7 Anniversary Live 2020', '2020.09.20', 'LINE CUBE SHIBUYA', 'https://res.227wiki.eu.org/events/2020-anniversary-live-poster.png', '/live/2020/2020-anniversary-live') }}
 
-    {{ live('22/7 LIVE ～11（イレブン）～', '2020.11.13', '新木場スタジオコースト', 'https://res.227wiki.eu.org/photo/live/11.jpg', '/live/2020/2020-live-11') }}
+    {{ live('22/7 LIVE ～11（イレブン）～', '2020.11.13', '新木場スタジオコースト', 'https://res.227wiki.eu.org/events/2020-live-11-poster.jpg', '/live/2020/2020-live-11') }}
 
-    {{ live('TVアニメ「22/7」スペシャルイベント Mission Paradise', '2021.01.11', '立川ステージガーデン', 'https://res.227wiki.eu.org/photo/live/missionparadise.jpg', '/live/2021/2021-mission-paradise') }}
+    {{ live('TVアニメ「22/7」スペシャルイベント Mission Paradise', '2021.01.11', '立川ステージガーデン', 'https://res.227wiki.eu.org/events/2021-mission-paradise-poster.jpg', '/live/2021/2021-mission-paradise') }}
 
-    {{ live('22/7 7thシングル「僕が持ってるものなら」発売記念LIVE', '2021.02.28', 'パシフィコ横浜', 'https://res.227wiki.eu.org/photo/live/7th_cover.jpg', '/live/2021/2021-boku-ga-motteru-mono-nara-release-live') }}
+    {{ live('22/7 7thシングル「僕が持ってるものなら」発売記念LIVE', '2021.02.28', 'パシフィコ横浜', 'https://res.227wiki.eu.org/events/2021-boku-ga-motteru-mono-nara-release-live-poster.jpg', '/live/2021/2021-boku-ga-motteru-mono-nara-release-live') }}
 
-    {{ live('22/7 1stアルバム『11という名の永遠の素数』リリース Tour 2021', '2021.07.11 - 2021.07.22', 'Zepp Haneda / Zepp Nagoya / Zepp Namba / Zepp DiverCity', 'https://res.227wiki.eu.org/photo/live/1st_album_release.jpg', '/live/2021/2021-1st-album-release-tour') }}
+    {{ live('22/7 1stアルバム『11という名の永遠の素数』リリース Tour 2021', '2021.07.11 - 2021.07.22', 'Zepp Haneda / Zepp Nagoya / Zepp Namba / Zepp DiverCity', 'https://res.227wiki.eu.org/events/2021-1st-album-release-tour-poster.jpg', '/live/2021/2021-1st-album-release-tour') }}
 
     <!-- 
     {{ live('22/7 ANNIVERSARY ONLINE 2021', '2021.09.20', 'Online', '#', '/live/2021/2021-anniversary-online') }}

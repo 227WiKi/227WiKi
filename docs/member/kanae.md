@@ -8,54 +8,54 @@ template: comment.html
 !!! kanae-sig inline end "白泽加奈惠"
     === "十一单"
 
-        ![十一单公式照](https://res.227wiki.eu.org/photo/kanae/11th.jpeg){ loading=lazy }
+        ![十一单公式照](https://res.227wiki.eu.org/members/kanae/official-photos/11th-single.jpeg){ loading=lazy }
     === "十单"
 
-        ![十单公式照](https://res.227wiki.eu.org/photo/kanae/10th.jpeg){ loading=lazy }
+        ![十单公式照](https://res.227wiki.eu.org/members/kanae/official-photos/10th-single.jpeg){ loading=lazy }
     === "九单(v2)"
 
-        ![九单公式照(第二版)](https://res.227wiki.eu.org/photo/kanae/9th-2.jpg){ loading=lazy }
+        ![九单公式照(第二版)](https://res.227wiki.eu.org/members/kanae/official-photos/9th-single-v2.jpg){ loading=lazy }
     === "九单(v1)"
 
-        ![九单公式照(第一版)](https://res.227wiki.eu.org/photo/kanae/9th.jpg){ loading=lazy }
+        ![九单公式照(第一版)](https://res.227wiki.eu.org/members/kanae/official-photos/9th-single-v1.jpg){ loading=lazy }
 
     === "八单"
 
-        ![八单公式照](https://res.227wiki.eu.org/photo/kanae/8th.webp){ loading=lazy }
+        ![八单公式照](https://res.227wiki.eu.org/members/kanae/official-photos/8th-single.webp){ loading=lazy }
 
     === "一专"
 
-        ![一专公式照](https://res.227wiki.eu.org/photo/kanae/1st-album.webp){ loading=lazy }
+        ![一专公式照](https://res.227wiki.eu.org/members/kanae/official-photos/1st-album.webp){ loading=lazy }
 
     === "七单"
 
-        ![八单公式照](https://res.227wiki.eu.org/photo/kanae/7th.webp){ loading=lazy }
+        ![八单公式照](https://res.227wiki.eu.org/members/kanae/official-photos/7th-single.webp){ loading=lazy }
 
     === "六单"
 
-        ![八单公式照](https://res.227wiki.eu.org/photo/kanae/6th.webp){ loading=lazy }
+        ![八单公式照](https://res.227wiki.eu.org/members/kanae/official-photos/6th-single.webp){ loading=lazy }
 
     === "五单"
-        ![八单公式照](https://res.227wiki.eu.org/photo/kanae/5th.webp){ loading=lazy }
+        ![八单公式照](https://res.227wiki.eu.org/members/kanae/official-photos/5th-single.webp){ loading=lazy }
 
     === "四单"
 
-        ![八单公式照](https://res.227wiki.eu.org/photo/kanae/4th.webp){ loading=lazy }
+        ![八单公式照](https://res.227wiki.eu.org/members/kanae/official-photos/4th-single.webp){ loading=lazy }
 
     === "三单"
 
-        ![八单公式照](https://res.227wiki.eu.org/photo/kanae/3rd.webp){ loading=lazy }
+        ![八单公式照](https://res.227wiki.eu.org/members/kanae/official-photos/3rd-single.webp){ loading=lazy }
 
     === "二单"
 
-        ![八单公式照](https://res.227wiki.eu.org/photo/kanae/2nd.webp){ loading=lazy }
+        ![八单公式照](https://res.227wiki.eu.org/members/kanae/official-photos/2nd-single.webp){ loading=lazy }
 
     === "一单"
 
-        ![八单公式照](https://res.227wiki.eu.org/photo/kanae/kanae-1st.webp){ loading=lazy }
+        ![八单公式照](https://res.227wiki.eu.org/members/kanae/official-photos/1st-single.webp){ loading=lazy }
     === "初次亮相"
 
-        ![初次亮相白裙照](https://res.227wiki.eu.org/photo/kanae/WhiteDress.webp){ loading=lazy }
+        ![初次亮相白裙照](https://res.227wiki.eu.org/members/kanae/official-photos/debut.webp){ loading=lazy }
     --------
 
     <b>姓名</b>   白泽加奈惠 
@@ -145,7 +145,7 @@ template: comment.html
 <script>
     var art = new Artplayer({
     container: '.artplayer-app',
-    url: 'https://res.227wiki.eu.org/video/freetalk/kanae.mp4',
+    url: 'https://res.227wiki.eu.org/members/kanae/free-talk.mp4',
 	volume: 0.5,
     isLive: false,
     muted: false,
@@ -180,19 +180,19 @@ template: comment.html
             name: '对话1',
             artist: '白沢かなえ',
             url: 'https://files.zzzhxxx.top/voicesample/kanae-1.mp4',
-            cover: 'https://res.227wiki.eu.org/photo/avatar/graduated/kanae.jpg'
+            cover: 'https://res.227wiki.eu.org/members/kanae/profile/avatars/graduated.jpg'
             },
             {
                 name: '对话2',
                 artist: '白沢かなえ',
                 url: 'https://files.zzzhxxx.top/voicesample/kanae-2.mp4',
-                cover: 'https://res.227wiki.eu.org/photo/avatar/graduated/kanae.jpg'
+                cover: 'https://res.227wiki.eu.org/members/kanae/profile/avatars/graduated.jpg'
             },
             {
                 name: '对话3',
                 artist: '白沢かなえ',
                 url: 'https://files.zzzhxxx.top/voicesample/kanae-3.mp4',
-                cover: 'https://res.227wiki.eu.org/photo/avatar/graduated/kanae.jpg'
+                cover: 'https://res.227wiki.eu.org/members/kanae/profile/avatars/graduated.jpg'
             }]
 });
         </script>

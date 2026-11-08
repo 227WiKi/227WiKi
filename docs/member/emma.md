@@ -8,27 +8,27 @@ template: comment.html
 !!! general inline end "月城咲舞"
     === "十六单"
 
-        ![十六单公式照](https://res.227wiki.eu.org/photo/emma/16th.webp){ loading=lazy }
+        ![十六单公式照](https://res.227wiki.eu.org/members/emma/official-photos/16th-single.webp){ loading=lazy }
 
     === "三专"
 
-        ![三专公式照](https://res.227wiki.eu.org/photo/emma/3rd_album.webp){ loading=lazy }
+        ![三专公式照](https://res.227wiki.eu.org/members/emma/official-photos/3rd-album.webp){ loading=lazy }
 
     === "十五单"
 
-        ![十五单公式照](https://res.227wiki.eu.org/photo/emma/15th.webp){ loading=lazy }
+        ![十五单公式照](https://res.227wiki.eu.org/members/emma/official-photos/15th-single.webp){ loading=lazy }
 
     === "十四单"
 
-        ![十四单公式照](https://res.227wiki.eu.org/photo/emma/14th.webp){ loading=lazy }
+        ![十四单公式照](https://res.227wiki.eu.org/members/emma/official-photos/14th-single.webp){ loading=lazy }
 
     === "十三单"
 
-        ![十三单公式照](https://res.227wiki.eu.org/photo/emma/13th.jpg){ loading=lazy }
+        ![十三单公式照](https://res.227wiki.eu.org/members/emma/official-photos/13th-single.jpg){ loading=lazy }
     
     === "十二单"
 
-        ![十二单公式照](https://res.227wiki.eu.org/photo/emma/12th.jpg){ loading=lazy }
+        ![十二单公式照](https://res.227wiki.eu.org/members/emma/official-photos/12th-single.jpg){ loading=lazy }
     
     === "二专"
 

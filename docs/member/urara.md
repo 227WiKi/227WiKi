@@ -73,7 +73,7 @@ template: comment.html
     <b>角色</b> 东条悠希
 
     <figure markdown>
-        ![urara](/assets/urara-sig.svg){ width="100" }
+        ![urara](https://res.227wiki.eu.org/members/urara/profile/signature.svg){ width="100" }
         <figcaption>签名</figcaption>
     </figure>
     [:fontawesome-brands-twitter:](https://twitter.com/hinagaurara) 

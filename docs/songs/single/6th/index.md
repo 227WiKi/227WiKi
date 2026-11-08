@@ -7,11 +7,11 @@ template: comment.html
 !!! general inline end "歌曲信息"
 
     === "完全生产限定盘"
-        ![完全生产限定盘](/assets/photo/songs/single/6th-1.jpg)
+        ![完全生产限定盘](https://res.227wiki.eu.org/music/singles/6th-single-cover.jpg)
     === "完全盘"
-        ![完全盘](/assets/photo/songs/single/6th-2.jpg)
+        ![完全盘](https://res.227wiki.eu.org/music/singles/6th-single-first-press-cover.jpg)
     === "通常盘"
-        ![通常盘](/assets/photo/songs/single/6th-3.jpg)
+        ![通常盘](https://res.227wiki.eu.org/music/singles/6th-single-regular-cover.jpg)
     
     <center>:pack-hires: Hi-Res Lossless</center>
     

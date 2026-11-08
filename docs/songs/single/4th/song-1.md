@@ -7,11 +7,11 @@ template: comment.html
 !!! general inline end "歌曲信息"
 
     === "完全生产限定盘 Type-A"
-        ![](/assets/photo/songs/single/4th-1.jpg)
+        ![](https://res.227wiki.eu.org/music/singles/4th-single-cover.jpg)
     === "完全生产限定盘 Type-B"
-        ![](/assets/photo/songs/single/4th-2.jpg)
+        ![](https://res.227wiki.eu.org/music/singles/4th-single-type-b-cover.jpg)
     === "通常盘"
-        ![](/assets/photo/songs/single/4th-3.jpg)
+        ![](https://res.227wiki.eu.org/music/singles/4th-single-regular-cover.jpg)
     --------
     
     <b>歌曲名称:</b> 什么都无法为你做到

@@ -30,9 +30,9 @@ def define_env(env):
             return explicit_avatar
 
         if status == "graduated":
-            return f"https://res.227wiki.eu.org/photo/avatar/graduated/{slug}.jpg"
+            return f"https://res.227wiki.eu.org/members/{slug}/profile/avatars/graduated.jpg"
 
-        return f"https://res.227wiki.eu.org/photo/avatar/16th/{slug}.jpg"
+        return f"https://res.227wiki.eu.org/members/{slug}/profile/avatars/16th.jpg"
 
     @env.macro
     def member(name, role, slug, default_status="active"):

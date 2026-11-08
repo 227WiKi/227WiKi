@@ -11,19 +11,19 @@ template: comment.html
 
     === "十五单"
 
-        ![十五单公式照](https://res.227wiki.eu.org/photo/luna/15th.webp){ loading=lazy }
+        ![十五单公式照](https://res.227wiki.eu.org/members/luna/official-photos/15th-single.webp){ loading=lazy }
 
     === "十四单"
 
-        ![十四单公式照](https://res.227wiki.eu.org/photo/luna/14th.webp){ loading=lazy }
+        ![十四单公式照](https://res.227wiki.eu.org/members/luna/official-photos/14th-single.webp){ loading=lazy }
 
     === "十三单"
 
-        ![十三单公式照](https://res.227wiki.eu.org/photo/luna/13th.jpg){ loading=lazy }
+        ![十三单公式照](https://res.227wiki.eu.org/members/luna/official-photos/13th-single.jpg){ loading=lazy }
     
     === "十二单"
 
-        ![十二单公式照](https://res.227wiki.eu.org/photo/luna/12th.jpg){ loading=lazy }
+        ![十二单公式照](https://res.227wiki.eu.org/members/luna/official-photos/12th-single.jpg){ loading=lazy }
     
     === "二专"
 
@@ -74,7 +74,7 @@ template: comment.html
     <b>角色</b> 一之濑莹
     
     <figure markdown>
-        ![sign](https://res.227wiki.eu.org/assets/luna-sig.svg){ width="100" loading=lazy }
+        ![sign](https://res.227wiki.eu.org/members/luna/profile/signature.svg){ width="100" loading=lazy }
         <figcaption>签名</figcaption>
     </figure>
 

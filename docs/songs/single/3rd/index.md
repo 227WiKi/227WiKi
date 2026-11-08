@@ -7,11 +7,11 @@ template: comment.html
 !!! general inline end "歌曲信息"
 
     === "完全生产限定盘 Type-A"
-        ![完全生产限定盘 Type-A](/assets/photo/songs/single/3rd-1.jpg)
+        ![完全生产限定盘 Type-A](https://res.227wiki.eu.org/music/singles/3rd-single-type-a-cover.jpg)
     === "完全生产限定盘 Type-B"
-        ![完全生产限定盘 Type-B](/assets/photo/songs/single/3rd-2.jpg)
+        ![完全生产限定盘 Type-B](https://res.227wiki.eu.org/music/singles/3rd-single-cover.jpg)
     === "通常盘"
-        ![通常盘](/assets/photo/songs/single/3rd-3.jpg)
+        ![通常盘](https://res.227wiki.eu.org/music/singles/3rd-single-regular-cover.jpg)
     
     <center>:pack-hires: Hi-Res Lossless</center>
     

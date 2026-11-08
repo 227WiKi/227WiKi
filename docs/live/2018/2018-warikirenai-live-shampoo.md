@@ -7,7 +7,7 @@ template: comment.html
 !!! general inline end "Live信息"
     === "Main Visual"
 
-        ![](https://res.227wiki.eu.org/photo/live/warikirenai2018/2018.jpg){ loading=lazy }
+        ![](https://res.227wiki.eu.org/events/2018-warikirenai-live-shampoo-poster.jpg){ loading=lazy }
 
     --------
 

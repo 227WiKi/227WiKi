@@ -7,7 +7,7 @@ template: comment.html
 !!! general inline end "Live信息"
     === "Main Visual"
 
-        ![](https://res.227wiki.eu.org/photo/live/muzui2020/muzui2020.jpg){ loading=lazy }
+        ![](https://res.227wiki.eu.org/events/2020-muzui-release-special-live-poster.jpg){ loading=lazy }
 
     --------
 

@@ -10,43 +10,43 @@ template: comment.html
 !!! mizuha-sig inline end "仓冈水巴(仓丸莉子)"
     === "仓丸莉子时期"
 
-        ![仓丸莉子时期公式照](https://res.227wiki.eu.org/photo/mizuha/riko.jpg){ loading=lazy }
+        ![仓丸莉子时期公式照](https://res.227wiki.eu.org/members/mizuha/official-photos/photo-1.jpg){ loading=lazy }
     
     === "八单"
 
-        ![八单公式照](https://res.227wiki.eu.org/photo/mizuha/8th.webp){ loading=lazy }
+        ![八单公式照](https://res.227wiki.eu.org/members/mizuha/official-photos/8th-single.webp){ loading=lazy }
 
     === "七单"
 
-        ![七单公式照](https://res.227wiki.eu.org/photo/mizuha/7th.webp){ loading=lazy }
+        ![七单公式照](https://res.227wiki.eu.org/members/mizuha/official-photos/7th-single.webp){ loading=lazy }
         
     === "六单"
 
-        ![六单公式照](https://res.227wiki.eu.org/photo/mizuha/6th.webp){ loading=lazy }
+        ![六单公式照](https://res.227wiki.eu.org/members/mizuha/official-photos/6th-single.webp){ loading=lazy }
 
     === "五单"
 
-        ![五单公式照](https://res.227wiki.eu.org/photo/mizuha/5th.webp){ loading=lazy }
+        ![五单公式照](https://res.227wiki.eu.org/members/mizuha/official-photos/5th-single.webp){ loading=lazy }
 
     === "四单"
 
-        ![四单公式照](https://res.227wiki.eu.org/photo/mizuha/4th.webp){ loading=lazy }
+        ![四单公式照](https://res.227wiki.eu.org/members/mizuha/official-photos/4th-single.webp){ loading=lazy }
 
     === "三单"
 
-        ![三单公式照](https://res.227wiki.eu.org/photo/mizuha/3rd.webp){ loading=lazy }
+        ![三单公式照](https://res.227wiki.eu.org/members/mizuha/official-photos/3rd-single.webp){ loading=lazy }
 
     === "二单"
 
-        ![二单公式照](https://res.227wiki.eu.org/photo/mizuha/2nd.webp){ loading=lazy }
+        ![二单公式照](https://res.227wiki.eu.org/members/mizuha/official-photos/2nd-single.webp){ loading=lazy }
 
     === "一单"
 
-        ![一单公式照](https://res.227wiki.eu.org/photo/mizuha/1st.jpg){ loading=lazy }
+        ![一单公式照](https://res.227wiki.eu.org/members/mizuha/official-photos/1st-single.jpg){ loading=lazy }
 
     === "初次亮相"
 
-        ![初次亮相白裙照](https://res.227wiki.eu.org/photo/mizuha/MizuhaWhiteDress.webp){ loading=lazy }
+        ![初次亮相白裙照](https://res.227wiki.eu.org/members/mizuha/official-photos/debut.webp){ loading=lazy }
 
     --------
 
@@ -77,7 +77,7 @@ template: comment.html
     <b>角色</b> 河野都
 
     <figure markdown>
-        ![mizuha](/assets/mizuha-sig.svg){ width="100" }
+        ![mizuha](https://res.227wiki.eu.org/members/mizuha/profile/signature.svg){ width="100" }
         <figcaption>签名</figcaption>
     </figure>
     [:fontawesome-brands-twitter:](https://twitter.com/kura_maru_maru)

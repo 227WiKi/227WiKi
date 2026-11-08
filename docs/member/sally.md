@@ -9,39 +9,39 @@ template: comment.html
 !!! sally-sig inline end "天城莎莉"
     === "十六单"
 
-        ![十六单公式照](https://res.227wiki.eu.org/photo/sally/16th.webp){ loading=lazy }
+        ![十六单公式照](https://res.227wiki.eu.org/members/sally/official-photos/16th-single.webp){ loading=lazy }
 
     === "三专"
 
-        ![三专公式照](https://res.227wiki.eu.org/photo/sally/3rd_album.webp){ loading=lazy }
+        ![三专公式照](https://res.227wiki.eu.org/members/sally/official-photos/3rd-album.webp){ loading=lazy }
 
     === "十五单"
 
-        ![十五单公式照](https://res.227wiki.eu.org/photo/sally/15th.webp){ loading=lazy }
+        ![十五单公式照](https://res.227wiki.eu.org/members/sally/official-photos/15th-single.webp){ loading=lazy }
 
     === "十四单"
 
-        ![十四单公式照](https://res.227wiki.eu.org/photo/sally/14th.webp){ loading=lazy }
+        ![十四单公式照](https://res.227wiki.eu.org/members/sally/official-photos/14th-single.webp){ loading=lazy }
 
     === "十三单"
 
-        ![十三单公式照](https://res.227wiki.eu.org/photo/sally/13th.jpg){ loading=lazy }
+        ![十三单公式照](https://res.227wiki.eu.org/members/sally/official-photos/13th-single.jpg){ loading=lazy }
 
     === "十二单"
 
-        ![十二单公式照](https://res.227wiki.eu.org/photo/sally/12th.jpg){ loading=lazy }
+        ![十二单公式照](https://res.227wiki.eu.org/members/sally/official-photos/12th-single.jpg){ loading=lazy }
 
     === "二专"
 
-        ![二专公式照](https://res.227wiki.eu.org/photo/sally/2nd-album.webp){ loading=lazy }
+        ![二专公式照](https://res.227wiki.eu.org/members/sally/official-photos/2nd-album.webp){ loading=lazy }
 
     === "十一单"
 
-        ![十一单公式照](https://res.227wiki.eu.org/photo/sally/11th.webp){ loading=lazy }
+        ![十一单公式照](https://res.227wiki.eu.org/members/sally/official-photos/11th-single.webp){ loading=lazy }
 
     === "十单"
 
-        ![十单公式照](https://res.227wiki.eu.org/photo/sally/10th.webp){ loading=lazy }
+        ![十单公式照](https://res.227wiki.eu.org/members/sally/official-photos/10th-single.webp){ loading=lazy }
 
     === "九单(v2)"
 
@@ -116,7 +116,7 @@ template: comment.html
     <b>角色</b>  藤间樱
 
     <figure markdown>
-        ![sally](/assets/sally-sig.svg){ width="100" }
+        ![sally](https://res.227wiki.eu.org/members/sally/profile/signature.svg){ width="100" }
         <figcaption>签名</figcaption>
     </figure>
     [:fontawesome-brands-twitter:](https://twitter.com/sally_amaki) [:fontawesome-brands-instagram:](https://www.instagram.com/sallyamaki/) [:fontawesome-brands-youtube:](https://www.youtube.com/channel/UCi4UjmN8HSi16sAhh_iEb6w) [:fontawesome-brands-tiktok:](https://www.tiktok.com/@sally_amaki)
@@ -198,7 +198,7 @@ template: comment.html
 <script>
 var art = new Artplayer({
     container: '.artplayer-app',
-    url: 'https://res.227wiki.eu.org/video/freetalk/sally.mp4',
+    url: 'https://res.227wiki.eu.org/members/sally/free-talk.mp4',
 	volume: 0.5,
     isLive: false,
     muted: false,
@@ -234,38 +234,38 @@ var art = new Artplayer({
     audio: [{
         name: '对话1',
         artist: '天城サリー',
-        url: 'https://res.227wiki.eu.org/audio/voicesample/sally/sally-1.mp4',
-        cover: 'https://res.227wiki.eu.org/photo/avatar/16th/sally.jpg'
+        url: 'https://res.227wiki.eu.org/members/sally/voice-samples/sally-1.mp4',
+        cover: 'https://res.227wiki.eu.org/members/sally/profile/avatars/16th.jpg'
         },
         {
             name: '对话2',
             artist: '天城サリー',
-            url: 'https://res.227wiki.eu.org/audio/voicesample/sally/sally-2.mp4',
-            cover: 'https://res.227wiki.eu.org/photo/avatar/16th/sally.jpg'
+            url: 'https://res.227wiki.eu.org/members/sally/voice-samples/sally-2.mp4',
+            cover: 'https://res.227wiki.eu.org/members/sally/profile/avatars/16th.jpg'
         },
         {
             name: '对话3',
             artist: '天城サリー',
-            url: 'https://res.227wiki.eu.org/audio/voicesample/sally/sally-3.mp4',
-            cover: 'https://res.227wiki.eu.org/photo/avatar/16th/sally.jpg'
+            url: 'https://res.227wiki.eu.org/members/sally/voice-samples/sally-3.mp4',
+            cover: 'https://res.227wiki.eu.org/members/sally/profile/avatars/16th.jpg'
         },
         {
             name: '对话4',
             artist: '天城サリー',
-            url: 'https://res.227wiki.eu.org/audio/voicesample/sally/sally-4.mp4',
-            cover: 'https://res.227wiki.eu.org/photo/avatar/16th/sally.jpg'
+            url: 'https://res.227wiki.eu.org/members/sally/voice-samples/sally-4.mp4',
+            cover: 'https://res.227wiki.eu.org/members/sally/profile/avatars/16th.jpg'
         },
         {
             name: '对话5',
             artist: '天城サリー',
-            url: 'https://res.227wiki.eu.org/audio/voicesample/sally/sally-5.mp4',
-            cover: 'https://res.227wiki.eu.org/photo/avatar/16th/sally.jpg'
+            url: 'https://res.227wiki.eu.org/members/sally/voice-samples/sally-5.mp4',
+            cover: 'https://res.227wiki.eu.org/members/sally/profile/avatars/16th.jpg'
         },
         {
             name: '旁白',
             artist: '天城サリー',
-            url: 'https://res.227wiki.eu.org/audio/voicesample/sally/sally-6.mp4',
-            cover: 'https://res.227wiki.eu.org/photo/avatar/16th/sally.jpg'
+            url: 'https://res.227wiki.eu.org/members/sally/voice-samples/sally-6.mp4',
+            cover: 'https://res.227wiki.eu.org/members/sally/profile/avatars/16th.jpg'
         }]
 });
     const ap1 = new APlayer({
@@ -273,80 +273,80 @@ var art = new Artplayer({
     audio: [{
         name: '少女(Jealousy〜女社会〜)',
         artist: '天城サリー',
-        url: 'https://res.227wiki.eu.org/audio/voicesample/sally/new/1.m4a',
-        cover: 'https://res.227wiki.eu.org/photo/avatar/16th/sally.jpg'
+        url: 'https://res.227wiki.eu.org/members/sally/voice-samples/current-1.m4a',
+        cover: 'https://res.227wiki.eu.org/members/sally/profile/avatars/16th.jpg'
         },
         {
             name: '女子高校生は見た',
             artist: '天城サリー',
-            url: 'https://res.227wiki.eu.org/audio/voicesample/sally/new/2.m4a',
-            cover: 'https://res.227wiki.eu.org/photo/avatar/16th/sally.jpg'
+            url: 'https://res.227wiki.eu.org/members/sally/voice-samples/current-2.m4a',
+            cover: 'https://res.227wiki.eu.org/members/sally/profile/avatars/16th.jpg'
         },
         {
             name: '女子高校生2 (Blue Spring〜おこがましい気遣い〜)',
             artist: '天城サリー',
-            url: 'https://res.227wiki.eu.org/audio/voicesample/sally/new/3.m4a',
-            cover: 'https://res.227wiki.eu.org/photo/avatar/16th/sally.jpg'
+            url: 'https://res.227wiki.eu.org/members/sally/voice-samples/current-3.m4a',
+            cover: 'https://res.227wiki.eu.org/members/sally/profile/avatars/16th.jpg'
         },
         {   
             name: '犯人 (Revenge~最後のお願い〜)',
             artist: '天城サリー',
-            url: 'https://res.227wiki.eu.org/audio/voicesample/sally/new/4.m4a',
-            cover: 'https://res.227wiki.eu.org/photo/avatar/16th/sally.jpg'
+            url: 'https://res.227wiki.eu.org/members/sally/voice-samples/current-4.m4a',
+            cover: 'https://res.227wiki.eu.org/members/sally/profile/avatars/16th.jpg'
         },
         {
             name: '大人女性 (社畜と犬)',
             artist: '天城サリー',
-            url: 'https://res.227wiki.eu.org/audio/voicesample/sally/new/5.m4a',
-            cover: 'https://res.227wiki.eu.org/photo/avatar/16th/sally.jpg'
+            url: 'https://res.227wiki.eu.org/members/sally/voice-samples/current-5.m4a',
+            cover: 'https://res.227wiki.eu.org/members/sally/profile/avatars/16th.jpg'
         },
         {
             name: '泣き (百合の嘘)',
             artist: '天城サリー',
-            url: 'https://res.227wiki.eu.org/audio/voicesample/sally/new/6.m4a',
-            cover: 'https://res.227wiki.eu.org/photo/avatar/16th/sally.jpg'
+            url: 'https://res.227wiki.eu.org/members/sally/voice-samples/current-6.m4a',
+            cover: 'https://res.227wiki.eu.org/members/sally/profile/avatars/16th.jpg'
         },
         {
             name: '幼稚園児「Dreamer～平和の世界を夢見て～)',
             artist: '天城サリー',
-            url: 'https://res.227wiki.eu.org/audio/voicesample/sally/new/7.m4a',
-            cover: 'https://res.227wiki.eu.org/photo/avatar/16th/sally.jpg'
+            url: 'https://res.227wiki.eu.org/members/sally/voice-samples/current-7.m4a',
+            cover: 'https://res.227wiki.eu.org/members/sally/profile/avatars/16th.jpg'
         },
         {
             name: 'ナレーション1「Focus～世界一醜い(？)～」',
             artist: '天城サリー',
-            url: 'https://res.227wiki.eu.org/audio/voicesample/sally/new/8.m4a',
-            cover: 'https://res.227wiki.eu.org/photo/avatar/16th/sally.jpg'
+            url: 'https://res.227wiki.eu.org/members/sally/voice-samples/current-8.m4a',
+            cover: 'https://res.227wiki.eu.org/members/sally/profile/avatars/16th.jpg'
         },
         {
             name: 'ナレーション2(Only You〜愛の為なら〜)',
             artist: '天城サリー',
-            url: 'https://res.227wiki.eu.org/audio/voicesample/sally/new/9.m4a',
-            cover: 'https://res.227wiki.eu.org/photo/avatar/16th/sally.jpg'
+            url: 'https://res.227wiki.eu.org/members/sally/voice-samples/current-9.m4a',
+            cover: 'https://res.227wiki.eu.org/members/sally/profile/avatars/16th.jpg'
         },
         {
             name: '外画 (凹凹バディ)',
             artist: '天城サリー',
-            url: 'https://res.227wiki.eu.org/audio/voicesample/sally/new/10.m4a',
-            cover: 'https://res.227wiki.eu.org/photo/avatar/16th/sally.jpg'
+            url: 'https://res.227wiki.eu.org/members/sally/voice-samples/current-10.m4a',
+            cover: 'https://res.227wiki.eu.org/members/sally/profile/avatars/16th.jpg'
         },
         {
             name: 'ENG1 Adult(英語1 大人)',
             artist: '天城サリー',
-            url: 'https://res.227wiki.eu.org/audio/voicesample/sally/new/ENG1.m4a',
-            cover: 'https://res.227wiki.eu.org/photo/avatar/16th/sally.jpg'
+            url: 'https://res.227wiki.eu.org/members/sally/voice-samples/current-ENG1.m4a',
+            cover: 'https://res.227wiki.eu.org/members/sally/profile/avatars/16th.jpg'
         },
         {
             name: 'ENG2 Teen ager(英語2 10代)',
             artist: '天城サリー',
-            url: 'https://res.227wiki.eu.org/audio/voicesample/sally/new/ENG2.m4a',
-            cover: 'https://res.227wiki.eu.org/photo/avatar/16th/sally.jpg'
+            url: 'https://res.227wiki.eu.org/members/sally/voice-samples/current-ENG2.m4a',
+            cover: 'https://res.227wiki.eu.org/members/sally/profile/avatars/16th.jpg'
         },
         {
             name: 'ENG3 preschooler(英語3 幼児)',
             artist: '天城サリー',
-            url: 'https://res.227wiki.eu.org/audio/voicesample/sally/new/ENG3.m4a',
-            cover: 'https://res.227wiki.eu.org/photo/avatar/16th/sally.jpg'
+            url: 'https://res.227wiki.eu.org/members/sally/voice-samples/current-ENG3.m4a',
+            cover: 'https://res.227wiki.eu.org/members/sally/profile/avatars/16th.jpg'
         }]
     });
 </script>

@@ -12,11 +12,11 @@ template: comment.html
 !!! moe-sig inline end "凉花萌"
     === "十三单"
 
-        ![十三单公式照](https://res.227wiki.eu.org/photo/moe/13th.jpg){ loading=lazy }
+        ![十三单公式照](https://res.227wiki.eu.org/members/moe/official-photos/13th-single.jpg){ loading=lazy }
 
     === "十二单"
 
-        ![十二单公式照](https://res.227wiki.eu.org/photo/moe/12th.jpg){ loading=lazy }
+        ![十二单公式照](https://res.227wiki.eu.org/members/moe/official-photos/12th-single.jpg){ loading=lazy }
 
     === "二专"
 
@@ -99,7 +99,7 @@ template: comment.html
 
     
     <figure markdown>
-        ![moe](/assets/moe-sig.svg){ width="100" }
+        ![moe](https://res.227wiki.eu.org/members/moe/profile/signature.svg){ width="100" }
         <figcaption>签名</figcaption>
     </figure>
     [:fontawesome-brands-twitter:](https://twitter.com/moepiyo_227) 
@@ -180,7 +180,7 @@ template: comment.html
 <script>
     var art = new Artplayer({
     container: '.artplayer-app',
-    url: 'https://res.227wiki.eu.org/video/freetalk/moe.mp4',
+    url: 'https://res.227wiki.eu.org/members/moe/free-talk.mp4',
 	volume: 0.5,
     isLive: false,
     muted: false,
@@ -216,13 +216,13 @@ const ap= new APlayer({
     audio: [{
         name: 'Sample 1',
         artist: '凉花萌',
-        url: 'https://res.227wiki.eu.org/audio/voicesample/moe/moe-1.mp4',
+        url: 'https://res.227wiki.eu.org/members/moe/voice-samples/moe-1.mp4',
         cover: '/assets/photo/avatar/moe.jpg'
         },
         {
             name: 'Sample 2',
             artist: '凉花萌',
-            url: 'https://res.227wiki.eu.org/audio/voicesample/moe/moe-2.mp4',
+            url: 'https://res.227wiki.eu.org/members/moe/voice-samples/moe-2.mp4',
             cover: '/assets/photo/avatar/moe.jpg'
         }]
 });

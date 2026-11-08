@@ -7,27 +7,27 @@ template: comment.html
 !!! general inline end "麻丘真央"
     === "十六单"
 
-        ![十六单公式照](https://res.227wiki.eu.org/photo/mao/16th.webp){ loading=lazy }
+        ![十六单公式照](https://res.227wiki.eu.org/members/mao/official-photos/16th-single.webp){ loading=lazy }
 
     === "三专"
 
-        ![三专公式照](https://res.227wiki.eu.org/photo/mao/3rd_album.webp){ loading=lazy }
+        ![三专公式照](https://res.227wiki.eu.org/members/mao/official-photos/3rd-album.webp){ loading=lazy }
 
     === "十五单"
 
-        ![十五单公式照](https://res.227wiki.eu.org/photo/mao/15th.webp){ loading=lazy }
+        ![十五单公式照](https://res.227wiki.eu.org/members/mao/official-photos/15th-single.webp){ loading=lazy }
 
     === "十四单"
 
-        ![十四单公式照](https://res.227wiki.eu.org/photo/mao/14th.webp){ loading=lazy }
+        ![十四单公式照](https://res.227wiki.eu.org/members/mao/official-photos/14th-single.webp){ loading=lazy }
 
     === "十三单"
 
-        ![十三单公式照](https://res.227wiki.eu.org/photo/mao/13th.jpg){ loading=lazy }
+        ![十三单公式照](https://res.227wiki.eu.org/members/mao/official-photos/13th-single.jpg){ loading=lazy }
 
     === "十二单"
 
-        ![十二单公式照](https://res.227wiki.eu.org/photo/mao/12th.jpg){ loading=lazy }
+        ![十二单公式照](https://res.227wiki.eu.org/members/mao/official-photos/12th-single.jpg){ loading=lazy }
 
     === "二专"
 
@@ -78,7 +78,7 @@ template: comment.html
     <b>角色</b> 桐生塔子
   
     <figure markdown>
-        ![sign](https://res.227wiki.eu.org/assets/mao-sig.svg){ width="100" loading=lazy }
+        ![sign](https://res.227wiki.eu.org/members/mao/profile/signature.svg){ width="100" loading=lazy }
         <figcaption>签名</figcaption>
     </figure>
 

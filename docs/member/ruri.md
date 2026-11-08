@@ -10,43 +10,43 @@ template: comment.html
 !!! ruri-sig inline end "海乃るり(吉宫瑠织)"
     === "吉宫瑠织时期"
     
-        ![吉宫瑠织时期公式照](https://res.227wiki.eu.org/photo/ruri/ruri.jpg){ loading=lazy }
+        ![吉宫瑠织时期公式照](https://res.227wiki.eu.org/members/ruri/official-photos/photo-1.jpeg){ loading=lazy }
     
     === "八单"
 
-        ![八单公式照](https://res.227wiki.eu.org/photo/ruri/8th.jpg){ loading=lazy }
+        ![八单公式照](https://res.227wiki.eu.org/members/ruri/official-photos/8th-single.webp){ loading=lazy }
 
     === "七单"
 
-        ![七单公式照](https://res.227wiki.eu.org/photo/ruri/7th.jpg){ loading=lazy }
+        ![七单公式照](https://res.227wiki.eu.org/members/ruri/official-photos/7th-single.webp){ loading=lazy }
         
     === "六单"
 
-        ![六单公式照](https://res.227wiki.eu.org/photo/ruri/6th.jpg){ loading=lazy }
+        ![六单公式照](https://res.227wiki.eu.org/members/ruri/official-photos/6th-single.webp){ loading=lazy }
 
     === "五单"
 
-        ![五单公式照](https://res.227wiki.eu.org/photo/ruri/5th.jpg){ loading=lazy }
+        ![五单公式照](https://res.227wiki.eu.org/members/ruri/official-photos/5th-single.webp){ loading=lazy }
 
     === "四单"
 
-        ![四单公式照](https://res.227wiki.eu.org/photo/ruri/4th.jpg){ loading=lazy }
+        ![四单公式照](https://res.227wiki.eu.org/members/ruri/official-photos/4th-single.webp){ loading=lazy }
 
     === "三单"
 
-        ![三单公式照](https://res.227wiki.eu.org/photo/ruri/3rd.jpg){ loading=lazy }
+        ![三单公式照](https://res.227wiki.eu.org/members/ruri/official-photos/3rd-single.webp){ loading=lazy }
 
     === "二单"
 
-        ![二单公式照](https://res.227wiki.eu.org/photo/ruri/2nd.jpg){ loading=lazy }
+        ![二单公式照](https://res.227wiki.eu.org/members/ruri/official-photos/2nd-single.webp){ loading=lazy }
 
     === "一单"
 
-        ![一单公式照](https://res.227wiki.eu.org/photo/ruri/1st.jpg){ loading=lazy }
+        ![一单公式照](https://res.227wiki.eu.org/members/ruri/official-photos/ruri-1st.jpg){ loading=lazy }
 
     === "初次亮相"
 
-        ![初次亮相白裙照](https://res.227wiki.eu.org/photo/ruri/ruriWhiteDress.webp){ loading=lazy }
+        ![初次亮相白裙照](https://res.227wiki.eu.org/members/ruri/official-photos/debut.webp){ loading=lazy }
 
     --------
 
@@ -77,7 +77,7 @@ template: comment.html
     <b>角色</b> 户田纯
 
     <figure markdown>
-        ![ruri](/assets/ruri-sig.svg){ width="100" }
+        ![ruri](https://res.227wiki.eu.org/members/ruri/profile/signature.svg){ width="100" }
         <figcaption>签名</figcaption>
     </figure>
     [:fontawesome-brands-twitter:](https://twitter.com/ru_ri0808)

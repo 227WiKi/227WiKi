@@ -7,13 +7,13 @@ template: comment.html
 !!! general inline end "歌曲信息"
 
     === "完全生产限定盘 Type-A"
-        ![](https://res.227wiki.eu.org/photo/songs/single/8th-1.webp)
+        ![](https://res.227wiki.eu.org/music/singles/8th-single-cover.webp)
     === "完全生产限定盘 Type-B"
-        ![](https://res.227wiki.eu.org/photo/songs/single/8th-2.webp)
+        ![](https://res.227wiki.eu.org/music/singles/8th-single-limited-b-cover.webp)
     === "初回规格限定盘"
-        ![](https://res.227wiki.eu.org/photo/songs/single/8th-3.webp)
+        ![](https://res.227wiki.eu.org/music/singles/8th-single-first-press-cover.webp)
     === "通常盘"
-        ![](https://res.227wiki.eu.org/photo/songs/single/8th-4.webp)
+        ![](https://res.227wiki.eu.org/music/singles/8th-single-regular-cover.webp)
     --------
     
     <b>歌曲名称:</b> 觉醒

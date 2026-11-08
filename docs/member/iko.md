@@ -7,11 +7,11 @@ template: comment.html
 
     === "十六单"
     
-        ![十六单公式照](https://res.227wiki.eu.org/photo/iko/16th.webp){ loading=lazy }
+        ![十六单公式照](https://res.227wiki.eu.org/members/iko/official-photos/16th-single.webp){ loading=lazy }
 
     === "初次亮相"
     
-        ![初次亮相公式照](https://res.227wiki.eu.org/photo/iko/debut.webp){ loading=lazy }
+        ![初次亮相公式照](https://res.227wiki.eu.org/members/iko/official-photos/debut.webp){ loading=lazy }
 
     --------
 

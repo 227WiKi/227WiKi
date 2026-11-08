@@ -11,62 +11,62 @@ template: comment.html
 !!! uta-sig inline end "河濑诗"
     === "十六单"
 
-        ![十六单公式照](https://res.227wiki.eu.org/photo/uta/16th.webp){ loading=lazy }
+        ![十六单公式照](https://res.227wiki.eu.org/members/uta/official-photos/16th-single.webp){ loading=lazy }
 
     === "三专"
 
-        ![三专公式照](https://res.227wiki.eu.org/photo/uta/3rd_album.webp){ loading=lazy }
+        ![三专公式照](https://res.227wiki.eu.org/members/uta/official-photos/3rd-album.webp){ loading=lazy }
 
     === "十五单"
 
-        ![十五单公式照](https://res.227wiki.eu.org/photo/uta/15th.webp){ loading=lazy }
+        ![十五单公式照](https://res.227wiki.eu.org/members/uta/official-photos/15th-single.webp){ loading=lazy }
 
     === "十四单"
 
-        ![十四单公式照](https://res.227wiki.eu.org/photo/uta/14th.webp){ loading=lazy }
+        ![十四单公式照](https://res.227wiki.eu.org/members/uta/official-photos/14th-single.webp){ loading=lazy }
 
     === "十三单"
 
-        ![十三单公式照](https://res.227wiki.eu.org/photo/uta/13th.jpg){ loading=lazy }
+        ![十三单公式照](https://res.227wiki.eu.org/members/uta/official-photos/13th-single.jpg){ loading=lazy }
 
     === "十二单"
 
-        ![十二单公式照](https://res.227wiki.eu.org/photo/uta/12th.jpg){ loading=lazy }
+        ![十二单公式照](https://res.227wiki.eu.org/members/uta/official-photos/12th-single.jpg){ loading=lazy }
 
     === "十一单"
 
-        ![十一单公式照](https://res.227wiki.eu.org/photo/uta/11th.jpg){ loading=lazy }
+        ![十一单公式照](https://res.227wiki.eu.org/members/uta/official-photos/11th-single.jpg){ loading=lazy }
 
     === "十单"
 
-        ![十单公式照](https://res.227wiki.eu.org/photo/uta/10th.webp){ loading=lazy }
+        ![十单公式照](https://res.227wiki.eu.org/members/uta/official-photos/10th-single.webp){ loading=lazy }
 
     === "九单v2"
 
-        ![九单v2公式照](/assets/photo/uta/9th-2.jpg){ loading=lazy }
+        ![九单v2公式照](https://res.227wiki.eu.org/members/uta/official-photos/9th-single-v2.jpg){ loading=lazy }
         
     === "九单"
 
-        ![九单公式照](/assets/photo/uta/9th.jpg){ loading=lazy }
+        ![九单公式照](https://res.227wiki.eu.org/members/uta/official-photos/9th-single.jpg){ loading=lazy }
 
     === "八单"
 
-        ![八单公式照](https://res.227wiki.eu.org/photo/uta/8th.jpg){ loading=lazy }
+        ![八单公式照](https://res.227wiki.eu.org/members/uta/official-photos/8th-single.jpg){ loading=lazy }
 
     === "一专"
 
-        ![一专公式照](https://res.227wiki.eu.org/photo/uta/1st-album.jpg){ loading=lazy }
+        ![一专公式照](https://res.227wiki.eu.org/members/uta/official-photos/1st-album.jpg){ loading=lazy }
 
     === "七单"
 
-        ![七单公式照](https://res.227wiki.eu.org/photo/uta/7th.jpg){ loading=lazy }
+        ![七单公式照](https://res.227wiki.eu.org/members/uta/official-photos/7th-single.jpg){ loading=lazy }
     === "六单"
 
-        ![六单公式照](https://res.227wiki.eu.org/photo/uta/6th.jpg){ loading=lazy }
+        ![六单公式照](https://res.227wiki.eu.org/members/uta/official-photos/6th-single.jpg){ loading=lazy }
 
     === "五单"
 
-        ![五单公式照](https://res.227wiki.eu.org/photo/uta/5th.jpg){ loading=lazy }
+        ![五单公式照](https://res.227wiki.eu.org/members/uta/official-photos/5th-single.jpg){ loading=lazy }
 
     --------
 
@@ -101,11 +101,11 @@ template: comment.html
     <b>小组</b> 荧光灯再生计划
 
     <figure markdown>
-        ![uta](/assets/uta-sig.svg){ width="100" loading=lazy }
+        ![uta](https://res.227wiki.eu.org/members/uta/profile/signature.svg){ width="100" loading=lazy }
         <figcaption>签名1</figcaption>
     </figure>
     <figure markdown>
-        ![uta](https://res.227wiki.eu.org/assets/uta-sig2.svg){ width="100" loading=lazy }
+        ![uta](https://res.227wiki.eu.org/members/uta/profile/signature-2.svg){ width="100" loading=lazy }
         <figcaption>签名2</figcaption>
     </figure>
     [:fontawesome-brands-twitter:](https://twitter.com/kawase_uta_0227) [:fontawesome-brands-instagram:](https://instagram.com/kawase_uta)
@@ -184,7 +184,7 @@ template: comment.html
 <script>
 var art = new Artplayer({
     container: '.artplayer-app',
-    url: 'https://res.227wiki.eu.org/video/freetalk/uta.mp4',
+    url: 'https://res.227wiki.eu.org/members/uta/free-talk.mp4',
 	volume: 0.5,
     isLive: false,
     muted: false,
@@ -221,19 +221,19 @@ const ap = new APlayer({
     audio: [{
         name: '台词1',
         artist: '河瀬詩',
-        url: 'https://res.227wiki.eu.org/audio/voicesample/uta/1.mp4',
+        url: 'https://res.227wiki.eu.org/members/uta/voice-samples/dialogue-1.mp4',
         cover: '/assets/photo/avatar/uta.jpg'
         },
         {
             name: '台词2',
             artist: '河瀬詩',
-            url: 'https://res.227wiki.eu.org/audio/voicesample/uta/2.mp4',
+            url: 'https://res.227wiki.eu.org/members/uta/voice-samples/dialogue-2.mp4',
             cover: '/assets/photo/avatar/uta.jpg'
         },
         {
             name: '台词3',
             artist: '河瀬詩',
-            url: 'https://res.227wiki.eu.org/audio/voicesample/uta/3.mp4',
+            url: 'https://res.227wiki.eu.org/members/uta/voice-samples/dialogue-3.mp4',
             cover: '/assets/photo/avatar/uta.jpg'
         }]
 });

@@ -7,7 +7,7 @@ template: comment.html
 !!! general inline end "歌曲信息"
 
     === "完全生产限定盘 Type-A"
-        ![](https://res.227wiki.eu.org/photo/songs/single/12th-1.jpg)
+        ![](https://res.227wiki.eu.org/music/singles/12th-single-cover.jpg)
     === "完全生产限定盘 Type-B"
         ![](https://nananiji.zzzhxxx.top/assets/photo/songs/single/12th-2.jpg)
     === "初回规格限定盘"

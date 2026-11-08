@@ -7,7 +7,7 @@ template: comment.html
 !!! general inline end "Live信息"
     === "Main Visual"
 
-        ![](https://res.227wiki.eu.org/photo/live/1st_album_release.jpg){ loading=lazy }
+        ![](https://res.227wiki.eu.org/events/2021-1st-album-release-tour-poster.jpg){ loading=lazy }
 
     --------
 

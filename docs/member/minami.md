@@ -7,11 +7,11 @@ template: comment.html
 
     === "十六单"
     
-        ![十六单公式照](https://res.227wiki.eu.org/photo/minami/16th.webp){ loading=lazy }
+        ![十六单公式照](https://res.227wiki.eu.org/members/minami/official-photos/16th-single.webp){ loading=lazy }
 
     === "初次亮相"
     
-        ![初次亮相公式照](https://res.227wiki.eu.org/photo/minami/debut.webp){ loading=lazy }
+        ![初次亮相公式照](https://res.227wiki.eu.org/members/minami/official-photos/debut.webp){ loading=lazy }
 
     --------
 

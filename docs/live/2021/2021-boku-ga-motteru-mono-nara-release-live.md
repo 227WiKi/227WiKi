@@ -7,7 +7,7 @@ template: comment.html
 !!! general inline end "Live信息"
     === "Main Visual"
 
-        ![](https://res.227wiki.eu.org/photo/live/7th_cover.jpg){ loading=lazy }
+        ![](https://res.227wiki.eu.org/events/2021-boku-ga-motteru-mono-nara-release-live-poster.jpg){ loading=lazy }
 
     --------
 

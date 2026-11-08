@@ -7,27 +7,27 @@ template: comment.html
 !!! general inline end "相川奈央"
     === "十六单"
 
-        ![十六单公式照](https://res.227wiki.eu.org/photo/nao/16th.webp){ loading=lazy }
+        ![十六单公式照](https://res.227wiki.eu.org/members/nao/official-photos/16th-single.webp){ loading=lazy }
 
     === "三专"
 
-        ![三专公式照](https://res.227wiki.eu.org/photo/nao/3rd_album.webp){ loading=lazy }
+        ![三专公式照](https://res.227wiki.eu.org/members/nao/official-photos/3rd-album.webp){ loading=lazy }
 
     === "十五单"
 
-        ![十五单公式照](https://res.227wiki.eu.org/photo/nao/15th.webp){ loading=lazy }
+        ![十五单公式照](https://res.227wiki.eu.org/members/nao/official-photos/15th-single.webp){ loading=lazy }
 
     === "十四单"
 
-        ![十四单公式照](https://res.227wiki.eu.org/photo/nao/14th.webp){ loading=lazy }    
+        ![十四单公式照](https://res.227wiki.eu.org/members/nao/official-photos/14th-single.webp){ loading=lazy }
         
     === "十三单"
 
-        ![十三单公式照](https://res.227wiki.eu.org/photo/nao/13th.jpg){ loading=lazy }
+        ![十三单公式照](https://res.227wiki.eu.org/members/nao/official-photos/13th-single.jpg){ loading=lazy }
 
     === "十二单"
 
-        ![十二单公式照](https://res.227wiki.eu.org/photo/nao/12th.jpg){ loading=lazy }
+        ![十二单公式照](https://res.227wiki.eu.org/members/nao/official-photos/12th-single.jpg){ loading=lazy }
 
     === "二专"
 

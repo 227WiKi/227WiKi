@@ -10,39 +10,39 @@ template: comment.html
 !!! chiharu-sig inline end "帆风千春(千春)"
     === "千春时期"
     
-        ![千春时期公式照](https://res.227wiki.eu.org/photo/chiharu/chiharu.jpg){ loading=lazy }
+        ![千春时期公式照](https://res.227wiki.eu.org/members/chiharu/official-photos/chiharu-era.jpg){ loading=lazy }
 
     === "七单"
 
-        ![七单公式照](https://res.227wiki.eu.org/photo/chiharu/7th.webp){ loading=lazy }
+        ![七单公式照](https://res.227wiki.eu.org/members/chiharu/official-photos/7th-single.webp){ loading=lazy }
         
     === "六单"
 
-        ![六单公式照](https://res.227wiki.eu.org/photo/chiharu/6th.webp){ loading=lazy }
+        ![六单公式照](https://res.227wiki.eu.org/members/chiharu/official-photos/6th-single.webp){ loading=lazy }
 
     === "五单"
 
-        ![五单公式照](https://res.227wiki.eu.org/photo/chiharu/5th.webp){ loading=lazy }
+        ![五单公式照](https://res.227wiki.eu.org/members/chiharu/official-photos/5th-single.webp){ loading=lazy }
 
     === "四单"
 
-        ![四单公式照](https://res.227wiki.eu.org/photo/chiharu/4th.webp){ loading=lazy }
+        ![四单公式照](https://res.227wiki.eu.org/members/chiharu/official-photos/4th-single.webp){ loading=lazy }
 
     === "三单"
 
-        ![三单公式照](https://res.227wiki.eu.org/photo/chiharu/3rd.jpg){ loading=lazy }
+        ![三单公式照](https://res.227wiki.eu.org/members/chiharu/official-photos/3rd-single.jpg){ loading=lazy }
 
     === "二单"
 
-        ![二单公式照](https://res.227wiki.eu.org/photo/chiharu/2nd.jpg){ loading=lazy }
+        ![二单公式照](https://res.227wiki.eu.org/members/chiharu/official-photos/2nd-single.jpg){ loading=lazy }
 
     === "一单"
 
-        ![一单公式照](https://res.227wiki.eu.org/photo/chiharu/1st.jpg){ loading=lazy }
+        ![一单公式照](https://res.227wiki.eu.org/members/chiharu/official-photos/1st-single.jpg){ loading=lazy }
     
     === "初次亮相"
 
-        ![初次亮相白裙照](https://res.227wiki.eu.org/photo/chiharu/ChiharuWhiteDress.webp){ loading=lazy }
+        ![初次亮相白裙照](https://res.227wiki.eu.org/members/chiharu/official-photos/debut.webp){ loading=lazy }
 
     --------
 
@@ -77,7 +77,7 @@ template: comment.html
     <b>角色</b> 佐藤丽华
 
     <figure markdown>
-        ![chiharu](/assets/chiharu-sig.svg){ width="100" }
+        ![chiharu](https://res.227wiki.eu.org/members/chiharu/profile/signature.svg){ width="100" }
         <figcaption>签名</figcaption>
     </figure>
     [:fontawesome-brands-twitter:](https://twitter.com/chiharu_okr) 
@@ -162,8 +162,8 @@ const ap = new APlayer({
     audio: [{
         name: 'Voice Sample',
         artist: '千春',
-        url: 'https://res.227wiki.eu.org/audio/voicesample/chiharu/chiharu.mp3',
-        cover: 'https://res.227wiki.eu.org/photo/avatar/graduated/chiharu.jpg'
+        url: 'https://res.227wiki.eu.org/members/chiharu/voice-samples/hibiki.mp3',
+        cover: 'https://res.227wiki.eu.org/members/chiharu/profile/avatars/graduated.jpg'
     }]
 });
 </script>

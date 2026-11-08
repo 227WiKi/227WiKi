@@ -7,11 +7,11 @@ template: comment.html
 !!! general inline end "Live信息"
     === "Menu 1"
 
-        ![](https://res.227wiki.eu.org/photo/live/a2020/1.png){ loading=lazy }
+        ![](https://res.227wiki.eu.org/events/2020-anniversary-live-poster.png){ loading=lazy }
     
     === "Menu 2"
 
-        ![](https://res.227wiki.eu.org/photo/live/a2020/2.png){ loading=lazy }
+        ![](https://res.227wiki.eu.org/events/2020-anniversary-live-image-2.png){ loading=lazy }
 
     --------
 

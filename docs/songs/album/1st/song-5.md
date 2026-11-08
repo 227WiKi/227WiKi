@@ -7,7 +7,7 @@ template: comment.html
 !!! general inline end "歌曲信息"
 
     === "专辑封面"
-        ![](https://res.227wiki.eu.org/photo/songs/album/1st.webp)
+        ![](https://res.227wiki.eu.org/music/albums/1st-album-cover.webp)
     --------
     
     <b>歌曲名称:</b> 喜欢上你是我的自由

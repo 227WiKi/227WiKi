@@ -1,6 +1,6 @@
 <div align="center"> 
 
-  <img src="https://cdn.jsdelivr.net/gh/227WiKi/227WiKi@master/docs/assets/logo.svg"  width= 224 height=153>
+  <img src="https://res.227wiki.eu.org/assets/logo.svg"  width= 224 height=153>
   
   [Github](https://github.com/227WiKi/227WiKi) | [Gitee](https://gitee.com/nananijiwiki/nananiji-wiki)
 
@@ -96,8 +96,8 @@ mkdocs serve
 
 - 默认 URL 规则：
 
-- `active`、`third`：`https://res.227wiki.eu.org/photo/avatar/16th/{slug}.jpg`
-- `graduated`：`https://res.227wiki.eu.org/photo/avatar/graduated/{slug}.jpg`
+- `active`、`third`：`https://res.227wiki.eu.org/members/{slug}/profile/avatars/16th.jpg`
+- `graduated`：`https://res.227wiki.eu.org/members/{slug}/profile/avatars/graduated.jpg`
 
 - 更新流程：
 

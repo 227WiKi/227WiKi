@@ -7,9 +7,9 @@ template: comment.html
 !!! general inline end "歌曲信息"
 
     === "完全生产限定版Type-A"
-        ![完全生产限定版Type-A](/assets/photo/songs/single/2nd-1.jpg)
+        ![完全生产限定版Type-A](https://res.227wiki.eu.org/music/singles/2nd-single-type-a-cover.jpg)
     === "完全生产限定版Type-B"
-        ![完全生产限定版Type-B](/assets/photo/songs/single/2nd-2.jpg)
+        ![完全生产限定版Type-B](https://res.227wiki.eu.org/music/singles/2nd-single-cover.jpg)
     
     <center>:pack-hires: Hi-Res Lossless</center>
     

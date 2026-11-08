@@ -8,22 +8,22 @@ template: comment.html
 !!! general inline end "蒼乃音"
     === "LEAP!Project时期"
 
-        ![LEAP!Project时期照片](https://res.227wiki.eu.org/photo/oto/oto_leap.webp){ loading=lazy }
+        ![LEAP!Project时期照片](https://res.227wiki.eu.org/members/oto/official-photos/photo-1.webp){ loading=lazy }
     === "十一单"
 
-        ![十一单公式照](https://res.227wiki.eu.org/photo/oto/11th.jpg){ loading=lazy }
+        ![十一单公式照](https://res.227wiki.eu.org/members/oto/official-photos/11th-single.jpg){ loading=lazy }
 
     === "十单"
 
-        ![十单公式照](https://res.227wiki.eu.org/photo/oto/10th.webp){ loading=lazy }
+        ![十单公式照](https://res.227wiki.eu.org/members/oto/official-photos/10th-single.webp){ loading=lazy }
 
     === "九单(v2)"
 
-        ![九单公式照(第二版)](https://res.227wiki.eu.org/photo/oto/9th-2.jpg){ loading=lazy }
+        ![九单公式照(第二版)](https://res.227wiki.eu.org/members/oto/official-photos/9th-single-v2.jpg){ loading=lazy }
         
     === "九单(v1)"
 
-        ![九单公式照(第一版)](https://res.227wiki.eu.org/photo/oto/9th.jpg){ loading=lazy }
+        ![九单公式照(第一版)](https://res.227wiki.eu.org/members/oto/official-photos/9th-single-v1.jpg){ loading=lazy }
 
     --------
 

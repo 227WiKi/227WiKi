@@ -7,7 +7,7 @@ template: comment.html
 !!! general inline end "Live信息"
     === "Main Visual"
 
-        ![](https://res.227wiki.eu.org/photo/live/birthdayevent2019/birthday_event.jpg){ loading=lazy }
+        ![](https://res.227wiki.eu.org/events/2019-birthday-event-poster.jpg){ loading=lazy }
 
     --------
 

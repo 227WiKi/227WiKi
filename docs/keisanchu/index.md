@@ -3,7 +3,7 @@ template: comment.html
 title: 22/7 计算中 - 简介
 ---
 
-# <center><div class="header_logo"><img src="/assets/keisanchu.svg" width="336" height="379.5" alt="keisanchu logo"></div></center>
+# <center><div class="header_logo"><img src="https://res.227wiki.eu.org/programs/keisanchu/logo.svg" width="336" height="379.5" alt="keisanchu logo"></div></center>
 <!-- LOGO PLACE HOLDER -->
 
 <style>
@@ -32,7 +32,7 @@ title: 22/7 计算中 - 简介
 
 !!! general inline end "22/7 计算中"
 
-		<a data-caption="海报" data-fancybox="gallery" href="https://nananiji.zzzhxxx.top/assets/keisanchu/keisanchu_poster.jpg!compress"><img loading="lazy" alt="" src="https://nananiji.zzzhxxx.top/assets/keisanchu/keisanchu_poster.jpg!preview" title="" width="100%" /></a>
+		<a data-caption="海报" data-fancybox="gallery" href="https://res.227wiki.eu.org/programs/keisanchu/poster.jpg"><img loading="lazy" alt="" src="https://res.227wiki.eu.org/programs/keisanchu/poster.jpg" title="" width="100%" /></a>
 
 	--------
 
