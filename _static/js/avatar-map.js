@@ -99,10 +99,10 @@
         }
 
         if (status === "graduated") {
-            return "https://res.227wiki.eu.org/photo/avatar/graduated/" + slug + ".jpg";
+            return "https://res.227wiki.eu.org/members/" + slug + "/profile/avatars/graduated.jpg";
         }
 
-        return "https://res.227wiki.eu.org/photo/avatar/16th/" + slug + ".jpg";
+        return "https://res.227wiki.eu.org/members/" + slug + "/profile/avatars/16th.jpg";
     }
 
     function getAvatarUrl(member) {
