@@ -20,58 +20,58 @@ template: comment.html
 
     === "二专"
 
-        ![二专公式照](https://nananiji.zzzhxxx.top/assets/photo/moe/2nd-album.jpg!compress){ loading=lazy }
+        ![二专公式照](https://res.227wiki.eu.org/members/moe/official-photos/2nd-album.jpg){ loading=lazy }
 
     === "十一单"
 
-        ![十一单公式照](https://nananiji.zzzhxxx.top/assets/photo/moe/11th.jpg!compress){ loading=lazy }
+        ![十一单公式照](https://res.227wiki.eu.org/members/moe/official-photos/11th-single.jpg){ loading=lazy }
 
     === "十单"
 
-        ![十单公式照](https://nananiji.zzzhxxx.top/assets/photo/moe/10th.webp!compress){ loading=lazy }
+        ![十单公式照](https://res.227wiki.eu.org/members/moe/official-photos/10th-single.webp){ loading=lazy }
 
     === "九单(v2)"
 
-        ![九单公式照(第二版)](/assets/photo/moe/9th-2.jpg){ loading=lazy }
+        ![九单公式照(第二版)](https://res.227wiki.eu.org/members/moe/official-photos/9th-single-v2.jpg){ loading=lazy }
     === "九单(v1)"
 
-        ![九单公式照(第一版)](/assets/photo/moe/9th.jpg){ loading=lazy }
+        ![九单公式照(第一版)](https://res.227wiki.eu.org/members/moe/official-photos/9th-single.jpg){ loading=lazy }
 
     === "八单"
 
-        ![八单公式照](/assets/photo/moe/8th.jpg){ loading=lazy }
+        ![八单公式照](https://res.227wiki.eu.org/members/moe/official-photos/8th-single.jpg){ loading=lazy }
 
     === "一专"
 
-        ![一专公式照](/assets/photo/moe/1st-album.jpg){ loading=lazy }
+        ![一专公式照](https://res.227wiki.eu.org/members/moe/official-photos/1st-album.jpg){ loading=lazy }
 
     === "七单"
 
-        ![七单公式照](/assets/photo/moe/7th.jpg){ loading=lazy }
+        ![七单公式照](https://res.227wiki.eu.org/members/moe/official-photos/7th-single.jpg){ loading=lazy }
         
     === "六单"
 
-        ![六单公式照](/assets/photo/moe/6th.jpg){ loading=lazy }
+        ![六单公式照](https://res.227wiki.eu.org/members/moe/official-photos/6th-single.jpg){ loading=lazy }
 
     === "五单"
 
-        ![五单公式照](/assets/photo/moe/5th.jpg){ loading=lazy }
+        ![五单公式照](https://res.227wiki.eu.org/members/moe/official-photos/5th-single.jpg){ loading=lazy }
 
     === "四单"
 
-        ![四单公式照](/assets/photo/moe/4th.jpg){ loading=lazy }
+        ![四单公式照](https://res.227wiki.eu.org/members/moe/official-photos/4th-single.jpg){ loading=lazy }
 
     === "三单"
 
-        ![三单公式照](/assets/photo/moe/3rd.jpg){ loading=lazy }
+        ![三单公式照](https://res.227wiki.eu.org/members/moe/official-photos/3rd-single.jpg){ loading=lazy }
 
     === "二单"
 
-        ![二单公式照](/assets/photo/moe/2nd.jpg){ loading=lazy }
+        ![二单公式照](https://res.227wiki.eu.org/members/moe/official-photos/2nd-single.jpg){ loading=lazy }
 
     === "一单"
 
-        ![一单公式照](/assets/photo/moe/1st.jpg){ loading=lazy }
+        ![一单公式照](https://res.227wiki.eu.org/members/moe/official-photos/1st-single.jpg){ loading=lazy }
 
     --------
 

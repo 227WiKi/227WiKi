@@ -14,35 +14,39 @@ template: comment.html
     
     === "八单"
 
-        ![八单公式照](https://res.227wiki.eu.org/photo/urara/8th.jpg){ loading=lazy }
+        ![八单公式照](https://res.227wiki.eu.org/members/urara/official-photos/8th-single.webp){ loading=lazy }
+
+    === "一专"
+
+        ![一专公式照](https://res.227wiki.eu.org/members/urara/official-photos/1st-album.webp){ loading=lazy }
 
     === "七单"
 
-        ![七单公式照](https://res.227wiki.eu.org/photo/urara/7th.jpg){ loading=lazy }
+        ![七单公式照](https://res.227wiki.eu.org/members/urara/official-photos/7th-single.webp){ loading=lazy }
         
     === "六单"
 
-        ![六单公式照](https://res.227wiki.eu.org/photo/urara/6th.jpg){ loading=lazy }
+        ![六单公式照](https://res.227wiki.eu.org/members/urara/official-photos/6th-single.webp){ loading=lazy }
 
     === "五单"
 
-        ![五单公式照](https://res.227wiki.eu.org/photo/urara/5th.jpg){ loading=lazy }
+        ![五单公式照](https://res.227wiki.eu.org/members/urara/official-photos/5th-single.webp){ loading=lazy }
 
     === "四单"
 
-        ![四单公式照](https://res.227wiki.eu.org/photo/urara/4th.jpg){ loading=lazy }
+        ![四单公式照](https://res.227wiki.eu.org/members/urara/official-photos/4th-single.webp){ loading=lazy }
 
     === "三单"
 
-        ![三单公式照](https://res.227wiki.eu.org/photo/urara/3rd.jpg){ loading=lazy }
+        ![三单公式照](https://res.227wiki.eu.org/members/urara/official-photos/3rd-single.webp){ loading=lazy }
 
     === "二单"
 
-        ![二单公式照](https://res.227wiki.eu.org/photo/urara/2nd.jpg){ loading=lazy }
+        ![二单公式照](https://res.227wiki.eu.org/members/urara/official-photos/2nd-single.webp){ loading=lazy }
 
     === "一单"
 
-        ![一单公式照](https://res.227wiki.eu.org/photo/urara/1st.jpg){ loading=lazy }
+        ![一单公式照](https://res.227wiki.eu.org/members/urara/official-photos/1st-single.webp){ loading=lazy }
 
     --------
 

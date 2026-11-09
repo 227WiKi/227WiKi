@@ -8,31 +8,31 @@ template: comment.html
 !!! general inline end "椛島光"
     === "椛島光时期"
 
-        ![椛島光时期公式照](https://nananiji.zzzhxxx.top/assets/photo/mei/hikari.jpg!compress){ loading=lazy }
+        ![椛島光时期公式照](https://res.227wiki.eu.org/members/mei/official-photos/hikari.jpg){ loading=lazy }
 
     === "浅仓唯时期"
 
-        ![浅仓唯时期公式照](https://nananiji.zzzhxxx.top/assets/photo/mei/yui.jpg!compress){ loading=lazy }
+        ![浅仓唯时期公式照](https://res.227wiki.eu.org/members/mei/official-photos/yui.jpg){ loading=lazy }
 
     === "四单"
 
-        ![四单公式照](https://nananiji.zzzhxxx.top/assets/photo/mei/4th.webp!compress){ loading=lazy }
+        ![四单公式照](https://res.227wiki.eu.org/members/mei/official-photos/4th-single.webp){ loading=lazy }
 
     === "三单"
 
-        ![三单公式照](https://nananiji.zzzhxxx.top/assets/photo/mei/3rd.webp!compress){ loading=lazy }
+        ![三单公式照](https://res.227wiki.eu.org/members/mei/official-photos/3rd-single.webp){ loading=lazy }
 
     === "二单"
 
-        ![二单公式照](https://nananiji.zzzhxxx.top/assets/photo/mei/2nd.webp!compress){ loading=lazy }
+        ![二单公式照](https://res.227wiki.eu.org/members/mei/official-photos/2nd-single.webp){ loading=lazy }
 
     === "一单"
 
-        ![一单公式照](https://nananiji.zzzhxxx.top/assets/photo/mei/1st.webp!compress){ loading=lazy }
+        ![一单公式照](https://res.227wiki.eu.org/members/mei/official-photos/1st-single.webp){ loading=lazy }
         
     === "初次亮相"
 
-        ![初次亮相照](https://nananiji.zzzhxxx.top/assets/photo/mei/first.webp!compress){ loading=lazy }
+        ![初次亮相照](https://res.227wiki.eu.org/members/mei/official-photos/debut.webp){ loading=lazy }
 
     --------
 

@@ -27,23 +27,23 @@ template: comment.html
     
     === "二专"
 
-        ![二专公式照](https://nananiji.zzzhxxx.top/assets/photo/luna/2nd-album.jpg!compress){ loading=lazy }
+        ![二专公式照](https://res.227wiki.eu.org/members/luna/official-photos/2nd-album.jpg){ loading=lazy }
 
     === "十一单"
 
-        ![十一单公式照](https://nananiji.zzzhxxx.top/assets/photo/luna/11th.jpg!compress){ loading=lazy }
+        ![十一单公式照](https://res.227wiki.eu.org/members/luna/official-photos/11th-single.jpg){ loading=lazy }
 
     === "十单"
 
-        ![十单公式照](https://nananiji.zzzhxxx.top/assets/photo/luna/10th.webp!compress){ loading=lazy }
+        ![十单公式照](https://res.227wiki.eu.org/members/luna/official-photos/10th-single.webp){ loading=lazy }
 
     === "九单(v2)"
 
-        ![九单公式照(第二版)](/assets/photo/luna/9th-2.jpg){ loading=lazy }
+        ![九单公式照(第二版)](https://res.227wiki.eu.org/members/luna/official-photos/9th-single-v2.jpg){ loading=lazy }
 
     === "九单(v1)"
 
-        ![九单公式照(第一版)](/assets/photo/luna/9th.jpg){ loading=lazy }
+        ![九单公式照(第一版)](https://res.227wiki.eu.org/members/luna/official-photos/9th-single.jpg){ loading=lazy }
 
     --------
 
