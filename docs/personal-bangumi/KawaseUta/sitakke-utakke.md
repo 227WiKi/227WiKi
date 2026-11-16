@@ -107,8 +107,9 @@ title: 河濑诗的家 / 河濑诗的“うたっけ！
 | 28 | 2026年5月22日 |  | [生肉](https://www.bilibili.com/video/BV1bQG86AEsR/){target=_blank} |
 | 29 | 2026年6月9日 |  | [生肉](https://www.bilibili.com/video/BV1AREk63EUh/){target=_blank} |
 | 30 | 2026年7月14日 |  | [生肉](https://www.bilibili.com/video/BV1G4Nh69Ext/){target=_blank} |
-| 31 | 2026年8月7日 | 3期生全员（桧山依子缺席） | [CC机翻](https://www.bilibili.com/video/BV17EuU6oE46/){target=_blank} |
+| 31 | 2026年8月7日 | 3期生全员（桧山依子缺席） | [机翻](https://www.bilibili.com/video/BV1x3aQ6zEZW/){target=_blank} |
 | 32 | 2026年9月1日 |  | [机翻](https://www.bilibili.com/video/BV1Vot56BE2X/){target=_blank} |
+| 33 | 2026年10月2日 |  | [机翻](https://www.bilibili.com/video/BV1AjaQ6KEm6/){target=_blank} |
 
 <!--
 ### 生肉

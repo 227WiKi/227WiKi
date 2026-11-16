@@ -18,6 +18,7 @@
         {{ disc('ロックは死なない', '14th Single', '2025.02.26', 'https://res.227wiki.eu.org/music/singles/14th-single-cover.jpg', '/songs/single/14th/') }}
         {{ disc('あなたでなくちゃ', '15th Single', '2025.07.16', 'https://res.227wiki.eu.org/music/singles/15th-single-cover.jpg', '/songs/single/15th/') }}
         {{ disc('二つの道', '16th Single', '2026.04.22', 'https://res.227wiki.eu.org/music/singles/16th-single-cover.jpg', '/songs/single/16th/') }}
+        {{ disc('CALL & RESPONSE', '17th Single', '2026.10.21', 'https://nanabunnonijyuuni-mobile.com/files/4/17th/227_C%26L_H1_typeA.jpg', '/songs/single/17th/') }}
     </div>
 
 === "专辑 Album"
