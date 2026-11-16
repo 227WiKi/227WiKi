@@ -132,7 +132,7 @@ title: ナナニジRADIO - 简介
 | 103 | 2023.6.17 | 椎名桜月、四条月、雨夜音、清井美那 | [生肉](https://www.bilibili.com/video/BV1Rm4y1Y7cc/){target=_blank} |
 | 104 | 2023.6.27 | 椎名桜月、清井美那 | [生肉](https://www.bilibili.com/video/BV1LX4y1v7gf/){target=_blank} |
 | 105 | 2023.7.7 | 雨夜音、四条月 | [生肉](https://www.bilibili.com/video/BV1Uk4y1K7ny/){target=_blank} |
-| 106 | 2023.7.17 | 椎名桜月、雨夜音 | [生肉](https://www.bilibili.com/video/BV1F8411S7LJ/){target=_blank} |
+| 106 | 2023.7.17 | 椎名桜月、雨夜音 | [中字](https://www.bilibili.com/video/BV1Hi4y1r7H7/){target=_blank} |
 | 107 | 2023.7.27 | 凉花萌、白泽加奈惠 | [生肉](https://www.bilibili.com/video/BV1yu41137Ux/){target=_blank} |
 | 108 | 2023.8.7 | 凉花萌、相川奈央 | [生肉](https://www.bilibili.com/video/BV18V4y1e7Xw/){target=_blank} |
 | 109 | 2023.8.17 | 相川奈央、椎名桜月 | [生肉](https://www.bilibili.com/video/BV1tF41117za/){target=_blank} |
@@ -252,6 +252,10 @@ title: ナナニジRADIO - 简介
 | 223 | 2026.8.17 | 河濑诗、椎名桜月、折本美玲、黒崎ありす | [生肉](https://www.bilibili.com/video/BV1JAhG6mEQX/){target=_blank} |
 | 224 | 2026.8.27 | 麻丘真央、望月りの、橘茉奈 | [生肉](https://www.bilibili.com/video/BV1X4YJ6wEdW/){target=_blank} |
 | 225 | 2026.9.7 | 月城咲舞、椎名桜月、南伊織、吉沢珠璃 | [生肉](https://www.bilibili.com/video/BV1qEYJ6qEcm/){target=_blank} |
+| 226 | 2026.9.17 | 椎名桜月、折本美玲、橘茉奈 | [生肉](https://www.bilibili.com/video/BV1EoHf6REsG){target=_blank} |
+| 227 | 2026.10.7 | 天城サリー、月城咲舞、黒崎ありす、吉沢珠璃 | [生肉](https://www.bilibili.com/video/BV1zdHf6xEtn){target=_blank} |
+| 228 | 2026.10.17 | 天城サリー、椎名桜月、黒崎ありす、橘茉奈 | [生肉](https://www.bilibili.com/video/BV11uHQ6CEc2){target=_blank} |
+| 229 | 2026.10.27 | 望月りの、北原実咲、桧山依子 | [生肉](https://www.bilibili.com/video/BV1NHxT6aEos){target=_blank} |
 
 ## 参考
 

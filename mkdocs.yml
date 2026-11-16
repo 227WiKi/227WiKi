@@ -179,6 +179,7 @@ nav:
                 - 22/7 Live in Taipei 2026: live/2026/2026-live-in-taipei.md
                 - 17thシングル発売記念リリースイベント: live/2026/2026-17th-single-release-event.md
                 - 22/7 ANNIVERSARY LIVE 2026: live/2026/2026-anniversary-live.md
+                - 麻丘真央 卒業コンサート 〜韋駄天の花道〜: live/2026/2026-mao-asaoka-graduation-concert.md
             - 外部活动・拼盘:
                 - LEGEND FES: live/2026/2026-legend-fes.md
                 - GIGA・GIGA SONIC 2026.02.03: live/2026/2026-giga-giga-sonic-february.md
@@ -193,6 +194,10 @@ nav:
                 - AFA Indonesia 2026: live/2026/2026-afa-indonesia.md
                 - GIGA・GIGA SONIC 2026.08.19: live/2026/2026-giga-giga-sonic-august.md
                 - 22/7 よみうりランド ミニライブ: live/2026/2026-yomiuriland-mini-live.md
+                - UNIDOL 2026 Summer: live/2026/2026-unidol-summer.md
+                - 横浜FC HAMABLUEステージ: live/2026/2026-hamablue-stage.md
+                - SPARK 2026 in YAMANAKAKO: live/2026/2026-spark-in-yamanakako.md
+                - 川崎ブレイブサンダース ホームゲーム: live/2026/2026-kawasaki-brave-thunders.md
                 - SHIGA IDOL COLLECTION “PREMIUM”: live/2026/2026-shiga-idol-collection-premium.md
                 - HERO GATE: live/2026/2026-hero-gate.md
   - 歌曲:
@@ -324,6 +329,13 @@ nav:
                 - 乳酸菌たち: songs/single/16th/song-3.md
                 - 蝉は夏を知らない: songs/single/16th/song-4.md
                 - お姉ちゃんだから: songs/single/16th/song-5.md
+          - 'CALL & RESPONSE':
+             - 简介: songs/single/17th/index.md
+             - 歌曲:
+                - 'CALL & RESPONSE': songs/single/17th/song-1.md
+                - '可能星': songs/single/17th/song-2.md
+                - '純情な魔女': songs/single/17th/song-3.md
+                - '絶対愛と必要愛': songs/single/17th/song-4.md
       - 专辑:
           - 名为11的永远的素数:
               - 简介: songs/album/1st/index.md
@@ -390,14 +402,18 @@ nav:
       - Season 3: keisangai/season3.md
 
   - 广播:
-      - 除不尽广播:
+      - 除不尽广播/除不尽广播Plus:
           - 简介: radio/warikirenai/index.md
-      - ナナニジ RADIO:
-          - 简介: radio/fcradio/index.md
-      - くらてん！:
-          - 简介: radio/kuraten/index.md
       - 22/7のTHE CATCH:
           - 简介: radio/the-catch/index.md
+      - くらてん！:
+          - 简介: radio/kuraten/index.md
+      - ナナニジ RADIO:
+          - 简介: radio/fcradio/index.md
+      - '22/7のラジオの時間になったっちゃん':
+          - 简介: radio/rajicchan/index.md
+      - '22/7 Action!':
+          - 简介: radio/action/index.md
 
   - 个人节目/直播:
       - 索引: personal-bangumi/index.md

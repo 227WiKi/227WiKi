@@ -66,8 +66,19 @@ title: 22/7 计算外 - Season 3
 | 19  | 2026.8.8  | 河濑&月城&望月的PR活动！从小田原出发驰向大海!谁会空军!? | [中字](https://www.bilibili.com/video/BV1CC8J6zECk){target=_blank} |
 | 20  | 2026.8.15 | 河濑＆月城舞＆望月，三人在月城的提议下会有何展开！？橘&桧山&南！对于初次开始三人PR活动，网络巨人依子会！？ | [中字](https://www.bilibili.com/video/BV1Zs8Z6KES9){target=_blank} |
 | 21  | 2026.8.22 | 茉奈&依子&南！在江之岛茉欺少年穷的白学现场!?海选排名最靠后三人在湘南学校与舞蹈社联动舞蹈！ | [中字](https://www.bilibili.com/video/BV1tDtf6nEqG){target=_blank} |
-| 22  | 2026.8.29 | 江之岛PR战，田径部突袭接力对决，海边意外邀约 | [机翻](https://www.bilibili.com/video/BV1QU416nEh5){target=_blank} |
-| 23  | 2026.9.5  | mao阿诗rino鎌倉小町突击宣传，三云爱丽丝美玲信号格三人组快乐摸鱼 | [机翻](https://www.bilibili.com/video/BV1TBbL6eEmS){target=_blank} |
+| 22  | 2026.8.29  | 茉奈&依子&南在江之岛PR!和当地学生们进行青春的奔跑!麻丘&河濑&望月在海滩上遇见阳角!说到海之家那就是!? | [中字](https://www.bilibili.com/video/BV1WNYb6MEpQ){target=_blank} |
+| 23  | 2026.9.5   | 麻丘&河濑&望月在镰仓PR!接连遇见粉丝!?然后美玲&爱丽丝&三云也启动！在横滨市场激情摸鱼!? | [中字](https://www.bilibili.com/video/BV1kaeP6iEwT){target=_blank} |
+| 24  | 2026.9.12  | 美玲&爱丽丝&三云 在木棋比赛里PR! 因缘巧合下和选手激烈对决且达成壮举!突然的紧急会议...要告知成员什么!? | [中字](https://www.bilibili.com/video/BV1Lyhb69EQx){target=_blank} |
+| 25  | 2026.9.19  | 前辈成员们在读卖乐园PR!和三四郎一起向众人猛烈宣传!然后在泳池的舞台表演！最后的惊人展开!? | [中字](https://www.bilibili.com/video/BV1kAar6PE7g){target=_blank} |
+| 26  | 2026.9.26  | 相川&月城&茉奈&三云突入横滨红砖仓库!在游乐设施展开对决!望月&美玲&实咲&珠璃在横滨中华街PR!最后是live的占卜 | [中字](https://www.bilibili.com/video/BV1rsH963EPv){target=_blank} |
+| 27  | 2026.10.3  | 茉奈&南为了读卖巨人队开球仪式特训!南的投球令人惊愕!?天城&望月&实咲&爱丽丝前往代代木动画学院！ | [中字](https://www.bilibili.com/video/BV1nuJy6CEo6){target=_blank} |
+| 28  | 2026.10.10 | 麻丘&椎名&月城&望月&实咲&珠璃与三四郎在j联赛和横滨fc的主场体育场PR！ | [中字](https://www.bilibili.com/video/BV1mRnB6rEqj){target=_blank} |
+| 29  | 2026.10.17 | 在B联赛川崎雷霆勇者的主场进行PR!然后后和三四郎一起出演中场休息表演！向PR之旅史上最多人数的观众进行PR! | [中字](https://www.bilibili.com/video/BV19TxE66Eip){target=_blank} |
+| 30  | 2026.10.24 | 相川&麻丘&美玲&依子在横滨时尚设计专门学校一边制作live装备一边pr！然后众人乘着live巴士在东京都内巡游pr！ | [中字](https://www.bilibili.com/video/BV1ZA446uEHa){target=_blank} |
+| 31  | 2026.10.31 | 宣传巴士在都内巡回PR！然后在终点进行最后的冲刺！约半年的pr之旅迎来完结！ | [中字](https://www.bilibili.com/video/BV15CsH6SEUR){target=_blank} |
+| 32  | 2026.11.7  | 回顾半年宣传之旅从富士山到东京国际论坛 | [机翻](https://www.bilibili.com/video/BV1FC4J6fEhH){target=_blank} |
+| 33  | 2026.11.14 | 未公开片段大放送横滨中华街爆食与折本美玲圆梦 | [机翻](https://www.bilibili.com/video/BV1TPsV6LE8n){target=_blank} |
+
 
 
 

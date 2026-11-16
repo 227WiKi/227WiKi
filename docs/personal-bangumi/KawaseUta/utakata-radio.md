@@ -95,6 +95,16 @@ title: 河濑诗的泡沫广播
 | 51 | 2026年8月22日 |  | [机翻](https://www.bilibili.com/video/BV1Vv8U6BEw1/){target=_blank} |
 | 52 | 2026年8月29日 | HANNA | [机翻](https://www.bilibili.com/video/BV1NW4m6jEn8/){target=_blank} |
 | 53 | 2026年9月5日 |  | [机翻](https://www.bilibili.com/video/BV1uBb76GEzy/){target=_blank} |
+| 54 | 2026年9月12日 |  | [机翻](https://www.bilibili.com/video/BV1hJYo6aEEo/){target=_blank} |
+| 55 | 2026年9月19日 |  | [机翻](https://www.bilibili.com/video/BV1bmea6FEb8/){target=_blank} |
+| 56 | 2026年9月26日 |  | [机翻](https://www.bilibili.com/video/BV1zqax6REho/){target=_blank} |
+| 57 | 2026年10月3日 |  | [机翻](https://www.bilibili.com/video/BV1qAHz6FExB/){target=_blank} |
+| 58 | 2026年10月10日 |  | [机翻](https://www.bilibili.com/video/BV1uwp56mE7R/){target=_blank} |
+| 59 | 2026年10月17日 |  | [机翻](https://www.bilibili.com/video/BV1aeJq6VEF7/){target=_blank} |
+| 60 | 2026年10月24日 |  | [机翻](){target=_blank} |
+| 61 | 2026年10月31日 |  | [机翻](https://www.bilibili.com/video/BV1hDxE63EyH/){target=_blank} |
+| 62 | 2026年11月7日 |  | [机翻](https://www.bilibili.com/video/BV13s4H6SEFx/){target=_blank} |
+| 63 | 2026年11月14日 |  | [机翻](https://www.bilibili.com/video/BV1H7sL6VEFM/){target=_blank} |
 
 <!--
 ### 生肉
